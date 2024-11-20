@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 4395,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jacob Zinkula",
+            "title": "Trump's trade restrictions could be good for American semiconductor jobs",
+            "description": "Donald Trump's campaign promise of  tariffs could create semiconductor jobs in the US but lead to higher prices for consumers.",
+            "url": "https://www.businessinsider.com/trumps-tariffs-chips-could-create-more-american-jobs-increase-prices-2024-11",
+            "urlToImage": "https://i.insider.com/6736589e192f52589858a158?width=1200&format=jpeg",
+            "publishedAt": "2024-11-17T09:00:02Z",
+            "content": "President-elect Donald Trump's proposed tariff policies could boost employment in the semiconductor industry.Joe Raedle/Getty Images\r\n<ul><li>The tariffs Donald Trump proposed while campaigning could\u2026 [+5962 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Katherine Tangalakis-Lippert,Kelsey Vlamis,Helen Li",
+            "title": "What needs to go right for Intel, and what happens if it doesn't",
+            "description": "Intel faces challenges after losing its Dow Jones spot to Nvidia. Federal aid under the CHIPS Act could bolster US semiconductor production.",
+            "url": "https://www.businessinsider.com/intel-dow-jones-ai-chip-lag-2024-11",
+            "urlToImage": "https://i.insider.com/6725811c9b3250dbbcebcce1?width=1200&format=jpeg",
+            "publishedAt": "2024-11-11T10:00:02Z",
+            "content": "Nvidia replaced Intel on the Dow Jones Industrial Average.Andrej Sokolow/picture alliance via Getty Images\r\n<ul><li>Lawmakers and Wall Street analysts are worried about the future of the chip giant I\u2026 [+7221 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Asma Khalid",
+            "title": "Trump panned the CHIPS Act. Harris is in Michigan promoting it",
+            "description": "In the waning days of the 2024 presidential election, even the bipartisan bill that's pouring $54 billion into the semiconductor manufacturing industry has become a political issue.",
+            "url": "https://www.npr.org/2024/10/28/nx-s1-5167750/kamala-harris-donald-trump-semiconductor-chips-michigan",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2F7c%2F6bea87f3478baac2d47d152b1bdb%2Fgettyimages-2180640637.jpg",
+            "publishedAt": "2024-10-28T09:00:00Z",
+            "content": "Vice President Harris plans stops in the swing state of Michigan on Monday to highlight big federal investments in manufacturing jobs that former President Donald Trump has recently panned.\r\nThe inve\u2026 [+1186 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tom Carter",
+            "title": "OpenAI is taking a page out of Big Tech's playbook by reportedly building its own chips",
+            "description": "OpenAI is in talks with semiconductor firms Broadcom and TSMC to design and build its own AI chips, sources told Reuters.",
+            "url": "https://www.businessinsider.com/openai-chip-design-tsmc-broadcom-big-tech-nvidia-2024-10",
+            "urlToImage": "https://i.insider.com/66cf8add43b5e59d16b62fe8?width=1200&format=jpeg",
+            "publishedAt": "2024-10-31T11:51:58Z",
+            "content": "OpenAI CEO Sam Altman.Jason Redmond/AFP/Getty Images\r\n<ul><li>OpenAI is reportedly teaming up with Broadcom and TSMC to build custom AI chips, per Reuters.</li><li>It would see OpenAI joining tech gi\u2026 [+4983 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "US Plans $825 Million Investment For New York Semiconductor R&D Facility",
+            "description": "The Biden administration is investing $825 million in a new semiconductor research and development facility in Albany, New York. Reuters reports: The New York facility will be expected to drive innovation in EUV technology, a complex process necessary to make\u2026",
+            "url": "https://yro.slashdot.org/story/24/11/01/210206/us-plans-825-million-investment-for-new-york-semiconductor-rd-facility",
+            "urlToImage": "https://a.fsdn.com/sd/topics/government_64.png",
+            "publishedAt": "2024-11-01T21:30:00Z",
+            "content": "Semiconductor lithography was invented in the US in the 50's, and we abandoned development in the field in the 90's, unable to compete with overseas companies who were investing way more into next ge\u2026 [+339 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Thomas Maxwell",
+            "title": "Intel to Beleaguered Staffers: Ok, You Can Have Office Coffee Again",
+            "description": "How about pizza parties next?",
+            "url": "https://gizmodo.com/intel-to-beleaguered-staffers-ok-you-can-have-office-coffee-again-2000522231",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/GettyImages-2178013764.jpg",
+            "publishedAt": "2024-11-08T20:55:04Z",
+            "content": "It\u2019s safe that say that Intel has seen better days. The chip maker, once a dominant force in Silicon Valley, has missed out on multiple innovation cycles in tech and finds itself trailing behind comp\u2026 [+3511 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Karen Freifeld and Fanny Potkin",
+            "title": "TSMC suspended shipments to China firm after chip found on Huawei processor, sources say",
+            "description": "Taiwan Semiconductor Manufacturing Company suspended shipments to China-based chip designer Sophgo after a chip it made was found on a Huawei AI processor...",
+            "url": "https://www.yahoo.com/tech/tsmc-suspended-shipments-china-firm-150219938.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/f492d9e9d406c29529c8344d9f8f9bbe",
+            "publishedAt": "2024-10-26T15:02:19Z",
+            "content": "By Karen Freifeld and Fanny Potkin\r\n(Reuters) - Taiwan Semiconductor Manufacturing Company suspended shipments to China-based chip designer Sophgo after a chip it made was found on a Huawei AI proces\u2026 [+3540 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Is Taiwan Semiconductor Manufacturing Company Limited (TSM) the Stock With the Lowest Short Interest to Buy?",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9fbdf50f-38a1-44a8-8f5f-c10fc9b2ab28",
+            "urlToImage": null,
+            "publishedAt": "2024-10-20T00:03:19Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "AAMER MADHANI Associated Press",
+            "title": "Harris slams House speaker for suggesting GOP would cut federal semiconductor aid",
+            "description": "Kamala Harris is criticizing House Speaker Mike Johnson for suggesting Republicans might cut government subsidies for semiconductor manufacturing",
+            "url": "https://abcnews.go.com/Business/wireStory/harris-slams-house-speaker-suggesting-gop-cut-federal-115424321",
+            "urlToImage": "https://i.abcnewsfe.com/a/1201b035-a867-4e38-95d7-0c1a774cb802/wirestory_437e0faf54c19bee5944650166383bfb_16x9.jpg?w=1600",
+            "publishedAt": "2024-11-02T15:42:20Z",
+            "content": "MILWAUKEE -- MILWAUKEE (AP) Kamala Harris on Saturday criticized House Speaker Mike Johnson for suggesting that Republicans might cut government subsidies for semiconductor manufacturing as she and R\u2026 [+3438 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Huileng Tan,Beatrice Nolan",
+            "title": "TSMC chips reportedly ended up at Huawei. It raises concerns about 'shadow networks' bypassing US sanctions.",
+            "description": "TSMC and other chipmakers are barred from doing business with Huawei without exemptions from the US government.",
+            "url": "https://www.businessinsider.com/tsmc-chips-huawei-export-controls-supply-chain-2024-10",
+            "urlToImage": "https://i.insider.com/662137ed10c6b0cde5f0ac10?width=1024&format=jpeg",
+            "publishedAt": "2024-10-24T16:50:16Z",
+            "content": "Taiwan Semiconductor Manufacturing Company's customers may see production delays as the chip giant reels from a powerful earthquake on the island.Chiang Ying-ying/AP\r\n<ul><li>TSMC halted shipments to\u2026 [+5397 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Mariella Moon",
+            "title": "Arm cancels Qualcomm's license to use its chip design standards",
+            "description": "Arm has taken its feud with Qualcomm to the next level, two years after filing a lawsuit against its former close partner. According to Bloomberg, the British semiconductor company has canceled the architecture license allowing Qualcomm to use its intellectua\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_49ede2b3-088b-42df-8dde-5e90f6c7d8f1",
+            "urlToImage": null,
+            "publishedAt": "2024-10-23T12:30:31Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Maya Posch",
+            "title": "A Brief History of Cyrix, or How to Get Sued By Intel a Lot",
+            "description": "In a new installment on computer history, [Bradford Morgan White] takes us through the sordid history of Cyrix, as this plucky little company created the best math co-processors (FasMath) and \u2026read more",
+            "url": "https://hackaday.com/2024/11/12/a-brief-history-of-cyrix-or-how-to-get-sued-by-intel-a-lot/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2024/09/Cyrix_TX486DLC_Cx486DLC_CPU.jpg",
+            "publishedAt": "2024-11-12T19:30:29Z",
+            "content": "In a new installment on computer history, [Bradford Morgan White] takes us through the sordid history of Cyrix, as this plucky little company created the best math co-processors (FasMath) and then a \u2026 [+1166 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ryan Hogg",
+            "title": "$2 trillion Norway oil fund CEO Nicolai Tangen says AI stock boom has created a concentration risk \u2018we have never seen before\u2019",
+            "description": "Nicolai Tangen\u2019s $2 trillion oil fund holds billions in AI companies, but he thinks they\u2019re emerging as a key risk area.",
+            "url": "https://finance.yahoo.com/news/2-trillion-norway-oil-fund-094300002.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mXaFT44PKxB1ij8qez9FzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/a5f638c06533fda56d248f5396e2ed20",
+            "publishedAt": "2024-10-21T09:43:00Z",
+            "content": "The boss of Norways $2 trillion sovereign oil fund has fired a warning to investors who have won big on the AI stock market boom, as he cautioned that we are heading for a period of low returns.\r\nNic\u2026 [+2315 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Juan Carlos L\u00f3pez",
+            "title": "EEUU est\u00e1 consiguiendo torpedear la fabricaci\u00f3n de chips para IA en China. Lo confirma el codirector general de SMIC",
+            "description": "SMIC (Semiconductor Manufacturing International Corp), el mayor fabricante chino de semiconductores con una cuota en el mercado mundial de alrededor del 5%, tiene actualmente la capacidad de fabricar circuitos integrados de 7 nm. Y probablemente tambi\u00e9n de 5 \u2026",
+            "url": "https://www.xataka.com/empresas-y-economia/eeuu-esta-consiguiendo-torpedear-fabricacion-chips-para-ia-china-confirma-codirector-general-smic",
+            "urlToImage": "https://i.blogs.es/e9b53f/smic-ap/840_560.jpeg",
+            "publishedAt": "2024-11-11T16:30:02Z",
+            "content": "SMIC (Semiconductor Manufacturing International Corp), el mayor fabricante chino de semiconductores con una cuota en el mercado mundial de alrededor del 5%, tiene actualmente la capacidad de fabricar\u2026 [+2969 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Karen Freifeld",
+            "title": "Exclusive-TSMC told US of chip in Huawei product after TechInsights finding, source says",
+            "description": "(Reuters) -Taiwan Semiconductor Manufacturing Company notified the U.S. that one of its chips had been found in a Huawei product after tech research firm...",
+            "url": "https://ca.finance.yahoo.com/news/exclusive-tsmc-told-us-chip-152440258.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/4f9b49b18c2da61cfd9d598ac72ba38a",
+            "publishedAt": "2024-10-22T15:24:40Z",
+            "content": "By Karen Freifeld\r\n(Reuters) -Taiwan Semiconductor Manufacturing Company notified the U.S. that one of its chips had been found in a Huawei product after tech research firm TechInsights took apart th\u2026 [+1571 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Gavin Bonshor",
+            "title": "China ramps up semiconductor patents amid US export restrictions",
+            "description": "AI innovation and geopolitical tensions push Middle Kingdom filings up 42%\nChina's semiconductor industry is speeding up in response to US export controls, according to research by a specialist in intellectual property.\u2026",
+            "url": "https://www.theregister.com/2024/10/21/global_semiconductor_patents_surge/",
+            "urlToImage": "https://regmedia.co.uk/2021/10/28/shutterstock_china_tech.jpg",
+            "publishedAt": "2024-10-21T18:30:09Z",
+            "content": "China's semiconductor industry is speeding up in response to US export controls, according to research by a specialist in intellectual property.\r\nAccording to IP firm Mathys &amp; Squire, semiconduct\u2026 [+3363 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "jerry.hildenbrand@futurenet.com (Jerry Hildenbrand)",
+            "title": "What the heck is going on at TSMC?",
+            "description": "TSMC got caught up in the U.S. battle with China and it appears to have done nothing wrong.",
+            "url": "https://www.androidcentral.com/phones/tsmc-us-investigation-breakdown",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/FQFii5BwHLdxcL48JME658-1200-80.jpg",
+            "publishedAt": "2024-11-02T15:00:00Z",
+            "content": "TSMC is the most important tech company of them all. It may not be the wealthiest or the most recognizable, but the company manufactures the parts that make most of your tech stuff possible. TSMC is \u2026 [+4651 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Ultraprecise method of aligning 3D semiconductor chips invented",
+            "description": "Researchers have invented a new way to align 3D semiconductor chips by shining a laser through concentric metalenses patterned on the chips to produce a hologram. Their work can help to lower the cost of producing 2D semiconductor chips, enable 3D photonic an\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/10/241028132055.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-10-28T17:20:55Z",
+            "content": "Researchers at the University of Massachusetts Amherst have invented a new way to align 3D semiconductor chips by shining a laser through concentric metalenses patterned on the chips to produce a hol\u2026 [+3539 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ghazal Ahmed",
+            "title": "Arm Holdings plc (ARM) Teams Up with Industry Leaders to Launch Advanced AI CPU Chiplet Platform for Cloud and HPC Applications",
+            "description": "We recently compiled a list of the 20 Trending AI Stocks on Latest News and Ratings. In this article, we are going to take a look at where Arm Holdings plc (...",
+            "url": "https://finance.yahoo.com/news/arm-holdings-plc-arm-teams-153946418.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/N_H2vOfla2ae8ZVWoyhsxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/252279fc096ea2313ad64fa32f556407",
+            "publishedAt": "2024-10-19T15:39:46Z",
+            "content": "We recently compiled a list of the 20 Trending AI Stocks on Latest News and Ratings.\u00a0In this article, we are going to take a look at where Arm Holdings plc (NASDAQ:ARM) stands against the other trend\u2026 [+7319 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Laura Dobberstein",
+            "title": "GlobalFoundries fined $500,000 for violating US sanctions",
+            "description": "Company fessed up, got off light, says US Commerce Department\nThe US Department of Commerce is issuing a half a million dollar penalty against US-based semiconductor wafer manufacturer GlobalFoundries for violating sanctions and sending chips to SJ Semiconduc\u2026",
+            "url": "https://www.theregister.com/2024/11/04/globalfoundries_blacklist_violation/",
+            "urlToImage": "https://regmedia.co.uk/2022/03/24/globalfoundries_shutterstock.jpg",
+            "publishedAt": "2024-11-04T09:30:11Z",
+            "content": "The US Department of Commerce is issuing a half a million dollar penalty against US-based semiconductor wafer manufacturer GlobalFoundries for violating sanctions and sending chips to SJ Semiconducto\u2026 [+2535 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "PFAS removal process aims to stamp out pollution ahead of semiconductor industry growth",
+            "description": "A study is the first to describe an electrochemical strategy to capture, concentrate and destroy mixtures of diverse chemicals known as PFAS -- including the increasingly prevalent ultra-short-chain PFAS -- from water in a single process. This new development\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/11/241107160749.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-11-07T21:07:49Z",
+            "content": "A University of Illinois Urbana-Champaign study is the first to describe an electrochemical strategy to capture, concentrate and destroy mixtures of diverse chemicals known as PFAS -- including the i\u2026 [+3540 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Juan Carlos L\u00f3pez",
+            "title": "China no tiene todav\u00eda litograf\u00edas de vanguardia. Aun as\u00ed, se est\u00e1 haciendo de oro con los nodos maduros",
+            "description": "La mayor parte de los circuitos integrados que podemos encontrar dentro de las fronteras de China ha sido fabricada en el extranjero. Y el Gobierno de Xi Jinping est\u00e1 decidido a cambiarlo como una parte importante de su estrategia para alcanzar la independenc\u2026",
+            "url": "https://www.xataka.com/empresas-y-economia/china-no-tiene-todavia-litografias-vanguardia-asi-se-esta-haciendo-oro-nodos-maduros",
+            "urlToImage": "https://i.blogs.es/fbe973/chips-ap/840_560.jpeg",
+            "publishedAt": "2024-11-18T10:31:28Z",
+            "content": "La mayor parte de los circuitos integrados que podemos encontrar dentro de las fronteras de China ha sido fabricada en el extranjero. Y el Gobierno de Xi Jinping est\u00e1 decidido a cambiarlo como una pa\u2026 [+3806 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Brandon Vigliarolo",
+            "title": "TSMC's US operations threatened with employee discrimination class action",
+            "description": "Allegedly it's hard to get ahead at the chipmaker unless you speak Mandarin\nTaiwan Semiconductor Manufacturing Company (TSMC) has been accused of \u201cpervasive discrimination\u201d against some of its workers in the USA.\u2026",
+            "url": "https://www.theregister.com/2024/11/13/tsmc_usa_putative_employee_lawsuit/",
+            "urlToImage": "https://regmedia.co.uk/2022/10/17/tsmcmobile.jpg",
+            "publishedAt": "2024-11-13T22:27:42Z",
+            "content": "Taiwan Semiconductor Manufacturing Company (TSMC) has been accused of pervasive discrimination against some of its workers in the USA.\r\nA similar accusation was levelled in August by a single former \u2026 [+4619 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "Nvidia to replace Intel in Dow Jones Industrial Average",
+            "description": "Once the dominant force in chipmaking, Intel has in recent years ceded its manufacturing edge to rival TSMC and missed out on the generative artificial...",
+            "url": "https://finance.yahoo.com/news/nvidia-replace-intel-dow-jones-212628000.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/ada2ae47fdb80f7b09e8624b9e81da9a",
+            "publishedAt": "2024-11-01T21:26:28Z",
+            "content": "(Reuters) - Intel will lose its spot in the Dow Jones Industrial Average after a 25-year run to Nvidia, S&amp;P Dow Jones Indices said on Friday, the latest blow to the struggling chipmaker that was \u2026 [+1696 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "techkritiko@gmail.com (Jay Bonggolto)",
+            "title": "Future Pixel phone chips could leap ahead with the same process nodes as iPhones",
+            "description": "Google's Tensor processors for the Pixel 10 and 11 are reportedly set to make a big leap with TSMC's 3nm nodes.",
+            "url": "https://www.androidcentral.com/phones/future-pixel-phone-chips-could-leap-ahead-with-the-same-process-nodes-as-iphones",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/GDPQjBRpXvvndJVVE2459P-1200-80.jpg",
+            "publishedAt": "2024-10-24T12:32:09Z",
+            "content": "What you need to know\r\n<ul><li>A new report suggests that the Pixel 10 and 11, expected in 2025 and 2026, will feature new Tensor G5 and G6 chips made by TSMC using advanced 3nm N3E process nodes.</l\u2026 [+2394 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Javier Marquez",
+            "title": "Se supone que Huawei tiene prohibido usar chips de TSMC: un hallazgo sugiere que ha esquivado las restricciones de EEUU",
+            "description": "Huawei fue una de las primeras compa\u00f1\u00edas afectadas por la guerra comercial entre Estados Unidos y China. En agosto de 2020, la firma con sede en Shenzhen fue alcanzada por los controles de exportaci\u00f3n del Departamento de Comercio, una medida le ha impedido de\u2026",
+            "url": "https://www.xataka.com/empresas-y-economia/se-supone-que-huawei-tiene-prohibido-usar-chips-tsmc-hallazgo-sugiere-que-ha-esquivado-restricciones-eeuu",
+            "urlToImage": "https://i.blogs.es/317e86/huawei-tsmc-1/840_560.jpeg",
+            "publishedAt": "2024-10-23T23:01:41Z",
+            "content": "Huawei fue una de las primeras compa\u00f1\u00edas afectadas por la guerra comercial entre Estados Unidos y China. En agosto de 2020, la firma con sede en Shenzhen fue alcanzada por los controles de exportaci\u00f3\u2026 [+3023 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Laura Dobberstein",
+            "title": "Equinix to pad Thai coffers with $500 million investment",
+            "description": "Another Asian country declares ambition to be a tech hub\nThailand has won a pair of high profile investments that boost its ambition to become a hub for datacenters and semiconductor manufacturing.\u2026",
+            "url": "https://www.theregister.com/2024/10/31/thailand_tech_hub/",
+            "urlToImage": "https://regmedia.co.uk/2016/07/20/asia_9376983475.jpg",
+            "publishedAt": "2024-10-31T00:33:06Z",
+            "content": "Thailand has won a pair of high profile investments that boost its ambition to become a hub for datacenters and semiconductor manufacturing.\r\nOne of these is a ten-year long 16.5 billion baht ($490 m\u2026 [+2180 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Laura Dobberstein",
+            "title": "AI chip startup Tenstorrent to train Japan's engineers in $50M government deal",
+            "description": "Government wants to make semiconductors big on home turf again\nJapan has asked AI chip startup Tenstorrent to train up to 200 chip designers from the country at its US offices over the course of five years to help inject new blood into Japan\u2019s semiconductor i\u2026",
+            "url": "https://www.theregister.com/2024/11/07/tenstorrent_japan_training/",
+            "urlToImage": "https://regmedia.co.uk/2023/11/27/shutterstock_train.jpg",
+            "publishedAt": "2024-11-07T01:27:13Z",
+            "content": "Japan has asked AI chip startup Tenstorrent to train up to 200 chip designers from the country at its US offices over the course of five years to help inject new blood into Japans semiconductor indus\u2026 [+2340 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Technicshistory.com"
+            },
+            "author": "View all posts by technicshistory",
+            "title": "A Craving for Calculation",
+            "description": "In 1965, Patrick Haggerty, president of Texas Instruments (TI), wanted to make a new bet on the future of electronics. In that future, he believed, in a theme he frequently expounded, the use of el\u2026",
+            "url": "https://technicshistory.com/2024/11/03/a-craving-for-calculation/",
+            "urlToImage": "https://technicshistory.com/wp-content/uploads/2024/11/intel_c4004.jpg?w=1200",
+            "publishedAt": "2024-11-03T01:54:43Z",
+            "content": "In 1965, Patrick Haggerty, president of Texas Instruments (TI), wanted to make a new bet on the future of electronics. In that future, he believed, in a theme he frequently expounded, the use of elec\u2026 [+30138 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Gavin Bonshor",
+            "title": "AI's energy appetite has Taiwan reconsidering the nuclear option",
+            "description": "Premier indicates possible shift in post-Fukushima policy\nThe global surge in AI is placing unprecedented pressure on energy resources, with chipmakers such as TSMC consuming vast amounts of electricity to meet growing demand for advanced silicon. In response\u2026",
+            "url": "https://www.theregister.com/2024/10/22/taiwans_ai_chip_boom_sparks/",
+            "urlToImage": "https://regmedia.co.uk/2023/10/19/shutterstock_nuclear_power_plants_cooling_towers.jpg",
+            "publishedAt": "2024-10-22T13:30:08Z",
+            "content": "The global surge in AI is placing unprecedented pressure on energy resources, with chipmakers such as TSMC consuming vast amounts of electricity to meet growing demand for advanced silicon. In respon\u2026 [+2717 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phandroid - News for Android"
+            },
+            "author": "Mike Viray",
+            "title": "Could We See New Samsung AR Hardware Soon?",
+            "description": "Samsung might tease an upcoming AR headset sometime next year.\nThe post Could We See New Samsung AR Hardware Soon? appeared first on Phandroid.",
+            "url": "https://phandroid.com/2024/11/18/could-we-see-new-samsung-ar-hardware-soon/",
+            "urlToImage": "https://phandroid.com/wp-content/uploads/2017/02/Samsung-Gear-VR-2017.jpg",
+            "publishedAt": "2024-11-18T21:07:24Z",
+            "content": "While Samsung has been known to dabble in AR hardware before, it\u2019s been quite some time now since we saw a fully-dedicated AR product from the South Korean tech giant. That might all change soon thou\u2026 [+1114 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "US finalises restrictions on AI, semiconductor investments in China",
+            "description": "Treasury Department says curbs will ensure US investment does not advance technologies that threaten national security.",
+            "url": "https://www.aljazeera.com/economy/2024/10/29/us-finalises-restrictions-on-ai-semiconductor-investments-in-china",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/AP23173420568488-1730163290.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-10-29T01:51:54Z",
+            "content": "The United States has finalised rules that limit investments in critical technology sectors in China such as artificial intelligence on national security grounds, the Treasury Department has announce\u2026 [+1829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "kevinokemwa@outlook.com (Kevin Okemwa)",
+            "title": "Sam Altman believes AGI is \"achievable with current hardware\" \u2014 but it could absurdly require \"$7 trillion and many years to build 36 semiconductor plants and additional data centers\"",
+            "description": "In a recent Reddit AMA (ask me anything) session, OpenAI CEO Sam Altman and other top executives discussed intricate details about the company's future and upcoming products and services.",
+            "url": "https://www.windowscentral.com/software-apps/sam-altman-believes-agi-is-achievable-with-current-hardware",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/3gcWqixeFoSYT5sbAKysn-1200-80.jpg",
+            "publishedAt": "2024-11-04T10:51:18Z",
+            "content": "What you need to know\r\n<ul><li>OpenAI top executives, including CEO Sam Altman and CPO Kevin Weil, recently held a Reddit AMA (ask me anything) session, discussing the company's future.</li><li>Sam A\u2026 [+4181 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Going chiral: Breakthrough in synthesizing carbon nanotubes with precise chirality",
+            "description": "Researchers have achieved a significant breakthrough in the synthesis of carbon nanotubes, also known as the 'king of nanomaterials.'",
+            "url": "https://www.sciencedaily.com/releases/2024/10/241022132903.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-10-22T17:29:03Z",
+            "content": "Researchers have achieved a significant breakthrough in the synthesis of carbon nanotubes (CNTs) by developing a novel catalyst that allows for precise control over their atomic arrangement, known as\u2026 [+2017 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Breakthrough in energy-efficient avalanche-based amorphization could revolutionize data storage",
+            "description": "Researchers have developed a new method for disrupting the crystal structure of a semiconductor that requires as little as one billion times less power density. This advancement could unlock wider applications for phase-change memory (PCM) -- a promising memo\u2026",
+            "url": "https://www.sciencedaily.com/releases/2024/11/241106132133.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-11-06T18:21:33Z",
+            "content": "The atoms of amorphous solids like glass have no ordered structure; they arrange themselves randomly, like scattered grains of sand on a beach. Normally, making materials amorphous -- a process known\u2026 [+5727 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Erin Hale",
+            "title": "For Taiwan\u2019s crucial chip industry, both Trump and Harris bring risks",
+            "description": "Taiwan\u2019s semiconductor sector is watching US election closely amid geopolitical rivalry between Washington and Beijing.",
+            "url": "https://www.aljazeera.com/economy/2024/10/29/for-taiwans-crucial-chip-industry-both-trump-and-harris-bring-risks",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/GettyImages-2178296658-1729576456.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-10-29T00:02:03Z",
+            "content": "Taipei, Taiwan For engineers working in Taiwans semiconductor industry, the past few years have been difficult.\r\nThe United Statess efforts to curb the growing power of China, Taiwans neighbour, by c\u2026 [+10427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Andrijan M\u00f6cker",
+            "title": "heise+ | AirTag-Netzwerk ohne Apple nutzen",
+            "description": "Man kann Apples \"Wo ist?\"-Netzwerk auch ohne teure AirTags nutzen \u2013 etwas Bastelwillen und Linux-Wissen ist vorausgesetzt. Wir zeigen, was Sie daf\u00fcr brauchen.",
+            "url": "https://www.heise.de/ratgeber/AirTag-Netzwerk-ohne-Apple-nutzen-9981247.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/8/9/1/6/8/holyiot_127666_amo_extra_kahlel_digi-8c59907922f95518.jpg",
+            "publishedAt": "2024-10-21T10:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nGlaubt man den Statistiken des Bitkom e.V., gibt es derzeit rund 68,5 Millionen Smartphonenutzer in Deutschland. Davon besitzen 30 Prozent also etwa 20 Millionen ein iPhone. Hinzu\u2026 [+1217 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Chemistry World"
+            },
+            "author": "Anthony King",
+            "title": "The race to commercialise nuclear-powered batteries",
+            "description": "\u2018Radiovoltaic\u2019 devices can deliver long-lasting power to pacemakers, planetary rovers and more",
+            "url": "https://www.chemistryworld.com/news/the-race-to-commercialise-nuclear-powered-batteries/4020505.article",
+            "urlToImage": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/7/2/0/537720_jssabe423f2_hr_331963.jpg",
+            "publishedAt": "2024-11-12T18:39:23Z",
+            "content": "Nuclear batteries can provide long-lasting power to pacemakers, sensors embedded in buildings and bridges, and even planetary rovers. While the technology has existed for decades, recent advances mea\u2026 [+9176 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Britney Nguyen",
+            "title": "TSMC will get some of its Chips Act money before Trump takes office",
+            "description": "The Biden administration has finalized Taiwan Semiconductor Manufacturing Company\u2019s (TSM) Chips Act incentive funding to support its U.S. fabrication sites.Read more...",
+            "url": "https://qz.com/tsmc-chips-act-funding-arizona-trump-administration-1851700185",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/2b8a4bcacdbdeba8f64cd0b2f65573af.jpg",
+            "publishedAt": "2024-11-15T15:34:00Z",
+            "content": "In This Story\r\nThe Biden administration has finalized Taiwan Semiconductor Manufacturing Companys (TSM-1.00%\r\n) Chips Act incentive funding to support its U.S. fabrication sites.\r\nThe Taiwanese chipm\u2026 [+3030 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Simon Sharwood",
+            "title": "India, Nvidia, discuss jointly developed AI chip",
+            "description": "Current capabilities mean local manufacturing is not likely \u2013 but a chip tuned to Indian needs could work\nIndia's government is reportedly in talks with Nvidia to co-develop AI silicon.\u2026",
+            "url": "https://www.theregister.com/2024/10/22/india_nvidia_collaboration/",
+            "urlToImage": "https://regmedia.co.uk/2022/04/29/shutterstock_india_flag_silicon.jpg",
+            "publishedAt": "2024-10-22T04:26:09Z",
+            "content": "India's government is reportedly in talks with Nvidia to co-develop AI silicon.\r\nLocal outlet the Economic Times on Tuesday quoted minister for electronics and IT Ashwini Vaishnaw as confirming \"Yes,\u2026 [+1699 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abortretry.fail"
+            },
+            "author": "Bradford Morgan White",
+            "title": "A Brief History of Cyrix",
+            "description": "Litigation: it's the American way",
+            "url": "https://www.abortretry.fail/p/a-brief-history-of-cyrix",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd4b7451-587f-41c7-ab2f-52c4d1990df8_2605x2307.webp",
+            "publishedAt": "2024-11-03T20:47:56Z",
+            "content": "Tom Brightman and Jerry Rogers were working for Texas Instruments in the second half of the 1980s. The two were apparently not content to work for others forever, and they had a few product ideas tha\u2026 [+14806 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Milana Vinn",
+            "title": "Exclusive-Silver Lake, Bain prepare to bid for multi-billion stake in Intel's Altera unit, sources say",
+            "description": "Buyout firms Silver Lake and Bain Capital are among the potential suitors that are likely to compete to acquire a minority stake in Altera, the programmable ...",
+            "url": "https://finance.yahoo.com/news/exclusive-silver-lake-bain-prepare-203717072.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/deb5d4e04c3ddde3180089a126f8d15c",
+            "publishedAt": "2024-11-04T20:37:17Z",
+            "content": "By Milana Vinn\r\n(Reuters) - Buyout firms Silver Lake and Bain Capital are among the potential suitors that are likely to compete to acquire a minority stake in Altera, the programmable chips business\u2026 [+2965 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "South China Morning Post",
+            "title": "Chinese state-owned nuclear company claims breakthrough with radiation detection chip",
+            "description": "A Chinese state-owned nuclear company said it has started mass production of the world's first chip that can detect X-ray and gamma radiation, in the latest ...",
+            "url": "https://finance.yahoo.com/news/chinese-state-owned-nuclear-company-093000692.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TOnNNQYZCtzwAVPPgGGIow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTk-/https://media.zenfs.com/en/south_china_morning_post_us_228/ddd11254cba0f5f121107a8719141c2f",
+            "publishedAt": "2024-10-28T09:30:00Z",
+            "content": "A Chinese state-owned nuclear company said it has started mass production of the world's first chip that can detect X-ray and gamma radiation, in the latest sign of China's unrelenting efforts to see\u2026 [+2962 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "editorial-team@simplywallst.com (Simply Wall St)",
+            "title": "Be Wary Of Intel (NASDAQ:INTC) And Its Returns On Capital",
+            "description": "To find a multi-bagger stock, what are the underlying trends we should look for in a business? Amongst other things...",
+            "url": "https://finance.yahoo.com/news/wary-intel-nasdaq-intc-returns-120150504.html",
+            "urlToImage": "https://media.zenfs.com/en/simply_wall_st__316/fc61d4f3814d424f33183aeae1127c38",
+            "publishedAt": "2024-10-24T12:01:50Z",
+            "content": "To find a multi-bagger stock, what are the underlying trends we should look for in a business? Amongst other things, we'll want to see two things; firstly, a growing return on capital employed (ROCE)\u2026 [+2972 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Milana Vinn",
+            "title": "Exclusive-Silver Lake, Bain prepare to bid for multi-billion stake in Intel's Altera unit, sources say",
+            "description": "Buyout firms Silver Lake and Bain Capital are among the potential suitors that are likely to compete to acquire a minority stake in Altera, the programmable ...",
+            "url": "https://finance.yahoo.com/news/exclusive-silver-lake-bain-prepare-203717834.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/deb5d4e04c3ddde3180089a126f8d15c",
+            "publishedAt": "2024-11-04T20:37:17Z",
+            "content": "By Milana Vinn\r\n(Reuters) - Buyout firms Silver Lake and Bain Capital are among the potential suitors that are likely to compete to acquire a minority stake in Altera, the programmable chips business\u2026 [+2965 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Britney Nguyen",
+            "title": "TSMC reports early success at first U.S. chip plant",
+            "description": "Taiwan Semiconductor Manufacturing Company\u2019s (TSM) first U.S. chip fabrication facility is reportedly ahead of some of the ones back home.Read more...",
+            "url": "https://qz.com/tsmc-us-chip-fab-ahead-comparable-taiwan-arizona-apple-1851680813",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c1960930b78d4e6238d42db59ecc0c38.jpg",
+            "publishedAt": "2024-10-24T21:46:00Z",
+            "content": "In This Story\r\nTaiwan Semiconductor Manufacturing Companys (TSM-1.46%\r\n) first U.S. chip fabrication facility is reportedly ahead of some of the ones back home.\r\nThe companys chip production yields o\u2026 [+2065 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "Oksana_Nedvigina (Online patent)",
+            "title": "\u0425\u043b\u043e\u0440\u0438\u0441\u0442\u044b\u0439 \u0432\u043e\u0434\u043e\u0440\u043e\u0434 \u0434\u043b\u044f \u043f\u043e\u043b\u0443\u043f\u0440\u043e\u0432\u043e\u0434\u043d\u0438\u043a\u043e\u0432: \u043a\u0440\u0430\u0442\u043a\u0438\u0439 \u043f\u0430\u0442\u0435\u043d\u0442\u043d\u044b\u0439 \u0430\u043d\u0430\u043b\u0438\u0437",
+            "description": "\u041c\u044b \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u043c \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c \u043e \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u0430\u0445, \u0438\u0445 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0438 \u0432 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0435 \u0438, \u0440\u0430\u0437\u0443\u043c\u0435\u0435\u0442\u0441\u044f, \u043f\u0430\u0442\u0435\u043d\u0442\u043e\u043c \u0430\u0441\u043f\u0435\u043a\u0442\u0435. \u041d\u0430 \u044d\u0442\u043e\u0442 \u0440\u0430\u0437 \u0440\u0435\u0447\u044c \u043f\u043e\u0439\u0434\u0435\u0442 \u043e \u0433\u0430\u0437\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u043e\u043c HCl \u2014 \u0445\u043b\u043e\u0440\u0438\u0434\u0435 \u0432\u043e\u0434\u043e\u0440\u043e\u0434\u0430, \u0445\u043b\u043e\u0440\u0438\u0441\u0442\u043e\u043c \u0432\u043e\u0434\u043e\u0440\u043e\u0434\u0435 \u0438\u043b\u0438 \u0445\u043b\u043e\u0440\u043e\u0432\u043e\u0434\u043e\u0440\u043e\u0434. \u041f\u0440\u0438 \u043e\u0431\u044b\u0447\u043d\u044b\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445 \u044d\u0442\u043e \u0431\u0435\u0441\u0446\u0432\u0435\u0442\u043d\u044b\u0439 \u0433\u2026",
+            "url": "https://habr.com/ru/companies/onlinepatent/articles/856486/#post-content-body",
+            "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/0f9/4f6/af9/0f94f6af9a30cc5b29eeb7a3eda2dfbe.png",
+            "publishedAt": "2024-11-06T11:10:06Z",
+            "content": ", , , . HCl , . ; , .\r\n HCl\r\n \u00a0 .\r\n (HCL) 99,999% , , , , . .\u00a0\r\n (HCL) , , , . , \u00a0, , HCL \u00ab \u00bb.\r\n , , . HCL , .\u00a0\r\n , , 5G,\u00a0, (IoT) \u00a0\u00a0 , HCL .\u00a0\r\n , HCL . . HCL - .\r\n\u00ab (HCL)\u00bb 2031 , (HCL) , , 1,70 2031 \u2026 [+1152 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tom Porter",
+            "title": "Russia's friendship with North Korea may have backfired",
+            "description": "South Korea is furious at reports that North Korean troops will fight alongside the Russian military.",
+            "url": "https://www.businessinsider.com/russia-friendship-north-korea-backfired-south-military-troops-weapons-ukraine-2024-10",
+            "urlToImage": "https://i.insider.com/671789fc9b3250dbbce913f9?width=1024&format=jpeg",
+            "publishedAt": "2024-10-22T15:58:15Z",
+            "content": "South Korean TV broadcast footage in October appearing to show North Korean troops in a Russian military base.Kim Jae-Hwan/SOPA Images/LightRocket via Getty Images\r\n<ul><li>South Korea says North Kor\u2026 [+5073 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Chris Panella",
+            "title": "The US is in a technological arms race with China, Air Force secretary says, and AI could decide who wins",
+            "description": "US Air Force Secretary Frank Kendall said China is working to get the upper hand \"in a race for technological superiority.\"",
+            "url": "https://www.businessinsider.com/us-china-new-technology-race-air-force-secretary-2024-10",
+            "urlToImage": "https://i.insider.com/672272fa01ea6d83dee5258a?width=1200&format=jpeg",
+            "publishedAt": "2024-10-30T20:42:44Z",
+            "content": "Air Force Secretary Kendall said the US and China were locked in a race for technological superiority, including artificial intelligence.Anadolu/Anadolu Agency via Getty Images\r\n<ul><li>China is buil\u2026 [+5547 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Mark Mantel",
+            "title": "Europa und Deutschland verpassen den Halbleiter-Boom",
+            "description": "W\u00e4hrend der Weltverband der Chiphersteller starkes Wachstum bejubelt, schrumpfen die Ums\u00e4tze in Deutschland. 2025 k\u00f6nnte es besser werden.",
+            "url": "https://www.heise.de/news/Halbleiter-Boom-geht-an-Deutschland-und-Europa-vorbei-10011497.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/0/4/8/6/0/Wafer5-eeefd888a907fef3.jpg",
+            "publishedAt": "2024-11-08T14:03:00Z",
+            "content": "In den USA und in Asien brummt das Gesch\u00e4ft mit Halbleitern. Die Ums\u00e4tze dort sind so gro\u00df, dass der Weltverband Semiconductor Industry Association (SIA) einen Rekordmonat mit Ums\u00e4tzen im Wert von 55\u2026 [+1929 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Nadeem Sarwar",
+            "title": "Samsung is eyeing smart glasses that could shake up the market",
+            "description": "Samsung maybe working on its first smart glasses that follow the Meta Ray-Ban Stories' footsteps. The software stack, however, will rely on Google's Gemini.",
+            "url": "https://www.digitaltrends.com/mobile/samung-smart-glasses-report-launch-meta-ray-ban-stories-specs/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/07/ray-ban-meta-face.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-11-16T13:51:17Z",
+            "content": "Samsung is ready to take a stab at another wearable segment, less than a year after introducing its first smart ring. A Shenzhen-based research company, Wellsen XR, shared in an investor note about S\u2026 [+2433 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "\u85e4\u4ee3\u683c",
+            "title": "\u30bd\u30e9\u30b3\u30e0\u30012\u7a2e\u985e\u306e\u300ciSIM\u300d\u3092\u5546\u7528\u5316--SIM\u306e\u7b2c3\u5f62\u72b6\u3001\u300ceSIM\u306e\u6b21\u300d",
+            "description": "\u30bd\u30e9\u30b3\u30e0\u306f10\u670830\u65e5\u3001\u6b21\u4e16\u4ee3SIM\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u306e\u300ciSIM\u300d\u306e\u5546\u7528\u63d0\u4f9b\u3092\u958b\u59cb\u3059\u308b\u3068\u767a\u8868\u3057\u305f\u3002\u540c\u65e5\u304b\u30892\u7a2e\u985e\u306eiSIM\u642d\u8f09\u30bb\u30eb\u30e9\u30fc\u901a\u4fe1\u30e2\u30b8\u30e5\u30fc\u30eb\u3092\u63d0\u4f9b\u3059\u308b\u3002",
+            "url": "https://japan.cnet.com/article/35225517/",
+            "urlToImage": "https://japan.cnet.com/storage/2024/10/30/f9c69ac32d0745a3f3e5621651429452/24Oct30_soracom_000.jpg",
+            "publishedAt": "2024-10-30T03:33:00Z",
+            "content": "1030SIMiSIM2iSIM\r\niSIMQuectel Wireless SolutionsBG773A-GLType 1SC2plan01s1SIM\r\nSORACOMOTAplanX3planX3LPWANLTE-MNB-IoTIoTSORACOM IoT SIMIoTSORACOMIoT\r\niSIMiSIM\r\niSIMIntegrated SIMSIM1SoCSystem-on-Chip\u2026 [+123 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Wesley Hilliard)",
+            "title": "M4 MacBook Pro use quantum dot film for more vibrant color & motion performance",
+            "description": "A display analyst shared that Apple has shifted from traditional red KSF phosphor film to quantum dot film in the latest MacBook Pro models with M4.M4 MacBook Pro. Image source: AppleQuantum dot technology isn't new, in fact, Apple has been investigating its \u2026",
+            "url": "https://appleinsider.com/articles/24/11/15/m4-macbook-pro-use-quantum-dot-film-for-more-vibrant-color-motion-performance",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/61753-127776--xl.jpg",
+            "publishedAt": "2024-11-15T01:12:53Z",
+            "content": "A display analyst shared that Apple has shifted from traditional red KSF phosphor film to quantum dot film in the latest MacBook Pro models with M4.\r\nQuantum dot technology isn't new, in fact, Apple \u2026 [+1767 chars]"
+        },
+        {
+            "source": {
+                "id": "lenta",
+                "name": "Lenta"
+            },
+            "author": "\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f \u041a\u043e\u043d\u0434\u0440\u0430\u0442\u044c\u0435\u0432\u0430",
+            "title": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u0442 \u043a\u0440\u0443\u043f\u043d\u044b\u0439 \u0437\u0430\u043a\u0430\u0437 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0439 \u0432\u043e\u0435\u043d\u043d\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0438\u0437-\u0437\u0430 \u043f\u043e\u0431\u0435\u0434\u044b \u0422\u0440\u0430\u043c\u043f\u0430",
+            "description": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c \u043e\u0431\u0434\u0443\u043c\u044b\u0432\u0430\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u043a\u0440\u0443\u043f\u043d\u044b\u0439 \u0437\u0430\u043a\u0430\u0437 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0439 \u0432\u043e\u0435\u043d\u043d\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0434\u043b\u044f \u0434\u0435\u043c\u043e\u043d\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0421\u0428\u0410 \u0441\u0432\u043e\u0435\u0439 \u0433\u043e\u0442\u043e\u0432\u043d\u043e\u0441\u0442\u0438 \u0443\u0441\u0438\u043b\u0438\u0442\u044c \u043e\u0431\u043e\u0440\u043e\u043d\u0443 \u043f\u0440\u043e\u0442\u0438\u0432 \u041a\u0438\u0442\u0430\u044f \u0432 \u0441\u0432\u044f\u0437\u0438 \u0441 \u043f\u043e\u0431\u0435\u0434\u043e\u0439 \u0438\u0437\u0431\u0440\u0430\u043d\u043d\u043e\u0433\u043e \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u0430 \u0414\u043e\u043d\u0430\u043b\u044c\u0434\u0430 \u0422\u0440\u0430\u043c\u043f\u0430 \u043d\u0430 \u0432\u044b\u0431\u043e\u0440\u0430\u0445. \u041e\u0431 \u044d\u0442\u043e\u043c \u043f\u0438\u0448\u0435\u0442 Financial Times (FT) \u0441\u043e \u0441\u0441\u044b\u043b\u2026",
+            "url": "https://lenta.ru/news/2024/11/11/tayvan-rassmotrit-krupnyy-zakaz-amerikanskoy-voennoy-tehniki-iz-za-pobedy-trampa/",
+            "urlToImage": "https://icdn.lenta.ru/images/2024/11/11/08/20241111084623131/share_68a7cb52fd1f4aaa6a666bc79f69b7fa.jpg",
+            "publishedAt": "2024-11-11T05:46:00Z",
+            "content": ". Financial Times (FT) .\r\n , \u00ab \u00bb , . , , .\r\n , , , Lockheed Martin E-2D Advanced Hawkeye Northrop Grumman. , - () Patriot F-35.\r\n . \u00ab, , , . \u00bb, .\r\n, Taiwan Semiconductor Manufacturing Company (TSMC) \u2026 [+2 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Michail",
+            "title": "TSMC's $6.6B grant from U.S. government finalized",
+            "description": "Back in April, the United States Department of Commerce announced $6.6 billion in direct funding for TSMC under the U.S. CHIPS and Science Act. The subsidy has now been finalized and will include an additional $5 billion in government loans, which will help e\u2026",
+            "url": "https://www.gsmarena.com/tsmcs_66b_grant_from_us_government_finalized_-news-65351.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/11/tsmc-6-6b-funding-finalized/-952x498w6/gsmarena_001.jpg",
+            "publishedAt": "2024-11-15T22:03:01Z",
+            "content": "Back in April, the United States Department of Commerce announced $6.6 billion in direct funding for TSMC under the U.S. CHIPS and Science Act. The subsidy has now been finalized and will include an \u2026 [+1705 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techmeme.com"
+            },
+            "author": null,
+            "title": "Nvidia B200 GPU and Google Trillium TPU debut on the MLPerf Training v4.1 benchmark charts; the B200 posted a doubling of performance on some tests vs. the H100 (Samuel K. Moore/IEEE Spectrum)",
+            "description": "Samuel K. Moore / IEEE Spectrum:\nNvidia B200 GPU and Google Trillium TPU debut on the MLPerf Training v4.1 benchmark charts; the B200 posted a doubling of performance on some tests vs. the H100\u00a0 \u2014\u00a0 The Nvidia B200 and Google Trillium debut on the MLPerf bench\u2026",
+            "url": "https://www.techmeme.com/241114/p3",
+            "urlToImage": "https://spectrum.ieee.org/media-library/a-stack-of-computer-servers-with-fan-exhaust-ports.jpg?id=54490317&width=1200&height=600&coordinates=0%2C336%2C0%2C688",
+            "publishedAt": "2024-11-14T06:10:29Z",
+            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 1:10\u00a0AM\u00a0ET, November\u00a014,\u00a02024.\r\nThe most current version of the site as always is available at our home page.\r\nTo \u2026 [+71 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Britney Nguyen",
+            "title": "Huawei may have tried to skirt chip export controls, TSMC tells authorities",
+            "description": "Taiwan Semiconductor Manufacturing Company has reportedly informed the U.S. government about a potential attempt by Huawei to have it make artificial intelligence chips for the sanctioned Chinese tech giant.Read more...",
+            "url": "https://qz.com/tsmc-told-us-government-huawei-export-controls-ai-chips-1851678301",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/2ec856c0681ae284e1462cfd98e06119.jpg",
+            "publishedAt": "2024-10-22T17:08:00Z",
+            "content": "In This Story\r\nTaiwan Semiconductor Manufacturing Company has reportedly informed the U.S. government about a potential attempt by Huawei to have it make artificial intelligence chips for the sanctio\u2026 [+1969 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Britney Nguyen",
+            "title": "TSMC is cutting China off from its advanced AI chips",
+            "description": "Taiwan Semiconductor Manufacturing Company (TSM) is following U.S. efforts to curb China\u2019s artificial intelligence ambitions, reportedly telling chip design firms in the country it will stop producing their most advanced AI chips.Read more...",
+            "url": "https://qz.com/tsmc-cutting-chinese-tech-firms-off-advanced-ai-chip-1851693044",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/edadab3349070ea20600bbdc5693ed1b.jpg",
+            "publishedAt": "2024-11-08T16:00:00Z",
+            "content": "In This Story\r\nTaiwan Semiconductor Manufacturing Company (TSM+0.15%\r\n) is following U.S. efforts to curb Chinas artificial intelligence ambitions, reportedly telling chip design firms in the country\u2026 [+2336 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ti.com"
+            },
+            "author": null,
+            "title": "TI expands internal manufacturing for gallium nitride (GAN) semiconductors",
+            "description": "Comments",
+            "url": "https://www.ti.com/about-ti/newsroom/news-releases/2024/2024-10-24-texas-instruments-expands-internal-manufacturing-for-gallium-nitride--gan--semiconductors--quadrupling-capacity.html",
+            "urlToImage": "https://www.ti.com",
+            "publishedAt": "2024-10-24T21:31:09Z",
+            "content": "NEWS HIGHLIGHTS:\r\n<ul><li>TI adds GaN manufacturing in Japan, quadrupling its internal GaN manufacturing capacity between its factories in the United States and Japan.</li><li>TI's GaN-based semicond\u2026 [+5112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techmeme.com"
+            },
+            "author": null,
+            "title": "SMIC reports Q3 revenue up 34% YoY to ~$2.17B, vs $2.2B est., and net income up 58.3% YoY to ~$148.8M, below $199.71M est., as the chip sector recovers (Reuters)",
+            "description": "Reuters:\nSMIC reports Q3 revenue up 34% YoY to ~$2.17B, vs $2.2B est., and net income up 58.3% YoY to ~$148.8M, below $199.71M est., as the chip sector recovers\u00a0 \u2014\u00a0 China's largest chipmaker Semiconductor Manufacturing International Corp (0981.HK) reported it\u2026",
+            "url": "https://www.techmeme.com/241107/p15",
+            "urlToImage": "https://www.reuters.com/resizer/v2/BG5SDMVT6BML5DHDBW5YCVGOJE.jpg?auth=85a9802534ba8296c333a12bca5c5ea001c80c5f5256e5b96430665087f9506f&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-11-07T12:10:02Z",
+            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 7:10\u00a0AM\u00a0ET, November\u00a07,\u00a02024.\r\nThe most current version of the site as always is available at our home page.\r\nTo v\u2026 [+153 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techmeme.com"
+            },
+            "author": null,
+            "title": "The US fines GlobalFoundries $500K and says it sent 74 shipments worth $17.1M to SJ Semiconductor, an affiliate of SMIC, without seeking a license (Reuters)",
+            "description": "Reuters:\nThe US fines GlobalFoundries $500K and says it sent 74 shipments worth $17.1M to SJ Semiconductor, an affiliate of SMIC, without seeking a license\u00a0 \u2014\u00a0 The U.S. said on Friday it imposed a $500,000 penalty on New York-based GlobalFoundries (GFS.O), th\u2026",
+            "url": "https://www.techmeme.com/241104/p3",
+            "urlToImage": "https://www.reuters.com/resizer/v2/KVT2CBAXKZKMBKOHQZSZYVGCPQ.jpg?auth=4fa2d6b462250c7220a0f1ffce173220b7d8cd012206c79c227220039430961e&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-11-04T10:40:02Z",
+            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 5:40\u00a0AM\u00a0ET, November\u00a04,\u00a02024.\r\nThe most current version of the site as always is available at our home page.\r\nTo v\u2026 [+182 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techmeme.com"
+            },
+            "author": null,
+            "title": "China arrests a South Korean chip engineer on espionage charges, escalating the battle over IP theft between China and South Korea in the critical chip sector (Financial Times)",
+            "description": "Financial Times:\nChina arrests a South Korean chip engineer on espionage charges, escalating the battle over IP theft between China and South Korea in the critical chip sector\u00a0 \u2014\u00a0 Move escalates battle over intellectual property theft between Beijing and Seou\u2026",
+            "url": "https://www.techmeme.com/241030/p1",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F0e64027a-6a86-4b4a-b454-14fcdbeed492.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2024-10-30T04:00:50Z",
+            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 12:00\u00a0AM\u00a0ET, October\u00a030,\u00a02024.\r\nThe most current version of the site as always is available at our home page.\r\nTo \u2026 [+186 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Javier Marquez",
+            "title": "Taiw\u00e1n prometi\u00f3 que no quedar\u00e1 ninguna central nuclear en funcionamiento para 2025. La IA est\u00e1 impulsando un cambio",
+            "description": "La Administraci\u00f3n de Energ\u00eda de Taiw\u00e1n prev\u00e9 que la demanda energ\u00e9tica aumente a una tasa anual promedio del 2,8% durante los pr\u00f3ximos diez a\u00f1os. Este crecimiento, impulsado principalmente por el auge de la inteligencia artificial (IA), est\u00e1 llevando al pa\u00eds \u2026",
+            "url": "https://www.xataka.com/energia/taiwan-prometio-que-no-quedara-ninguna-central-nuclear-funcionamiento-para-2025-ia-esta-impulsando-cambio",
+            "urlToImage": "https://i.blogs.es/82d81e/np3_in_taiwan/840_560.jpeg",
+            "publishedAt": "2024-10-22T21:01:38Z",
+            "content": "La Administraci\u00f3n de Energ\u00eda de Taiw\u00e1n prev\u00e9 que la demanda energ\u00e9tica aumente a una tasa anual promedio del 2,8% durante los pr\u00f3ximos diez a\u00f1os. Este crecimiento, impulsado principalmente por el aug\u2026 [+3864 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phandroid - News for Android"
+            },
+            "author": "Mike Viray",
+            "title": "Could we See Exynos Chips from TSMC Soon?",
+            "description": "Rumors point to such a possibility.\nThe post Could we See Exynos Chips from TSMC Soon? appeared first on Phandroid.",
+            "url": "https://phandroid.com/2024/11/14/could-we-see-exynos-chips-from-tsmc-soon/",
+            "urlToImage": "https://phandroid.com/wp-content/uploads/2021/01/Samsung-Exynos-Hero.png",
+            "publishedAt": "2024-11-14T23:17:56Z",
+            "content": "While Samsung has long stood behind its Exynos chipsets, fans and critics alike have noted that there\u2019s somewhat of a gap in quality when the company\u2019s chipsets are pitted against rival products from\u2026 [+1107 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "divolko3 (\u041c\u0422\u0421)",
+            "title": "\u0420\u0435\u0437\u043a\u0438\u0439 \u0441\u043f\u0430\u0434 \u0437\u0430\u043a\u0430\u0437\u043e\u0432 \u0438 \u043f\u0430\u0434\u0435\u043d\u0438\u0435 \u0430\u043a\u0446\u0438\u0439: \u043a\u0430\u043a \u0442\u043e\u0440\u0433\u043e\u0432\u044b\u0435 \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u044b \u0432\u043b\u0438\u044f\u044e\u0442 \u043d\u0430 ASML, \u0433\u043b\u0430\u0432\u043d\u043e\u0433\u043e \u043f\u043e\u0441\u0442\u0430\u0432\u0449\u0438\u043a\u0430 \u043b\u0438\u0442\u043e\u0433\u0440\u0430\u0444\u043e\u0432",
+            "description": "\u041f\u0440\u0438\u0432\u0435\u0442, \u0425\u0430\u0431\u0440! \u042d\u0442\u043e \u0414\u0430\u0448\u0430 \u0412\u043e\u043b\u043a\u043e\u0432\u0430 \u0438\u0437 \u041c\u0422\u0421 \u0414\u0438\u0434\u0436\u0438\u0442\u0430\u043b. ASML \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043d\u0430 \u043c\u0438\u0440\u043e\u0432\u043e\u043c \u0440\u044b\u043d\u043a\u0435 \u043c\u0438\u043a\u0440\u043e\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438. \u042d\u0442\u043e \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0438 \u043f\u043e\u0441\u0442\u0430\u0432\u0449\u0438\u043a \u043b\u0438\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043c\u0430\u0448\u0438\u043d, \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0441 7-\u043d\u043c \u0447\u0438\u043f\u0430\u043c\u0438 \u0438 \u0431\u043e\u043b\u0435\u0435 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u043c\u0438 \u043c\u0438\u043a\u0440\u043e\u0441\u0445\u0435\u043c\u0430\u043c\u0438. \u0415\u0449\u0435\u2026",
+            "url": "https://habr.com/ru/companies/ru_mts/articles/854564/#post-content-body",
+            "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/07e/d89/9b1/07ed899b109d0131a669b9e75fdf105b.jpg",
+            "publishedAt": "2024-10-30T06:50:57Z",
+            "content": ", ! . ASML . , 7- . ASML , 14- 16-. , , , Nvidia Taiwan Semiconductor Manufacturing Company (TSMC).\r\n , ? . , : .\r\n ?\r\n. , , , ASML . 2019 , . .\r\n , , 49% 2024 . 20%. , , ASML.\r\n III 2024 ASML 2,6 5,\u2026 [+443 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Habr.com"
+            },
+            "author": "Grigory_Otrepyev",
+            "title": "\u0423\u0448\u043b\u0430 \u043b\u0438 \u044d\u043f\u043e\u0445\u0430 \u0443\u0434\u0438\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0438\u043c\u043f\u043e\u0440\u0442\u043e\u0437\u0430\u043c\u0435\u0441\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0438\u0441\u0442\u043e\u0440\u0438\u0439?",
+            "description": "\u041f\u0440\u043e\u0449\u0430\u043b\u044c\u043d\u044b\u043c \u043a\u043e\u0441\u0442\u0440\u043e\u043c \u0434\u043e\u0433\u043e\u0440\u0430\u0435\u0442 \u044d\u043f\u043e\u0445\u0430\u0418 \u043c\u044b \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u0435\u043c \u0437\u0430 \u0442\u0435\u043d\u044c\u044e \u0438 \u0441\u0432\u0435\u0442\u043e\u043c\u0412\u044b \u043d\u0435 \u0437\u0430\u043c\u0435\u0442\u0438\u043b\u0438, \u0447\u0442\u043e \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u043f\u043e\u0447\u0442\u0438 \u043f\u0440\u043e\u043f\u0430\u043b\u0430 \u0442\u0435\u043c\u0430 \u043f\u0440\u043e \u00ab\u0420\u043e\u0441\u0441\u0438\u044f \u0434\u0435\u043b\u0430\u0435\u0442 \u0441\u0430\u043c\u0430\u00bb \u0438 \u043f\u0440\u043e\u0447\u0435\u0435 \u0438\u043c\u043f\u043e\u0440\u0442\u043e\u0437\u0430\u043c\u0435\u0449\u0435\u043d\u0438\u0435? \u0417\u0430 \u044d\u0442\u0443 \u0441\u0442\u0430\u0442\u044c\u044e \u043f\u043e\u043f\u0440\u043e\u0448\u0443 \u043f\u043e\u0432\u0442\u043e\u0440\u043d\u043e \u043f\u043e\u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u0438\u0442\u044c (\u0431\u0435\u0437\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u0443\u0448\u0435\u0434\u0448\u0435\u0433\u043e \u0432 r\u2026",
+            "url": "https://habr.com/ru/articles/857758/#post-content-body",
+            "urlToImage": "https://habr.com/share/publication/857758/5a6986b99b759687e9e1a62315cc9f46/",
+            "publishedAt": "2024-11-11T19:44:21Z",
+            "content": ", \u00ab \u00bb ? \r\n ( readonly) @KadesVII ( 19 2023) . , , 2023 . , , , , . \r\n, , - \u00ab\u00bb . \r\ncnews \u00a0 - \r\n, , - . .\r\n \u00ab , , \u00bb , , -21 (-21 ).\r\n , ( 17 23 2024), VMware Cloud Foundation, , , 80:\r\n , , , \u00ab \u00bb , .. \u2026 [+3415 chars]"
+        },
+        {
+            "source": {
+                "id": "die-zeit",
+                "name": "Die Zeit"
+            },
+            "author": "ZEIT ONLINE: Wirtschaft - Marlena Wessollek",
+            "title": "KI-Mikrochips: USA untersagen Lieferung von taiwanesischen KI-Chips an China",
+            "description": "Die USA stoppen die Lieferungen von KI-Mikrochips eines taiwanischen Herstellers an China. Zuvor war ein Chip in einem KI-Prozessor des Konzerns Huawei gefunden worden.",
+            "url": "https://www.zeit.de/wirtschaft/2024-11/usa-china-taiwan-kuenstliche-intelligenz-tsmc-mikrochips",
+            "urlToImage": "https://img.zeit.de/wirtschaft/2024-11/usa-stoppen-lieferung-ki-mikrochips-taiwan-china-bild/wide__1300x731",
+            "publishedAt": "2024-11-10T11:05:04Z",
+            "content": "Die USA haben die Exporte von Mikrochips f\u00fcr Anwendungen K\u00fcnstlicher Intelligenz (KI) eines taiwanischen Herstellers nach China eingeschr\u00e4nkt. Die Taiwan Semiconductor Manufacturing (TSMC) d\u00fcrfe von \u2026 [+2394 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alexandra Frost",
+            "title": "I quit my 6-figure job to be a stay-at-home dad. After leaving California, we could afford to be a single-income family.",
+            "description": "Michael Johnston quit his six-figure engineering job to be a stay-at-home dad after he and his wife relocated from California to Maine.",
+            "url": "https://www.businessinsider.com/left-california-quit-job-stay-at-home-dad-2024-11",
+            "urlToImage": "https://i.insider.com/6729f87488cea3ba1c1e4603?width=1200&format=jpeg",
+            "publishedAt": "2024-11-05T11:03:09Z",
+            "content": "Michael Johnston told BI he saw work as a means to an end, while his wife was excited to return to her job.Michael Johnston\r\n<ul><li>Michael Johnston was making six figures in a remote job he enjoyed\u2026 [+5701 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tomshw.it"
+            },
+            "author": "Luca Zaninello",
+            "title": "TSMC interrompe le spedizioni di chip avanzati in Cina",
+            "description": "Il Department of Commerce degli Stati Uniti ha inviato una comunicazione alla Taiwan Semiconductor Manufacturing Co (TSMC), imponendo la sospensione delle spedizioni di chip avanzati ai clienti cinesi...",
+            "url": "https://www.tomshw.it/hardware/tsmc-interrompe-le-spedizioni-di-chip-avanzati-in-cina-2024-11-11",
+            "urlToImage": "https://www.tomshw.it/storage/media/2023/12/8485/93103346_m.jpg",
+            "publishedAt": "2024-11-11T08:41:12Z",
+            "content": "Il Department of Commerce degli Stati Uniti ha inviato una comunicazione alla Taiwan Semiconductor Manufacturing Co (TSMC), imponendo la sospensione delle spedizionidi chip avanzatiai clienti cinesi.\u2026 [+3631 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phandroid - News for Android"
+            },
+            "author": "Mike Viray",
+            "title": "Reports Allege that Huawei is Using TSMC Hardware for its AI Technologies",
+            "description": "It's claimed that a third-party client provided TSMC processors for Huawei, a transaction that TSMC was not made aware of.\nThe post Reports Allege that Huawei is Using TSMC Hardware for its AI Technologies appeared first on Phandroid.",
+            "url": "https://phandroid.com/2024/10/23/reports-allege-that-huawei-is-using-tsmc-hardware-for-its-ai-technologies/",
+            "urlToImage": "https://phandroid.com/wp-content/uploads/2015/03/Huawei-logo-DSC08659-640x360.jpg",
+            "publishedAt": "2024-10-23T18:37:24Z",
+            "content": "While TSMC is known for its work on different chips from different brands \u2013 the most popular being Qualcomm\u2019s Snapdragon chips \u2013 it seems like an unexpected \u201cclient\u201d has stirred some trouble between \u2026 [+1112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "asia.nikkei.com",
+            "title": "Nikkei Semiconductor Stock Index to add Nissan Chemical, Kokusai Electric",
+            "description": "TOKYO -- Nikkei will add two semiconductor-related companies to its Nikkei Semiconductor Stock Index on Nov. 29, the index provider said on Friday.\nThe index, which launched in March this year, will include semiconductor materials maker Nissan Chemical and ch\u2026",
+            "url": "https://biztoc.com/x/b713e161bd520fc2",
+            "urlToImage": "https://biztoc.com/cdn/b713e161bd520fc2_s.webp",
+            "publishedAt": "2024-11-15T08:35:30Z",
+            "content": "TOKYO -- Nikkei will add two semiconductor-related companies to its Nikkei Semiconductor Stock Index on Nov. 29, the index provider said on Friday.The index, which launched in March this year, will i\u2026 [+154 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "La Vanguardia"
+            },
+            "author": "Sergio Agudo",
+            "title": "El semiconductor que viene a revolucionar la electr\u00f3nica es pr\u00e1cticamente invisible",
+            "description": "Un equipo de investigadores de la Universidad de Minnesota ha desarrollado un nuevo material semiconductor casi invisible y altamente eficiente. Este avance podr\u00eda mejorar de forma significativa la eficiencia de dispositivos electr\u00f3nicos de alta potencia, esp\u2026",
+            "url": "https://www.lavanguardia.com/andro4all/tecnologia/el-semiconductor-que-viene-a-revolucionar-la-electronica-es-practicamente-invisible",
+            "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/11/semiconductor.webp?width=1200",
+            "publishedAt": "2024-11-16T13:01:08Z",
+            "content": "Unos cient\u00edficos han creado un nuevo semiconductor revolucionario\r\nUn equipo de investigadores de la Universidad de Minnesota ha desarrollado un nuevo material semiconductor casi invisible y altament\u2026 [+3255 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Lindsey Choo, Forbes Staff, \n Lindsey Choo, Forbes Staff\n https://www.forbes.com/sites/lindseychoo/",
+            "title": "AMD Earnings: Shares Tumble As Semiconductor Giant Narrowly Beat Expectations On Record Data Center Revenue",
+            "description": "The semiconductor firm\u2019s third-quarter earnings report was released Tuesday.",
+            "url": "https://www.forbes.com/sites/lindseychoo/2024/10/29/amd-earnings-shares-tumble-semiconductor-beat-expectations/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672143040205fe003abf6bc7/0x0.jpg?format=jpg&crop=1709,961,x237,y238,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-10-29T20:43:41Z",
+            "content": "Advanced Micro Devices beat Wall Street expectations on earnings and revenue by a small margin, sending shares of the semiconductor firm tumbling in after-hours trading.\r\nAdvanced Micro Devices, Inc.\u2026 [+2328 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jennifer Epstein and Josh Wingrove",
+            "title": "Harris Plans \u2018Freedom\u2019 Rally, Trump Courts Men in Final Push",
+            "description": "(Bloomberg) -- The campaign for the US presidency enters its final week with Vice President Kamala Harris and former President Donald Trump locked in a...",
+            "url": "https://www.yahoo.com/news/harris-plans-freedom-rally-trump-124452139.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pPKzIZBGZSQ93Opup7js9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_politics_602/4a903cd7f7780a75276d4dafc3f0bf35",
+            "publishedAt": "2024-10-28T12:44:52Z",
+            "content": "(Bloomberg) -- The campaign for the US presidency enters its final week with Vice President Kamala Harris and former President Donald Trump locked in a stubbornly close race, making starkly different\u2026 [+5451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "editorial-team@simplywallst.com (Simply Wall St)",
+            "title": "Three Stocks Analysts Believe Are Trading Below Their Estimated Intrinsic Value",
+            "description": "In a week marked by busy earnings reports and mixed economic signals, global markets have shown varied performance, with major U.S. indices like the S&P 500 ...",
+            "url": "https://finance.yahoo.com/news/three-stocks-analysts-believe-trading-130528180.html",
+            "urlToImage": "https://media.zenfs.com/en/simply_wall_st__316/ce85212c51bd88fd1fdcd0febb642a4a",
+            "publishedAt": "2024-11-08T13:05:28Z",
+            "content": "In a week marked by busy earnings reports and mixed economic signals, global markets have shown varied performance, with major U.S. indices like the S&amp;P 500 and Nasdaq Composite experiencing decl\u2026 [+5536 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tomshw.it"
+            },
+            "author": "Andrea Maiellano",
+            "title": "La Lombardia entra in Esra e mira a creare una lobby europea",
+            "description": "La Regione Lombardia \u00e8 entrata ufficialmente all'European Semiconductor Regions Alliance (Esra), un'alleanza che riunisce le regioni europee con una significativa presenza di industrie dei semi...",
+            "url": "https://www.tomshw.it/hardware/la-lombardia-entra-in-esra-e-mira-a-creare-una-lobby-europea-2024-11-11",
+            "urlToImage": "https://www.tomshw.it/storage/media/2024/08/30583/Regione-lombardia-cover.jpg",
+            "publishedAt": "2024-11-11T17:49:00Z",
+            "content": "La Regione Lombardia \u00e8 entrata\u00a0ufficialmente all'European Semiconductor Regions Alliance (Esra), un'alleanza che riunisce le regioni europee con una significativa presenza di industrie dei semicondut\u2026 [+1691 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Micron.com"
+            },
+            "author": null,
+            "title": "DRAM Changed the World",
+            "description": "From an idea in 1966 to a patent in 1968, DRAM has had an outsized impact on the world with its dynamic random access memory technology enabling everything from mobile phones to automobiles. Cheers to 50+ years of innovation!",
+            "url": "https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world",
+            "urlToImage": null,
+            "publishedAt": "2024-10-22T22:12:15Z",
+            "content": "1966 was a long time ago. The Beatles released Revolver. The No. 1 film was&amp;nbsp;&lt;i&gt;The Good, the Bad, and The Ugly&lt;/i&gt;. And computers, such as they were, involved paper tape and punc\u2026 [+6402 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Britney Nguyen",
+            "title": "Trump's election win could take the U.S.-China chip war to a new level",
+            "description": "Since President-elect Donald Trump\u2019s first term in office, the U.S. has wielded its trade restriction and sanctioning powers in an effort to curb China\u2019s technological advances. Now that he\u2019s headed back to the White House, the semiconductor war between the U\u2026",
+            "url": "https://qz.com/trump-win-election-us-china-chip-war-tsmc-huawei-ai-1851690892",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/56685e799a43039b1df419dd3de9a2fc.jpg",
+            "publishedAt": "2024-11-06T22:25:00Z",
+            "content": "In This Story\r\nSince President-elect Donald Trumps first term in office, the U.S. has wielded its trade restriction and sanctioning powers in an effort to curb Chinas technological advances. Now that\u2026 [+4293 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "La Vanguardia"
+            },
+            "author": "Sergio Agudo",
+            "title": "El semiconductor de hidrogel que puede cambiar la forma en la que nos relacionamos con la tecnolog\u00eda",
+            "description": "Investigadores de la Universidad de Chicago han desarrollado un hidrogel semiconductor flexible y suave como el tejido humano, ideal para conectar dispositivos electr\u00f3nicos directamente con el cuerpo. Este avance permite mejorar la biocompatibilidad de dispos\u2026",
+            "url": "https://www.lavanguardia.com/andro4all/tecnologia/el-semiconductor-de-hidrogel-que-puede-cambiar-la-forma-en-la-que-nos-relacionamos-con-la-tecnologia",
+            "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/10/semiconductor-hidrogel.jpg?width=1200",
+            "publishedAt": "2024-10-28T12:01:41Z",
+            "content": "Este es el nuevo semiconductor en hidrogel el\u00e1stico y que imita a la piel humana\r\nInvestigadores de la Universidad de Chicago han desarrollado un hidrogel semiconductor flexible y suave como el tejid\u2026 [+2546 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Britney Nguyen",
+            "title": "Nvidia on top, Palantir stock soars, and Meta's bee problem: AI news roundup",
+            "description": "A majority of Big Tech stocks got a boost on Wednesday after former President Donald Trump won his reelection bid. But Trump\u2019s comeback could escalate the chip war between the U.S. and China.Read more...",
+            "url": "https://qz.com/nvidia-stock-market-cap-palantir-meta-chips-ai-news-1851692655",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7bdab1f48d9bbf3b6a5375c6c94512e6.jpg",
+            "publishedAt": "2024-11-08T10:00:00Z",
+            "content": "Since President-elect Donald Trumps first term in office, the U.S. has wielded its trade-restriction and sanctioning powers in an effort to curb Chinas technological advances. Now that hes headed bac\u2026 [+96 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "businessinsider.com",
+            "title": "Trump's trade restrictions could be good for American semiconductor jobs",
+            "description": "President-elect Donald Trump's proposed tariff policies could boost employment in the semiconductor industry.\nJoe Raedle/Getty Images\nThe tariffs Donald Trump proposed while campaigning could help create US semiconductor jobs.\nTariffs could also help US chipm\u2026",
+            "url": "https://biztoc.com/x/d474441cd857a98c",
+            "urlToImage": "https://biztoc.com/cdn/807/og.png",
+            "publishedAt": "2024-11-17T09:11:46Z",
+            "content": "President-elect Donald Trump's proposed tariff policies could boost employment in the semiconductor industry.Joe Raedle/Getty ImagesThe tariffs Donald Trump proposed while campaigning could help crea\u2026 [+150 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Mark K. Updegrove",
+            "title": "Why Biden Is One of the Great One-Term Presidents",
+            "description": "The 46th President is one of the best one-term leaders in U.S. history. But Trump's reelection hangs over everything Biden achieved.",
+            "url": "https://time.com/7174296/president-biden-legacy/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/11/GettyImages-2182731990.jpg?quality=85&w=1024&h=628&crop=1",
+            "publishedAt": "2024-11-09T12:00:00Z",
+            "content": "Although the President of the United States is the most scrutinized person on the planet, myopia invariably sets in as we assess them in real time. Often our impressions are dominated by the caricatu\u2026 [+5542 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Dua Rashid",
+            "title": "Ugreen\u2019s Latest 25,000 mAh Portable Charger Is Ideal for Weekend Getaways",
+            "description": "The Ugreen 25,000 mAh Portable Charger can fully charge all your devices at least once without worry, and it travels well.",
+            "url": "https://gizmodo.com/ugreens-latest-25000-mah-portable-charger-is-ideal-for-weekend-getaways-2000519170",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/ugreen-25000-portable-charger.jpg",
+            "publishedAt": "2024-11-03T12:00:27Z",
+            "content": "I\u2019m my friend group\u2019s dedicated tech needs person, which involves a portable speaker, usually a Polaroid camera, and most importantly, a power bank. For day or night outs, a 10,000 mAh portable charg\u2026 [+3389 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tom's Hardware UK"
+            },
+            "author": "Anton Shilov",
+            "title": "Gorilla Glass maker Corning is set to receive $32 million under the CHIPS and Science Act",
+            "description": "Corning may not make chips, but its contribution to semiconductor production is rather huge.",
+            "url": "https://www.tomshardware.com/tech-industry/gorilla-glass-maker-corning-is-set-to-receive-usd32-million-under-the-chips-and-science-act",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Vu6N9RDjut8Yy6FiGKNSCB-1200-80.png",
+            "publishedAt": "2024-11-09T15:17:46Z",
+            "content": "Corning is primarily known for its ruggedized glasses for smartphones and is barely known in the semiconductor industry. Yet, its contribution to the production of chips using leading-edge technologi\u2026 [+2365 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phandroid - News for Android"
+            },
+            "author": "Mike Viray",
+            "title": "The Tensor G5 is Shaping Up to be a Formidable Chipset",
+            "description": "Will Google finally perfect its Tensor chips?\nThe post The Tensor G5 is Shaping Up to be a Formidable Chipset appeared first on Phandroid.",
+            "url": "https://phandroid.com/2024/10/24/the-tensor-g5-is-shaping-up-to-be-a-formidable-chipset/",
+            "urlToImage": "https://phandroid.com/wp-content/uploads/2021/10/google-tensor-chip-2.png",
+            "publishedAt": "2024-10-24T20:54:39Z",
+            "content": "Google\u2019s Tensor chips haven\u2019t exactly been known for raw power and performance \u2013 yes, they\u2019ll get you through the day, but they haven\u2019t been the best SoCs on account of limitations when it comes to g\u2026 [+1508 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "Andr\u00e9 Westphal",
+            "title": "TSMC will offenbar keine KI-Chips mehr f\u00fcr chinesische Unternehmen fertigen",
+            "description": "Der bekannte Auftragsfertiger TSMC (Taiwan Semiconductor Manifacturing Company) wird laut einem Bericht der Financial Times die Produktion von KI-Chips f\u00fcr chinesische Firmen einstellen. Die chinesischen Kunden von TSMC sollen schon \u00fcber die Entscheidung info\u2026",
+            "url": "https://stadt-bremerhaven.de/tsmc-will-offenbar-keine-ki-chips-mehr-fuer-chinesische-unternehmen-fertigen/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2020/05/TSMC-Logo.jpg",
+            "publishedAt": "2024-11-08T18:30:43Z",
+            "content": "Der bekannte Auftragsfertiger TSMC (Taiwan Semiconductor Manifacturing Company) wird laut einem Bericht der Financial Times die Produktion von KI-Chips f\u00fcr chinesische Firmen einstellen. Die chinesis\u2026 [+2372 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "marketbeat.com",
+            "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Trading Down 1.4% - Here's Why",
+            "description": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock Price Down 1.4% - Should You Sell?",
+            "url": "https://biztoc.com/x/1befd5e8afefcc04",
+            "urlToImage": "https://biztoc.com/cdn/806/og.png",
+            "publishedAt": "2024-10-30T18:20:03Z",
+            "content": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock Price Down 1.4% - Should You Sell?\r\nThis story appeared on marketbeat.com, 2024-10-30 18:13:07."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "jez@windowscentral.com (Jez Corden)",
+            "title": "\"A very discourteous fellow.\" Intel's CEO made comments that blew a huge discount deal on TSMC chips, wiping the firm's profit margins according to this damning report.",
+            "description": "Reuters is reporting that comments made by Intel CEO Pat Gelsinger blew up a long standing deal with chip manufacturer TSMC, obliterating Intel's margins in the process.",
+            "url": "https://www.windowscentral.com/hardware/intel/a-very-discourteous-fellow-intels-ceo-made-comments-that-blew-a-40-percent-discount-on-tsmc-chips-wiping-the-firms-profit-margins-according-to-this-damning-report",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/HoHgjQXndmUsvcbYCCVjJS-1200-80.jpg",
+            "publishedAt": "2024-10-31T08:09:37Z",
+            "content": "What you need to know\r\n<ul><li>Intel is a company in turmoil, having laid off thousands of staff this year in attempts to balance its books.</li><li>With billions in losses over the past few years, m\u2026 [+4456 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "marketbeat.com",
+            "title": "Valens Semiconductor (VLN) to Release Earnings on Wednesday",
+            "description": "Valens Semiconductor (NYSE:VLN) will be releasing earnings before the market opens on Wednesday, November 6, Zacks reports. (Register for Conference Call at http://mmm.wallstreethorizon.com/u.asp?u=634586)",
+            "url": "https://biztoc.com/x/791edc67aa483497",
+            "urlToImage": "https://biztoc.com/cdn/806/og.png",
+            "publishedAt": "2024-10-30T07:48:23Z",
+            "content": "Valens Semiconductor (NYSE:VLN) will be releasing earnings before the market opens on Wednesday, November 6, Zacks reports. (Register for Conference Call at http://mmm.wallstreethorizon.com/u.asp?u=6\u2026 [+66 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "finance.yahoo.com",
+            "title": "US finalizes $6.6 billion chips award for TSMC ahead of Trump return",
+            "description": "In This Article:\nBy David Shepardson\nWASHINGTON (Reuters) - The U.S. Commerce Department said Friday it has finalized a $6.6 billion government subsidy for Taiwan Semiconductor Manufacturing Co's U.S. unit for semiconductor production in Phoenix, Arizona.\nThe\u2026",
+            "url": "https://biztoc.com/x/b8129504084e6bd2",
+            "urlToImage": "https://biztoc.com/cdn/807/og.png",
+            "publishedAt": "2024-11-15T10:07:59Z",
+            "content": "In This Article:By David ShepardsonWASHINGTON (Reuters) - The U.S. Commerce Department said Friday it has finalized a $6.6 billion government subsidy for Taiwan Semiconductor Manufacturing Co's U.S. \u2026 [+154 chars]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "FOCUS online",
+            "title": "Nach Vorf\u00e4llen mit Huawei - USA untersagen TSMC die Lieferung von KI-Chips an China",
+            "description": "Die US-Regierung hat dem Konzern Taiwan Semiconductor Manufacturing (TSMC) die Ausfuhr von hoch entwickelten Mikrochips f\u00fcr K\u00fcnstliche Intelligenz nach China untersagt. Diese Chips d\u00fcrften ab sofort nicht mehr an chinesische Kunden geliefert werden.",
+            "url": "https://www.focus.de/finanzen/boerse/nach-vorfaellen-mit-huawei-tsmc-muss-ki-chip-lieferungen-nach-verbot-der-us-regierung-an-china-stoppen_id_260467417.html",
+            "urlToImage": "https://p6.focus.de/img/fotos/id_260277447/tsmc.jpg?im=Crop%3D%280%2C4%2C1024%2C512%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=cd4a66ed93558cf009f37fdf227c1b5cb921d301e563fb92d96895ca4d88fc3d",
+            "publishedAt": "2024-11-10T08:47:51Z",
+            "content": "Die US-Regierung hat dem Konzern Taiwan Semiconductor Manufacturing (TSMC) die Ausfuhr von hoch entwickelten Mikrochips f\u00fcr K\u00fcnstliche Intelligenz nach China untersagt. Diese Chips d\u00fcrften ab sofort \u2026 [+1868 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "TSMC says it reported itself to US govt; Apple chip production may be at risk [U]",
+            "description": "The US Commerce Department is carrying out an investigation into whether Apple chipmaker TSMC breached US sanctions against China by supplying smartphone and AI chips to Huawei. The probe was in part driven by Huawei\u2019s surprising ability to resume competing w\u2026",
+            "url": "https://9to5mac.com/2024/10/22/tsmc-may-have-breached-us-sanctions-apple-chip-production-could-be-at-risk/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/TSMC-may-have-breached-US-sanctions-\u2013-Apple-chip-production-could-be-at-risk.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-10-22T13:41:36Z",
+            "content": "The US Commerce Department is carrying out an investigation into whether Apple chipmaker TSMC breached US sanctions against China by supplying smartphone and AI chips to Huawei. The probe was in part\u2026 [+2906 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Britney Nguyen",
+            "title": "Nvidia, Intel, and other chip stocks are dragging down the Nasdaq even as the Dow gains",
+            "description": "Chip stocks dragged down the Nasdaq on Monday despite gains in the Dow Jones Industrial Average and S&P 500. Read more...",
+            "url": "https://qz.com/nvidia-intel-tsmc-chip-stocks-down-nasdaq-dow-sp500-1851694926",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ee5aeadcc2773e52d9fd85c030ecc70e.jpg",
+            "publishedAt": "2024-11-11T18:02:34Z",
+            "content": "In This Story\r\nChip stocks dragged down the Nasdaq on Monday despite gains in the Dow Jones Industrial Average and S&amp;P 500. \r\nShares of Intel (INTC) were down by around 4.1% during midday trading\u2026 [+2344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Thomas Estimbre",
+            "title": "Huawei d\u00e9fie les \u00c9tats-Unis\u00a0: une puce d\u2019IA au c\u0153ur d\u2019une nouvelle pol\u00e9mique",
+            "description": "Plusieurs m\u00e9dias am\u00e9ricains rapportent qu'Huawei aurait tent\u00e9 de contourner les sanctions am\u00e9ricaines pour fabriquer des puces d'IA.",
+            "url": "https://www.journaldugeek.com/2024/10/23/huawei-defie-les-etats-unis-une-puce-dia-au-coeur-dune-nouvelle-polemique/",
+            "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/10/huawei-entreprise.jpg",
+            "publishedAt": "2024-10-23T15:32:03Z",
+            "content": "Dans le viseur des \u00c9tats-Unis depuis des ann\u00e9es, Huawei continue d\u2019avancer et de susciter l\u2019inqui\u00e9tude de l\u2019Oncle Sam. Le g\u00e9ant chinois n\u2019a pas retrouv\u00e9 le niveau de la derni\u00e8re d\u00e9cennie, mais il rat\u2026 [+4026 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Syeda Seirut Javed",
+            "title": "Jim Cramer on Advanced Micro Devices, Inc. (AMD): \u2018I Think It\u2019s A Buy Ahead Of The Meeting\u2019",
+            "description": "We recently compiled a list of the 10 Best Jim Cramer Stocks To Buy According to Analysts. In this article, we are going to take a look at where Advanced...",
+            "url": "https://finance.yahoo.com/news/jim-cramer-advanced-micro-devices-101809616.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/urMM2VzBkSHT98G0um.0Eg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/78ee81d4d8cbe53924c848faf9b29aa4",
+            "publishedAt": "2024-10-23T10:18:09Z",
+            "content": "We recently compiled a list of the 10 Best Jim Cramer Stocks To Buy According to Analysts.\u00a0In this article, we are going to take a look at where Advanced Micro Devices, Inc. (NASDAQ:AMD) stands again\u2026 [+6209 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+            "title": "Up 20% This Year, Will Q3 Results Power Texas Instruments Higher?",
+            "description": "While the broader semiconductor industry has seen a recovery from a cyclical downturn in recent quarters led by the surge in demand for artificial intelligence chips, ...",
+            "url": "https://www.forbes.com/sites/greatspeculations/2024/10/21/up-20-this-year-will-q3-results-power-texas-instruments-higher/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66cd3e996f69d59cdfbabf26/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-10-21T10:00:38Z",
+            "content": "Visitors are visiting various integrated circuit chips developed and produced by Texas Instruments ... [+] at the 6th China International Import Expo (CIIE) in Shanghai, China, on November 6, 2023. (\u2026 [+4555 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+            "title": "Johnson Suggests Republicans May Repeal CHIPS Act\u2014Then Quickly Walks Back Comment",
+            "description": "Former President Donald Trump has criticized the act designed to bolster the United States\u2019 semiconductor supply chain and insisted tariffs would work better.",
+            "url": "https://www.forbes.com/sites/antoniopequenoiv/2024/11/01/johnson-suggests-republicans-may-repeal-chips-act-then-quickly-walks-back-comment/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6725622ae0ae4bdfafd8fedf/0x0.jpg?format=jpg&crop=2588,1454,x0,y0,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-11-01T23:22:56Z",
+            "content": "House Speaker Mike Johnson, R-La., told reporters Friday he expects Republicans to try and repeal the CHIPS Act if GOP lawmakers take control of Congress and former President Donald Trump wins the pr\u2026 [+3318 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "benzinga.com",
+            "title": "Team Biden's Ban On China Tech Investments Could Impact Tesla's AI Plans: Report",
+            "description": "The United States has announced a ban on investments in China\u2019s semiconductor and AI sectors, potentially affecting Tesla Inc. (NASDAQ:TSLA) and its operations in the region.\nWhat Happened: The Biden administration will prohibit U.S. investments in China\u2019s se\u2026",
+            "url": "https://biztoc.com/x/237a3339b37e9f71",
+            "urlToImage": "https://biztoc.com/cdn/237a3339b37e9f71_s.webp",
+            "publishedAt": "2024-10-29T13:22:50Z",
+            "content": "The United States has announced a ban on investments in Chinas semiconductor and AI sectors, potentially affecting Tesla Inc. (NASDAQ:TSLA) and its operations in the region.What Happened: The Biden a\u2026 [+143 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tom's Hardware UK"
+            },
+            "author": "Kunal Khullar",
+            "title": "MIT unveils ultra-efficient 3D nanoscale transistors that could revolutionize future electronics",
+            "description": "Ultrathin nanoscale 3D transistors made out of advanced semiconductor materials operate more efficiently than silicon-based devices by harnessing quantum properties, potentially enabling ultra-low-power AI applications.",
+            "url": "https://www.tomshardware.com/tech-industry/mit-unveils-ultra-efficient-3d-nanoscale-transistors-that-could-revolutionize-future-electronics",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/7FT3xWVQmNTqKVHz9FQTaj-1200-80.jpg",
+            "publishedAt": "2024-11-05T15:52:33Z",
+            "content": "MIT researchers have revealed nanoscale transistors that could potentially reshape the future of efficient electronics. Built using a unique 3D nanowire structure, these transistors surpass tradition\u2026 [+2665 chars]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "FOCUS online",
+            "title": "Nach Vorf\u00e4llen mit Huawei - USA untersagen TSMC die Lieferung von KI-Chips an China",
+            "description": "Die US-Regierung hat dem Konzern Taiwan Semiconductor Manufacturing (TSMC) die Ausfuhr von hoch entwickelten Mikrochips f\u00fcr K\u00fcnstliche Intelligenz nach China untersagt. Diese Chips d\u00fcrften ab sofort nicht mehr an chinesische Kunden geliefert werden.",
+            "url": "https://www.focus.de/finanzen/boerse/nach-vorfaellen-mit-huawei-tsmc-muss-lieferung-von-ki-chips-an-china-aussetzen-biden-interveniert_id_260467417.html",
+            "urlToImage": "https://p6.focus.de/img/fotos/id_260277447/tsmc.jpg?im=Crop%3D%280%2C4%2C1024%2C512%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=cd4a66ed93558cf009f37fdf227c1b5cb921d301e563fb92d96895ca4d88fc3d",
+            "publishedAt": "2024-11-10T08:47:51Z",
+            "content": "Die US-Regierung hat dem Konzern Taiwan Semiconductor Manufacturing (TSMC) die Ausfuhr von hoch entwickelten Mikrochips f\u00fcr K\u00fcnstliche Intelligenz nach China untersagt. Diese Chips d\u00fcrften ab sofort \u2026 [+1868 chars]"
+        }
+    ]
+}
