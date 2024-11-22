@@ -1,9 +1,10 @@
 import json
-import nltk
 import string
+import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
-import json
+from nltk.util import bigrams
+from collections import Counter
 
 # Load the JSON file
 with open("data/raw/news_headlines.json", "r") as file:
@@ -48,3 +49,18 @@ with open("data/processed/processed_headlines.json", "w") as file:
     json.dump(processed_headlines, file, indent=4)
 
 print("Cleaned and tokenised data saved to data/processed/processed_headlines.json!")
+
+# Generate bigrams for all tokenised headlines
+all_bigrams = []
+for tokens in processed_headlines:
+    bigram_list = list(bigrams(tokens))
+    all_bigrams.extend(bigram_list)
+
+# Count bigram frequencies
+bigram_counts = Counter(all_bigrams)
+
+# Save bigram frequencies
+with open("data/processed/bigram_counts.json", "w") as file:
+    json.dump(bigram_counts.most_common(20), file, indent=4)
+
+print("Top 20 bigrams saved to data/processed/bigram_counts.json!")
