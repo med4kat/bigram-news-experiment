@@ -1,0 +1,10 @@
+[
+    {
+        "bigram": [
+            "semiconductor",
+            "manufacturing"
+        ],
+        "count": 2,
+        "event": "Testing works"
+    }
+]
