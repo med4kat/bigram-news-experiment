@@ -8,6 +8,13 @@
     ],
     [
         [
+            "chips",
+            "act"
+        ],
+        3
+    ],
+    [
+        [
             "sources",
             "say"
         ],
@@ -92,13 +99,6 @@
     ],
     [
         [
-            "chips",
-            "act"
-        ],
-        2
-    ],
-    [
-        [
             "million",
             "investment"
         ],
@@ -106,15 +106,8 @@
     ],
     [
         [
-            "taiwan",
-            "semiconductor"
-        ],
-        2
-    ],
-    [
-        [
-            "semiconductor",
-            "manufacturing"
+            "chip",
+            "industry"
         ],
         2
     ],
@@ -136,6 +129,13 @@
         [
             "brief",
             "history"
+        ],
+        2
+    ],
+    [
+        [
+            "history",
+            "cyrix"
         ],
         2
     ]

@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 4331,
+    "totalResults": 4381,
     "articles": [
         {
             "source": {
@@ -420,19 +420,6 @@
         },
         {
             "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Erin Hale",
-            "title": "For Taiwan\u2019s crucial chip industry, both Trump and Harris bring risks",
-            "description": "Taiwan\u2019s semiconductor sector is watching US election closely amid geopolitical rivalry between Washington and Beijing.",
-            "url": "https://www.aljazeera.com/economy/2024/10/29/for-taiwans-crucial-chip-industry-both-trump-and-harris-bring-risks",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/GettyImages-2178296658-1729576456.jpg?resize=1920%2C1440",
-            "publishedAt": "2024-10-29T00:02:03Z",
-            "content": "Taipei, Taiwan For engineers working in Taiwans semiconductor industry, the past few years have been difficult.\r\nThe United Statess efforts to curb the growing power of China, Taiwans neighbour, by c\u2026 [+10427 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Chemistry World"
             },
@@ -443,6 +430,19 @@
             "urlToImage": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/7/2/0/537720_jssabe423f2_hr_331963.jpg",
             "publishedAt": "2024-11-12T18:39:23Z",
             "content": "Nuclear batteries can provide long-lasting power to pacemakers, sensors embedded in buildings and bridges, and even planetary rovers. While the technology has existed for decades, recent advances mea\u2026 [+9176 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Erin Hale",
+            "title": "For Taiwan\u2019s crucial chip industry, both Trump and Harris bring risks",
+            "description": "Taiwan\u2019s semiconductor sector is watching US election closely amid geopolitical rivalry between Washington and Beijing.",
+            "url": "https://www.aljazeera.com/economy/2024/10/29/for-taiwans-crucial-chip-industry-both-trump-and-harris-bring-risks",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/10/GettyImages-2178296658-1729576456.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-10-29T00:02:03Z",
+            "content": "Taipei, Taiwan For engineers working in Taiwans semiconductor industry, the past few years have been difficult.\r\nThe United Statess efforts to curb the growing power of China, Taiwans neighbour, by c\u2026 [+10427 chars]"
         },
         {
             "source": {
@@ -667,6 +667,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Michael Nu\u00f1ez",
+            "title": "Amazon doubles down on Anthropic, positioning itself as a key player in the AI arms race",
+            "description": "Amazon strengthens its position in the AI race with an additional $4 billion investment in Anthropic, committing to custom silicon and cloud dominance to compete with Microsoft and Google.",
+            "url": "https://venturebeat.com/ai/amazon-doubles-down-on-anthropic-positioning-itself-as-a-key-player-in-the-ai-arms-race/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/11/nuneybits_Vector_art_of_IBM_computers_and_Amazon_Web_Services_r_7a8ad67e-6ff7-4876-a732-c99df5e59380.webp?w=1024?w=1200&strip=all",
+            "publishedAt": "2024-11-22T22:56:25Z",
+            "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nThe artificial intelligence arms race heated up Friday as Amazon announ\u2026 [+4447 chars]"
+        },
+        {
+            "source": {
                 "id": "lenta",
                 "name": "Lenta"
             },
@@ -677,6 +690,19 @@
             "urlToImage": "https://icdn.lenta.ru/images/2024/11/11/08/20241111084623131/share_68a7cb52fd1f4aaa6a666bc79f69b7fa.jpg",
             "publishedAt": "2024-11-11T05:46:00Z",
             "content": ". Financial Times (FT) .\r\n , \u00ab \u00bb , . , , .\r\n , , , Lockheed Martin E-2D Advanced Hawkeye Northrop Grumman. , - () Patriot F-35.\r\n . \u00ab, , , . \u00bb, .\r\n, Taiwan Semiconductor Manufacturing Company (TSMC) \u2026 [+2 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techmeme.com"
+            },
+            "author": null,
+            "title": "Nvidia B200 GPU and Google Trillium TPU debut on the MLPerf Training v4.1 benchmark charts; the B200 posted a doubling of performance on some tests vs. the H100 (Samuel K. Moore/IEEE Spectrum)",
+            "description": "Samuel K. Moore / IEEE Spectrum:\nNvidia B200 GPU and Google Trillium TPU debut on the MLPerf Training v4.1 benchmark charts; the B200 posted a doubling of performance on some tests vs. the H100\u00a0 \u2014\u00a0 The Nvidia B200 and Google Trillium debut on the MLPerf bench\u2026",
+            "url": "https://www.techmeme.com/241114/p3",
+            "urlToImage": "https://spectrum.ieee.org/media-library/a-stack-of-computer-servers-with-fan-exhaust-ports.jpg?id=54490317&width=1200&height=600&coordinates=0%2C336%2C0%2C688",
+            "publishedAt": "2024-11-14T06:10:29Z",
+            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 1:10\u00a0AM\u00a0ET, November\u00a014,\u00a02024.\r\nThe most current version of the site as always is available at our home page.\r\nTo \u2026 [+71 chars]"
         },
         {
             "source": {
@@ -703,19 +729,6 @@
             "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/11/tsmc-6-6b-funding-finalized/-952x498w6/gsmarena_001.jpg",
             "publishedAt": "2024-11-15T22:03:01Z",
             "content": "Back in April, the United States Department of Commerce announced $6.6 billion in direct funding for TSMC under the U.S. CHIPS and Science Act. The subsidy has now been finalized and will include an \u2026 [+1705 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Techmeme.com"
-            },
-            "author": null,
-            "title": "Nvidia B200 GPU and Google Trillium TPU debut on the MLPerf Training v4.1 benchmark charts; the B200 posted a doubling of performance on some tests vs. the H100 (Samuel K. Moore/IEEE Spectrum)",
-            "description": "Samuel K. Moore / IEEE Spectrum:\nNvidia B200 GPU and Google Trillium TPU debut on the MLPerf Training v4.1 benchmark charts; the B200 posted a doubling of performance on some tests vs. the H100\u00a0 \u2014\u00a0 The Nvidia B200 and Google Trillium debut on the MLPerf bench\u2026",
-            "url": "https://www.techmeme.com/241114/p3",
-            "urlToImage": "https://spectrum.ieee.org/media-library/a-stack-of-computer-servers-with-fan-exhaust-ports.jpg?id=54490317&width=1200&height=600&coordinates=0%2C336%2C0%2C688",
-            "publishedAt": "2024-11-14T06:10:29Z",
-            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 1:10\u00a0AM\u00a0ET, November\u00a014,\u00a02024.\r\nThe most current version of the site as always is available at our home page.\r\nTo \u2026 [+71 chars]"
         },
         {
             "source": {
@@ -993,19 +1006,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "businessinsider.com",
-            "title": "Trump's trade restrictions could be good for American semiconductor jobs",
-            "description": "President-elect Donald Trump's proposed tariff policies could boost employment in the semiconductor industry.\nJoe Raedle/Getty Images\nThe tariffs Donald Trump proposed while campaigning could help create US semiconductor jobs.\nTariffs could also help US chipm\u2026",
-            "url": "https://biztoc.com/x/d474441cd857a98c",
-            "urlToImage": "https://biztoc.com/cdn/807/og.png",
-            "publishedAt": "2024-11-17T09:11:46Z",
-            "content": "President-elect Donald Trump's proposed tariff policies could boost employment in the semiconductor industry.Joe Raedle/Getty ImagesThe tariffs Donald Trump proposed while campaigning could help crea\u2026 [+150 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Quartz India"
             },
             "author": "Britney Nguyen",
@@ -1015,6 +1015,19 @@
             "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0473ae80388ddc73912c8f039c503807.jpg",
             "publishedAt": "2024-11-19T13:35:00Z",
             "content": "In This Story\r\nChinas answer to being banned from Nvidias (NVDA0.00%\r\n) artificial intelligence chips is reportedly being stalled by U.S. trade restrictions.\r\nHuaweis next two Ascend processors are b\u2026 [+1762 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "businessinsider.com",
+            "title": "Trump's trade restrictions could be good for American semiconductor jobs",
+            "description": "President-elect Donald Trump's proposed tariff policies could boost employment in the semiconductor industry.\nJoe Raedle/Getty Images\nThe tariffs Donald Trump proposed while campaigning could help create US semiconductor jobs.\nTariffs could also help US chipm\u2026",
+            "url": "https://biztoc.com/x/d474441cd857a98c",
+            "urlToImage": "https://biztoc.com/cdn/807/og.png",
+            "publishedAt": "2024-11-17T09:11:46Z",
+            "content": "President-elect Donald Trump's proposed tariff policies could boost employment in the semiconductor industry.Joe Raedle/Getty ImagesThe tariffs Donald Trump proposed while campaigning could help crea\u2026 [+150 chars]"
         },
         {
             "source": {
@@ -1045,19 +1058,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Tom's Hardware UK"
-            },
-            "author": "Anton Shilov",
-            "title": "Gorilla Glass maker Corning is set to receive $32 million under the CHIPS and Science Act",
-            "description": "Corning may not make chips, but its contribution to semiconductor production is rather huge.",
-            "url": "https://www.tomshardware.com/tech-industry/gorilla-glass-maker-corning-is-set-to-receive-usd32-million-under-the-chips-and-science-act",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Vu6N9RDjut8Yy6FiGKNSCB-1200-80.png",
-            "publishedAt": "2024-11-09T15:17:46Z",
-            "content": "Corning is primarily known for its ruggedized glasses for smartphones and is barely known in the semiconductor industry. Yet, its contribution to the production of chips using leading-edge technologi\u2026 [+2365 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Arxiv.org"
             },
             "author": null,
@@ -1067,6 +1067,19 @@
             "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
             "publishedAt": "2024-11-19T09:22:11Z",
             "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce\u2026 [+257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tom's Hardware UK"
+            },
+            "author": "Anton Shilov",
+            "title": "Gorilla Glass maker Corning is set to receive $32 million under the CHIPS and Science Act",
+            "description": "Corning may not make chips, but its contribution to semiconductor production is rather huge.",
+            "url": "https://www.tomshardware.com/tech-industry/gorilla-glass-maker-corning-is-set-to-receive-usd32-million-under-the-chips-and-science-act",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Vu6N9RDjut8Yy6FiGKNSCB-1200-80.png",
+            "publishedAt": "2024-11-09T15:17:46Z",
+            "content": "Corning is primarily known for its ruggedized glasses for smartphones and is barely known in the semiconductor industry. Yet, its contribution to the production of chips using leading-edge technologi\u2026 [+2365 chars]"
         },
         {
             "source": {
@@ -1151,19 +1164,6 @@
                 "id": null,
                 "name": "Biztoc.com"
             },
-            "author": "finance.yahoo.com",
-            "title": "US finalizes $6.6 billion chips award for TSMC ahead of Trump return",
-            "description": "In This Article:\nBy David Shepardson\nWASHINGTON (Reuters) - The U.S. Commerce Department said Friday it has finalized a $6.6 billion government subsidy for Taiwan Semiconductor Manufacturing Co's U.S. unit for semiconductor production in Phoenix, Arizona.\nThe\u2026",
-            "url": "https://biztoc.com/x/b8129504084e6bd2",
-            "urlToImage": "https://biztoc.com/cdn/807/og.png",
-            "publishedAt": "2024-11-15T10:07:59Z",
-            "content": "In This Article:By David ShepardsonWASHINGTON (Reuters) - The U.S. Commerce Department said Friday it has finalized a $6.6 billion government subsidy for Taiwan Semiconductor Manufacturing Co's U.S. \u2026 [+154 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
             "author": "aol.com",
             "title": "Stock Split Watch: Is Applied Materials Next?",
             "description": "Applied Materials (NASDAQ: AMAT) is a linchpin of the semiconductor market. It's one of the world's top suppliers of chip manufacturing equipment, and it serves a broad range of customers across the foundry, logic, and memory chip markets. Its major customers\u2026",
@@ -1171,6 +1171,19 @@
             "urlToImage": "https://biztoc.com/cdn/230f9eb67161b5d7_s.webp",
             "publishedAt": "2024-11-20T11:10:57Z",
             "content": "Applied Materials (NASDAQ: AMAT) is a linchpin of the semiconductor market. It's one of the world's top suppliers of chip manufacturing equipment, and it serves a broad range of customers across the \u2026 [+149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "finance.yahoo.com",
+            "title": "US finalizes $6.6 billion chips award for TSMC ahead of Trump return",
+            "description": "In This Article:\nBy David Shepardson\nWASHINGTON (Reuters) - The U.S. Commerce Department said Friday it has finalized a $6.6 billion government subsidy for Taiwan Semiconductor Manufacturing Co's U.S. unit for semiconductor production in Phoenix, Arizona.\nThe\u2026",
+            "url": "https://biztoc.com/x/b8129504084e6bd2",
+            "urlToImage": "https://biztoc.com/cdn/807/og.png",
+            "publishedAt": "2024-11-15T10:07:59Z",
+            "content": "In This Article:By David ShepardsonWASHINGTON (Reuters) - The U.S. Commerce Department said Friday it has finalized a $6.6 billion government subsidy for Taiwan Semiconductor Manufacturing Co's U.S. \u2026 [+154 chars]"
         },
         {
             "source": {
@@ -1288,19 +1301,6 @@
             "urlToImage": "https://p6.focus.de/img/fotos/id_260277447/tsmc.jpg?im=Crop%3D%280%2C4%2C1024%2C512%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=cd4a66ed93558cf009f37fdf227c1b5cb921d301e563fb92d96895ca4d88fc3d",
             "publishedAt": "2024-11-10T08:47:51Z",
             "content": "Die US-Regierung hat dem Konzern Taiwan Semiconductor Manufacturing (TSMC) die Ausfuhr von hoch entwickelten Mikrochips f\u00fcr K\u00fcnstliche Intelligenz nach China untersagt. Diese Chips d\u00fcrften ab sofort \u2026 [+1868 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "aol.com",
-            "title": "Nvidia stock sinks on fears of AI slowdown, possible shipment delays",
-            "description": "stock fell nearly 5% Thursday on investor fears of a slowdown in artificial intelligence spending and potential delivery delays of its AI chips.\nSemiconductor stocks suffered across the board. The PHLX semiconductor index (^SOX) fell over 4%, slumping more th\u2026",
-            "url": "https://biztoc.com/x/ca8ee42395ee88ac",
-            "urlToImage": "https://biztoc.com/cdn/ca8ee42395ee88ac_s.webp",
-            "publishedAt": "2024-10-31T19:04:16Z",
-            "content": "stock fell nearly 5% Thursday on investor fears of a slowdown in artificial intelligence spending and potential delivery delays of its AI chips.Semiconductor stocks suffered across the board. The PHL\u2026 [+148 chars]"
         }
     ]
 }
