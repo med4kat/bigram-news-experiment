@@ -8,3 +8,8 @@ This project focuses on detecting financial events in the semiconductor industry
 - [Features](#features)  
 - [Getting Started](#getting-started)  
 - [Usage](#usage)  
+
+
+## [Introduction](#table-of-contents)
+
+This project analyses financial news in the semiconductor industry to detect patterns and potential market signals by extracting and analysing word pairs (bigrams) from news headlines.
