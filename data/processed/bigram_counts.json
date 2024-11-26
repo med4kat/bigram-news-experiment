@@ -1,66 +1,59 @@
 [
     [
         [
-            "black",
-            "friday"
+            "wall",
+            "street"
         ],
-        9
+        7
     ],
     [
         [
-            "macbook",
-            "pro"
-        ],
-        9
-    ],
-    [
-        [
-            "macbook",
-            "air"
+            "nvidia",
+            "stock"
         ],
         6
     ],
     [
         [
-            "apple",
-            "\u2019"
+            "nvidia",
+            "nvda"
+        ],
+        6
+    ],
+    [
+        [
+            "stock",
+            "market"
         ],
         5
     ],
     [
         [
-            "mac",
-            "mini"
+            "super",
+            "micro"
         ],
         5
     ],
     [
         [
-            "chips",
-            "act"
+            "micro",
+            "computer"
         ],
-        4
+        5
     ],
     [
         [
-            "m4",
-            "max"
+            "nvidia",
+            "corporation"
         ],
-        4
+        5
     ],
     [
         [
-            "max",
-            "chip"
+            "corporation",
+            "nvda"
         ],
-        4
-    ],
-    [
-        [
-            "m4",
-            "macbook"
-        ],
-        4
+        5
     ],
     [
         [
@@ -71,72 +64,79 @@
     ],
     [
         [
-            "pro",
-            "m4"
-        ],
-        3
-    ],
-    [
-        [
             "new",
-            "m4"
+            "ai"
         ],
-        3
+        4
     ],
     [
         [
-            "pro",
-            "chip"
+            "stock",
+            "nvidia"
         ],
-        3
+        4
     ],
     [
         [
-            "m4",
-            "chip"
+            "artificial",
+            "intelligence"
         ],
-        3
-    ],
-    [
-        [
-            "trump",
-            "'s"
-        ],
-        2
-    ],
-    [
-        [
-            "chip",
-            "industry"
-        ],
-        2
-    ],
-    [
-        [
-            "air",
-            "m2"
-        ],
-        2
-    ],
-    [
-        [
-            "lowest",
-            "price"
-        ],
-        2
+        4
     ],
     [
         [
             "price",
-            "ever"
+            "target"
         ],
-        2
+        4
     ],
     [
         [
-            "'s",
-            "blackwell"
+            "nvda",
+            "stock"
         ],
-        2
+        3
+    ],
+    [
+        [
+            "hot",
+            "new"
+        ],
+        3
+    ],
+    [
+        [
+            "ai",
+            "chip"
+        ],
+        3
+    ],
+    [
+        [
+            "nvidia",
+            "\u2019"
+        ],
+        3
+    ],
+    [
+        [
+            "magnificent",
+            "7"
+        ],
+        3
+    ],
+    [
+        [
+            "election",
+            "win"
+        ],
+        3
+    ],
+    [
+        [
+            "market",
+            "clubhouse"
+        ],
+        3
     ]
 ]

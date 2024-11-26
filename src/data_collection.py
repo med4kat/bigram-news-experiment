@@ -7,8 +7,8 @@ load_dotenv()
 NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
 
 # Fetch semiconductor news headlines
-# url = f"https://newsapi.org/v2/everything?q=bitcoint&apiKey={NEWSAPI_KEY}"
-url = f"https://newsapi.org/v2/everything?q=semiconductor OR chip OR \"chips act\"&from=2024-10-25&to=2024-11-25&language=en&apiKey={NEWSAPI_KEY}"
+url = f"https://newsapi.org/v2/everything?q=NVDA&apiKey={NEWSAPI_KEY}"
+# add language=eng 
 
 response = requests.get(url)
 data = response.json()
