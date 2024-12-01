@@ -1,13 +1,14 @@
 import requests
 import os
 from dotenv import load_dotenv
+from datetime import datetime
 
 # Load API key from .env file
 load_dotenv()
 NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
 
 # Fetch semiconductor news headlines
-url = f"https://newsapi.org/v2/everything?q=NVDA&apiKey={NEWSAPI_KEY}"
+url = f"https://newsapi.org/v2/everything?q=NVDA&q=AMD&q=INTC&q=QCOM&q=TSM&from=2024-11-27&to=2024-11-30&sortBy=popularity&apiKey={NEWSAPI_KEY}"
 # add language=eng 
 
 response = requests.get(url)

@@ -1,92 +1,71 @@
 [
     [
         [
-            "wall",
-            "street"
+            "nvidia",
+            "co."
         ],
-        7
+        13
+    ],
+    [
+        [
+            "co.",
+            "nasdaq"
+        ],
+        13
+    ],
+    [
+        [
+            "nasdaq",
+            "nvda"
+        ],
+        13
     ],
     [
         [
             "nvidia",
             "stock"
         ],
-        6
+        11
     ],
     [
         [
-            "nvidia",
-            "nvda"
+            "dow",
+            "jones"
         ],
-        6
-    ],
-    [
-        [
-            "stock",
-            "market"
-        ],
-        5
-    ],
-    [
-        [
-            "super",
-            "micro"
-        ],
-        5
-    ],
-    [
-        [
-            "micro",
-            "computer"
-        ],
-        5
-    ],
-    [
-        [
-            "nvidia",
-            "corporation"
-        ],
-        5
-    ],
-    [
-        [
-            "corporation",
-            "nvda"
-        ],
-        5
+        8
     ],
     [
         [
             "nvidia",
             "'s"
         ],
-        4
+        7
     ],
     [
         [
-            "new",
-            "ai"
+            "jones",
+            "futures"
         ],
         4
     ],
     [
         [
             "stock",
+            "market"
+        ],
+        4
+    ],
+    [
+        [
+            "jensen",
+            "huang"
+        ],
+        4
+    ],
+    [
+        [
+            "shares",
             "nvidia"
-        ],
-        4
-    ],
-    [
-        [
-            "artificial",
-            "intelligence"
-        ],
-        4
-    ],
-    [
-        [
-            "price",
-            "target"
         ],
         4
     ],
@@ -99,43 +78,64 @@
     ],
     [
         [
-            "hot",
-            "new"
+            "prediction",
+            "nvidia"
+        ],
+        3
+    ],
+    [
+        [
+            "stock",
+            "soar"
+        ],
+        3
+    ],
+    [
+        [
+            "soar",
+            "2025."
+        ],
+        3
+    ],
+    [
+        [
+            "2025.",
+            "'s"
         ],
         3
     ],
     [
         [
             "ai",
-            "chip"
+            "dominance"
         ],
         3
     ],
     [
         [
-            "nvidia",
-            "\u2019"
+            "p",
+            "500"
         ],
         3
     ],
     [
         [
-            "magnificent",
-            "7"
+            "fed",
+            "inflation"
         ],
         3
     ],
     [
         [
-            "election",
-            "win"
+            "ceo",
+            "jensen"
         ],
         3
     ],
     [
         [
-            "market",
-            "clubhouse"
+            "llc",
+            "sells"
         ],
         3
     ]

@@ -1,500 +1,71 @@
 {
     "status": "ok",
-    "totalResults": 712,
+    "totalResults": 81,
     "articles": [
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Omor Ibne Ehsan",
-            "title": "Is AMD Stock Finally Better Than NVDA Stock After a 36% Decline?",
-            "description": "Advanced Micro Devices (NASDAQ:AMD) stock has tumbled 36% from its 52-week high of $211 in March and trades around $135 as of writing. The decline has been...",
-            "url": "https://finance.yahoo.com/news/amd-stock-finally-better-nvda-142253161.html",
-            "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/4f363d74ea891a39a226cbee98a88d97",
-            "publishedAt": "2024-11-16T14:22:53Z",
-            "content": "Advanced Micro Devices (NASDAQ:AMD) stock has tumbled 36% from its 52-week high of $211 in March and trades around $135 as of writing. The decline has been driven by disappointing earnings and guidan\u2026 [+8111 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "Nvidia and Apple keep taking turns at the top of the world",
-            "description": "Nvidia (NVDA) is back on top as the world\u2019s most valuable public company ahead of the U.S. presidential election.Read more...",
-            "url": "https://qz.com/nvidia-apple-market-cap-stock-most-valuable-company-1851689721",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d6d14670a6139d48dd859e503a4854af.jpg",
-            "publishedAt": "2024-11-05T17:00:48Z",
-            "content": "In This Story\r\nNvidia (NVDA+2.83%\r\n) is back on top as the worlds most valuable public company ahead of the U.S. presidential election.\r\nThe chipmakers shares rose around 2.4% on Tuesday, pushing its\u2026 [+2028 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "Huawei's advanced chips are taking a hit from U.S. sanctions",
-            "description": "China\u2019s answer to being banned from Nvidia\u2019s (NVDA) artificial intelligence chips is reportedly being stalled by U.S. trade restrictions.Read more...",
-            "url": "https://qz.com/huawei-advanced-chips-ai-smartphone-china-us-sanctions-1851702545",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0473ae80388ddc73912c8f039c503807.jpg",
-            "publishedAt": "2024-11-19T13:35:00Z",
-            "content": "In This Story\r\nChinas answer to being banned from Nvidias (NVDA0.00%\r\n) artificial intelligence chips is reportedly being stalled by U.S. trade restrictions.\r\nHuaweis next two Ascend processors are b\u2026 [+1762 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "Microsoft has a sneak peek of Nvidia's hot new AI chips",
-            "description": "Another Nvidia (NVDA) customer is ready to launch the chipmaker\u2019s highly-anticipated new artificial intelligence platform. Read more...",
-            "url": "https://qz.com/microsoft-launch-preview-nvidia-blackwell-ai-chip-azure-1851702718",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e1b48b4b23b60a6626bde04cc040ffd0.jpg",
-            "publishedAt": "2024-11-19T16:03:00Z",
-            "content": "In This Story\r\nAnother Nvidia (NVDA+2.43%\r\n) customer is ready to launch the chipmakers highly-anticipated new artificial intelligence platform. \r\nMicrosoft (MSFT-0.32%\r\n) chief executive Satya Nadel\u2026 [+2364 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "A Nvidia partner's stock surged because Nvidia wants chips faster",
-            "description": "An Nvidia (NVDA) partner in South Korea saw its shares surge Monday after it said the U.S.-based chipmaker wants chips faster.Read more...",
-            "url": "https://qz.com/sk-hynix-stock-surge-nvidia-want-memory-chip-faster-ai-1851688452",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b4f8d90ae88cc9b0b00ac6be8f7697e1.jpg",
-            "publishedAt": "2024-11-04T15:38:27Z",
-            "content": "In This Story\r\nAn Nvidia (NVDA+1.53%\r\n) partner in South Korea saw its shares surge Monday after it said the U.S.-based chipmaker wants chips faster.\r\nSK Hynixs South Korealisted shares closed up alm\u2026 [+1626 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Nauman khan",
-            "title": "Morgan Stanley Lifts Nvidia Target as Blackwell Product Sales Surge",
-            "description": "Nvidia's Bullish Streak: Morgan Stanley Analysts Set New $160 Target",
-            "url": "https://finance.yahoo.com/news/morgan-stanley-lifts-nvidia-target-163309318.html",
-            "urlToImage": "https://media.zenfs.com/en/us.finance.gurufocus/03412812937b5e844d13e61d0b389761",
-            "publishedAt": "2024-11-11T16:33:09Z",
-            "content": "Morgan Stanley (MS, Financial) has raised its price target for Nvidia (NVDA, Financial) from $150 to $160, citing Nvidia's recent bullish performance and anticipated easing of supply-chain challenges\u2026 [+1307 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "Amazon is taking on Nvidia with an AI freebie",
-            "description": "Amazon (AMZN) Web Services is looking to take on Nvidia\u2019s (NVDA) dominance in artificial intelligence chips with a new offer to AI researchers.Read more...",
-            "url": "https://qz.com/amazon-nvidia-ai-research-computing-power-training-chip-1851695805",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8deeeebec135b6fc6b73201d525ee6a2.jpg",
-            "publishedAt": "2024-11-12T16:45:00Z",
-            "content": "In This Story\r\nAmazon (AMZN-0.37%\r\n) Web Services is looking to take on Nvidias (NVDA+2.20%\r\n) dominance in artificial intelligence chips with a new offer to AI researchers.\r\nThe cloud computing unit\u2026 [+2145 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "Nvidia is having problems with its hot new AI chip as earning loom",
-            "description": "After facing delays for its new Blackwell artificial intelligence chips, Nvidia (NVDA) reportedly has a new problem \u2014 one that has its customers worried.Read more...",
-            "url": "https://qz.com/nvidia-blackwell-ai-chip-earnings-jensen-huang-1851701609",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/473a45f3d8a39d3e7c8ce4c13f15b6b3.jpg",
-            "publishedAt": "2024-11-18T15:17:00Z",
-            "content": "In This Story\r\nAfter facing delays for its new Blackwell artificial intelligence chips, Nvidia (NVDA-1.69%\r\n) reportedly has a new problem one that has its customers worried.\r\nThe Information, citing\u2026 [+2243 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "Nvidia stock continues post-earnings fall after slight recovery",
-            "description": "Nvidia\u2019s (NVDA) shares made a slight recovery at the market open on Thursday, before reversing and continuing its fall during after-hours and pre-market trading. Read more...",
-            "url": "https://qz.com/nvidia-stock-post-q3-earnings-fall-shares-recover-chips-1851704784",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/2382c044e58444ac7c7e3483e90446e7.jpg",
-            "publishedAt": "2024-11-21T15:09:00Z",
-            "content": "In This Story\r\nNvidias (NVDA-2.72%\r\n) shares made a slight recovery at the market open on Thursday, before reversing and continuing its fall during after-hours and pre-market trading. \r\nThe chipmaker\u2026 [+1600 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "Nvidia is in for larger beats as Blackwell rolls out, analysts say",
-            "description": "Despite Nvidia\u2019s (NVDA) modest guidance for its fiscal fourth quarter, analysts are anticipating larger earnings beats on strong demand for its new artificial intelligence platform. Read more...",
-            "url": "https://qz.com/nvidia-larger-beats-blackwell-ai-chip-ship-q3-earnings-1851704918",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6d3266b40ad28a39eb70550d72e39311.jpg",
-            "publishedAt": "2024-11-21T17:55:00Z",
-            "content": "In This Story\r\nDespite Nvidias (NVDA-1.48%\r\n)modest guidance for its fiscal fourth quarter, analysts are anticipating larger earnings beats on strong demand for its new artificial intelligence platfo\u2026 [+3347 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "Nvidia's hot new AI chip has its first customer",
-            "description": "Nvidia\u2019s (NVDA) new artificial intelligence chip has its first customer, which plans to build the most powerful AI supercomputer in Japan.Read more...",
-            "url": "https://qz.com/softbank-nvidia-first-customer-blackwell-ai-chip-japan-1851697231",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f1d22bcc39a0963d2c14290dbd7a7fee.jpg",
-            "publishedAt": "2024-11-13T14:58:00Z",
-            "content": "In This Story\r\nNvidias (NVDA-1.02%\r\n) new artificial intelligence chip has its first customer, which plans to build the most powerful AI supercomputer in Japan.\r\nThe chipmaker is collaborating with J\u2026 [+1574 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "Nvidia beats third quarter expectations as tech world welcomes Blackwell",
-            "description": "Nvidia\u2019s (NVDA) fiscal third quarter revenues beat Wall Street\u2019s expectations for another straight quarter at a record $35.1 billion \u2014 up 94% from a year ago.Read more...",
-            "url": "https://qz.com/nvidia-third-quarter-earnings-blackwell-data-center-ai-1851704373",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/fbcf82aefd98665e33922246bba41264.jpg",
-            "publishedAt": "2024-11-20T21:30:00Z",
-            "content": "In This Story\r\nNvidias (NVDA) fiscal third quarter revenues beat Wall Streets expectations for another straight quarter at a record $35.1 billion up 94% from a year ago.\r\nThe chipmakers revenues for \u2026 [+1662 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "ChatGPT takes on Google, Meta's spending spree, and Microsoft's data center problem: AI news roundup",
-            "description": "Major tech companies reported earning results this week including Microsoft and Meta. But weaker-than-expected prospects for the next quarter sent artificial intelligence stocks, including Nvidia\u2019s (NVDA), down on Thursday.Read more...",
-            "url": "https://qz.com/chatgpt-search-meta-ai-earnings-microsoft-data-centers-1851686792",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b2d4e62e61be70645ebb7cef03a1b6ad.jpg",
-            "publishedAt": "2024-11-01T09:00:00Z",
-            "content": "Michael Hunter, an Atlanta-based real estate marketing professional and Apple (AAPL) power user, has watched Apples new Apple Intelligence features evolve from promising to problematic. After a month\u2026 [+154 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "Investors want to see a 'bullish' Nvidia in its earnings, analyst says",
-            "description": "After reporting record earnings for its fiscal second quarter on Aug. 30, Nvidia\u2019s (NVDA) shares tumbled after investors were left unimpressed by its guidance for the fiscal third quarter.Read more...",
-            "url": "https://qz.com/investors-bullish-nvidia-fiscal-q3-earnings-ai-chips-1851704016",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/16baaba754b072dbd9dcc7948175a490.jpg",
-            "publishedAt": "2024-11-20T20:11:46Z",
-            "content": "In This Story\r\nAfter reporting record earnings for its fiscal second quarter on Aug. 30, Nvidias (NVDA) shares tumbled after investors were left unimpressed by its guidance for the fiscal third quart\u2026 [+3124 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "3 Nvidia customers have each spent $10 billion on chips this year",
-            "description": "Nvidia\u2019s (NVDA) path to becoming the most valuable public company in the world this year has been laid by its artificial intelligence chips and a handful of anonymous customers.Read more...",
-            "url": "https://qz.com/nvidia-customers-10-billion-ai-chips-blackwell-1851706059",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/266a7ed1ec6d543792c1b836e2daa0d5.jpg",
-            "publishedAt": "2024-11-22T18:25:00Z",
-            "content": "In This Story\r\nNvidias (NVDA-3.25%\r\n) path to becoming the most valuable public company in the world this year has been laid by its artificial intelligence chips and a handful of anonymous customers.\u2026 [+1822 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "Nvidia is about to replace Intel in the Dow",
-            "description": "Nvidia (NVDA) shares rose 1% in Monday morning trading as the AI chipmaker is set to join the Dow Jones Industrial Average, which comprises the 30 leading U.S. stocks. This inclusion marks a significant milestone for Nvidia and reflects its growing influence \u2026",
-            "url": "https://qz.com/nvidia-dow-jones-intel-ai-1851688470",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/2fc26bb19656f81585e2d6d1445a53e5.jpg",
-            "publishedAt": "2024-11-04T15:08:00Z",
-            "content": "In This Story\r\nNvidia (NVDA+1.43%\r\n) shares rose 1% in Monday morning trading as the AI chipmaker is set to join the Dow Jones Industrial Average, which comprises the 30 leading U.S. stocks. This inc\u2026 [+1698 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "The Dow jumped more than 500 points after Nvidia\u2019s big earnings",
-            "description": "The Dow surged by over 570 points Thursday afternoon, buoyed by strong earnings from Nvidia (NVDA), which briefly hit a 52-week high of $152.89 per share earlier in the day. Meanwhile, shares of Super Micro Computer (SMCI) rose over 14% after Nvidia mentioned\u2026",
-            "url": "https://qz.com/dow-rises-500-points-nvidias-earnings-bitcoin-1851705214",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/04ec18d7afb4bd98af2c44152db30ee5.jpg",
-            "publishedAt": "2024-11-21T18:42:00Z",
-            "content": "In This Story\r\nThe Dow surged by over 570 points Thursday afternoon, buoyed by strong earnings from Nvidia (NVDA+0.19%\r\n), which briefly hit a 52-week high of $152.89 per share earlier in the day. Me\u2026 [+1906 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "ChatGPT updates, warehouse robots, and special agents: This week's AI launches",
-            "description": "Each week, Quartz rounds up product launches, updates, and funding news from artificial intelligence-focused startups and companies.Read more...",
-            "url": "https://qz.com/openai-chatgpt-physical-ai-agents-startup-funding-1851706500",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/93f097ff5b51b382211ac129439e3e9e.jpg",
-            "publishedAt": "2024-11-23T10:00:00Z",
-            "content": "Lightning AI, the company behind the PyTorch Lightning deep learning framework, announced a $50 million equity investment this week that included Nvidia (NVDA) and J.P. Morgan (JPM). \r\nPyTorch Lightn\u2026 [+733 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "foxbusiness.com",
-            "title": "Top 2024 ETFs tied to one stock: Nvidia",
-            "description": "The best three performing exchange-traded funds of 2024 have one thing in common: each is linked to AI super-stock Nvidia. \nT-Rex 2X Long NVIDIA Daily Target ETF and GraniteShares 2x Long NVDA Daily ETF have advanced more than 400% each, while Direxion Daily \u2026",
-            "url": "https://biztoc.com/x/84122d1231cfa19d",
-            "urlToImage": "https://biztoc.com/cdn/84122d1231cfa19d_s.webp",
-            "publishedAt": "2024-11-20T19:47:03Z",
-            "content": "The best three performing exchange-traded funds of 2024 have one thing in common: each is linked to AI super-stock Nvidia. T-Rex 2X Long NVIDIA Daily Target ETF and GraniteShares 2x Long NVDA Daily E\u2026 [+145 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
             "author": null,
-            "title": "Market Digest: EQIX, HON, HSY, NVDA, ALC",
-            "description": "Find the latest NVIDIA Corporation (NVDA) stock forecast based on top analyst's estimates, plus more investing and trading data from Yahoo Finance",
-            "url": "https://finance.yahoo.com/research/reports/ARGUS_41892_MarketSummary_1732189686000/",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-11-21T11:48:06Z",
-            "content": "Inflation Data Unwinds Some of the Post-Election Rally Stocks soared on 11/6/24 on investor optimism that the incoming Trump administration would issue business-friendly policies including relaxed re\u2026 [+5693 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "The Dow slumps 380 points as the market's post-election Trump rally loses steam",
-            "description": "After hitting record highs following Trump\u2019s victory, the Dow and S&P 500 hit the brakes on Tuesday, a day before the release of the Consumer Price Index (CPI) and core CPI data.Read more...",
-            "url": "https://qz.com/dow-rally-pauses-trump-bitcoin-tesla-nvidia-inflation-1851696209",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/63dcd7cea97b3ce592553a54b1878748.jpg",
-            "publishedAt": "2024-11-12T22:00:00Z",
-            "content": "In This Story\r\nAfter hitting record highs following Trumps victory, the Dow and S&amp;P 500 hit the brakes on Tuesday, a day before the release of the Consumer Price Index (CPI) and core CPI data.\r\nB\u2026 [+1331 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "Which stocks are in the Magnificent 7?",
-            "description": "The \u201cMagnificent 7\u201d refers to a group of seven high-performing tech stocks that drive much of the market\u2019s growth, particularly during market rallies. These companies have significantly influenced stock market performance, accounting for a large share of the \u2026",
-            "url": "https://qz.com/magnificent-7-stocks-aapl-nvda-msft-goog-amzn-meta-tsla-1851681874",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8655bf91dcb9c1e15e2827d0f2e75a3a.jpg",
-            "publishedAt": "2024-10-28T11:49:00Z",
-            "content": "The Magnificent 7 refers to a group of seven high-performing tech stocks that drive much of the markets growth, particularly during market rallies. These companies have significantly influenced stock\u2026 [+1048 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "OpenAI is launching an AI agent that can do work for people",
-            "description": "OpenAI is on to the next wave of artificial intelligence with an autonomous agent it reportedly plans to launch in January.Read more...",
-            "url": "https://qz.com/openai-operator-launch-ai-agent-code-autonomous-1851697965",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/61443e08b2c6a7034d050cb99938170f.jpg",
-            "publishedAt": "2024-11-13T21:15:00Z",
-            "content": "In This Story\r\nOpenAI is on to the next wave of artificial intelligence with an autonomous agent it reportedly plans to launch in January.\r\nThe AI agent, codenamed Operator, can do tasks on behalf of\u2026 [+1716 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Ben Kesslen",
-            "title": "Perplexity has a new AI Election Hub \u2014 and promises it'll be accurate",
-            "description": "Perplexity, an AI search company, wants you to use artificial intelligence to track election results.Read more...",
-            "url": "https://qz.com/perplexity-launches-ai-election-hub-election-results-1851688891",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/240713e2959971a3fd0ad484ae76b6b0.png",
-            "publishedAt": "2024-11-04T19:45:29Z",
-            "content": "In This Story\r\nPerplexity, an AI search company, wants you to use artificial intelligence to track election results.\r\nThe company launched its Election Information Hub on Friday to offer AI-generated\u2026 [+1627 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "Nvidia and Google stock rise while Meta and TSMC fall after Trump's election win",
-            "description": "A majority of Big Tech stocks were on the rise Wednesday after former President Donald Trump won his reelection bid against Democratic nominee Kamala Harris.Read more...",
-            "url": "https://qz.com/google-nvidia-meta-tsmc-stock-amazon-trump-election-win-1851690688",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/31a4d3cf4023079fa6b774ab930c3e2c.jpg",
-            "publishedAt": "2024-11-06T16:26:03Z",
-            "content": "In This Story\r\nA majority of Big Tech stocks were on the rise Wednesday after former President Donald Trump won his reelection bid against Democratic nominee Kamala Harris.\r\nGoogle (GOOGL+3.21%\r\n) pa\u2026 [+1486 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "AMD is laying off workers as it focuses on AI",
-            "description": "Advanced Micro Devices (AMD) is cutting 4% of its global workforce as it focuses on competition in the artificial intelligence chips space.Read more...",
-            "url": "https://qz.com/amd-layoff-global-workforce-focus-ai-chips-nvidia-1851697620",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4862a3e93f1e7cc9b9d68bcd44f4b9d1.jpg",
-            "publishedAt": "2024-11-13T19:40:00Z",
-            "content": "In This Story\r\nAdvanced Micro Devices (AMD-3.01%\r\n) is cutting 4% of its global workforce as it focuses on competition in the artificial intelligence chips space.\r\nAs a part of aligning our resources\u2026 [+1865 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "Elon Musk says there's a 10 to 20% chance AI could go bad",
-            "description": "As he anticipates the growth of his supercomputer, Elon Musk said there\u2019s a chance artificial intelligence could go bad by the end of the decade.Read more...",
-            "url": "https://qz.com/elon-musk-ai-comments-xai-colossus-1851683963",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e241d2db27739f93f534cd14df779633.jpg",
-            "publishedAt": "2024-10-29T16:36:04Z",
-            "content": "In This Story\r\nAs he anticipates the growth of his supercomputer, Elon Musk said theres a chance artificial intelligence could go bad by the end of the decade.\r\nWhile AI is most likely going to be gr\u2026 [+1550 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "OpenAI reportedly is making its first AI chip with TSMC and Broadcom",
-            "description": "OpenAI is undoubtedly a winner in the current artificial intelligence boom \u2014 and now it\u2019s reportedly developing its own chips to power its growth.Read more...",
-            "url": "https://qz.com/openai-first-ai-chip-tsmc-broadcom-amd-nvidia-chatgpt-1851684495",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/007bede4ea2fd3925c6fcb6f17100fac.jpg",
-            "publishedAt": "2024-10-29T19:57:00Z",
-            "content": "In This Story\r\nOpenAI is undoubtedly a winner in the current artificial intelligence boom and now its reportedly developing its own chips to power its growth.\r\nThe ChatGPT maker is working with Taiwa\u2026 [+1739 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "William Gavin",
-            "title": "Donald Trump's election win is already helping the world's richest get even richer",
-            "description": "Donald Trump\u2019s election victory sent the stock market skyrocketing, with key indexes surging on Wednesday. As a result, some of the wealthiest people on Earth found themselves billions of dollars richer.Read more...",
-            "url": "https://qz.com/donald-trump-election-elon-musk-jeff-bezos-net-worth-1851691630",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/983ad7a76cbed1b1cc992d690f983446.jpg",
-            "publishedAt": "2024-11-07T13:17:00Z",
-            "content": "Donald Trumps election victory sent the stock market skyrocketing, with key indexes surging on Wednesday. As a result, some of the wealthiest people on Earth found themselves billions of dollars rich\u2026 [+1825 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "benzinga.com",
-            "title": "Market Clubhouse Morning Memo - November 5th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA)",
-            "description": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA.\nOur proprietary formula, exclusive to Market Clubhouse, dictates these price levels. This dynamic equation takes into account pr\u2026",
-            "url": "https://biztoc.com/x/f3e81c0bb9945479",
-            "urlToImage": "https://biztoc.com/cdn/f3e81c0bb9945479_s.webp",
-            "publishedAt": "2024-11-05T15:41:24Z",
-            "content": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA.Our proprietary formula, exclusive to Market Clubhouse, dictates thes\u2026 [+141 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "benzinga.com",
-            "title": "Market Clubhouse Morning Memo - October 29th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA)",
-            "description": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA.\nOur proprietary formula, exclusive to Market Clubhouse, dictates these price levels. This dynamic equation takes into account pr\u2026",
-            "url": "https://biztoc.com/x/0092cb0259134b02",
-            "urlToImage": "https://biztoc.com/cdn/0092cb0259134b02_s.webp",
-            "publishedAt": "2024-10-29T15:11:36Z",
-            "content": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA.Our proprietary formula, exclusive to Market Clubhouse, dictates thes\u2026 [+141 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "aol.com",
-            "title": "Nvidia Is Joining the Dow Jones Industrial Average This Week. Time to Buy?",
-            "description": "Nvidia (NASDAQ: NVDA) has reached many milestones this year. The stock rose above $1,000 and roared past Microsoft to become the world's second most valuable company after Apple. This is all thanks to Nvidia's dominance in the high-growth area of artificial i\u2026",
-            "url": "https://biztoc.com/x/5c8a2aa278479d99",
-            "urlToImage": "https://biztoc.com/cdn/5c8a2aa278479d99_s.webp",
-            "publishedAt": "2024-11-04T10:14:29Z",
-            "content": "Nvidia (NASDAQ: NVDA) has reached many milestones this year. The stock rose above $1,000 and roared past Microsoft to become the world's second most valuable company after Apple. This is all thanks t\u2026 [+146 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "zerohedge.com",
-            "title": "Futures Rise As Trumpflation Trades Slide One Day Before The Election",
-            "description": "Futures Rise As Trumpflation Trades Slide One Day Before The Election\n \nUS equity futures are higher with Mag7 names mixed but NVDA higher on its Dow inclusion with semis also ticking higher; the dollar and yields are lower as the Trump reflation trade took a\u2026",
-            "url": "https://biztoc.com/x/ae2424dd105773cc",
-            "urlToImage": "https://biztoc.com/cdn/ae2424dd105773cc_s.webp",
-            "publishedAt": "2024-11-04T13:14:37Z",
-            "content": "Futures Rise As Trumpflation Trades Slide One Day Before The Election\r\nUS equity futures are higher with Mag7 names mixed but NVDA higher on its Dow inclusion with semis also ticking higher; the doll\u2026 [+147 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Nvidia (NVDA) Q3 2025 Earnings Call Transcript",
+            "title": "Here is why NVDA Stock is Declining Today According to Jim Cramer",
             "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_db3adee7-177c-4286-a16e-1e82a76d8b51",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_baf5ac6c-244d-4b21-9672-ca33acabacaf",
             "urlToImage": null,
-            "publishedAt": "2024-11-21T02:00:11Z",
+            "publishedAt": "2024-11-27T16:45:48Z",
             "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Biztoc.com"
+                "name": "Yahoo Entertainment"
             },
-            "author": "aol.com",
-            "title": "Better Artificial Intelligence Stock: Nvidia vs. AMD",
-            "description": "Nvidia's (NASDAQ: NVDA) stock surged 2,750% over the past five years as the artificial intelligence (AI) market exploded. Nvidia once generated most of its sales from gaming GPUs for PCs, but the rise of generative AI platforms drove more companies to buy its\u2026",
-            "url": "https://biztoc.com/x/bf07cb05688df408",
-            "urlToImage": "https://biztoc.com/cdn/bf07cb05688df408_s.webp",
-            "publishedAt": "2024-10-29T01:06:38Z",
-            "content": "Nvidia's (NASDAQ: NVDA) stock surged 2,750% over the past five years as the artificial intelligence (AI) market exploded. Nvidia once generated most of its sales from gaming GPUs for PCs, but the ris\u2026 [+149 chars]"
+            "author": "Usman Kabir",
+            "title": "NVIDIA Corporation (NVDA) Supply Chain Boosted by Vishay\u2019s Strong Orders for AI Servers and RTX 50 Series",
+            "description": "We recently compiled a list of the 15 AI Stocks on Wall Street\u2019s Radar. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA...",
+            "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-supply-chain-195023718.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
+            "publishedAt": "2024-11-28T19:50:23Z",
+            "content": "We recently compiled a list of the 15 AI Stocks on Wall Street's Radar.\u00a0In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against the other AI stocks.\r\nUbe\u2026 [+3477 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Biztoc.com"
+                "name": "Quartz India"
             },
-            "author": "aol.com",
-            "title": "3 Reasons Buying This Artificial Intelligence (AI) Stock Is a Risk... And How It Could Pay Off",
-            "description": "It's no secret that Nvidia (NASDAQ: NVDA) is making a mint in the artificial intelligence (AI) market. Its AI accelerator chips are the pick of the litter for high-end AI-training systems, and those systems are in high demand these days.\nNvidia's stock is a v\u2026",
-            "url": "https://biztoc.com/x/d129a78bf7a0cf8d",
-            "urlToImage": "https://biztoc.com/cdn/d129a78bf7a0cf8d_s.webp",
-            "publishedAt": "2024-11-05T18:39:23Z",
-            "content": "It's no secret that Nvidia (NASDAQ: NVDA) is making a mint in the artificial intelligence (AI) market. Its AI accelerator chips are the pick of the litter for high-end AI-training systems, and those \u2026 [+138 chars]"
+            "author": "Britney Nguyen",
+            "title": "Elon Musk's demands for Nvidia's AI chips strained its supply",
+            "description": "Tesla (TSLA) CEO Elon Musk\u2019s aggressive pursuit of artificial intelligence chips for his supercomputer has pushed Nvidia (NVDA) to its production limits.Read more...",
+            "url": "https://qz.com/elon-musk-nvidia-ai-chips-strain-supply-xai-colossus-1851709302",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/60caea016d8f1e92685cac47fbe3f06b.jpg",
+            "publishedAt": "2024-11-27T16:23:00Z",
+            "content": "In This Story\r\nTesla (TSLA-2.21%\r\n) CEO Elon Musks aggressive pursuit of artificial intelligence chips for his supercomputer has pushed Nvidia (NVDA-3.30%\r\n) to its production limits.\r\nIn an email to\u2026 [+1732 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Biztoc.com"
+                "name": "Quartz India"
             },
-            "author": "aol.com",
-            "title": "Meet the Supercharged Growth Stock Headed to $4 Trillion Over the Coming 12 to 18 Months, According to 1 Wall Street Analyst (Hint: Not Nvidia)",
-            "description": "Artificial intelligence (AI) went viral early last year, and arguably, no company has benefited more than Nvidia (NASDAQ: NVDA). The company's graphics processing units (GPUs) have become the go-to for powering generative AI. Thanks to five consecutive quarte\u2026",
-            "url": "https://biztoc.com/x/4f2643819a967eb9",
-            "urlToImage": "https://biztoc.com/cdn/4f2643819a967eb9_s.webp",
-            "publishedAt": "2024-11-15T10:22:51Z",
-            "content": "Artificial intelligence (AI) went viral early last year, and arguably, no company has benefited more than Nvidia (NASDAQ: NVDA). The company's graphics processing units (GPUs) have become the go-to f\u2026 [+146 chars]"
+            "author": "Britney Nguyen",
+            "title": "Nvidia's stock is down over 10% as Trump talks up tariffs",
+            "description": "While Nvidia\u2019s (NVDA) shares have tripled in value so far this year, its shares dropped more than 10% in the week after it reported fiscal third-quarter earnings.Read more...",
+            "url": "https://qz.com/nvidia-stock-down-third-quarter-trump-tariffs-china-1851709443",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/33c69a3687f3ab4d70ecf0b70587a668.jpg",
+            "publishedAt": "2024-11-27T19:00:00Z",
+            "content": "In This Story\r\nWhile Nvidias (NVDA-2.04%\r\n) shares have tripled in value so far this year, its shares dropped more than 10% in the week after it reported fiscal third-quarter earnings.\r\nThe chipmaker\u2026 [+1960 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Biztoc.com"
+                "name": "Forbes"
             },
-            "author": "aol.com",
-            "title": "1 AI Stock May Be Worth More Than Apple, Microsoft, Amazon, and Tesla Combined by 2030, According to a Wall Street Analyst",
-            "description": "Beth Kindig, technology analyst at the I/O Fund, thinks Nvidia (NASDAQ: NVDA) will ride the artificial intelligence (AI) boom to a $10 trillion valuation by 2030. Should that forecast prove correct, the semiconductor company would be worth more than what Appl\u2026",
-            "url": "https://biztoc.com/x/3fc204671a582ff1",
-            "urlToImage": "https://biztoc.com/cdn/3fc204671a582ff1_s.webp",
-            "publishedAt": "2024-11-13T10:40:02Z",
-            "content": "Beth Kindig, technology analyst at the I/O Fund, thinks Nvidia (NASDAQ: NVDA) will ride the artificial intelligence (AI) boom to a $10 trillion valuation by 2030. Should that forecast prove correct, \u2026 [+145 chars]"
+            "author": "Beth Kindig, Contributor, \n Beth Kindig, Contributor\n https://www.forbes.com/sites/bethkindig/",
+            "title": "Nvidia\u2019s Stock Has 70% Potential Upside For 2025",
+            "description": "Nvidia beats Q3 revenue by $2B, with 94% YoY growth to $35B. Data center revenue tops $30B. Blackwell\u2019s ramp by mid-2025 could drive 70% stock upside.",
+            "url": "https://www.forbes.com/sites/bethkindig/2024/11/27/nvidias-stock-has-70-potential-upside-for-2025/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/674688ada83d2d2534f31f02/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-11-27T13:45:00Z",
+            "content": "Nvidia once again posted a $2 billion beat to consensus revenue estimates in Q3, reporting YoY growth of nearly 94% to over $35 billion in revenue. Data center revenue more than doubled in the quarte\u2026 [+14870 chars]"
         },
         {
             "source": {
@@ -502,64 +73,38 @@
                 "name": "Biztoc.com"
             },
             "author": "fool.com",
-            "title": "Better Artificial Intelligence Stock: Nvidia vs. Palantir",
-            "description": "Palantir (PLTR -2.33%) and Nvidia (NVDA -2.25%) are two of the best-performing stocks on the S&P 500 this year. In fact, they rank in second and third place for share price gains, respectively, behind only Vistra, an unregulated utility that has spiked on bet\u2026",
-            "url": "https://biztoc.com/x/166218ea06378627",
+            "title": "Where Will Nvidia Stock Be in 2 Years?",
+            "description": "The past two years have been absolutely phenomenal for Nvidia (NVDA -1.15%) investors, as shares of the graphics card specialist shot up 736% during this period once it became evident that the company is going to play a central role in the proliferation of ar\u2026",
+            "url": "https://biztoc.com/x/2cbf2ef3467809df",
+            "urlToImage": "https://biztoc.com/cdn/2cbf2ef3467809df_s.webp",
+            "publishedAt": "2024-11-29T13:17:24Z",
+            "content": "The past two years have been absolutely phenomenal for Nvidia (NVDA -1.15%) investors, as shares of the graphics card specialist shot up 736% during this period once it became evident that the compan\u2026 [+142 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "247wallst.com",
+            "title": ", He\u2019s The 11th Richest Person On Earth",
+            "description": "Key Points:\nThanks to the company\u2019s stock skyrocketing 800% over two years, Nvidia\u2019s (NASDAQ: NVDA) CEO net worth has ballooned to more than $130 billion. just how important Nvidia is in the current AI gold rush.\nNvidia made Jensen Huang rich, and \u2018The Next N\u2026",
+            "url": "https://biztoc.com/x/36e8093aeb755b3e",
             "urlToImage": "https://biztoc.com/cdn/808/og.png",
-            "publishedAt": "2024-11-20T19:36:17Z",
-            "content": "Palantir (PLTR -2.33%) and Nvidia (NVDA -2.25%) are two of the best-performing stocks on the S&amp;P 500 this year. In fact, they rank in second and third place for share price gains, respectively, b\u2026 [+151 chars]"
+            "publishedAt": "2024-11-29T14:34:04Z",
+            "content": "Key Points:Thanks to the companys stock skyrocketing 800% over two years, Nvidias (NASDAQ: NVDA) CEO net worth has ballooned to more than $130 billion. just how important Nvidia is in the current AI \u2026 [+139 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Biztoc.com"
             },
-            "author": "benzinga.com",
-            "title": "Market Clubhouse Morning Memo - November 25th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA)",
-            "description": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA.\nOur proprietary formula, exclusive to Market Clubhouse, dictates these price levels. This dynamic equation takes into account pr\u2026",
-            "url": "https://biztoc.com/x/d2382c2e7950d9ba",
-            "urlToImage": "https://biztoc.com/cdn/d2382c2e7950d9ba_s.webp",
-            "publishedAt": "2024-11-25T17:20:18Z",
-            "content": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA.Our proprietary formula, exclusive to Market Clubhouse, dictates thes\u2026 [+141 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "aol.com",
-            "title": "Prediction: This Stock Will Outperform Nvidia in 2025",
-            "description": "Nvidia (NASDAQ: NVDA) has been a top-performing stock for the past two years, and all signs point toward it delivering once again in 2025. However, its growth is also likely to slow, and seeing the stock triple again is not likely in the cards. While I think \u2026",
-            "url": "https://biztoc.com/x/c1b86cfc57b79702",
-            "urlToImage": "https://biztoc.com/cdn/c1b86cfc57b79702_s.webp",
-            "publishedAt": "2024-11-05T02:28:08Z",
-            "content": "Nvidia (NASDAQ: NVDA) has been a top-performing stock for the past two years, and all signs point toward it delivering once again in 2025. However, its growth is also likely to slow, and seeing the s\u2026 [+148 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "aol.com",
-            "title": "Nvidia Stock Is Up 173% in 2024, but Here's Another Super Semiconductor Stock to Buy Hand Over Fist, According to Wall Street",
-            "description": "Nvidia (NASDAQ: NVDA) CEO Jensen Huang thinks data center operators will spend $1 trillion upgrading their infrastructure over the next five years in order to support demand from artificial intelligence (AI) developers. Part of that money will be spent on gra\u2026",
-            "url": "https://biztoc.com/x/115fbe88bb880cd5",
-            "urlToImage": "https://biztoc.com/cdn/115fbe88bb880cd5_s.webp",
-            "publishedAt": "2024-11-04T10:14:29Z",
-            "content": "Nvidia (NASDAQ: NVDA) CEO Jensen Huang thinks data center operators will spend $1 trillion upgrading their infrastructure over the next five years in order to support demand from artificial intellige\u2026 [+142 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "benzinga.com",
-            "title": "Nvidia Joining Dow Jones Industrial Average: Where Tech Giant Ranks In The Index, Why Sherwin-Williams Addition Could Be More Important",
-            "description": "Technology giant NVIDIA Corp NVDA is set to join the Dow Jones Industrial Average on Nov. 8 replacing Intel Corporation INTC, a move predicted by several market experts to Benzinga months ago.\nHere's a look at what the Dow Jones Industrial Average inclusion m\u2026",
-            "url": "https://biztoc.com/x/41a4a01f30b7b9ed",
-            "urlToImage": "https://biztoc.com/cdn/41a4a01f30b7b9ed_s.webp",
-            "publishedAt": "2024-11-04T22:08:58Z",
-            "content": "Technology giant NVIDIA Corp NVDA is set to join the Dow Jones Industrial Average on Nov. 8 replacing Intel Corporation INTC, a move predicted by several market experts to Benzinga months ago.Here's \u2026 [+147 chars]"
+            "author": "investors.com",
+            "title": "Dow Jones Futures Rise As Nvidia Rebounds; Tesla Looks To Snap Losing Streak",
+            "description": "The Dow Jones Industrial Average and other major stock indexes traded higher Friday, as Nvidia (NVDA) rebounded on the stock market today. Meanwhile, Tesla (TSLA) was another early winner, looking to snap a three-day losing streak.\nAhead of the opening bell, \u2026",
+            "url": "https://biztoc.com/x/8b4bad43ad455fcb",
+            "urlToImage": "https://biztoc.com/cdn/8b4bad43ad455fcb_s.webp",
+            "publishedAt": "2024-11-29T13:39:04Z",
+            "content": "The Dow Jones Industrial Average and other major stock indexes traded higher Friday, as Nvidia (NVDA) rebounded on the stock market today. Meanwhile, Tesla (TSLA) was another early winner, looking to\u2026 [+145 chars]"
         },
         {
             "source": {
@@ -567,740 +112,948 @@
                 "name": "Biztoc.com"
             },
             "author": "finance.yahoo.com",
-            "title": "Nvidia stock sinks on fears of AI spending slowdown",
-            "description": "In This Article:\nNvidia (NVDA) stock fell nearly 5% Thursday on investor fears of a slowdown in artificial intelligence spending and potential delivery delays of its AI chips.\nSemiconductor stocks suffered across the board. The PHLX semiconductor index (^SOX)\u2026",
-            "url": "https://biztoc.com/x/0b8453a34e2a1e84",
-            "urlToImage": "https://biztoc.com/cdn/807/og.png",
-            "publishedAt": "2024-10-31T19:04:07Z",
-            "content": "In This Article:Nvidia (NVDA) stock fell nearly 5% Thursday on investor fears of a slowdown in artificial intelligence spending and potential delivery delays of its AI chips.Semiconductor stocks suff\u2026 [+156 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "aol.com",
-            "title": "Should You Buy Nvidia Stock After It Notched 200% Gains in 2024? Wall Street Is Providing a Nearly Unanimous Answer",
-            "description": "Another week, another new all-time high for Nvidia (NASDAQ: NVDA). The stock climbed to record-setting territory again on Thursday after setting a new watermark on Wednesday. Over the past couple of years, the stock has regularly hit new heights, fueled by th\u2026",
-            "url": "https://biztoc.com/x/ad4bc3834e8e4686",
-            "urlToImage": "https://biztoc.com/cdn/ad4bc3834e8e4686_s.webp",
-            "publishedAt": "2024-11-10T11:26:25Z",
-            "content": "Another week, another new all-time high for Nvidia (NASDAQ: NVDA). The stock climbed to record-setting territory again on Thursday after setting a new watermark on Wednesday. Over the past couple of \u2026 [+141 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "aol.com",
-            "title": "Prediction: Nvidia Will Be the World's First $4 Trillion Company",
-            "description": "As measured by market capitalization, there has never been a company worth $4 trillion, but Nvidia (NASDAQ: NVDA) is starting to close in. At the time of this writing, Nvidia was worth around $3.6 trillion. At that size, it only has to rise in value another 1\u2026",
-            "url": "https://biztoc.com/x/e7fee0d553e88fb0",
-            "urlToImage": "https://biztoc.com/cdn/e7fee0d553e88fb0_s.webp",
-            "publishedAt": "2024-11-19T12:44:10Z",
-            "content": "As measured by market capitalization, there has never been a company worth $4 trillion, but Nvidia (NASDAQ: NVDA) is starting to close in. At the time of this writing, Nvidia was worth around $3.6 tr\u2026 [+145 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "finance.yahoo.com",
-            "title": "Nvidia to report Q3 earnings today as AI fever continues to power Wall Street",
-            "description": "In This Article:\nNvidia (NVDA) will report its third quarter earnings after the bell today, giving Wall Street its best and latest look into the strength of the artificial intelligence trade.\nThe world\u2019s largest publicly traded company by market cap, Nvidia\u2019s\u2026",
-            "url": "https://biztoc.com/x/3c45a0f34cecb023",
-            "urlToImage": "https://biztoc.com/cdn/807/og.png",
-            "publishedAt": "2024-11-20T14:07:36Z",
-            "content": "In This Article:Nvidia (NVDA) will report its third quarter earnings after the bell today, giving Wall Street its best and latest look into the strength of the artificial intelligence trade.The world\u2026 [+148 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "theglobeandmail.com",
-            "title": "U.S. Supreme Court weighs Nvidia\u2019s bid to avoid securities fraud lawsuit",
-            "description": "The U.S. Supreme Court scrutinized on Wednesday Nvidia\u2019s NVDA-Q bid to torpedo a securities fraud lawsuit accusing the artificial intelligence chipmaker of misleading investors about how much of its sales depended on the volatile cryptocurrency market.\nThe ju\u2026",
-            "url": "https://biztoc.com/x/8e2ed6aecc4b23e4",
-            "urlToImage": "https://biztoc.com/cdn/807/og.png",
-            "publishedAt": "2024-11-13T17:05:35Z",
-            "content": "The U.S. Supreme Court scrutinized on Wednesday Nvidias NVDA-Q bid to torpedo a securities fraud lawsuit accusing the artificial intelligence chipmaker of misleading investors about how much of its s\u2026 [+148 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "aol.com",
-            "title": "Better Artificial Intelligence Stock: Nvidia vs. Palantir",
-            "description": "Palantir (NYSE: PLTR) and Nvidia (NASDAQ: NVDA) are two of the best-performing stocks on the S&P 500 this year. In fact, they rank in second and third place for share price gains, respectively, behind only Vistra, an unregulated utility that has spiked on bet\u2026",
-            "url": "https://biztoc.com/x/dc3b03f86e6982f5",
-            "urlToImage": "https://biztoc.com/cdn/dc3b03f86e6982f5_s.webp",
-            "publishedAt": "2024-11-20T16:08:27Z",
-            "content": "Palantir (NYSE: PLTR) and Nvidia (NASDAQ: NVDA) are two of the best-performing stocks on the S&amp;P 500 this year. In fact, they rank in second and third place for share price gains, respectively, b\u2026 [+150 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "aol.com",
-            "title": "Every Nvidia Investor Should Keep an Eye on This Number",
-            "description": "It's no secret that Nvidia (NASDAQ: NVDA) has surged during the ongoing artificial intelligence (AI) boom, which has customers clamoring for the company's graphics processing units (GPUs).\nThat has led to soaring revenue in Nvidia's data center segment. In it\u2026",
-            "url": "https://biztoc.com/x/e59ee19f3364b6b9",
-            "urlToImage": "https://biztoc.com/cdn/e59ee19f3364b6b9_s.webp",
-            "publishedAt": "2024-11-19T14:57:34Z",
-            "content": "It's no secret that Nvidia (NASDAQ: NVDA) has surged during the ongoing artificial intelligence (AI) boom, which has customers clamoring for the company's graphics processing units (GPUs).That has le\u2026 [+148 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "zerohedge.com",
-            "title": "Mega-Caps Mullered As Bitcoin, Bullion, & 'Big Shorts' Burst Higher",
-            "description": "Mega-Caps Mullered As Bitcoin, Bullion, & 'Big Shorts' Burst Higher\n \nOf course, as goes NVDA, so goes the market, and after last night's beat (but disappointing revenue forecast), the giantest of giant tech companies swung around like a penny stock, adding a\u2026",
-            "url": "https://biztoc.com/x/f70df30940cfe806",
-            "urlToImage": "https://biztoc.com/cdn/f70df30940cfe806_s.webp",
-            "publishedAt": "2024-11-21T21:01:49Z",
-            "content": "Mega-Caps Mullered As Bitcoin, Bullion, &amp; 'Big Shorts' Burst Higher\r\nOf course, as goes NVDA, so goes the market, and after last night's beat (but disappointing revenue forecast), the giantest of\u2026 [+145 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "fool.com",
-            "title": "Nvidia's Growth May Be Cooling, but Here's Why I'm Still Buying",
-            "description": "Nvidia Corporation's (NVDA -2.75%) shares dipped 3.4% in response to its fiscal 2025 third-quarter results last week, but I see this modest move lower as an opportunity to add to my position. While analysts project the company's revenue growth to slow from 11\u2026",
-            "url": "https://biztoc.com/x/04d5f0913db5daac",
+            "title": "Prediction: Nvidia Stock Will Soar in 2025. Here's Why",
+            "description": "In This Article:\nThe past couple of years have been a nonstop thrill ride for Nvidia (NASDAQ: NVDA) investors. The company had a market cap of just $359 billion to kick off 2023. Now, its value has soared to more than $3.35 trillion (as of this writing) -- a \u2026",
+            "url": "https://biztoc.com/x/1c327306b0126d82",
             "urlToImage": "https://biztoc.com/cdn/808/og.png",
-            "publishedAt": "2024-11-25T16:58:30Z",
-            "content": "Nvidia Corporation's (NVDA -2.75%) shares dipped 3.4% in response to its fiscal 2025 third-quarter results last week, but I see this modest move lower as an opportunity to add to my position. While a\u2026 [+149 chars]"
+            "publishedAt": "2024-11-29T10:33:02Z",
+            "content": "In This Article:The past couple of years have been a nonstop thrill ride for Nvidia (NASDAQ: NVDA) investors. The company had a market cap of just $359 billion to kick off 2023. Now, its value has so\u2026 [+149 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Quartz India"
+                "name": "Biztoc.com"
             },
-            "author": "Britney Nguyen",
-            "title": "Nvidia, Intel, and other chip stocks are dragging down the Nasdaq even as the Dow gains",
-            "description": "Chip stocks dragged down the Nasdaq on Monday despite gains in the Dow Jones Industrial Average and S&P 500. Read more...",
-            "url": "https://qz.com/nvidia-intel-tsmc-chip-stocks-down-nasdaq-dow-sp500-1851694926",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ee5aeadcc2773e52d9fd85c030ecc70e.jpg",
-            "publishedAt": "2024-11-11T18:02:34Z",
-            "content": "In This Story\r\nChip stocks dragged down the Nasdaq on Monday despite gains in the Dow Jones Industrial Average and S&amp;P 500. \r\nShares of Intel (INTC) were down by around 4.1% during midday trading\u2026 [+2344 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Rocio Fabbro",
-            "title": "'Trees don\u2019t grow to the sky': Nelson Peltz says the stock market's Trump 'euphoria' won't last",
-            "description": "The stock market has been on a record-setting hot streak since Donald Trump won the White House last week. But billionaire activist investor Nelson Peltz doesn\u2019t think it will last.Read more...",
-            "url": "https://qz.com/trump-stock-market-sp500-djia-nasdaq-nelson-peltz-1851698261",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4a7348fd9048caf597f64ec75194ba35.jpg",
-            "publishedAt": "2024-11-14T13:31:25Z",
-            "content": "In This Story\r\nThe stock market has been on a record-setting hot streak since Donald Trump won the White House last week. But billionaire activist investor Nelson Peltz doesnt think it will last.\r\nNo\u2026 [+2195 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "Nvidia, Walmart, and Target earnings: What to watch in the markets this week",
-            "description": "After a whirlwind of back-to-back blockbuster earnings reports and a significant political shift in the country, this week offers a welcome opportunity to pause. With a quieter week ahead, it\u2019s a chance to let the dust settle, recharge, and set the stage for \u2026",
-            "url": "https://qz.com/nvidia-walmart-target-earnings-stocks-markets-1851699187",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b3fe20f6c77751f0c6183d842e1f836e.jpg",
-            "publishedAt": "2024-11-17T10:00:00Z",
-            "content": "In This Story\r\nAfter a whirlwind of back-to-back blockbuster earnings reports and a significant political shift in the country, this week offers a welcome opportunity to pause. With a quieter week ah\u2026 [+2266 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "Super Micro Computer stock soars 30% as it avoids getting booted off the Nasdaq",
-            "description": "Super Micro Computer stock (SMCI) surged more than 30% on Tuesday morning after the AI hardware company successfully maintained its Nasdaq (NDAQ) listing by hiring a new auditor. The move comes several weeks after the server company\u2019s auditor, Ernst & Young, \u2026",
-            "url": "https://qz.com/super-micro-auditor-compliance-nasdaq-1851702728",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8852c96ffd7b133b7a023bc7f39586d4.jpg",
-            "publishedAt": "2024-11-19T15:41:49Z",
-            "content": "In This Story\r\nSuper Micro Computer stock (SMCI+28.12%\r\n) surged more than 30% on Tuesday morning after the AI hardware company successfully maintained its Nasdaq (NDAQ-0.14%\r\n) listing by hiring a n\u2026 [+2036 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "The S&P 500 is about to have a big year, Goldman Sachs says \u2014 even without the 'Magnificent 7'",
-            "description": "After Morgan Stanley\u2019s (MS) bullish outlook, another financial giant has joined the optimistic chorus for the S&P 500 in 2025. What\u2019s more, it expects the growth of the S&P 500 to occur without relying on the outperformance of the Magnificent Seven, marking a\u2026",
-            "url": "https://qz.com/goldman-sachs-s-p-500-magnificent-seven-1851703165",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/898342ff8b71fc211898c4825c1ee353.jpg",
-            "publishedAt": "2024-11-19T20:11:00Z",
-            "content": "In This Story\r\nAfter Morgan Stanleys (MS-0.81%\r\n) bullish outlook, another financial giant has joined the optimistic chorus for the S&amp;P 500 in 2025. Whats more, it expects the growth of the S&amp\u2026 [+2280 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "Nvidia earnings are this week. Here's what Wall Street expects",
-            "description": "The chipmaker recently announced that Japan's SoftBank Group will be the first to receive its new Blackwell AI chips",
-            "url": "https://qz.com/nvidia-q3-2024-earnings-ai-chips-blackwell-1851699350",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/27084278d707246fd86b07de0e0803e0.jpg",
-            "publishedAt": "2024-11-18T10:00:00Z",
-            "content": "In This Story\r\nChip design leader Nvidia (NVDA-3.18%\r\n) plans to report earnings for the fiscal third quarter on Wednesday.\r\nThe chipmaker is expected to report revenues of $33 billion for the third \u2026 [+2086 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "Super Micro Computer stock craters over late financial report. Will it get delisted?",
-            "description": "Shares of Super Micro Computer (SMCI) hit a new 52-week low on Thursday morning as the AI-focused hardware company struggles with filing its quarterly report (Form 10-Q) for the period ending September 30. The San Jose-based company notified the U.S. Securiti\u2026",
-            "url": "https://qz.com/super-micro-computer-nasdaq-delisting-1851698595",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/11cb641975d4c322565e662aaedb4dcd.jpg",
-            "publishedAt": "2024-11-14T16:23:00Z",
-            "content": "In This Story\r\nShares of Super Micro Computer (SMCI-9.08%\r\n) hit a new 52-week low on Thursday morning as the AI-focused hardware company struggles with filing its quarterly report (Form 10-Q) for th\u2026 [+1885 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "Super Micro Computer will report earnings today. Here's what to expect",
-            "description": "Super Micro Computer (SMCI) will report quarterly earnings on Tuesday after market close, following a series of recent challenges. Most recently, the AI hardware company\u2019s auditor, Ernst & Young, resigned over disagreements about Super Micro\u2019s governance prac\u2026",
-            "url": "https://qz.com/super-micro-computer-earnings-report-bad-year-1851690045",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/11cb641975d4c322565e662aaedb4dcd.jpg",
-            "publishedAt": "2024-11-05T19:13:53Z",
-            "content": "In This Story\r\nSuper Micro Computer (SMCI+6.22%\r\n) will report quarterly earnings on Tuesday after market close, following a series of recent challenges. Most recently, the AI hardware companys audit\u2026 [+2049 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "Super Micro Computer stock bleeds 24% after it can\u2019t even say when it will post actual earnings",
-            "description": "Super Micro Computer Inc. (SMCI) shares plummeted more than 24% on Wednesday after the AI hardware company released a disappointing preliminary first-quarter report and failed to confirm a timeline for its actual first-quarter results. The San Jose-based comp\u2026",
-            "url": "https://qz.com/super-micro-stock-drops-weaker-financial-reports-1851690896",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/11cb641975d4c322565e662aaedb4dcd.jpg",
-            "publishedAt": "2024-11-06T17:24:18Z",
-            "content": "In This Story\r\nSuper Micro Computer Inc. (SMCI-21.84%\r\n) shares plummeted more than 24% on Wednesday after the AI hardware company released a disappointing preliminary first-quarter report and failed\u2026 [+2437 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Surbhi Jain, Contributor, \n Surbhi Jain, Contributor\n https://www.forbes.com/sites/investor-hub/people/surbhi-jain/",
-            "title": "Nvidia Stock Earnings Preview: What To Know Before The Report",
-            "description": "Nvidia stock earnings preview: Discover key insights, expectations and market trends to watch ahead of Nvidia\u2019s earnings report. Here\u2019s what investors should know.",
-            "url": "https://www.forbes.com/sites/investor-hub/article/nvidia-nvda-stock-earnings-preview-what-to-know-before-report/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/673cf08405cff4e0f7e78087/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-11-19T20:22:18Z",
-            "content": "Copyright 2023 The Associated Press. All rights reserved\r\nNvidias (NVDA) upcoming earnings report has the tech world buzzing. This article dives into the significance of the report, key drivers of Nv\u2026 [+10456 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "Google stock jumps 4% after AI momentum drives earnings",
-            "description": "Google (GOOGL) parent Alphabet saw its share price rise almost 5% during midday trading on Wednesday after delivering earnings that surpassed Wall Street\u2019s expectations.Read more...",
-            "url": "https://qz.com/google-stock-climb-ai-third-quarter-earnings-alphabet-1851685021",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b307d58f47c1f225b4ce8db3220fe729.jpg",
-            "publishedAt": "2024-10-30T17:15:00Z",
-            "content": "In This Story\r\nGoogle (GOOGL+4.25%\r\n) parent Alphabet saw its share price rise almost 5% during midday trading on Wednesday after delivering earnings that surpassed Wall Streets expectations.\r\nConsol\u2026 [+1993 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "The Dow drops 200 points as investors brace for Election Day",
-            "description": "On the eve of Election Day, the Dow Jones slid 200 points as investors held back, anxiously awaiting the results. The subdued stock activity coincided with a rally in safe-haven U.S. Treasurys, indicating that some investors are shifting toward lower-risk ass\u2026",
-            "url": "https://qz.com/dow-election-day-nvidia-intel-berkshire-hathaway-1851688633",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/18afe9e598c60f19a7f72dfdaf8050cf.jpg",
-            "publishedAt": "2024-11-04T17:35:00Z",
-            "content": "In This Story\r\nOn the eve of Election Day, the Dow Jones slid 200 points as investors held back, anxiously awaiting the results. The subdued stock activity coincided with a rally in safe-haven U.S. T\u2026 [+2031 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "AI darling Super Micro Computer could get booted off the Nasdaq as the stock plunges another 15%",
-            "description": "Shares of Super Micro Computer (SMCI) fell an additional 15% on Thursday, trading at $28 per share, following the resignation of auditor Ernst & Young. Although the server company joined the S&P 500 in March 2024, this year hasn\u2019t been smooth, and now it face\u2026",
-            "url": "https://qz.com/super-micro-computer-risk-nasdaq-delisting-ai-1851686222",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/11cb641975d4c322565e662aaedb4dcd.jpg",
-            "publishedAt": "2024-10-31T15:13:54Z",
-            "content": "In This Story\r\nShares of Super Micro Computer (SMCI-14.39%\r\n) fell an additional 15% on Thursday, trading at $28 per share, following the resignation of auditor Ernst &amp; Young. Although the server\u2026 [+2454 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Brian Sozzi",
-            "title": "What Musk's ties to Trump could mean for Nvidia",
-            "description": "President-elect Trump says he would like to involve Tesla (TSLA) CEO Elon Musk in his administration. That may be good news Nvidia's (NVDA) CEO Jensen Huang....",
-            "url": "https://finance.yahoo.com/video/musks-ties-trump-could-mean-213000479.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kLRJWwktTmp4W9ycUauZrQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/7339d0b0-9df2-11ef-b677-125967bbbcb4",
-            "publishedAt": "2024-11-08T21:30:00Z",
-            "content": "President-elect Trump says he would like to involve Tesla (TSLA) CEO Elon Musk in his administration. That may be good news Nvidia's (NVDA) CEO Jensen Huang. Yahoo Finance Executive Editor Brian Sozz\u2026 [+311 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "mfox@businessinsider.com (Matthew Fox)",
-            "title": "Wall Street is laser-focused on Nvidia's new Blackwell chip as the AI titan heads into 3rd-quarter earnings",
-            "description": "Wall Street analysts are bullish on the prospect for Nvidia's third-quarter earnings report, with expectations running high for the new Blackwell GPU.",
-            "url": "https://markets.businessinsider.com/news/stocks/nvidia-earnings-preview-wall-street-forecasts-blackwell-gpu-artificial-intelligence-2024-11",
-            "urlToImage": "https://i.insider.com/673c9c81ede4eeae3928571f?width=1200&format=jpeg",
-            "publishedAt": "2024-11-19T17:08:46Z",
-            "content": "Nvidia is set to report third-quarter earnings results after the market close on Wednesday, and all eyes are on its next-generation Blackwell GPU chip.\r\nWhile Nvidia has guided that its Blackwell pro\u2026 [+4666 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "GuruFocus News",
-            "title": "NVIDIA Corp (NVDA) Q3 2025 Earnings Call Highlights: Record Revenue and Strong AI Demand Propel ...",
-            "description": "NVIDIA Corp (NVDA) reports a remarkable 94% year-on-year revenue increase, driven by data center and AI enterprise growth, despite facing supply constraints ...",
-            "url": "https://finance.yahoo.com/news/nvidia-corp-nvda-q3-2025-070449047.html",
-            "urlToImage": "https://media.zenfs.com/en/us.finance.gurufocus/616b8c75d397e9b80edd7b1bef03288c",
-            "publishedAt": "2024-11-21T07:04:49Z",
-            "content": "<li>Revenue: $35.1 billion, up 17% sequentially and 94% year on year.\r\n</li><li>Data Center Revenue: $30.8 billion, up 17% sequentially and 112% year on year.\r\n</li><li>Gaming Revenue: $3.3 billion, \u2026 [+3804 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Ghazal Ahmed",
-            "title": "Gene Munster Is Bullish, Talks About Pressure Points on Nvidia\u2019s (NVDA) Earnings",
-            "description": "Deepwater Asset Management\u2019s Gene Munster shared his views about NVIDIA (NVDA)\u2019s earnings call yesterday. Here is a summary of his thoughts: NVIDIA...",
-            "url": "https://finance.yahoo.com/news/gene-munster-bullish-talks-pressure-211426355.html",
-            "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/a9806e13e3b923bb3edb704c9b5e47a3",
-            "publishedAt": "2024-11-22T00:24:26Z",
-            "content": "NVIDIA delivered $35 billion in revenue for the October quarter, meeting whisper numbers, and issued a January guidance of $37.5 billion, slightly below the whisper number of $38 billion. Gross margi\u2026 [+4356 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Rocio Fabbro",
-            "title": "The 2 biggest stock market risks in 2025, according to Goldman Sachs",
-            "description": "As 2024 comes to a close, the U.S. stock market has posted considerable returns on a red-hot rally led by major technology stocks that have benefited from artificial intelligence. But Goldman Sachs (GS) is warning of two major risks that could put a damper on\u2026",
-            "url": "https://qz.com/goldman-sachs-stock-market-risks-investors-2025-1851701778",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/95e615e57647d5bb9a644e1328f94c6f.jpg",
-            "publishedAt": "2024-11-18T16:00:00Z",
-            "content": "In This Story\r\nAs 2024 comes to a close, the U.S. stock market has posted considerable returns on a red-hot rally led by major technology stocks that have benefited from artificial intelligence. But \u2026 [+3279 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "William Gavin",
-            "title": "xAI's value is set to double, joining Elon Musk's Tesla and SpaceX in reaching new heights",
-            "description": "Two of Elon Musk\u2019s private ventures are set to be worth a lot more, joining his sole public company in securing massive valuations. Read more...",
-            "url": "https://qz.com/elon-musk-xai-ai-market-value-spacex-tesla-trump-nvida-1851700445",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6d2447f0fdee61f80c4539f135b21011.jpg",
-            "publishedAt": "2024-11-15T19:01:57Z",
-            "content": "In This Story\r\nTwo of Elon Musks private ventures are set to be worth a lot more, joining his sole public company in securing massive valuations. \r\nHis artificial intelligence startup, xAI, is raisin\u2026 [+2593 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Deena Zaidi",
-            "title": "Bitcoin's wild election year ride in 3 charts",
-            "description": "Donald Trump's election win has boosted Bitcoin to record highs, with the leading cryptocurrency outpacing both crypto rivals and traditional assets",
-            "url": "https://qz.com/bitcoin-surge-donald-trump-election-doge-cryptocurrency-1851697053",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8ac6b20b50cdfb082b1bddc9847f4216.jpg",
-            "publishedAt": "2024-11-13T14:35:00Z",
-            "content": "In This Story\r\nBitcoin has been on a tear since Donald Trumps election win, and it could be poised for even more gains.\r\nOn the campaign trail, Trump promised to turn the country into the crypto capi\u2026 [+2972 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "Amazon beats third-quarter earnings expectations on strong cloud growth",
-            "description": "Amazon\u2019s (AMZN) third-quarter results came in above Wall Street\u2019s estimates thanks to strong growth in its cloud and advertising divisions.Read more...",
-            "url": "https://qz.com/amazon-third-quarter-prime-day-ai-aws-cloud-1851686470",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/11c3d788fe96119418e8951370f24734.jpg",
-            "publishedAt": "2024-10-31T20:35:00Z",
-            "content": "In This Story\r\nAmazons (AMZN-3.35%\r\n) third-quarter results came in above Wall Streets estimates thanks to strong growth in its cloud and advertising divisions.\r\nThe retail and cloud giant reported t\u2026 [+3239 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Vinamrata Chaturvedi",
-            "title": "Nvidia and other AI stocks are getting dragged down by Microsoft and Meta",
-            "description": "Despite posting robust quarterly profits, Microsoft (MSFT) and Meta (META) shares slumped Thursday as both tech giants signaled substantial future AI spending requirements and slower growth prospects. The companies that have emerged as leaders in the AI secto\u2026",
-            "url": "https://qz.com/nvidia-smci-amd-mu-avgo-ai-stocks-down-microsoft-and-me-1851686429",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/863454c9693823837c4ee3c21ff12710.jpg",
-            "publishedAt": "2024-10-31T17:01:32Z",
-            "content": "In This Story\r\nDespite posting robust quarterly profits, Microsoft (MSFT-5.44%\r\n) and Meta (META-4.53%\r\n) shares slumped Thursday as both tech giants signaled substantial future AI spending requireme\u2026 [+2792 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "Amazon is still figuring out Alexa's AI brain",
-            "description": "A decade after making waves with its voice assistant, Alexa, Amazon (AMZN) seems to be struggling to bring it into the generative artificial intelligence era.Read more...",
-            "url": "https://qz.com/amazon-alexa-gen-ai-brain-q3-earnings-1851687195",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a40057705579dfaa09a9dd643b9f0bdc.jpg",
-            "publishedAt": "2024-11-01T15:21:00Z",
-            "content": "In This Story\r\nA decade after making waves with its voice assistant, Alexa, Amazon (AMZN+7.13%\r\n) seems to be struggling to bring it into the generative artificial intelligence era.\r\nDuring the compa\u2026 [+2825 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Attiya Zainib",
-            "title": "Is NVIDIA (NVDA) The Best Performing Large-Cap Stock in the Last 3 Years?",
-            "description": "We recently published a list of 10 Best-Performing S&P 500 Stocks in the Last 3 Years. In this article, we are going to take a look at where NVIDIA...",
-            "url": "https://finance.yahoo.com/news/nvidia-nvda-best-performing-large-130212301.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
-            "publishedAt": "2024-10-28T13:02:12Z",
-            "content": "We recently published a list of 10 Best-Performing S&amp;P 500 Stocks in the Last 3 Years. In this article, we are going to take a look at where NVIDIA (NASDAQ:NVDA) stands against other best perform\u2026 [+7766 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Maleha Afzal",
-            "title": "Is NVIDIA Corporation (NVDA) the Best Stock to Buy and Hold for 5 Years?",
-            "description": "We recently published a list of 10 Best Stocks to Buy and Hold For 5 Years. In this article, we are going to take a look at where NVIDIA Corporation...",
-            "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-best-stock-162334223.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/A6JtnEC2cUt1EiDqTFKNWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/853b5432b039878bfa3f7e94bd98f8ec",
-            "publishedAt": "2024-11-10T16:23:34Z",
-            "content": "We recently published a list of 10 Best Stocks to Buy and Hold For 5 Years. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other best stocks to \u2026 [+6776 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Daniel Howley",
-            "title": "AMD to report Q3 earnings as AI takes center stage again",
-            "description": "AMD will report its fiscal third quarter earnings after the bell on Tuesday, as investors look for signs of AI market strength.",
-            "url": "https://finance.yahoo.com/news/amd-to-report-q3-earnings-as-ai-takes-center-stage-again-170138662.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZzCTE5NQCJhOCFS_F0KFEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/bf355360-4f6c-11ef-8f7b-d59c26ffd5f2",
-            "publishedAt": "2024-10-28T17:01:38Z",
-            "content": "AMD (AMD) will report its fiscal third quarter earnings after the bell on Tuesday, in what will serve as a temperature check on the health of the artificial intelligence market. AI continues to drive\u2026 [+2727 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Attiya Zainib",
-            "title": "NVIDIA (NVDA) Stock: Ken Fisher\u2019s AI Powerhouse with Unmatched Growth Potential",
-            "description": "We recently published a list of 10 Best Stocks to Buy According to Billionaire Ken Fisher. In this article, we are going to take a look at where NVIDIA...",
-            "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-ken-fisher-213139728.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
-            "publishedAt": "2024-11-10T21:31:39Z",
-            "content": "We recently published a list of 10 Best Stocks to Buy According to Billionaire Ken Fisher. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other \u2026 [+7425 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Usman Kabir",
-            "title": "NVIDIA Corp. (NVDA) Poised for Growth with AI Demand and Analyst Upgrades",
-            "description": "We recently published a list of 15 AI News Updates Taking Wall Street By Storm. In this article, we are going to take a look at where NVIDIA Corporation...",
-            "url": "https://finance.yahoo.com/news/nvidia-corp-nvda-poised-growth-194729900.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
-            "publishedAt": "2024-11-16T19:47:29Z",
-            "content": "We recently published a list of 15 AI News Updates Taking Wall Street By Storm. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other AI news upd\u2026 [+3454 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Usman Kabir",
-            "title": "NVIDIA Corporation (NVDA) Downgraded by Phillip Securities on Margin Guidance Despite Price Target Increase",
-            "description": "We recently compiled a list of the 15 AI Stocks Trending on Financial Media. In this article, we are going to take a look at where NVIDIA Corporation...",
-            "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-downgraded-phillip-091854122.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
-            "publishedAt": "2024-11-25T09:18:54Z",
-            "content": "We recently compiled a list of the 15 AI Stocks Trending on Financial Media.\u00a0In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against the other AI stocks \u2026 [+3215 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "NVIDIA (NVDA) Surpasses Expectations with Stellar Q3 Earnings and Revenue Growth",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9135efca-d6e5-4cf3-9e0d-cc362fd518eb",
-            "urlToImage": null,
-            "publishedAt": "2024-11-24T16:19:54Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Analyst Boosts Nvidia (NVDA) Price Target Ahead of Earnings \u2013 Here\u2019s Why",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8b5be183-525b-45c1-be01-66f89c6c44e2",
-            "urlToImage": null,
-            "publishedAt": "2024-11-18T13:03:14Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Attiya Zainib",
-            "title": "NVIDIA Corp (NVDA)\u2019s RTX 50 Series: The Game-Changer Set to Dominate the Market",
-            "description": "We recently published a list of 15 AI News and Ratings You Should Not Miss. In this article, we are going to take a look at where NVIDIA Corporation...",
-            "url": "https://finance.yahoo.com/news/nvidia-corp-nvda-rtx-50-183227972.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
-            "publishedAt": "2024-11-18T18:32:27Z",
-            "content": "NVIDIA's upcoming RTX 50 series graphics cards, also known as Blackwell, are expected to dominate the market, with suppliers predicting a significant impact starting in December. The cards are expect\u2026 [+4132 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Usman Kabir",
-            "title": "NVIDIA Corporation (NVDA) Maintains Strong AI Demand: Loop Capital\u2019s Bullish Outlook",
-            "description": "We recently published a list of 14 AI News Updates Wall Street Is Monitoring. In this article, we are going to take a look at where NVIDIA Corporation...",
-            "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-maintains-strong-130235391.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
-            "publishedAt": "2024-11-22T13:02:35Z",
-            "content": "We recently published a list of 14 AI News Updates Wall Street Is Monitoring. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other AI news updat\u2026 [+3523 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CoinDesk"
-            },
-            "author": "James Van Straten",
-            "title": "Bitcoin Touches Record-High $85K, Adds Almost $20K in a Week",
-            "description": "Gold and most of the so-called magnificent seven tech stocks are down on the day.",
-            "url": "https://www.coindesk.com/markets/2024/11/11/bitcoin-climbs-above-84k-adds-almost-20k-in-a-week/",
-            "urlToImage": "https://www.coindesk.com/resizer/jTs831baVrd5WcuiKJKMmC8JgLU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/D7MI4WSZLBBVDIREJEG3GAXF6U.jpg",
-            "publishedAt": "2024-11-11T16:14:10Z",
-            "content": "The largest cryptocurrency by market capitalization continues to hit all-time highs, which shows a strong uptrend. In the past week alone, bitcoin has added almost $20,000 from its Nov. 6 low of $66,\u2026 [+516 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Karen Friar",
-            "title": "Stock market today: Dow slips, Nasdaq edges higher as Tesla shines",
-            "description": "Investors are looking ahead to Nvidia earnings to test the health of the AI trade, as optimism for rate cuts fades.",
-            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-slips-nasdaq-edges-higher-as-tesla-shines-143036851.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/g2zoXh0AoiyZnC3mLpi9Yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/71ca19a0-a57d-11ef-baf7-f25aa3fc11a7",
-            "publishedAt": "2024-11-18T14:30:36Z",
-            "content": "US stocks traded mixed on Monday amid fading optimism for interest-rate cuts, as investors looked ahead to Nvidia (NVDA) earnings to test the health of the AI trade.\r\nThe Dow Jones Industrial Average\u2026 [+4159 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Karen Friar",
-            "title": "Stock market today: Nasdaq slides as Nvidia, Alphabet lead 'Magnificent 7' tumble",
-            "description": "Investors are digging into Nvidia's earnings for insights into the AI boom.",
-            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-rise-while-nasdaq-slips-as-nvidia-alphabet-tumble-143024596.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MnLz241vlf9CwcV5klCKBQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/7173e480-a808-11ef-9bff-0037fb2bb98e",
-            "publishedAt": "2024-11-21T14:30:24Z",
-            "content": "US stocks whipsawed Thursday as investors digested Nvidia's (NVDA) earnings and a more than 6% tumble from Alphabet (GOOG, GOOGL) amid a Department of Justice move to break up its empire.\r\nThe Dow Jo\u2026 [+10057 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Argus Raises NVIDIA Corporation (NVDA) Price Target to $175, Citing Strong Q3 Performance and Growth Across Multiple Markets",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bc344063-6489-4778-a4a1-bb663fb588c4",
-            "urlToImage": null,
-            "publishedAt": "2024-11-24T07:08:14Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Bill Stone, Contributor, \n Bill Stone, Contributor\n https://www.forbes.com/sites/bill_stone/",
-            "title": "Will Magnificent 7 Earnings Be A Trick Or A Treat?",
-            "description": "Five of the Magnificent 7 report earnings in the busiest week of earnings season. With superior earnings growth and size, the Magnificent 7\u2019s results will be crucial.",
-            "url": "https://www.forbes.com/sites/bill_stone/2024/10/27/will-magnificent-7-earnings-be-a-trick-or-a-treat/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/671cd7114dab59e88d463f30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-10-27T11:00:00Z",
-            "content": "The third-quarter earnings season enters its busiest reporting week, including five of the ... [+] Magnificent 7 providing earnings results.\r\ngetty\r\nWithin the S&amp;P 500, 111 companies reported ear\u2026 [+5780 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Bill Stone, Contributor, \n Bill Stone, Contributor\n https://www.forbes.com/sites/bill_stone/",
-            "title": "Markets Brace For Earnings, Election, And The Fed",
-            "description": "This week remains busy on the earnings front with additional likely volatility from the Presential election and the Federal Reserve meeting.",
-            "url": "https://www.forbes.com/sites/bill_stone/2024/11/03/markets-brace-for-earnings-election-and-the-fed/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6727643f4cc3e83e0daf79f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-11-03T12:08:16Z",
-            "content": "This week features more earnings, the Presential election and a Federal Reserve meeting. \r\ngetty\r\nWithin the S&amp;P 500, 170 companies reported earnings last week, and 75% of S&amp;P 500 firms repor\u2026 [+4376 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Usman Kabir",
-            "title": "Mizuho Raises NVIDIA Corporation (NVDA) Price Target to $175, Reaffirms Outperform Rating Amid Strong AI Market Leadership",
-            "description": "We recently compiled a list of the 15 AI Stocks Making Waves on Wall Street. In this article, we are going to take a look at where NVIDIA Corporation...",
-            "url": "https://finance.yahoo.com/news/mizuho-raises-nvidia-corporation-nvda-131146419.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
-            "publishedAt": "2024-11-24T13:11:46Z",
-            "content": "We recently compiled a list of the 15 AI Stocks Making Waves on Wall Street.\u00a0In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against the other AI stocks \u2026 [+3863 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Josh Schafer",
-            "title": "One chart shows how AI will drive another decade of US stock market dominance",
-            "description": "JPM predicts that the US will continue to lead by market cap share in 2037 as artificial intelligence benefits expand beyond a few large tech names that have...",
-            "url": "https://finance.yahoo.com/news/one-chart-shows-how-ai-will-drive-another-decade-of-us-stock-market-dominance-143042242.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/eAjMreA3wIw6S6hC3MsOYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/2e60add0-9233-11ef-bedf-3dfc55603135",
-            "publishedAt": "2024-10-27T14:30:42Z",
-            "content": "US companies already dominate the global stock market when it comes to size. A new chart from JPMorgan Asset Management shows that's largely expected to continue. The firm attributes the boom to arti\u2026 [+3353 chars]"
-        },
-        {
-            "source": {
-                "id": "next-big-future",
-                "name": "Next Big Future"
-            },
-            "author": "Brian Wang",
-            "title": "Nvidia Might Invest in xAI at a $75 Billion Valuation",
-            "description": "The New York Post reports NVDA is looking to make a strategic investment in Elon Musk\u2019s AI venture, xAI. xAI is exploring a new funding round in January 2025, which could value the company at $75 billion. xAI last raised a $6 billion round with a $24 billion \u2026",
-            "url": "https://www.nextbigfuture.com/2024/11/nvidia-might-invest-in-xai-at-a-75-billion-valuation.html",
-            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/11/Screenshot-2024-11-03-at-11.42.11-PM.jpg",
-            "publishedAt": "2024-11-04T07:47:57Z",
-            "content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology\u2026 [+593 chars]"
+            "author": "thestreet.com",
+            "title": "Nvidia stock extends November gains as investors bet on 2025 AI dominance",
+            "description": "Nvidia shares nudged higher in early Friday trading, keeping the stock on pace for a modest November gain, as investors step back from the tech giant's recent earnings report and assess its leadership role in the AI trade and its broader place in a next year'\u2026",
+            "url": "https://biztoc.com/x/9657811f5f15c601",
+            "urlToImage": "https://biztoc.com/cdn/9657811f5f15c601_s.webp",
+            "publishedAt": "2024-11-29T14:34:19Z",
+            "content": "Nvidia shares nudged higher in early Friday trading, keeping the stock on pace for a modest November gain, as investors step back from the tech giant's recent earnings report and assess its leadershi\u2026 [+142 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Investor's Business Daily"
             },
-            "author": "IBD STAFF, Investor's Business Daily",
-            "title": "Nvidia (NVDA) Stock Quotes, Company News And Chart Analysis",
-            "description": "Nvidia stock page get's you the latest news from the artificial intelligence and AI chip gaint, plus quotes and analysis.",
-            "url": "https://www.investors.com/news/technology/nvidia-stock-nvda-stock-price-quote-analysis/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/06/Stock-Nvidia-JensenHunagGB200-01-company.jpg",
-            "publishedAt": "2024-11-18T13:04:28Z",
-            "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+            "author": "ED CARSON, Investor's Business Daily",
+            "title": "Dow Jones Futures: Stock Market Falls Into Thanksgiving Holiday; Nvidia Defends Key Level",
+            "description": "The major indexes declined Wednesday amid earnings turkeys, but came off lows.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-thanksgiving-nvidia/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2021/11/Stock-turkeysolo-01-adobe.jpg",
+            "publishedAt": "2024-11-28T03:58:08Z",
+            "content": "Dow Jones futures rose slightly overnight, along with S&amp;P 500 futures and Nasdaq futures.\r\nThe stock market rally saw the major indexes fall Wednesday heading into the Thanksgiving holiday, but c\u2026 [+5441 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Quartz India"
+                "name": "Investor's Business Daily"
             },
-            "author": "Andy Mills",
-            "title": "Nvidia and the rest of the Magnificent 7 create a risky scenario for the market, strategist says",
-            "description": "Andrew Krei, co-chief investment officer at Crescent Grove Advisors, spoke with Quartz for the latest installment of our \u201cSmart Investing\u201d video series.Read more...",
-            "url": "https://qz.com/nvidia-and-the-rest-of-the-magnificent-7-create-a-risky-1851704113",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/fcb4d64dcbe1ede0bc9b9730b3f901d3.jpg",
-            "publishedAt": "2024-11-20T18:22:00Z",
-            "content": "Andrew Krei, co-chief investment officer at Crescent Grove Advisors, spoke with Quartz for the latest installment of our Smart Investing video series.\r\nWatch the interview above and check out the tra\u2026 [+5579 chars]"
+            "author": "ED CARSON, Investor's Business Daily",
+            "title": "Dow Jones Futures: S&P 500 Hits Highs As Bitcoin Skids; CrowdStrike Leads Movers Late",
+            "description": "Amazon and megacaps helped the major indexes offset weak breadth.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-bitcoin-crowdstrike-earnings-movers/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2020/08/Stock-robotgiant-01-adobe.jpg",
+            "publishedAt": "2024-11-27T03:52:44Z",
+            "content": "Dow Jones futures were little changed overnight, along with S&amp;P 500 futures and Nasdaq futures. CrowdStrike (CRWD) headlined a busy Tuesday night earnings lineup.\r\nThe stock market rally saw mode\u2026 [+6924 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Quartz India"
+                "name": "Investor's Business Daily"
             },
-            "author": "Britney Nguyen",
-            "title": "The AI race is shifting to AI agents. What are they?",
-            "description": "A future where everyone has an artificial intelligence-powered assistant might not be too far off.Read more...",
-            "url": "https://qz.com/ai-agents-chatbots-openai-microsoft-chatgpt-1851700919",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/162658e6cd4017e98baee3d4c88b2d07.jpg",
-            "publishedAt": "2024-11-19T10:00:00Z",
-            "content": "In This Story\r\nA future where everyone has an artificial intelligence-powered assistant might not be too far off.\r\nWhile tech giants and AI startups have been racing to launch the smartest AI-powered\u2026 [+5257 chars]"
+            "author": "HARRISON MILLER, Investor's Business Daily",
+            "title": "Bitcoin Miner Iren Sees Target Hikes On Earnings; Bitcoin Rebounds Above $93k",
+            "description": "Bitcoin miner Iren received price target hikes after reporting earnings, 28% spike in AI revenue. Bitcoin price rebounds above $94,000.",
+            "url": "https://www.investors.com/news/iren-bitcoin-miner-earnings-q1-2025-target-hikes/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2018/02/Stock-bitcoin-31-adobe.jpg",
+            "publishedAt": "2024-11-27T13:49:53Z",
+            "content": "Bitcoin miner Iren rallied early Wednesday after receiving multiple price target increases following the company's late Tuesday earnings report. Meanwhile, the price of bitcoin rebounded slightly fol\u2026 [+3053 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Forbes"
+                "name": "MarketWatch"
             },
-            "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
-            "title": "Can Nvidia Stock Lose 50%?",
-            "description": "Nvidia stock stock has been a standout performer in the AI boom, rising by over 180% year-to-date.",
-            "url": "https://www.forbes.com/sites/greatspeculations/2024/11/19/can-nvidia-stock-lose-50/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/673c7abd31125f6c01bd2783/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-11-19T11:49:52Z",
-            "content": "SUQIAN, CHINA - NOVEMBER 16, 2024 - Illustration Nvidia invests in Applied Digital, Suqian City, ... [+] Jiangsu Province, China, Nov 16, 2024. (Photo credit should read CFOTO/Future Publishing via G\u2026 [+8598 chars]"
+            "author": "Philip van Doorn",
+            "title": "Trump\u2019s return should favor growth stocks. Here are 10 with the most upside.",
+            "description": "Quantitative strategists at Jefferies expect Donald Trump\u2019s return as president to enable a continued run for growth stocks; they suggest avoiding value as...",
+            "url": "https://www.marketwatch.com/story/trumps-return-should-favor-growth-stocks-here-are-10-with-the-most-upside-c99cf800",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ps6RDfVX6N_vTmQqeMcG5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/af4e1e6322de3b5ccaaa5e614cbf3b9f",
+            "publishedAt": "2024-11-27T09:45:00Z",
+            "content": "Jefferies Global Head of Quantitative Desh Peramunetilleke expects the first half of Donald Trumps next term in the White House to favor growth stocks over value stocks. - MarketWatch photo illustrat\u2026 [+4746 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Quartz India"
+                "name": "Investor's Business Daily"
             },
-            "author": "Andy Mills",
-            "title": "Trump Media stock and Bitcoin are signaling a Donald Trump election win, strategist says",
-            "description": "Eric Beiley, executive managing director of The Beiley Group at Steward Partners, spoke with Quartz for the latest installment of our \u201cSmart Investing\u201d video series.Read more...",
-            "url": "https://qz.com/trump-media-stock-bitcoin-price-cryptocurrency-election-1851684181",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/434d8371cf7e19fa94d43425cfdcd750.jpg",
-            "publishedAt": "2024-10-29T18:35:00Z",
-            "content": "Eric Beiley, executive managing director of The Beiley Group at Steward Partners, spoke with Quartz for the latest installment of our Smart Investing video series.\r\nWatch the interview above and chec\u2026 [+5549 chars]"
+            "author": "PATRICK SEITZ, Investor's Business Daily",
+            "title": "SoundHound Makes Itself Heard On Wall Street With Voice AI",
+            "description": "SoundHound AI is giving a voice to artificial intelligence. And that opportunity has fueled interest in SoundHound stock.",
+            "url": "https://www.investors.com/news/technology/soundhound-stock-voice-ai-advancements/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/11/Stock-SoundHoudAI-WhiteCastle-01-company.jpg",
+            "publishedAt": "2024-11-27T13:00:50Z",
+            "content": "SoundHound AI (SOUN) is giving a voice to artificial intelligence. And the AI voice tech company is making itself heard on Wall Street, where the spotlight on SoundHound stock is growing.\r\nThe path t\u2026 [+5577 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Forbes"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Robert Barone, Contributor, \n Robert Barone, Contributor\n https://www.forbes.com/sites/greatspeculations/people/robertbarone/",
-            "title": "Equities Soar On Trump Election Despite A Slowing Economy",
-            "description": "The Dow Jones gained more than 1500 points on Wednesday after Trump won the 270 electoral votes needed to become the 47th President of the United States.",
-            "url": "https://www.forbes.com/sites/greatspeculations/2024/11/09/equities-soar-on-trump-election-despite-a-slowing-economy/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672fafd01c2092cf531a381e/0x0.jpg?format=jpg&crop=690,388,x211,y0,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-11-09T19:03:19Z",
-            "content": "The Dow Jones gained more than 1500 points on Wednesday after Trump won the 270 electoral votes needed to become the 47th President of the United States, and the volume was twice the normal level. By\u2026 [+10225 chars]"
+            "author": "Usman Kabir",
+            "title": "NVIDIA Corporation (NVDA): China Welcomes NVIDIA\u2019s Presence, Aims to Improve US-China Trade Relations",
+            "description": "We recently compiled a list of the 15 AI Stocks That are Making Headlines. In this article, we are going to take a look at where NVIDIA Corporation...",
+            "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-china-welcomes-121222364.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
+            "publishedAt": "2024-11-27T12:12:22Z",
+            "content": "We recently compiled a list of the 15 AI Stocks That are Making Headlines.\u00a0In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against the other AI stocks.\r\n\u2026 [+3354 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dinheirama.com"
+            },
+            "author": "Reda\u00e7\u00e3o Dinheirama",
+            "title": "NY cai antes de feriado, com corre\u00e7\u00e3o da Nvidia",
+            "description": "As bolsas de Nova York fecharam em queda nesta quarta-feira, 27, em meio \u00e0 onda de vendas de a\u00e7\u00f5es de tecnologia. O movimento se sobrep\u00f4s\u2026\n------ Este artigo foi escrito por Reda\u00e7\u00e3o Dinheirama. Este artigo apareceu originalmente no site Dinheirama.A reprodu\u00e7\u00e3\u2026",
+            "url": "https://dinheirama.com/ny-cai-antes-de-feriado-com-correcao-da-nvidia/",
+            "urlToImage": "https://media.dinheirama.com/medias/uploads/2024/09/20240904-nvidia-78-jpg.webp",
+            "publishedAt": "2024-11-27T21:50:54Z",
+            "content": "0As bolsas de Nova York fecharam em queda nesta quarta-feira, 27, em meio \u00e0 onda de vendas de a\u00e7\u00f5es de tecnologia. \r\nO movimento se sobrep\u00f4s a indicadores que corroboram apostas em cortes de juros do\u2026 [+1330 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "MICHAEL LARKIN, Investor's Business Daily",
+            "title": "This Sector Leader On 300% Run Eyes Fresh Buy Point Amid Accelerating Earnings",
+            "description": "Impinj stock has been on a stellar run in 2024. It offers an alternative way to play a semiconductor space dominated by AI giant Nvidia.",
+            "url": "https://www.investors.com/stock-lists/sector-leaders/stock-market-sector-leader-buy-point-accelerating-earnings-impinj-nvidia/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/06/Stock-bullstampede-generatedai-01-adobe.jpg",
+            "publishedAt": "2024-11-27T16:10:17Z",
+            "content": "Artificial intelligence chipmaker Nvidia (NVDA) has been hogging the headlines in 2024. However Impinj (PI) has been on a stellar run so far of its own, proving there are many ways to make good gains\u2026 [+3101 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Karen Friar",
+            "title": "Stock market today: S&P 500, Nasdaq slide after key Fed inflation gauge shows faltering progress",
+            "description": "Investors are looking to a reading on the Fed's preferred inflation gauge to provide clues to rate cuts.",
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-slide-after-key-fed-inflation-gauge-shows-faltering-progress-151858913.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4g2mJcFqUzD0Baxidsd62Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/409f5070-acb7-11ef-99ff-72dc349d4b5b",
+            "publishedAt": "2024-11-27T15:18:58Z",
+            "content": "US stocks dipped Wednesday as investors digested fresh data that showed inflation made little progress toward the Fed's 2% target in October.\r\nAfter clinching record highs on Tuesday, the S&amp;P 500\u2026 [+9593 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "VIDYA RAMAKRISHNAN, Investor's Business Daily",
+            "title": "Dow Jones Slides, Nvidia Falters As Trump Rally Sputters; Warren Buffett's Berkshire Hits All-Time High (Live Coverage)",
+            "description": "The Dow Jones and other indexes were down Wednesday after October's inflation data. Nvidia broke a key level on the stock market today.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-dow-jones-nvidia-stock/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/06/Stock-WarrenBuffettwave-01-shutt.jpg",
+            "publishedAt": "2024-11-27T21:09:19Z",
+            "content": "The Dow Jones Industrial Average and other major indexes reversed lower Wednesday as the postelection Trump rally sputtered ahead of the Thanksgiving holiday. Indexes fell in the stock market today a\u2026 [+6686 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "\u8ca1\u8a0a\u5feb\u5831",
+            "title": "Vishay\u61c9\u7528\u65bcNvidia AI\u4f3a\u670d\u5668\u96f6\u4ef6\u8a02\u55ae\u5927\u589e\uff0c\u90ed\u660e\u9324\u7a31\u4f9b\u61c9\u93c8\u5927\u98a8\u5439",
+            "description": "\u3010\u8ca1\u8a0a\u5feb\u5831\uff0f\u9673\u5b5f\u6714\u3011\u6709\u5730\u8868\u6700\u5f37\u860b\u679c\u5206\u6790\u5e2b\u7f8e\u8b7d\u7684\u5929\u98a8\u570b\u969b\u5206\u6790\u5e2b\u90ed\u660e\u9324\u9031\u4e09\u6700\u65b0\u767c\u8868\u5831\u544a\u986f\u793a\uff0c\u7f8e\u570b\u96fb\u963b\u9f8d\u982d\u5a01\u4e16(Vishay)\u61c9\u7528\u65bcNvidia(\u7f8e\u80a1\u4ee3\u78bcNVDA)Blackwell AI\u4f3a\u670d\u5668\u7684\u96fb\u5b50\u96f6\u4ef6\u8a02\u55ae\u8d85\u9810\u671f\u3002\u4e0d\u904e\uff0c\u9019\u9805\u6d88\u606f\u5c0dNvidia\u537b\u672a\u767c\u63ee\u5229\u597d\u4f5c\u7528\uff0c\u80a1\u50f9\u9031\u4e09\u4e00\u5ea6\u6025\u632b3.7%\u81f3131.80\u7f8e\u5143\u7684\u65e5\u4f4e\uff0c\u7d42\u5834\u6536\u4f4e1.15%\u81f3135.34\u7f8e\u5143\u70ba10\u670831\u65e5\u4ee5\u4f86\u8fd1\u56db\u9031\u65b0\u4f4e\uff0c\u4eca\u5e74\u4f86\u6f32\u5e45\u7e2e\u5c0f\u81f3173.29%\u3002\u6700\u65b0\u6536\u5e02\u50f9\u82e5\u820711\u670821\u65e5\u89f8\u53ca\u7684\u53f2\u4e0a\u65b0\u9ad8152.89\u7f8e\u5143\u76f8\u6bd4\uff0c\u4e00\u9031\u5167\u6025\u5410\u4e8617.55\u7f8e\u5143\u621611.5%\uff0c\u843d\u5165\u4fee\u6b63\u5340\u3002\u2026",
+            "url": "https://tw.stock.yahoo.com/news/vishay%E6%87%89%E7%94%A8%E6%96%BCnvidia-ai%E4%BC%BA%E6%9C%8D%E5%99%A8%E9%9B%B6%E4%BB%B6%E8%A8%82%E5%96%AE%E5%A4%A7%E5%A2%9E-%E9%83%AD%E6%98%8E%E9%8C%A4%E7%A8%B1%E4%BE%9B%E6%87%89%E9%8F%88%E5%A4%A7%E9%A2%A8%E5%90%B9-004955452.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2024-11-27T16:49:55Z",
+            "content": "(Vishay)Nvidia(NVDA)Blackwell AINvidia3.7%131.801.15%135.341031173.29%1121152.8917.5511.5%299.88\r\nNvidia AIRTX 50(Vishay)Blackwell AIRTX 50(2308)\r\nNvidiaBlackwell AI(GB200DGX/HGX B200)RTX 50MOSFET/Dr\u2026 [+217 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "\u9245\u4ea8\u7db2\u65b0\u805e\u4e2d\u5fc3",
+            "title": "\u76e4\u4e2d\u901f\u5831 - \u8cbb\u57ce\u534a\u5c0e\u9ad4\u5927\u8dcc1.02%\uff0c\u58314877.45\u9ede",
+            "description": "\u8cbb\u57ce\u534a\u5c0e\u9ad4\u76e4\u4e2d\u4e0b\u8dcc\uff0c\u8fd1\u65e5\u9031\u6708\u7e3e\u6548\u3001\u6210\u5206\u80a1\u8868\u73fe\u3001\u5373\u6642\u65b0\u805e\u8cc7\u8a0a\u3002",
+            "url": "https://tw.stock.yahoo.com/news/%E7%9B%A4%E4%B8%AD%E9%80%9F%E5%A0%B1-%E8%B2%BB%E5%9F%8E%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%A4%A7%E8%B7%8C1-02-%E5%A0%B14877-45%E9%BB%9E-144726584.html",
+            "urlToImage": "https://media.zenfs.com/et/cnyes.com.tw/d4d59484fb843d974b6e63fc5389719b",
+            "publishedAt": "2024-11-27T06:47:26Z",
+            "content": "2710:3250.121.02%4877.45\r\n<ul><li> 1 +0.17%\r\n</li><li> 1 -5.47%\r\n</li><li> 3 -3.33%\r\n</li><li> 6 -5.62%\r\n</li><li>+18.01%\r\n</li></ul>(ARM-US)(ARM-US)2.48%(NVDA-US)2.38%(MU-US)1.72%(AVGO-US)1.51%(TSM-\u2026 [+77 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "\u9245\u4ea8\u7db2\u65b0\u805e\u4e2d\u5fc3",
+            "title": "\u3008\u7f8e\u80a1\u65e9\u76e4\u3009\u6676\u7247\u80a1\u53cd\u5f48 \u4e3b\u8981\u6307\u6578\u4e0a\u6f32 \u7f8e\u80a1\u4eca\u5929\u63d0\u65e9\u6536\u76e4",
+            "description": "\u7f8e\u80a1\u5468\u4e94 (29 \u65e5) \u65e9\u76e4\u4e3b\u8981\u6307\u6578\u5c0f\u6f32\uff0c\u50b3\u62dc\u767b\u653f\u5e9c\u9650\u5236\u4e2d\u570b\u6676\u7247\u65b0\u63aa\u65bd\u529b\u9053\u6e1b\u7de9\uff0c\u52a9\u6f32\u6676\u7247\u80a1\u3002\u9053\u74ca\u6307\u6578\u4e0a\u6f32 0.33\uff0c\u6a19\u666e 500 \u6307\u6578\u4e0a\u6f32 0.12%\uff0c\u90a3\u65af\u9054\u514b\u6307\u6578\u4e0a\u6f32 0.12%\uff0c\u8cbb\u534a\u4e0a\u6f32 0.94%\u3002",
+            "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E6%97%A9%E7%9B%A4-%E6%99%B6%E7%89%87%E8%82%A1%E5%8F%8D%E5%BD%88-%E4%B8%BB%E8%A6%81%E6%8C%87%E6%95%B8%E4%B8%8A%E6%BC%B2-%E7%BE%8E%E8%82%A1%E4%BB%8A%E5%A4%A9%E6%8F%90%E6%97%A9%E6%94%B6%E7%9B%A4-144359604.html",
+            "urlToImage": "https://media.zenfs.com/ko/cnyes.com.tw/d89ec956a5cc38da20689cb67a59a963",
+            "publishedAt": "2024-11-29T06:43:59Z",
+            "content": "(29 ) 0.33 500 0.12% 0.12% 0.94%\r\n 1%11 7% 2023 11 \r\n 2000 11 10.5%\r\n 1:00 \r\n 22 \r\n<ul><li> 146.50 0.33% 44868.56 \r\n</li><li> 23.59 0.12% 19084.06 \r\n</li><li> 500 6.93 0.12% 6005.67 \r\n</li><li> 45.68\u2026 [+387 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "\u9245\u4ea8\u7814\u5831",
+            "title": "\u3010\u91cf\u5927\u5f37\u6f32\u80a1\u6574\u7406\u3011\u53f0\u80a1\u9707\u76ea\u56de\u6a94\u4e0b\u8dcc\u7834\u5b63\u7dda\uff0c\u662f\u8cb7\u9ede?\u9084\u662f\u8ce3\u9ede?\u5ddd\u666e\u63da\u8a00\u8ab2\u5fb5\u95dc\u7a05\uff0c\u5c0dAI\u80a1\u6709\u6551\u55ce\uff0c\u5982\u4f55\u89e3\u8b80?",
+            "description": "\u52a0\u6b0a\u6307\u6578\uff0c\u4eca\u65e5\u958b\u4f4e\u9707\u76ea\u8d70\u4f4e\uff0c\u7d42\u5834\u4e0b\u8dcc 343.98 \u9ede\uff0c\u6536\u5728 22334.78 \u9ede\uff0c\u6210\u4ea4\u91cf\u589e\u52a0\u81f3 3717.33 \u5104\u3002 \u89c0\u5bdf\u4e09\u5927\u6cd5\u4eba\u4eca\u5929\u7c4c\u78bc\u52d5\u5411\uff0c\u5916\u8cc7\u8ce3\u8d85 409.86 \u5104\u5143\uff0c\u6295\u4fe1\u8cb7\u8d85 26.16 \u5104\u5143\uff0c\u81ea\u71df\u5546\u8ce3\u8d85 139.57 \u5104\u5143\uff0c\u4e09\u5927\u6cd5\u4eba\u8ce3\u8d85 523.28 \u5104\u5143\uff0c\u5176\u4e2d\uff0c\u6295",
+            "url": "https://tw.stock.yahoo.com/news/%E9%87%8F%E5%A4%A7%E5%BC%B7%E6%BC%B2%E8%82%A1%E6%95%B4%E7%90%86-%E5%8F%B0%E8%82%A1%E9%9C%87%E7%9B%AA%E5%9B%9E%E6%AA%94%E4%B8%8B%E8%B7%8C%E7%A0%B4%E5%AD%A3%E7%B7%9A-%E6%98%AF%E8%B2%B7%E9%BB%9E-%E9%82%84%E6%98%AF%E8%B3%A3%E9%BB%9E-%E5%B7%9D%E6%99%AE%E6%8F%9A%E8%A8%80%E8%AA%B2%E5%BE%B5%E9%97%9C%E7%A8%85-100721327.html",
+            "urlToImage": "https://media.zenfs.com/ko/cnyes.com.tw/f61cb7ac8276b1f526af952fa1ef190f",
+            "publishedAt": "2024-11-27T02:07:21Z",
+            "content": "343.98 22334.78 3717.33 \r\n 409.86 26.16 139.57 523.28 390.36 \r\n 11 123.74 119.46 34.26 60.36 (TSM-US) ADR 0.67%FED (DELL-US) 10% 10% 25% AI(2603-TW) (2615-TW) (2609-TW) 343.98 22334.78 3717.33 K 59.9\u2026 [+1027 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "\u9245\u4ea8\u7814\u5831",
+            "title": "\u3010\u91cf\u5927\u5f37\u6f32\u80a1\u6574\u7406\u3011\u95dc\u7a05\u6709\u89e3\uff0cAI\u80a1\u6709\u6a5f\u6703\u5728\u4e0a\u55ce?\u4e3b\u6d41\u80a1\u8a72\u9396\u5b9a\u8ab0?",
+            "description": "\u52a0\u6b0a\u6307\u6578\u4eca\u65e5\u958b\u9ad8\u8d70\u4f4e\uff0c\u7d42\u5834\u4e0b\u8dcc 35.88 \u9ede\uff0c\u6536\u5728 22298.90 \u9ede\uff0c\u6210\u4ea4\u91cf 3248.12 \u5104\u3002 \u89c0\u5bdf\u4e09\u5927\u6cd5\u4eba\u4eca\u5929\u7c4c\u78bc\u52d5\u5411\uff0c\u5916\u8cc7\u8ce3\u8d85 98.85 \u5104\u5143\uff0c\u6295\u4fe1\u8cb7\u8d85 36.89 \u5104\u5143\uff0c\u81ea\u71df\u5546\u8ce3\u8d85 81.33 \u5104\u5143\uff0c\u4e09\u5927\u6cd5\u4eba\u5408\u8a08\u8ce3\u8d85 143.29 \u5104\u5143 \uff0c\u5176\u4e2d\uff0c\u6295\u4fe1\u9023\u7e8c\u4e5d\u65e5\u8cb7",
+            "url": "https://tw.stock.yahoo.com/news/%E9%87%8F%E5%A4%A7%E5%BC%B7%E6%BC%B2%E8%82%A1%E6%95%B4%E7%90%86-%E9%97%9C%E7%A8%85%E6%9C%89%E8%A7%A3-ai%E8%82%A1%E6%9C%89%E6%A9%9F%E6%9C%83%E5%9C%A8%E4%B8%8A%E5%97%8E-%E4%B8%BB%E6%B5%81%E8%82%A1%E8%A9%B2%E9%8E%96%E5%AE%9A%E8%AA%B0-100711176.html",
+            "urlToImage": "https://media.zenfs.com/ko/cnyes.com.tw/f61cb7ac8276b1f526af952fa1ef190f",
+            "publishedAt": "2024-11-28T02:07:11Z",
+            "content": "35.88 22298.90 3248.12 \r\n 98.85 36.89 81.33 143.29 427.25 \r\n 10 (PCE) 2.8%10 PCE 2.3% 27 138.25 44,722.06 0.31% 500 0.38% 0.60% 1.51%(DELL-US) (HPQ-US) 11%(TSM-US) ADR 1.45% 60 35.88 22298.90 3248.12\u2026 [+864 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Elchapuzasinformatico.com"
+            },
+            "author": "Borja Colomer",
+            "title": "El gasto en I+D de NVIDIA, AMD, Intel y Apple se dispara, \u00bfqui\u00e9n hace los mejores productos seg\u00fan su presupuesto?",
+            "description": "Las tarjetas gr\u00e1ficas han ido haci\u00e9ndose cada vez m\u00e1s importantes y aunque empezaron siendo meras aceleradoras gr\u00e1ficas para juegos, ahora se utilizan para un sinf\u00edn de aplicaciones. Hemos visto que las GPU han sido las protagonistas en la \u00e9poca de las cripto\u2026",
+            "url": "https://elchapuzasinformatico.com/?p=578616",
+            "urlToImage": "https://elchapuzasinformatico.com/wp-content/uploads/2024/11/NVIDIA-Apple-RD-AMD-gastos.jpg",
+            "publishedAt": "2024-11-27T12:36:37Z",
+            "content": "Las tarjetas gr\u00e1ficas han ido haci\u00e9ndose cada vez m\u00e1s\r\nimportantes y aunque empezaron siendo meras aceleradoras gr\u00e1ficas\r\npara juegos, ahora se utilizan para un sinf\u00edn de aplicaciones.\r\nHemos visto q\u2026 [+3529 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minatokobe.com"
+            },
+            "author": "\u9154\u3044\u3069\u308c",
+            "title": "Apple(AAPL)\u306e\u682a\u4fa1\u304c11\u670829\u65e5(\u73fe\u5730\u6642\u9593)\u306b\u65e5\u4e2d\u6700\u9ad8\u5024\u3067\u904e\u53bb\u6700\u9ad8\u5024\u3092\u66f4\u65b0",
+            "description": "\u65e5\u4e2d\u6700\u9ad8\u5024\u3067\u904e\u53bb\u6700\u9ad8\u5024\u3092\u66f4\u65b0 11\u670829\u65e5(\u73fe\u5730\u6642\u9593)\u3001\u30ca\u30b9\u30c0\u30c3\u30af\u5e02\u5834\u3067\u306e\u53d6\u5f15\u306b\u304a\u3044\u3066\u3001Apple Inc. (AAPL) \u306e\u682a\u4fa1\u306e\u65e5\u4e2d\u6700\u9ad8\u5024\u304c 237.81\u30c9\u30eb\u3092\u8a18\u9332\u305710\u670815\u65e5\uff08\u73fe\u5730\u6642\u9593)\u306e237.49\u30c9\u30eb\u3092\u8d85\u3048\u3001\u65e5\u4e2d\u6700\u9ad8\u5024\u3092\u66f4\u65b0\u3057\u307e\u3057\u305f\u3002 \u7d42\u5024\u306f\u3001\u524d\u65e5\u304b\u3089+1.02%\u30a2\u30c3\u30d7\u306e237.33\u30c9\u30eb\u3067\u3057\u305f\u3002 Apple\u306e52\u9031\u9593\u306e\u6700\u4f4e\u5024\u306f164.08\u30c9\u30eb(2024/04/19)\u3067\u3059\u3002 \u6642\u4fa1\u7dcf\u984d Apple (AAPL) \uff1a 3\u51465,870\u5104\u30c9\u30eb NVIDIA (NVDA) \uff1a 3\u51463,860\u5104\u30c9\u30eb Microso\u2026",
+            "url": "https://minatokobe.com/wp/apple/post-101078.html",
+            "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2024/11/AAPL-1229_01.jpg",
+            "publishedAt": "2024-11-29T22:42:33Z",
+            "content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 15 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air, \u00a0Apple Watch Ultra, 1HomePodApple TV 4KApple\u2026 [+43 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "\u4e09\u7acb\u65b0\u805e\u7db2",
+            "title": "\u6771\u4eac\u5de8\u86cb\u65c1\u6c11\u5b85\u60e1\u706b2\u6b7b\uff01\u72c2\u71d25\u5c0f\u6642\u3000\u65e5\u8b70\u54e1\u4e08\u592b\u3001\u5973\u5152\u5931\u806f",
+            "description": "\u6771\u4eac\u5de8\u86cb\u65c1\u7684\u6c11\u5b85\u9a5a\u50b3\u706b\u8b66\uff01\u65e5\u5a92\u5831\u5c0e\uff0c27\u65e5\u665a\u95937\u6642\u8a31\uff0c\u6771\u4eac\u6587\u4eac\u5340\u4e00\u68df\u516c\u5bd3\u5927\u6a13\u767c\u751f\u706b\u707d\uff0c\u6b63\u597d\u662f\u81ea\u6c11\u9ee8\u8b70\u54e1\u8c6c\u53e3\u90a6\u5b50\u7684\u4f4f\u8655\u3002\u76ee\u524d\u5df2\u67092\u6b7b\uff0c\u8c6c\u53e3\u90a6\u5b50\u5728\u4e8b\u767c\u5f8c\u7b2c\u4e00\u6642\u9593\u5831\u5e73\u5b89\uff0c\u4e0d\u904e\u5979\u7684\u5148\u751f\u820730\u591a\u6b72\u7684\u9577\u5973\u96d9\u96d9\u5931\u806f\u3002",
+            "url": "https://tw.news.yahoo.com/%E6%9D%B1%E4%BA%AC%E5%B7%A8%E8%9B%8B%E6%97%81%E6%B0%91%E5%AE%85%E6%83%A1%E7%81%AB2%E6%AD%BB-%E7%8B%82%E7%87%925%E5%B0%8F%E6%99%82-%E6%97%A5%E8%AD%B0%E5%93%A1%E4%B8%88%E5%A4%AB-%E5%A5%B3%E5%85%92%E5%A4%B1%E8%81%AF-005200592.html",
+            "urlToImage": "https://media.zenfs.com/zh-tw/setn.com.tw/f09a1cdfdaf4563e4da9e974490d2125",
+            "publishedAt": "2024-11-27T16:52:00Z",
+            "content": "(Vishay)Nvidia(NVDA)Blackwell AINvidia3.7%131.801.15%135.341031173.29%1121152.8917.5511.5%299.88Nvidia AIRTX 50(Vishay)Blackwell AIRTX 50(2308)NvidiaBlackwell AI(GB200DGX/HGX B200)RTX 50"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "\u8ca1\u8a0a\u5feb\u5831",
+            "title": "\u5bd2\u6b66\u7d00\u80a1\u50f9\u76e4\u4e2d\u98c68.1%\u5275\u65b0\u7337\uff0c\u4eca\u5e74\u4f86\u5927\u6f32330%\uff0c\u7d04\u83abNvidia\u6f32\u5e45\u7ffb\u500d",
+            "description": "\u3010\u8ca1\u8a0a\u5feb\u5831\uff0f\u9673\u5b5f\u6714\u3011\u4e2d\u570b\u4eba\u5de5\u667a\u6167(AI)\u6676\u7247\u8a2d\u8a08\u5546--\u5bd2\u6b66\u7d00(688256.SS)\u9031\u4e94\u76e4\u4e2d\u8ffd\u9ad8\u98c6\u53478.1%\u81f3\u4eba\u6c11\u5e63590\u5143\u7684\u53f2\u4e0a\u65b0\u9ad8\uff0c\u4eca\u5e74\u4f86\u5927\u6f32\u4e86330.5%\uff0c\u9060\u512a\u65bc\u540c\u671fAI\u6676\u7247\u4e00\u54e5Nvidia(\u7f8e\u80a1\u4ee3\u78bcNVDA)\u7d04173%\u7684\u6f32\u5e45\u3002\u96a8\u8457\u7f8e\u570b\u5c0d\u4e2d\u570b\u6301\u7e8c\u65bd\u52a0\u79d1\u6280\u65b9\u9762\u7684\u5236\u88c1\uff0c\u5206\u6790\u4eba\u58eb\u8a8d\u70ba\uff0c\u9019\u5c07\u5f9e\u4e2d\u9577\u671f\u5229\u597d\u7684\u4e2d\u570b\u76f8\u95dc\u570b\u7522\u66ff\u4ee3\u80a1\u7968\u3002\u5916\u96fb27\u65e5\u5831\u5c0e\uff0c\u62dc\u767b\u653f\u5e9c\u6b63\u5728\u6b0a\u8861\u9032\u4e00\u6b65\u9650\u5236\u5411\u4e2d\u570b\u92b7\u552e\u534a\u5c0e\u9ad4\u8a2d\u5099\u548cAI\u5b58\u5132\u6676\u7247\u7684\u63aa\u65bd\uff0c\u9019\u5c07\u4f7f\u7f8e\u570b\u6253\u64ca\u4e2d\u570b\u653f\u5e9c\u79d1\u6280\u91ce\u5fc3\u7684\u884c\u52d5\u5347\u7d1a\uff0c\u4f46\u4e0d\u6703\u63a1\u53d6\u4e4b\u524d\u8003\u616e\u7684\u4e00\u4e9b\u66f4\u56b4\u683c\u7684\u63aa\u65bd\u3002\u8ca1\u5831\u65b9\u9762\uff0c\u5bd2\u6b66\u7d00\u7b2c\u4e09\u5b63\u8667\u640d1.\u2026",
+            "url": "https://tw.stock.yahoo.com/news/%E5%AF%92%E6%AD%A6%E7%B4%80%E8%82%A1%E5%83%B9%E7%9B%A4%E4%B8%AD%E9%A3%868-1-%E5%89%B5%E6%96%B0%E7%8C%B7-%E4%BB%8A%E5%B9%B4%E4%BE%86%E5%A4%A7%E6%BC%B2330-%E7%B4%84%E8%8E%ABnvidia%E6%BC%B2%E5%B9%85%E7%BF%BB%E5%80%8D-053730999.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2024-11-28T21:37:30Z",
+            "content": "[Newtalk] 10 PCE (Fed)106.32,6202,630(29)12,662.680(/) 112,649.642,6502,6452,640.96 1043%4.6%StoneXRhona OConnell1019 51% BCA ResearchRoukaya Ibr"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Khac Phu Nguyen",
+            "title": "The Leadership Offer That Could've Changed Tech Forever--but Jensen Huang Said No",
+            "description": "Why Nvidia and TSMC's CEOs made career-defining moves that shaped the trillion-dollar AI and semiconductor industries.",
+            "url": "https://finance.yahoo.com/news/leadership-offer-couldve-changed-tech-192803304.html",
+            "urlToImage": "https://media.zenfs.com/en/us.finance.gurufocus/03412812937b5e844d13e61d0b389761",
+            "publishedAt": "2024-11-29T19:28:03Z",
+            "content": "Morris Chang, the founder of Taiwan Semiconductor, asked Jensen Huang, the CEO of Nvidia, to take over as CEO of Taiwan Semiconductor, laying out a 10-minute vision for the company's future. However,\u2026 [+2989 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Direxion Daily NVDA Bull 2X Shares (NASDAQ:NVDU) Shares Gap Down \u2013 What\u2019s Next?",
+            "description": "Direxion Daily NVDA Bull 2X Shares (NASDAQ:NVDU \u2013 Get Free Report)\u2019s stock price gapped down prior to trading on Wednesday . The stock had previously closed at $114.10, but opened at $110.77. Direxion Daily NVDA Bull 2X Shares shares last traded at $108.67, w\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/29/direxion-daily-nvda-bull-2x-shares-nasdaqnvdu-shares-gap-down-whats-next/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/direxion-daily-nvda-bull-2x-shares-logo-1200x675.png?v=20240412134229&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-29T09:39:00Z",
+            "content": "Direxion Daily NVDA Bull 2X Shares (NASDAQ:NVDU \u2013 Get Free Report)\u2019s stock price gapped down prior to trading on Wednesday . The stock had previously closed at $114.10, but opened at $110.77. Direxio\u2026 [+2445 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "finbold.com",
+            "title": "Wall Street sets Nvidia (NVDA) stock price for the next 12 months - Finbold",
+            "description": "Nvidia (NASDAQ: NVDA) closed Monday at $135.34, down 1.15%, with the stock briefly falling to $132.08 during intraday trading before managing to recover slightly by the end of the session.\nDespite this small rebound, Nvidia is struggling to maintain momentum \u2026",
+            "url": "https://biztoc.com/x/36784bcc5700bcec",
+            "urlToImage": "https://biztoc.com/cdn/36784bcc5700bcec_s.webp",
+            "publishedAt": "2024-11-29T17:08:06Z",
+            "content": "Nvidia (NASDAQ: NVDA) closed Monday at $135.34, down 1.15%, with the stock briefly falling to $132.08 during intraday trading before managing to recover slightly by the end of the session.Despite thi\u2026 [+152 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "benzinga.com",
+            "title": "Market Clubhouse Morning Memo - November 27th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA)",
+            "description": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA.\nOur proprietary formula, exclusive to Market Clubhouse, dictates these price levels. This dynamic equation takes into account pr\u2026",
+            "url": "https://biztoc.com/x/fccda99d8619c7cd",
+            "urlToImage": "https://biztoc.com/cdn/fccda99d8619c7cd_s.webp",
+            "publishedAt": "2024-11-27T18:33:00Z",
+            "content": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA.Our proprietary formula, exclusive to Market Clubhouse, dictates thes\u2026 [+141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "Nvidia's Latest Record Quarter Show Its AI Dominance Remains Intact",
+            "description": "Last week, Nvidia Corporation (NASDAQ: NVDA) issued its third quarter results, topping both sales and earnings estimates as well as posting a better-than-expected current quarter guidance as its end-customers, including Microsoft Corporation (NASDAQ: MSFT), O\u2026",
+            "url": "https://biztoc.com/x/6b1ac80bf128d0e2",
+            "urlToImage": "https://biztoc.com/cdn/6b1ac80bf128d0e2_s.webp",
+            "publishedAt": "2024-11-27T20:56:10Z",
+            "content": "Last week, Nvidia Corporation (NASDAQ: NVDA) issued its third quarter results, topping both sales and earnings estimates as well as posting a better-than-expected current quarter guidance as its end-\u2026 [+149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "finance.yahoo.com",
+            "title": "Nvidia CEO Jensen Huang Says This Is the \"Next Wave of AI\" -- and He Singled Out 1 Potential Big Winner Other Than Nvidia",
+            "description": "Nvidia CEO Jensen Huang Says This Is the \"Next Wave of AI\" -- and He Singled Out 1 Potential Big Winner Other Than Nvidia\nIn This Article:\nIf you want to learn where artificial intelligence (AI) could be heading, you'll probably want to pay attention to Nvidi\u2026",
+            "url": "https://biztoc.com/x/914eac081dacff25",
+            "urlToImage": "https://biztoc.com/cdn/808/og.png",
+            "publishedAt": "2024-11-27T11:02:01Z",
+            "content": "Nvidia CEO Jensen Huang Says This Is the \"Next Wave of AI\" -- and He Singled Out 1 Potential Big Winner Other Than NvidiaIn This Article:If you want to learn where artificial intelligence (AI) could \u2026 [+148 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "benzinga.com",
+            "title": "Nvidia's Latest Record Quarter Show Its AI Dominance Remains Intact",
+            "description": "Last week, Nvidia Corporation (NASDAQ: NVDA) issued its third quarter results, topping both sales and earnings estimates as well as posting a better-than-expected current quarter guidance as its end-customers, including Microsoft Corporation (NASDAQ: MSFT), O\u2026",
+            "url": "https://biztoc.com/x/5f5b6747b3848eef",
+            "urlToImage": "https://biztoc.com/cdn/5f5b6747b3848eef_s.webp",
+            "publishedAt": "2024-11-27T18:43:52Z",
+            "content": "Last week, Nvidia Corporation (NASDAQ: NVDA) issued its third quarter results, topping both sales and earnings estimates as well as posting a better-than-expected current quarter guidance as its end-\u2026 [+147 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "finance.yahoo.com",
+            "title": "CEO Jensen Huang Just Delivered Fantastic News for Nvidia Investors",
+            "description": "In This Article:\nNvidia (NASDAQ: NVDA) recently reported another blowout quarter. After guiding investors to expect revenue in its fiscal 2025 third quarter to be around $32.5 billion, the leading artificial intelligence (AI) company reported record quarterly\u2026",
+            "url": "https://biztoc.com/x/907a816af21649ea",
+            "urlToImage": "https://biztoc.com/cdn/808/og.png",
+            "publishedAt": "2024-11-27T23:31:10Z",
+            "content": "In This Article:Nvidia (NASDAQ: NVDA) recently reported another blowout quarter. After guiding investors to expect revenue in its fiscal 2025 third quarter to be around $32.5 billion, the leading art\u2026 [+149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "fool.com",
+            "title": "CEO Jensen Huang Just Delivered Fantastic News for Nvidia Investors",
+            "description": "Nvidia (NVDA -1.15%) recently reported another blowout quarter. After guiding investors to expect revenue in its fiscal 2025 third quarter to be around $32.5 billion, the leading artificial intelligence (AI) company reported record quarterly sales of $35.1 bi\u2026",
+            "url": "https://biztoc.com/x/010f39318e323f27",
+            "urlToImage": "https://biztoc.com/cdn/808/og.png",
+            "publishedAt": "2024-11-28T16:56:29Z",
+            "content": "Nvidia (NVDA -1.15%) recently reported another blowout quarter. After guiding investors to expect revenue in its fiscal 2025 third quarter to be around $32.5 billion, the leading artificial intellige\u2026 [+147 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "36% of Nvidia's $35 Billion in Q3 Revenue Came From Just 3 Mystery Customers",
+            "description": "Nvidia (NASDAQ: NVDA) is the world's leading supplier of graphics processing units (GPUs) for data centers. Demand for the chips, which are used to develop artificial intelligence (AI), is significantly outpacing supply, and that trend is likely to continue f\u2026",
+            "url": "https://biztoc.com/x/3d124427043efc70",
+            "urlToImage": "https://biztoc.com/cdn/3d124427043efc70_s.webp",
+            "publishedAt": "2024-11-28T10:42:54Z",
+            "content": "Nvidia (NASDAQ: NVDA) is the world's leading supplier of graphics processing units (GPUs) for data centers. Demand for the chips, which are used to develop artificial intelligence (AI), is significan\u2026 [+138 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "investors.com",
+            "title": "Stock Market Hits Highs Despite Trump Tariff Threats, Nvidia, Tech Turkeys: Weekly Review",
+            "description": "The stock market rally continued to advance, with the Dow Jones, S&P 500 and Russell 2000 all hitting record highs, shrugging off Donald Trump tariff threats, some weak tech earnings, and struggles for Nvidia (NVDA). Treasury yields fell sharply, lifting home\u2026",
+            "url": "https://biztoc.com/x/3d9b4276a69e0ade",
+            "urlToImage": "https://biztoc.com/cdn/3d9b4276a69e0ade_s.webp",
+            "publishedAt": "2024-11-29T12:55:08Z",
+            "content": "The stock market rally continued to advance, with the Dow Jones, S&amp;P 500 and Russell 2000 all hitting record highs, shrugging off Donald Trump tariff threats, some weak tech earnings, and struggl\u2026 [+148 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "Better Buy Now: Nvidia or the Other 29 Stocks in the Dow Jones Industrial Average?",
+            "description": "Nvidia (NASDAQ: NVDA) replaced Intel in the Dow Jones Industrial Average (DJINDICES: ^DJI) earlier this month, adding even more tech and semiconductor exposure to the historic index.\nBut with Nvidia up 910% since early last year, some investors may be wonderi\u2026",
+            "url": "https://biztoc.com/x/96b2c5dd337729af",
+            "urlToImage": "https://biztoc.com/cdn/96b2c5dd337729af_s.webp",
+            "publishedAt": "2024-11-29T23:11:11Z",
+            "content": "Nvidia (NASDAQ: NVDA) replaced Intel in the Dow Jones Industrial Average (DJINDICES: ^DJI) earlier this month, adding even more tech and semiconductor exposure to the historic index.But with Nvidia u\u2026 [+147 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "fool.com",
+            "title": "Prediction: Nvidia Stock Will Soar in 2025. Here's Why",
+            "description": "The past couple of years have been a nonstop thrill ride for Nvidia (NVDA 2.15%) investors. The company had a market cap of just $359 billion to kick off 2023. Now, its value has soared to more than $3.35 trillion (as of this writing) -- a more than ninefold \u2026",
+            "url": "https://biztoc.com/x/63af6c8c71a4c397",
+            "urlToImage": "https://biztoc.com/cdn/808/og.png",
+            "publishedAt": "2024-11-29T20:58:52Z",
+            "content": "The past couple of years have been a nonstop thrill ride for Nvidia (NVDA 2.15%) investors. The company had a market cap of just $359 billion to kick off 2023. Now, its value has soared to more than \u2026 [+146 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "benzinga.com",
+            "title": "Nvidia, Chip Stocks Gain On Reports Of Softer China Sanctions",
+            "description": "Nvidia Corp NVDA stock is up Friday amid reports indicating the U.S. government is set to announce further sanctions on exporting semiconductor equipment and AI memory chips to China, which will be less stringent than the previous ones.\nAdditionally, the U.S.\u2026",
+            "url": "https://biztoc.com/x/d777a475dbf928ad",
+            "urlToImage": "https://biztoc.com/cdn/d777a475dbf928ad_s.webp",
+            "publishedAt": "2024-11-30T02:28:29Z",
+            "content": "Nvidia Corp NVDA stock is up Friday amid reports indicating the U.S. government is set to announce further sanctions on exporting semiconductor equipment and AI memory chips to China, which will be l\u2026 [+154 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "Nvidia's Growing Faster Than You Think. This Table Proves It",
+            "description": "Like clockwork, Nvidia (NASDAQ: NVDA) delivered another round of explosive growth in its third-quarter earnings report, but investors seemed to be missing the most impressive part of the performance. The company didn't mention it in the earnings call or press\u2026",
+            "url": "https://biztoc.com/x/1fa85e29b21d0f4c",
+            "urlToImage": "https://biztoc.com/cdn/1fa85e29b21d0f4c_s.webp",
+            "publishedAt": "2024-11-30T13:30:39Z",
+            "content": "Like clockwork, Nvidia (NASDAQ: NVDA) delivered another round of explosive growth in its third-quarter earnings report, but investors seemed to be missing the most impressive part of the performance.\u2026 [+143 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "investors.com",
+            "title": "Dow Jones Rises Ahead Of Fed Inflation Data; Nvidia Stock Sells Off",
+            "description": "The Dow Jones Industrial Average and other major stock indexes traded mixed Wednesday, as Wall Street awaited the Federal Reserve's favored inflation gauge. After a modest rebound Tuesday, Nvidia (NVDA) extended recent losses on the stock market today.\nAfter \u2026",
+            "url": "https://biztoc.com/x/9f56c17cc2003590",
+            "urlToImage": "https://biztoc.com/cdn/9f56c17cc2003590_s.webp",
+            "publishedAt": "2024-11-27T16:53:16Z",
+            "content": "The Dow Jones Industrial Average and other major stock indexes traded mixed Wednesday, as Wall Street awaited the Federal Reserve's favored inflation gauge. After a modest rebound Tuesday, Nvidia (NV\u2026 [+150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "investors.com",
+            "title": "Dow Jones Futures Rise Ahead Of Fed Inflation Data; Nvidia Extends Losses",
+            "description": "The Dow Jones Industrial Average and other major stock indexes traded mixed Wednesday, as Wall Street awaited the Federal Reserve's favored inflation gauge. After a modest rebound Tuesday, Nvidia (NVDA) extended recent losses on the stock market today.\nAfter \u2026",
+            "url": "https://biztoc.com/x/14d7528489b15772",
+            "urlToImage": "https://biztoc.com/cdn/14d7528489b15772_s.webp",
+            "publishedAt": "2024-11-27T14:41:40Z",
+            "content": "The Dow Jones Industrial Average and other major stock indexes traded mixed Wednesday, as Wall Street awaited the Federal Reserve's favored inflation gauge. After a modest rebound Tuesday, Nvidia (NV\u2026 [+143 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "Better Semiconductor Stock: Nvidia vs. Taiwan Semiconductor",
+            "description": "Artificial intelligence has been a boon to businesses in the semiconductor industry as customers upgrade their technology to support the needs of AI systems. Arguably the biggest beneficiaries of this trend are two titans of the industry, Nvidia (NASDAQ: NVDA\u2026",
+            "url": "https://biztoc.com/x/a5cb34cf5d9e3381",
+            "urlToImage": "https://biztoc.com/cdn/a5cb34cf5d9e3381_s.webp",
+            "publishedAt": "2024-11-27T12:29:41Z",
+            "content": "Artificial intelligence has been a boon to businesses in the semiconductor industry as customers upgrade their technology to support the needs of AI systems. Arguably the biggest beneficiaries of thi\u2026 [+146 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "Is Nvidia Still the Best Artificial Intelligence (AI) Stock to Own for 2025?",
+            "description": "Nvidia (NASDAQ: NVDA) has undoubtedly been one of (if not the) best artificial intelligence (AI) stocks to own in 2023 and 2024. With 2025 nearly here, the question now shifts to: \"Is it the best AI stock for 2025?\"\nThis question is impossible to answer becau\u2026",
+            "url": "https://biztoc.com/x/53585b4ecf48176d",
+            "urlToImage": "https://biztoc.com/cdn/53585b4ecf48176d_s.webp",
+            "publishedAt": "2024-11-27T12:29:45Z",
+            "content": "Nvidia (NASDAQ: NVDA) has undoubtedly been one of (if not the) best artificial intelligence (AI) stocks to own in 2023 and 2024. With 2025 nearly here, the question now shifts to: \"Is it the best AI \u2026 [+147 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "fool.com",
+            "title": "Nvidia Stock: Buy, Sell, or Hold?",
+            "description": "One of the hottest stocks of 2024 is Nvidia (NVDA 2.43%), trading up more than 185% this year, as of this writing. That stock price performance has helped catapult it to become one of the largest companies in the world (as measured by market cap).\nBut investi\u2026",
+            "url": "https://biztoc.com/x/4950ee9a39fd9bd1",
+            "urlToImage": "https://biztoc.com/cdn/4950ee9a39fd9bd1_s.webp",
+            "publishedAt": "2024-11-29T17:29:56Z",
+            "content": "One of the hottest stocks of 2024 is Nvidia (NVDA 2.43%), trading up more than 185% this year, as of this writing. That stock price performance has helped catapult it to become one of the largest com\u2026 [+149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "Prediction: Nvidia Stock Will Soar in 2025. Here's Why",
+            "description": "The past couple of years have been a nonstop thrill ride for Nvidia (NASDAQ: NVDA) investors. The company had a market cap of just $359 billion to kick off 2023. Now, its value has soared to more than $3.35 trillion (as of this writing) -- a more than ninefol\u2026",
+            "url": "https://biztoc.com/x/a55e54ff7facde83",
+            "urlToImage": "https://biztoc.com/cdn/a55e54ff7facde83_s.webp",
+            "publishedAt": "2024-11-29T11:06:20Z",
+            "content": "The past couple of years have been a nonstop thrill ride for Nvidia (NASDAQ: NVDA) investors. The company had a market cap of just $359 billion to kick off 2023. Now, its value has soared to more tha\u2026 [+147 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "Why Does Nvidia Make Up a Smaller Share of the Dow Jones Than the S&P 500 or Nasdaq-100?",
+            "description": "At the time of this writing, Nvidia (NASDAQ: NVDA) is up by 186.6% year to date, pole-vaulting its market capitalization above those of Apple and Microsoft to make it the most valuable company in the world (again). But Friday's 3.2% sell-off in Nvidia left Ap\u2026",
+            "url": "https://biztoc.com/x/574437422c44ac53",
+            "urlToImage": "https://biztoc.com/cdn/574437422c44ac53_s.webp",
+            "publishedAt": "2024-11-29T14:01:24Z",
+            "content": "At the time of this writing, Nvidia (NASDAQ: NVDA) is up by 186.6% year to date, pole-vaulting its market capitalization above those of Apple and Microsoft to make it the most valuable company in the\u2026 [+143 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "Nvidia Stock: Buy, Sell, or Hold?",
+            "description": "One of the hottest stocks of 2024 is Nvidia (NASDAQ: NVDA), trading up more than 185% this year, as of this writing. That stock price performance has helped catapult it to become one of the largest companies in the world (as measured by market cap).\nBut inves\u2026",
+            "url": "https://biztoc.com/x/34d3a7c28c733be2",
+            "urlToImage": "https://biztoc.com/cdn/34d3a7c28c733be2_s.webp",
+            "publishedAt": "2024-11-29T13:06:42Z",
+            "content": "One of the hottest stocks of 2024 is Nvidia (NASDAQ: NVDA), trading up more than 185% this year, as of this writing. That stock price performance has helped catapult it to become one of the largest c\u2026 [+146 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "Where Will Nvidia Stock Be in 2 Years?",
+            "description": "The past two years have been absolutely phenomenal for Nvidia (NASDAQ: NVDA) investors, as shares of the graphics card specialist shot up 736% during this period once it became evident that the company is going to play a central role in the proliferation of a\u2026",
+            "url": "https://biztoc.com/x/fd3e6e68ac8a9e47",
+            "urlToImage": "https://biztoc.com/cdn/fd3e6e68ac8a9e47_s.webp",
+            "publishedAt": "2024-11-29T12:11:21Z",
+            "content": "The past two years have been absolutely phenomenal for Nvidia (NASDAQ: NVDA) investors, as shares of the graphics card specialist shot up 736% during this period once it became evident that the compa\u2026 [+142 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "Will Nvidia's Blockbuster Results Be Enough to Send the Stock Higher?",
+            "description": "Nvidia (NASDAQ: NVDA) has been in sizzling form on the stock market in 2024, thanks to the stunning growth the company has been clocking quarter after quarter, which explains why the market was awaiting its fiscal 2025 third-quarter results (for the three mon\u2026",
+            "url": "https://biztoc.com/x/e8869819383973c5",
+            "urlToImage": "https://biztoc.com/cdn/e8869819383973c5_s.webp",
+            "publishedAt": "2024-11-29T23:10:42Z",
+            "content": "Nvidia (NASDAQ: NVDA) has been in sizzling form on the stock market in 2024, thanks to the stunning growth the company has been clocking quarter after quarter, which explains why the market was await\u2026 [+149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "finance.yahoo.com",
+            "title": "Prediction: This Massive Risk Could Derail Nvidia Stock",
+            "description": "In This Article:\nDemand for artificial intelligence (AI) chips, particularly ultra-powerful GPUs from Nvidia (NASDAQ: NVDA) used to train the most advanced AI models, appears to be insatiable. Nvidia's data center segment generated more than $30 billion in re\u2026",
+            "url": "https://biztoc.com/x/41ece80889ec6f83",
+            "urlToImage": "https://biztoc.com/cdn/808/og.png",
+            "publishedAt": "2024-11-27T14:19:15Z",
+            "content": "In This Article:Demand for artificial intelligence (AI) chips, particularly ultra-powerful GPUs from Nvidia (NASDAQ: NVDA) used to train the most advanced AI models, appears to be insatiable. Nvidia'\u2026 [+144 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "Could Rigetti Computing Become the Next Nvidia?",
+            "description": "Over the past 10 years, a $1,000 investment in Nvidia (NASDAQ: NVDA) would have grown to roughly $265,840. A large portion of that rally was fueled by its soaring sales of data center GPUs for processing AI tasks.\nUnlike CPUs, which only process a single piec\u2026",
+            "url": "https://biztoc.com/x/0b04851b997b053b",
+            "urlToImage": "https://biztoc.com/cdn/0b04851b997b053b_s.webp",
+            "publishedAt": "2024-11-28T11:47:52Z",
+            "content": "Over the past 10 years, a $1,000 investment in Nvidia (NASDAQ: NVDA) would have grown to roughly $265,840. A large portion of that rally was fueled by its soaring sales of data center GPUs for proces\u2026 [+148 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "qz.com",
+            "title": "Nvidia stock falls more than 10% in a week as Trump talk tariffs",
+            "description": "In This Story\nWhile Nvidia\u2019s (NVDA-1.15%) shares have tripled in value so far this year, its shares dropped more than 10% in the week after it reported fiscal third-quarter earnings.\nThe chipmaker\u2019s shares were down by about 2.3% during Wednesday afternoon tr\u2026",
+            "url": "https://biztoc.com/x/3258c7d7a2e6048e",
+            "urlToImage": "https://biztoc.com/cdn/3258c7d7a2e6048e_s.webp",
+            "publishedAt": "2024-11-28T21:10:28Z",
+            "content": "In This StoryWhile Nvidias (NVDA-1.15%) shares have tripled in value so far this year, its shares dropped more than 10% in the week after it reported fiscal third-quarter earnings.The chipmakers shar\u2026 [+143 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "247wallst.com",
+            "title": "Biden Just Pulled The Rug On Intel (INTC) And Removed Their Last Lifeline",
+            "description": "Key Points:\nIntel (NASDAQ: INTC) faces nearly impossible competition against rivals like NVIDIA (NASDAQ: NVDA) when it neglected to enter the AI and graphics chip industries.\nThe once storied chip maker is no longer included in the Dow Jones Industrial Averag\u2026",
+            "url": "https://biztoc.com/x/9246b08c0e8a0833",
+            "urlToImage": "https://biztoc.com/cdn/808/og.png",
+            "publishedAt": "2024-11-30T14:47:29Z",
+            "content": "Key Points:Intel (NASDAQ: INTC) faces nearly impossible competition against rivals like NVIDIA (NASDAQ: NVDA) when it neglected to enter the AI and graphics chip industries.The once storied chip make\u2026 [+144 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Wealth Advisory Solutions LLC Makes New Investment in NVIDIA Co. (NASDAQ:NVDA)",
+            "description": "Wealth Advisory Solutions LLC acquired a new position in NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) during the third quarter, HoldingsChannel reports. The institutional investor acquired 2,337 shares of the computer hardware maker\u2019s stock, valued at approximately\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/28/wealth-advisory-solutions-llc-makes-new-investment-in-nvidia-co-nasdaqnvda/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-28T08:44:46Z",
+            "content": "Wealth Advisory Solutions LLC acquired a new position in NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) during the third quarter, HoldingsChannel reports. The institutional investor acquired 2,337 shares of \u2026 [+6958 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Cyndeo Wealth Partners LLC Has $24.12 Million Stock Holdings in NVIDIA Co. (NASDAQ:NVDA)",
+            "description": "Cyndeo Wealth Partners LLC increased its position in NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 48.0% during the third quarter, Holdings Channel reports. The fund owned 198,587 shares of the computer hardware maker\u2019s stock after purchasing an additional 64,423\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/27/cyndeo-wealth-partners-llc-has-24-12-million-stock-holdings-in-nvidia-co-nasdaqnvda/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-27T08:42:47Z",
+            "content": "Cyndeo Wealth Partners LLC increased its position in NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 48.0% during the third quarter, Holdings Channel reports. The fund owned 198,587 shares of the computer \u2026 [+7451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Echo Wealth Management LLC Purchases 341 Shares of NVIDIA Co. (NASDAQ:NVDA)",
+            "description": "Echo Wealth Management LLC increased its holdings in NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 16.4% in the 3rd quarter, HoldingsChannel.com reports. The fund owned 2,422 shares of the computer hardware maker\u2019s stock after buying an additional 341 shares duri\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/27/echo-wealth-management-llc-purchases-341-shares-of-nvidia-co-nasdaqnvda/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-27T08:07:07Z",
+            "content": "Echo Wealth Management LLC increased its holdings in NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 16.4% in the 3rd quarter, HoldingsChannel.com reports. The fund owned 2,422 shares of the computer hardw\u2026 [+7323 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "AIFG Consultants Ltd. Lowers Position in NVIDIA Co. (NASDAQ:NVDA)",
+            "description": "AIFG Consultants Ltd. cut its holdings in shares of NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 26.2% in the third quarter, according to the company in its most recent filing with the Securities and Exchange Commission. The firm owned 3,545 shares of the comput\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/28/aifg-consultants-ltd-lowers-position-in-nvidia-co-nasdaqnvda/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-28T08:06:48Z",
+            "content": "AIFG Consultants Ltd. cut its holdings in shares of NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 26.2% in the third quarter, according to the company in its most recent filing with the Securities and Ex\u2026 [+6612 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Godsey & Gibb Inc. Has $1.37 Million Stock Position in NVIDIA Co. (NASDAQ:NVDA)",
+            "description": "Godsey & Gibb Inc. lifted its stake in shares of NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 8.9% in the 3rd quarter, Holdings Channel reports. The institutional investor owned 11,243 shares of the computer hardware maker\u2019s stock after purchasing an additional \u2026",
+            "url": "https://www.etfdailynews.com/2024/11/27/godsey-gibb-inc-has-1-37-million-stock-position-in-nvidia-co-nasdaqnvda/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-27T08:06:49Z",
+            "content": "Godsey &amp; Gibb Inc. lifted its stake in shares of NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 8.9% in the 3rd quarter, Holdings Channel reports. The institutional investor owned 11,243 shares of the\u2026 [+7081 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "NVIDIA Co. (NASDAQ:NVDA) Shares Sold by Prio Wealth Limited Partnership",
+            "description": "Prio Wealth Limited Partnership trimmed its stake in NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 3.3% in the third quarter, HoldingsChannel.com reports. The firm owned 1,446,547 shares of the computer hardware maker\u2019s stock after selling 48,885 shares during th\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/28/nvidia-co-nasdaqnvda-shares-sold-by-prio-wealth-limited-partnership/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-28T08:06:51Z",
+            "content": "Prio Wealth Limited Partnership trimmed its stake in NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 3.3% in the third quarter, HoldingsChannel.com reports. The firm owned 1,446,547 shares of the computer \u2026 [+6761 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "NVIDIA Co. (NASDAQ:NVDA) Stock Position Raised by Everence Capital Management Inc.",
+            "description": "Everence Capital Management Inc. increased its holdings in NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 905.3% during the 3rd quarter, according to its most recent 13F filing with the Securities & Exchange Commission. The institutional investor owned 625,840 sha\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/28/nvidia-co-nasdaqnvda-stock-position-raised-by-everence-capital-management-inc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-28T08:44:47Z",
+            "content": "Everence Capital Management Inc. increased its holdings in NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 905.3% during the 3rd quarter, according to its most recent 13F filing with the Securities &amp; E\u2026 [+6722 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Allspring Global Investments Holdings LLC Sells 319,220 Shares of NVIDIA Co. (NASDAQ:NVDA)",
+            "description": "Allspring Global Investments Holdings LLC trimmed its holdings in shares of NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 3.1% in the 3rd quarter, according to the company in its most recent 13F filing with the Securities and Exchange Commission. The firm owned 1\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/27/allspring-global-investments-holdings-llc-sells-319220-shares-of-nvidia-co-nasdaqnvda/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-27T08:07:00Z",
+            "content": "Allspring Global Investments Holdings LLC trimmed its holdings in shares of NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 3.1% in the 3rd quarter, according to the company in its most recent 13F filing w\u2026 [+7202 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Genesee Capital Advisors LLC Grows Stake in NVIDIA Co. (NASDAQ:NVDA)",
+            "description": "Genesee Capital Advisors LLC grew its position in shares of NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 37.2% in the third quarter, Holdings Channel reports. The firm owned 19,849 shares of the computer hardware maker\u2019s stock after purchasing an additional 5,38\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/28/genesee-capital-advisors-llc-grows-stake-in-nvidia-co-nasdaqnvda/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-28T08:44:45Z",
+            "content": "Genesee Capital Advisors LLC grew its position in shares of NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 37.2% in the third quarter, Holdings Channel reports. The firm owned 19,849 shares of the compute\u2026 [+7312 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Buckley Wealth Management LLC Sells 3,366 Shares of NVIDIA Co. (NASDAQ:NVDA)",
+            "description": "Buckley Wealth Management LLC decreased its position in shares of NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 16.1% during the third quarter, according to the company in its most recent filing with the Securities and Exchange Commission. The firm owned 17,599 s\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/27/buckley-wealth-management-llc-sells-3366-shares-of-nvidia-co-nasdaqnvda/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-27T08:07:10Z",
+            "content": "Buckley Wealth Management LLC decreased its position in shares of NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 16.1% during the third quarter, according to the company in its most recent filing with the\u2026 [+6566 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Northwest Investment Counselors LLC Sells 235 Shares of NVIDIA Co. (NASDAQ:NVDA)",
+            "description": "Northwest Investment Counselors LLC lowered its position in NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 0.5% in the third quarter, HoldingsChannel.com reports. The fund owned 42,779 shares of the computer hardware maker\u2019s stock after selling 235 shares during t\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/28/northwest-investment-counselors-llc-sells-235-shares-of-nvidia-co-nasdaqnvda/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-28T08:44:47Z",
+            "content": "Northwest Investment Counselors LLC lowered its position in NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 0.5% in the third quarter, HoldingsChannel.com reports. The fund owned 42,779 shares of the compu\u2026 [+7208 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Stegent Equity Advisors Inc. Acquires Shares of 3,319 NVIDIA Co. (NASDAQ:NVDA)",
+            "description": "Stegent Equity Advisors Inc. bought a new stake in NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) in the 3rd quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission. The firm bought 3,319 shares of the computer hardware maker\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/27/stegent-equity-advisors-inc-acquires-shares-of-3319-nvidia-co-nasdaqnvda/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-27T08:07:09Z",
+            "content": "Stegent Equity Advisors Inc. bought a new stake in NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) in the 3rd quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission.\u2026 [+7043 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Clarus Group Inc. Has $4.34 Million Holdings in NVIDIA Co. (NASDAQ:NVDA)",
+            "description": "Clarus Group Inc. lifted its holdings in NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 3.5% during the 3rd quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The institutional investor owned 35,766 shares of the comput\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/28/clarus-group-inc-has-4-34-million-holdings-in-nvidia-co-nasdaqnvda/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-28T08:44:46Z",
+            "content": "Clarus Group Inc. lifted its holdings in NVIDIA Co. (NASDAQ:NVDA \u2013 Free Report) by 3.5% during the 3rd quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). \u2026 [+7303 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "YieldMax",
+            "title": "YieldMax\u2122 ETFs Announces Distributions on\u00a0YBIT (115.71%), TSLY (103.42%), SNOY (101.96%),\u00a0YMAX (87.35%), YMAG (54.24%) and Others",
+            "description": "YieldMax\u2122 ETFs Announces Distributions on YBIT (115.71%), TSLY (103.42%), SNOY (101.96%), YMAX (87.35%), YMAG (54.24%) and Others......",
+            "url": "https://www.globenewswire.com/news-release/2024/11/27/2988090/0/en/YieldMax-ETFs-Announces-Distributions-on-YBIT-115-71-TSLY-103-42-SNOY-101-96-YMAX-87-35-YMAG-54-24-and-Others.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/85b1a71e-663e-4de3-acbf-931582738c88",
+            "publishedAt": "2024-11-27T11:55:00Z",
+            "content": "CHICAGO and MILWAUKEE and NEW YORK, Nov. 27, 2024 (GLOBE NEWSWIRE) -- YieldMax today announced distributions for the YieldMax ETFs listed in the table below.\r\n<table><tr><td>ETFTicker1</td><td>ETF Na\u2026 [+26575 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Purpose Investments Inc.",
+            "title": "Purpose Investments Inc. Announces 2024 Estimated Annual Income and Capital Gains Distributions",
+            "description": "TORONTO, Nov. 27, 2024 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (\u201cPurpose\u201d) today announced the estimated annual distributions of income and capital gains for its open-end exchange-traded funds and closed-end funds (the \u201cFunds\u201d) for the 2024 tax year. The\u2026",
+            "url": "https://www.globenewswire.com/news-release/2024/11/28/2988484/0/en/Purpose-Investments-Inc-Announces-2024-Estimated-Annual-Income-and-Capital-Gains-Distributions.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/a28192cb-6294-4424-8c24-646fee2c81cd",
+            "publishedAt": "2024-11-28T01:00:00Z",
+            "content": "TORONTO, Nov. 27, 2024 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (Purpose) today announced the estimated annual distributions of income and capital gains for its open-end exchange-traded funds and\u2026 [+10772 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "GlobeNewswire",
+            "title": "Purpose Investments Inc. Announces 2024 Estimated Annual Income and Capital Gains Distributions",
+            "description": "TORONTO, Nov. 27, 2024 (GLOBE NEWSWIRE) \u2014 Purpose Investments Inc. (\u201cPurpose\u201d) today announced the estimated annual distributions of income and capital gains for its open-end exchange-traded funds and closed-end funds (the \u201cFunds\u201d) for the 2024 tax year. The \u2026",
+            "url": "https://financialpost.com/globe-newswire/purpose-investments-inc-announces-2024-estimated-annual-income-and-capital-gains-distributions",
+            "urlToImage": null,
+            "publishedAt": "2024-11-28T01:03:53Z",
+            "content": "Author of the article:\r\nArticle content\r\nTORONTO, Nov. 27, 2024 (GLOBE NEWSWIRE) Purpose Investments Inc. (Purpose) today announced the estimated annual distributions of income and capital gains for \u2026 [+13829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool Australia"
+            },
+            "author": "Bronwyn Allen",
+            "title": "11 ASX All Ords shares rising faster than Nvidia over the past year",
+            "description": "Who knew? Here are the homegrown ASX companies outperforming Nvidia on share price growth over the past 12 months. \nThe post 11 ASX All Ords shares rising faster than Nvidia over the past year appeared first on The Motley Fool Australia.",
+            "url": "https://www.fool.com.au/2024/11/28/11-asx-all-ords-shares-rising-faster-than-nvidia-over-the-past-year/",
+            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2021/06/asx-share-price-26-1200x675.jpg",
+            "publishedAt": "2024-11-28T05:31:18Z",
+            "content": "S&amp;P/ASX All Ords Index (ASX: XAO) shares have roared 20.8% higher over the past 12 months. \r\nThat's pretty impressive, but as always, there are outliers booking gains far beyond the market averag\u2026 [+3515 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool Australia"
+            },
+            "author": "Adria Cimino",
+            "title": "Should you buy Nvidia shares before December 3?",
+            "description": "The company is set to launch a major product, and investors should be on the lookout for any updates.\nThe post Should you buy Nvidia shares before December 3? appeared first on The Motley Fool Australia.",
+            "url": "https://www.fool.com.au/2024/11/28/should-you-buy-nvidia-shares-before-december-3-usfeed/",
+            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2022/03/green-boy-16_9-1200x675.jpg",
+            "publishedAt": "2024-11-28T02:54:49Z",
+            "content": "This article was originally published on\u00a0Fool.com. All figures quoted in US dollars unless otherwise stated.\r\nNvidia (NASDAQ: NVDA) shares have roared higher in recent years \u2014 and it's continued with\u2026 [+4278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Stockcharts.com"
+            },
+            "author": "Jayanthi Gopalakrishnan",
+            "title": "Navigating Holiday Stock Market Changes: Turn Sentiment Shifts into Successes",
+            "description": "The day before Thanksgiving, the stock market took a little breather. But the weekly performance was still impressive.The Dow Jones Industrial Average ($INDU) remains the broader index leader, rising 0.96% for the week. The S&P 500 ($SPX) and the Nasdaq Compo\u2026",
+            "url": "https://stockcharts.com/articles/chartwatchers/2024/11/navigating-holiday-stock-marke-898.html",
+            "urlToImage": "https://stockcharts.com/img/articles/2024/11/27/89414e8e-f604-43de-941a-19374e393244.jpg",
+            "publishedAt": "2024-11-27T22:14:51Z",
+            "content": "<ul><li>The broader stock market indexes take a breather.</li></ul>\r\nThe day before Thanksgiving, the stock market took a little breather. But the weekly performance was still impressive.\r\nThe Dow Jo\u2026 [+4804 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "C-sharpcorner.com"
+            },
+            "author": "Prarthana Bhat",
+            "title": "Keyboard Accessibility-ADA",
+            "description": "Learn about keyboard accessibility in compliance with the ADA (Americans with Disabilities Act). This guide covers essential techniques for creating accessible web designs, ensuring that keyboard-only users can navigate websites easily.",
+            "url": "https://www.c-sharpcorner.com/blogs/keyboard-accessibilityada",
+            "urlToImage": "https://www.c-sharpcorner.com/images/csharp-corner.png",
+            "publishedAt": "2024-11-27T00:00:00Z",
+            "content": "ADA The American Disability Act (ADA) is a civil rights law that prohibits discrimination against individuals with disabilities like full/partial visual impairments.\r\nKeyboard accessibility makes the\u2026 [+4686 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-11-27T18:40:38Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-11-28T16:19:18Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-11-28T12:32:01Z",
+            "content": "[Removed]"
         }
     ]
 }
