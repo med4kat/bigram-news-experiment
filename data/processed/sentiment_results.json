@@ -1,0 +1,17 @@
+[
+    {
+        "headline": "status",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "totalResults",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "articles",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    }
+]

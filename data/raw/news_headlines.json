@@ -1,19 +1,19 @@
 {
     "status": "ok",
-    "totalResults": 445,
+    "totalResults": 1115,
     "articles": [
         {
             "source": {
                 "id": null,
-                "name": "[Removed]"
+                "name": "Yahoo Entertainment"
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
+            "author": "Jeremy Gan",
+            "title": "China has banned certain metal exports in retaliation to the US chip restrictions",
+            "description": "As of today, Chinese gallium, germanium and antimony are no longer being exported to the US. Germanium and gallium exports had already ceased in October, and antimony exports have dropped by 97 percent since September. This official declaration comes a day af\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f0ff959f-df8a-4e2a-883e-187aec69378a",
             "urlToImage": null,
-            "publishedAt": "2024-11-27T18:16:46Z",
-            "content": "[Removed]"
+            "publishedAt": "2024-12-03T14:40:05Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
         },
         {
             "source": {
@@ -25,7 +25,7 @@
             "description": "[Removed]",
             "url": "https://removed.com",
             "urlToImage": null,
-            "publishedAt": "2024-11-29T13:55:40Z",
+            "publishedAt": "2024-12-03T17:34:20Z",
             "content": "[Removed]"
         },
         {
@@ -33,52 +33,104 @@
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Jeff Dunn,Valentina Palladino,Amy Skorheim",
-            "title": "The 50 Black Friday tech deals worth shopping right now from Amazon, Walmart, Target, Apple and others",
-            "description": "Black Friday is right around the corner, but the days in which you had to wait for Black Friday proper to get good deals have long been behind us. Now, the holiday shopping season has grown to basically be the entire month of November, and that trend has stuc\u2026",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c8c851d4-b474-449a-bc87-4ae8fbccc0f4",
+            "author": "Kris Holt",
+            "title": "Black Friday phone deals include the Google Pixel 8a for $100 off",
+            "description": "If you're looking for an excellent midrange smartphone for yourself or a loved one among all the Black Friday deals, your search may be over. Google's Pixel 8a is still on sale even after Black Friday. It has dropped by $100 to $399. That's not quite the lowe\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bb6db235-27e5-414c-b519-29b9101e30ed",
             "urlToImage": null,
-            "publishedAt": "2024-11-27T14:14:28Z",
+            "publishedAt": "2024-12-01T03:00:37Z",
             "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-12-01T18:07:41Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-12-01T15:02:50Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-12-03T01:55:38Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-12-02T05:01:27Z",
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": "wired",
                 "name": "Wired"
             },
-            "author": "Ryan Waniata",
-            "title": "The 26 Best Black Friday Deals From Best Buy (2024)",
-            "description": "Best Buy's Black Friday deals take up to 40% off. Now is the best time to grab that iPad Mini or the best TV ever that you've been eying all year.",
-            "url": "https://www.wired.com/story/best-buy-black-friday-deals-2024-2/",
-            "urlToImage": "https://media.wired.com/photos/6748f9e67b7c54427f5e5f7b/191:100/w_1280,c_limit/Black%20Friday%20Best%20Buy%20Deals%20Abstract%20Background%20112024%20SOURCE%20Best%20Buy.jpg",
-            "publishedAt": "2024-11-30T13:23:04Z",
-            "content": "Black Friday is upon us once again, and that means great deals on all the gear you've been eyeing that seemed just a bit too pricey. Below we've rounded up our favorite Black Friday Best Buy deals, b\u2026 [+14407 chars]"
+            "author": "Scott Gilbertson",
+            "title": "36 Best Cyber Monday Laptop Deals (2024), MacBooks Included",
+            "description": "Time to upgrade your rig? Take advantage of these Cyber Monday laptop deals on our favorite models, whether it's a MacBook, gaming laptop, or Chromebook.",
+            "url": "https://www.wired.com/story/best-cyber-monday-laptop-deals-2024/",
+            "urlToImage": "https://media.wired.com/photos/67476900e61d335fbb0f07b5/191:100/w_1280,c_limit/cyber-monday-laptop-deals.png",
+            "publishedAt": "2024-12-02T14:50:30Z",
+            "content": "This is the best time of the year to buy a new laptop. You'll rarely get a better chance to nab a computer, so we've rounded up the best Cyber Monday laptop deals we've seen on all the models our rev\u2026 [+17615 chars]"
         },
         {
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Antonio G. Di Benedetto",
-            "title": "The best Black Friday deals we\u2019re seeing on Macbooks and other laptops",
-            "description": "New laptops are likely coming to CES in January, but these are the best deals you can get right now on MacBooks, Chromebooks, and Windows laptops for Black Friday.",
-            "url": "https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/oHB8JAaRjFN6Oz0SF72IS134UWs=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25718368/247372_MacBook_Pro_M4_ADiBenedetto_0007.jpg",
-            "publishedAt": "2024-11-28T16:30:00Z",
-            "content": "The best Black Friday deals were seeing on Macbooks and other laptops\r\nThe best Black Friday deals were seeing on Macbooks and other laptops\r\n / There are bound to be new models announced in January \u2026 [+6150 chars]"
+            "author": "Alex Heath",
+            "title": "What Arm\u2019s CEO makes of the Intel debacle",
+            "description": "Why Intel\u2019s longtime \u2018frenemy\u2019 thinks the chipmaker getting out of its mess \u2018may be too big of a hill to climb.\u2019 Plus: the scoop on Samsung\u2019s leadership shuffle, Bezos kisses the ring, and Altman lowers the AGI bar.",
+            "url": "https://www.theverge.com/2024/12/6/24315123/arm-ceo-rene-haas-intel-ai-chips-samsung-changes",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/0eWZ9FD4J-PnlGKQ7-KaHVTpems=/0x0:2250x1500/1200x628/filters:focal(1125x750:1126x751)/cdn.vox-cdn.com/uploads/chorus_asset/file/25777502/Rene_Haas_Arm_Command_Line_site_wide.png",
+            "publishedAt": "2024-12-06T21:45:26Z",
+            "content": "What Arms CEO makes of the Intel debacle\r\nWhat Arms CEO makes of the Intel debacle\r\n / Why Intels longtime frenemy thinks the chipmaker getting out of its mess may be too big of a hill to climb. Plus\u2026 [+10837 chars]"
         },
         {
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Antonio G. Di Benedetto",
-            "title": "The best Black Friday deals you can still get today",
-            "description": "Black Friday is technically over, but the\u00a0deals carry on \u2014 maybe straight through Cyber Monday. Here are the best\u00a0deals\u00a0our experts have found on TVs, earbuds, and more.",
-            "url": "https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/T_ynbpBPpYxkJDjzxEXNmv3abiQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25746665/247350_CMBF_2024_EWinataBFDealsYouCanStillGet.png",
-            "publishedAt": "2024-11-30T14:45:00Z",
-            "content": "Image: Elen Winata for The Verge\r\n\n \n\n\n Just because it\u2019s Saturday doesn\u2019t mean the deluge of deals on laptops, headphones, and other Verge-approved gadgets is letting up. Black Friday, the actual da\u2026 [+41612 chars]"
+            "author": "Quentyn Kennemer",
+            "title": "Today is your last chance to shop Cyber Monday deals",
+            "description": "Cyber Monday is over, but many deals are running over time. There are tons of tech deals you can still get on TVs, laptops, earbuds, Apple devices, games, and more.",
+            "url": "https://www.theverge.com/24311578/best-cyber-monday-deals-2024-tech-gadgets-gift-ideas",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/AFMHpvRjzzMdVLiNG53Yg4IamK4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25746667/247350_CMBF_2024_EWinataCFDealsYouCanStillGet.png",
+            "publishedAt": "2024-12-03T15:02:33Z",
+            "content": "Image: Elen Winata for The Verge\r\n\n \n\n\n It\u2019s actually Tuesday, but that doesn\u2019t mean all the deals have suddenly vanished. We\u2019re rounding up the best of the rest that you can still shop. We hope you \u2026 [+25822 chars]"
         },
         {
             "source": {
@@ -86,12 +138,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Gizmodo Deals",
-            "title": "Don\u2019t Buy an Old MacBook For Less, The New MacBook Pro M4 Is at a Record Low Price For Black Friday",
-            "description": "Launched in early November, these MacBook Pro M4 models are the top choice on the market right now.",
-            "url": "https://gizmodo.com/dont-buy-an-old-macbook-for-less-the-new-macbook-pro-m4-is-at-a-record-low-price-for-black-friday-2000531064",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/macbook-pro-m4-m4-pro.jpg",
-            "publishedAt": "2024-11-27T19:06:51Z",
-            "content": "In a world where technology evolves at lightning speed, investing in an older model might seem like a short term savvy way to save a few bucks. However, choosing a less expensive and outdated laptop \u2026 [+3182 chars]"
+            "title": "Apple Lost Its Mind, Prices For The 2024 MacBook Air Have Crashed For Cyber Monday",
+            "description": "This is your last chance this year to grab a 2024 MacBook Air at such a great price.",
+            "url": "https://gizmodo.com/apple-lost-its-mind-prices-for-the-2024-macbook-air-have-crashed-for-cyber-monday-2000532827",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/2024-macbook-air.jpg",
+            "publishedAt": "2024-12-02T15:44:33Z",
+            "content": "Apple has transitioned from Black Friday to Cyber Monday and the deals on Amazon remain exceptionally generous this Monday. While many popular products such as iPads have sold out, there is still a g\u2026 [+2692 chars]"
         },
         {
             "source": {
@@ -99,51 +151,12 @@
                 "name": "Gizmodo.com"
             },
             "author": "Gizmodo Deals",
-            "title": "Apple Has Lost Its Mind: The Newest MacBook Pros M4 Are at a Record Low on Amazon",
-            "description": "We've never seen such a big discount on a MacBook Pro that was just released a month ago.",
-            "url": "https://gizmodo.com/apple-has-lost-its-mind-the-newest-macbook-pros-m4-are-at-a-record-low-on-amazon-2000531735",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/macbook-pro.jpg",
-            "publishedAt": "2024-11-29T11:30:09Z",
-            "content": "The latest MacBook Pro M4/M4 Pro models were released in early November and they are experiencing an unusual phenomenon: significant discounts so soon after launch. Typically, new Apple products main\u2026 [+2886 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Gizmodo Deals",
-            "title": "No Mercy For Apple, Amazon Is Smashing The MacBook Air 2024 Prices For Black Friday",
-            "description": "You can get a latest-generation MacBook Air M3 for under $850.",
-            "url": "https://gizmodo.com/no-mercy-for-apple-amazon-is-smashing-the-macbook-air-2024-prices-for-black-friday-2000531929",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/08/macbook-air-m3.jpg",
-            "publishedAt": "2024-11-29T17:10:27Z",
-            "content": "Amazon has decided this year to take on all Apple products for Black Friday, including the latest releases. If you\u2019re looking for a brand new and powerful computer, you\u2019re in luck. Whether it\u2019s the r\u2026 [+2829 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "jerry.hildenbrand@futurenet.com (Jerry Hildenbrand)",
-            "title": "Xiaomi making its own chip is the right move. Here's why.",
-            "description": "Xiaomi can customize a chip relatively free from the Qualcomm tax.",
-            "url": "https://www.androidcentral.com/phones/xiaomi-making-its-own-chip-is-the-right-move-heres-why",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/E55MszwuuHpBRzgQmCvLdC-1200-80.jpg",
-            "publishedAt": "2024-11-27T21:00:00Z",
-            "content": "Xiaomi is one of the biggest makers of consumer electronics in the world, even though there is a good chance you haven't used any of its products. The company makes some of the best smartphones, whic\u2026 [+4342 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz)",
-            "title": "Nubia's Z70 Ultra is a Snapdragon 8 Elite first for the US in global launch",
-            "description": "Nubia launched its Z70 Ultra, which gives the U.S. its first taste of Qualcomm's latest flagship chip.",
-            "url": "https://www.androidcentral.com/phones/nubia-z70-ultra-snapdragon-8-elite-global-launch",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/AANv33AYnKeXouMPiwNdNU-1200-80.jpg",
-            "publishedAt": "2024-11-27T18:11:00Z",
-            "content": "What you need to know\r\n<ul><li>Nubia launched its Z70 Ultra model today (Nov 27), which is the first device in the U.S. with Qualcomm's Snapdragon 8 Elite.</li><li>The phone delivers a 6.8-inch AMOLE\u2026 [+2979 chars]"
+            "title": "The Galaxy S24 Ultra Is $499 Instead Of $1,299 If You Use This Trick On The Official Website",
+            "description": "The Samsung Galaxyy S24 Ultra is featured in Gizmodo's Best of 2024 list.",
+            "url": "https://gizmodo.com/the-galaxy-s24-ultra-is-499-instead-of-1299-if-you-use-this-trick-on-the-official-website-2000535736",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/samsung-galaxy-s24-ultra.jpg",
+            "publishedAt": "2024-12-08T13:47:15Z",
+            "content": "If you\u2019re not keen on splurging for the latest iPhone 16 Pro, Samsung offers a compelling alternative: the Galaxy S24 Ultra. This device has earned its place as the \u201cBest Android Phone\u201d in our Gizmod\u2026 [+2542 chars]"
         },
         {
             "source": {
@@ -151,38 +164,77 @@
                 "name": "Android Central"
             },
             "author": "bradypsnyder@gmail.com (Brady Snyder)",
-            "title": "Nothing rumored to have three phones in active development as we await Phone 3",
-            "description": "Nothing has said the Phone 3 will arrive next year, but it looks like two more phones could also debut.",
-            "url": "https://www.androidcentral.com/phones/nothing-rumored-to-have-three-phones-in-active-development-as-we-await-phone-3",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nvkEpF7TUPyRwYhUdxJYHi-1200-80.jpg",
-            "publishedAt": "2024-11-30T14:38:04Z",
-            "content": "What you need to know\r\n<ul><li>A leaker with a reliable track record revealed that Nothing has three phones in active development.</li><li>We already know that Nothing is working on a Phone 3, which \u2026 [+2849 chars]"
+            "title": "Don't buy the Samsung Galaxy Tab S10 Plus for Cyber Monday, save $300 on the Galaxy Tab S9 Plus instead",
+            "description": "With a MediaTek chip and a higher sticker price, the newer Galaxy Tab S10 Plus isn't the best Cyber Monday deal.",
+            "url": "https://www.androidcentral.com/tablets/dont-buy-the-samsung-galaxy-tab-s10-plus-for-cyber-monday-save-usd300-on-the-galaxy-tab-s9-plus-instead",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/7ppWkqUoV2Q78Crm72jAPX-1200-80.jpg",
+            "publishedAt": "2024-12-02T16:52:33Z",
+            "content": "I've spent the last two months testing the Samsung Galaxy Tab S10 Plus, and I keep trying to figure out who this tablet is for. It's eerily similar to the older Galaxy Tab S9 Plus, while packing a ne\u2026 [+2474 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Android Central"
             },
-            "author": "derrek.lee@futurenet.com (Derrek Lee)",
-            "title": "Ditch your boring phone for the Galaxy Z Flip 6 \u2014 now more than $300 off!",
-            "description": "Save big on the Galaxy Z Flip 6 with this Black Friday deal from Amazon.",
-            "url": "https://www.androidcentral.com/phones/ditch-your-boring-phone-for-the-galaxy-z-flip-6-now-more-than-usd300-off",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/sSwB5kvappiGvkSaAyJ5Xo-1200-80.jpg",
-            "publishedAt": "2024-11-28T20:52:46Z",
-            "content": "As a modern flip phone enthusiast, I find the Galaxy Z Flip 6 to be one of my favorite phones this year. Unfortunately, it came at a price that was a bit too high for me to recommend. Thankfully, Bla\u2026 [+1890 chars]"
+            "author": "techkritiko@gmail.com (Jay Bonggolto)",
+            "title": "This Snapdragon 8 Elite smartphone under $600 finally goes global",
+            "description": "iQOO 13 lands in India with smart AI features and a flashy \"Monster Halo\" light ring on the back.",
+            "url": "https://www.androidcentral.com/phones/this-snapdragon-8-elite-smartphone-under-usd600-finally-goes-global",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/GzSQV4NWeSHFAHFbqWeTKa-1200-80.jpg",
+            "publishedAt": "2024-12-03T14:10:20Z",
+            "content": "What you need to know\r\n<ul><li>The iQOO 13 has made its global debut, now available in India in two configurations: 12GB+256GB (\u20b951,999) and 16GB+512GB (\u20b956,999).</li><li>It features a 6.82-inch 144H\u2026 [+2563 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Android Central"
             },
-            "author": "derrek.lee@futurenet.com (Derrek Lee)",
-            "title": "Motorola is wild for this Black Friday sale on my favorite phone of 2024",
-            "description": "Motorola's Razr Plus 2024 is on sale at various retailers, but Best Buy has the best sale.",
-            "url": "https://www.androidcentral.com/phones/this-motorola-razr-plus-2024-deal-is-wild",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/uJqycvUH5dTgkNg98H4vig-1200-80.jpg",
-            "publishedAt": "2024-11-29T21:00:10Z",
-            "content": "The Motorola Razr Plus 2024 is, without a doubt, my favorite phone of the year. It hasn't been out very long, launching in June and going on sale the following month, but it's already seen some impre\u2026 [+1731 chars]"
+            "author": "jerry.hildenbrand@futurenet.com (Jerry Hildenbrand)",
+            "title": "Gigahertz versus cores \u2014 what makes a good phone chip?",
+            "description": "Speed is how fast you can do it. Cores determine how many things you can do.",
+            "url": "https://www.androidcentral.com/phones/gigahertz-versus-cores-what-makes-a-good-phone-chip",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rKraGbCAKS28pn8yUhumyg-1200-80.jpg",
+            "publishedAt": "2024-12-04T16:41:12Z",
+            "content": "Android Central has a weekly column, Ask Jerry, where you can send in your questions for a (hopefully) easy-to-understand answer. I love it because I enjoy breaking down crazy tech talk into a thing \u2026 [+6007 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz)",
+            "title": "Rumors surface about Qualcomm's 'Snapdragon 8s Elite' and its power level",
+            "description": "Rumors began to swirl about the potential power changes for the \"Snapdragon 8s Elite.\"",
+            "url": "https://www.androidcentral.com/phones/snapdragon-8s-elite-power-changes-rumored",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rRUXiFcY6iXrsZAHShZKPR-1200-80.jpg",
+            "publishedAt": "2024-12-02T18:07:18Z",
+            "content": "What you need to know\r\n<ul><li>A recent round of rumors claim Qualcomm's \"Snapdragon 8s Elite\" will feature a power that sits between two past-gen SoCs.</li><li>The chip is rumored to see a power tha\u2026 [+3035 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "jerry.hildenbrand@futurenet.com (Jerry Hildenbrand)",
+            "title": "Without saying it, Google confirmed Android 16 and 17 won't offer any new and fantastic features",
+            "description": "Adding support for two more versions of Android to the Pixel 6 means most new features will be locked behind the Pixel paywall.",
+            "url": "https://www.androidcentral.com/phones/android-16-and-17-may-not-come-with-fantastic-new-features-heres-why",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/g9xBscuVR8DrkdD9Bt36PX-1200-80.jpg",
+            "publishedAt": "2024-12-08T07:00:00Z",
+            "content": "Google has added two more years of software support to the Pixel 6 series, the Pixel 7 series, and the original Pixel Fold. That's fantastic news for anyone using these phones; since they use a Googl\u2026 [+3577 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "vishnu.skar@gmail.com (Vishnu Sarangapurkar)",
+            "title": "Samsung tipped to have smart glasses up its sleeve at Unpacked 2025",
+            "description": "Samsung is gearing up for the Galaxy S25 series in mid-January next year, and a report suggests we could also see a glimpse of smart glasses.",
+            "url": "https://www.androidcentral.com/gaming/virtual-reality/samsung-smart-glasses-unpacked-2025-glimpse-tipped",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bkLLaajbrtPenKTVS2xTpB-1200-80.jpg",
+            "publishedAt": "2024-12-05T19:57:47Z",
+            "content": "What you need to know\r\n<ul><li>Samsung might finally glimpse the long-rumored smart glasses at the Galaxy S25 series launch.</li><li>It will likely be a sneak peek of the company\u2019s first AR glasses i\u2026 [+2835 chars]"
         },
         {
             "source": {
@@ -190,38 +242,12 @@
                 "name": "Android Central"
             },
             "author": "michael.hicks@futurenet.com (Michael L Hicks)",
-            "title": "Every Android smartwatch has a Black Friday deal; here's how I'd choose as a wearable expert",
-            "description": "Rather than choose your next Android watch based on price, I'll run through the pros and cons for each Wear OS brand and generation to help you choose.",
-            "url": "https://www.androidcentral.com/wearables/every-android-smartwatch-black-friday-deal-id-choose-as-an-expert",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nmdcQ593Sbg8a3GbAEY6hM-1200-80.jpg",
-            "publishedAt": "2024-11-27T19:30:00Z",
-            "content": "My new weekly column focuses on the state of Wear OS, from new developments and updates to the latest apps and features we want to highlight.\r\nJust a few years ago, I'd never used any Android smartwa\u2026 [+13667 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "Nicholas Sutrich",
-            "title": "We're keeping track of the best Samsung Black Friday deals so you don't have to",
-            "description": "We have the best Samsung Black Friday deals LIVE so you can get ahead of the game.",
-            "url": "https://www.androidcentral.com/phones/live/samsung-black-friday-2024-deals",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/TQja9cmEBV6Bs9MBcqfnxk-1200-80.jpg",
-            "publishedAt": "2024-11-28T19:52:19Z",
-            "content": "2024-11-28T15:13:26.321Z\r\n(Image credit: Andrew Myrick / Android Central)\r\nSamsung's latest Chromebook can be had for under $100!\r\nUntil this year, we wondered whether Samsung had given up on Chromeb\u2026 [+25654 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "harish.jonnalagadda@futurenet.com (Harish Jonnalagadda)",
-            "title": "iQOO 13 review: Almost no reason to buy anything else",
-            "description": "With heady upgrades and outstanding battery life, the iQOO 13 is proof that you don't need to shell out ridiculous amounts of money to get a terrific phone.",
-            "url": "https://www.androidcentral.com/phones/iqoo-13-review",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/z8HbCAz4dXgnQR3uQFhnma-1200-80.jpg",
-            "publishedAt": "2024-11-28T09:27:04Z",
-            "content": "Most brands are starting to roll out their flagships earlier this year; the Find X8 Pro is now available globally, the Vivo X200 is set to make its debut shortly, and other phones aren't far behind. \u2026 [+17565 chars]"
+            "title": "The OnePlus Watch 3 should arrive soon; it has a lot of Watch 2 problems to fix",
+            "description": "The OnePlus Watch 3 is expected to arrive in January alongside the new flagship; here is every new feature or upgrade it needs to fix the Watch 2's drawbacks.",
+            "url": "https://www.androidcentral.com/wearables/oneplus-watch-3-wishlist",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/dBYJfhbnL57NjYhHKDeBR9-1200-80.jpg",
+            "publishedAt": "2024-12-04T19:12:16Z",
+            "content": "My new weekly column focuses on the state of Wear OS, from new developments and updates to the latest apps and features we want to highlight.\r\nThe OnePlus Watch 3 has the chance to be one of the best\u2026 [+7400 chars]"
         },
         {
             "source": {
@@ -229,311 +255,12 @@
                 "name": "MacRumors"
             },
             "author": "Juli Clover",
-            "title": "iOS 18.1 and Beyond: Siri's Apple Intelligence Features",
-            "description": "With Apple Intelligence, Apple is aiming to make Siri smarter than ever before. The personal assistant is going to be able to learn more about you, do more in apps, and hand over the reins to a smarter virtual assistant when needed.\n\n\n\n\n\nSome new \u200cSiri\u200c featu\u2026",
-            "url": "https://www.macrumors.com/guide/siri-apple-intelligence/",
-            "urlToImage": "https://images.macrumors.com/t/eNxYmCA1u77ZdJovI2KACUQ_lN0=/2500x/article-new/2024/06/Apple-Intelligence-General-Feature.jpg",
-            "publishedAt": "2024-11-27T23:43:47Z",
-            "content": "With Apple Intelligence, Apple is aiming to make Siri smarter than ever before. The personal assistant is going to be able to learn more about you, do more in apps, and hand over the reins to a smart\u2026 [+14294 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "ssaril@insider.com (Sarah Saril)",
-            "title": "Best Black Friday Amazon deals 2024: TVs, headphones, gifts, and more",
-            "description": "Amazon's Black Friday sale is in full swing with some of the lowest prices we've seen all year.",
-            "url": "https://www.businessinsider.com/guides/deals/amazon-black-friday-deals-2024",
-            "urlToImage": "https://i.insider.com/6747ac639f2901eb6037801b?width=1200&format=jpeg",
-            "publishedAt": "2024-11-29T12:25:51Z",
-            "content": "When you buy through our links, Business Insider may earn an affiliate commission. Learn more\r\nBlack Friday is finally here, and we're gathering every store holding a good sale in our Black Friday de\u2026 [+10383 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Juli Clover",
-            "title": "Video Review: A Month With the iPad Mini 7",
-            "description": "It's been just over a month since Apple released the iPad mini 7, refreshing its smallest tablet with a new Apple Intelligence-capable A17 Pro chip. MacRumors videographer Dan Barbera has been using the \u200ciPad mini 7\u200c as a replacement for the iPad Pro for the \u2026",
-            "url": "https://www.macrumors.com/2024/11/27/ipad-mini-7-review/",
-            "urlToImage": "https://images.macrumors.com/t/FwNFgSjylopFK6fGie7Za4I6MtY=/2500x/article-new/2024/11/iPad-mini-7-Review-Thumb-1.jpg",
-            "publishedAt": "2024-11-27T20:48:48Z",
-            "content": "It's been just over a month since Apple released the iPad mini 7, refreshing its smallest tablet with a new Apple Intelligence-capable A17 Pro chip. MacRumors videographer Dan Barbera has been using \u2026 [+1543 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "msmash",
-            "title": "'AI Ambition is Pushing Copper To Its Breaking Point'",
-            "description": "An anonymous reader shares a report: Datacenters have been trending toward denser, more power-hungry systems for years. In case you missed it, 19-inch racks are now pushing power demands beyond 120 kilowatts in high-density configurations, with many making th\u2026",
-            "url": "https://tech.slashdot.org/story/24/11/29/1128242/ai-ambition-is-pushing-copper-to-its-breaking-point",
-            "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
-            "publishedAt": "2024-11-29T11:30:00Z",
-            "content": "Datacenters have been trending toward denser, more power-hungry systems for years. In case you missed it, 19-inch racks are now pushing power demands beyond 120 kilowatts in high-density configuratio\u2026 [+1244 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Emma Cosgrove",
-            "title": "Nvidia workforce data explains its meteoric rise",
-            "description": "Nvidia's workforce expansion since 2003 shows its rapid growth in AI, with high salaries, low turnover, and a unique culture of public feedback.",
-            "url": "https://www.businessinsider.com/nvidia-workforce-growth-chart-pay-gender-revenue-data-20-years-2024-11",
-            "urlToImage": "https://i.insider.com/6747867eede4eeae392a26d9?width=1200&format=jpeg",
-            "publishedAt": "2024-11-28T09:00:02Z",
-            "content": "Nvidia's workforce has increased more than 20-fold in the last twenty years.Anna Kim/Getty, Tyler Le/BI\r\n<ul><li>Nvidia's workforce has grown nearly 20-fold since 2003.</li><li>The company's stock pr\u2026 [+6776 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Hasan Chowdhury,Riddhi Kanetkar,Beatrice Nolan,Hugh Langley",
-            "title": "AI improvements are slowing down. Companies have a plan to break through the wall.",
-            "description": "AI labs racing to surpass human intelligence have become the subject of reports that challenges are getting between their models and their mission.",
-            "url": "https://www.businessinsider.com/generative-ai-wall-scaling-laws-training-data-chatgpt-gemini-claude-2024-11",
-            "urlToImage": "https://i.insider.com/673e1268fa0140cdd5647cd3?width=1200&format=jpeg",
-            "publishedAt": "2024-11-27T09:00:02Z",
-            "content": "The tech world has been debating if AI models are plateauing. iStock; Rebecca Zisser/BI\r\n<ul><li>The rate of AI model improvement appears to be slowing, but some tech leaders say there is no wall.</l\u2026 [+11703 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Gizmodo Deals",
-            "title": "Santa Came Early This Year: The New Pixel 9 is Back at 30% Off on Amazon",
-            "description": "This Google smartphone with Stock Android and 7 years of updates is at a record low price on Amazon.",
-            "url": "https://gizmodo.com/santa-came-early-this-year-the-new-pixel-9-is-back-at-30-off-on-amazon-2000531380",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/google-pixel-9.jpg",
-            "publishedAt": "2024-11-28T13:10:32Z",
-            "content": "Last week, Amazon kicked off its Black Friday Week with a great deal on the Google Pixel 9 and within 24 hours, every model and color variant had vanished from the virtual shelves. But fear not, deal\u2026 [+3357 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "The Best Gadgets of November 2024",
-            "description": "November brought us new Mac products from Apple and a surprises from Razer, Roborock, and more.",
-            "url": "https://gizmodo.com/the-best-gadgets-of-november-2024-2000530243",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Best-Gadgets-October-Mac-mini-Atari-7800-Anker-Nebula-Razer-Freyja.jpg",
-            "publishedAt": "2024-11-30T12:00:47Z",
-            "content": "This autumn, quality gear is falling down on our heads like acorns from a tree. The start of November brought us the new MacBook Pros with M4 and the redesigned Mac mini, which has already become a f\u2026 [+8496 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digital Trends"
-            },
-            "author": "Cristina Alexander",
-            "title": "OnePlus 13 vs. Google Pixel 9 Pro: How does OnePlus fare against Google\u2019s best?",
-            "description": "The OnePlus 13 is not yet available in the Western market, but the Google Pixel 9 Pro is. Which phone should you buy?",
-            "url": "https://www.digitaltrends.com/mobile/oneplus-13-vs-google-pixel-9-pro/",
-            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/10/oneplus-13-promo-images.jpeg?resize=1200%2C630&p=1",
-            "publishedAt": "2024-11-28T11:00:52Z",
-            "content": "Table of Contents\r\nTable of Contents\r\nOnePlus 13 vs. Google Pixel 9 Pro: specs\r\nOnePlus 13 vs. Google Pixel 9 Pro: design and display\r\nOnePlus 13 vs. Google Pixel 9 Pro: performance and battery\r\nOneP\u2026 [+11560 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Ryan Christoffel",
-            "title": "iPad mini 7 proves Apple\u2019s silicon strength in a surprising way, here\u2019s how",
-            "description": "Apple silicon has led to significant advancements on the Mac, including the recent M4 models. But some of the best evidence for Apple\u2019s advantages in silicon is found in a surprising and unconventional place: the iPad mini 7.\n\n\n\n more\u2026",
-            "url": "https://9to5mac.com/2024/11/27/ipad-mini-7-apples-silicon-strength/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/ipad-mini-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-11-27T20:09:42Z",
-            "content": "Apple silicon has led to significant advancements on the Mac, including the recent M4 models. But some of the best evidence for Apples advantages in silicon is found in a surprising and unconventiona\u2026 [+3170 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Nick Todorov",
-            "title": "What is an NPU and how does it help AI magic happen?",
-            "description": "Neural processing unit: Is there any substance to the fancy name?",
-            "url": "https://www.androidpolice.com/what-is-npu/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/11/what-is-an-npu.jpg",
-            "publishedAt": "2024-11-27T19:00:15Z",
-            "content": "The \"brain\" of any modern smartphone is its SoC (system-on-chip), an incredibly complex micromachine. It packs a CPU and GPU, audio and video processing, wireless communication, and power management \u2026 [+5524 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Rajesh Pandey",
-            "title": "Google just fixed the Pixel 9 price hike with this Black Friday deal",
-            "description": "Get the Pixel 9 at its lifetime low price in this deal",
-            "url": "https://www.androidpolice.com/google-fixed-pixel-9-hike-black-friday/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/11/pixel-9-black-friday.jpg",
-            "publishedAt": "2024-11-29T19:00:10Z",
-            "content": "The Pixel 9 is the perfect premium Android phone that won't burn a big hole in your pocket. It packs a super bright display, great cameras, all-day battery life, and Gemini integration. A Black Frida\u2026 [+2296 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Will Sattelberg",
-            "title": "Too many Black Friday phone deals? Trust me, these are the 4 that matter",
-            "description": "From foldables to budget devices, these are the Black Friday smartphone deals worth picking up",
-            "url": "https://www.androidpolice.com/the-4-best-smartphone-deals-this-black-friday/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/08/google-pixel-9-pro-xl-review-31.jpg",
-            "publishedAt": "2024-11-29T13:00:10Z",
-            "content": "These days, waiting for a big sale whenever you need to upgrade your smartphone isn't always the best bet. Sure, you'll find plenty of sales during Amazon's biannual Prime Day deals, but you're just \u2026 [+10586 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Dreamchild Obari",
-            "title": "Samsung's Galaxy S24 FE Is Now $475, Its Lowest Price Yet for Black Friday",
-            "description": "No need to trade your phone in for a discount. Samsung's Galaxy S24 FE is on sale now for $175 off.",
-            "url": "https://www.cnet.com/deals/samsungs-galaxy-s24-fe-is-now-475-its-lowest-price-yet-for-black-friday/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/b546d37e92297c5ac67572508d2da4710e4ac935/hub/2024/11/14/893355a1-f647-4c52-8d87-c8d57c19523f/samsung-galaxy-buds-fe.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-11-27T14:00:00Z",
-            "content": "The biggest shopping day is almost here, but you don't have to wait until day-of to take advantage of Black Friday deals. Samsung has lowered, then lowered again, the price on a new Galaxy S24 FE pho\u2026 [+1357 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Sareena Dayaram",
-            "title": "Huawei's New Phone Lets You Transfer Photos With Hand Gestures",
-            "description": "Huawei gives Apple's AirDrop feature an offline spin via the Mate X70 series.",
-            "url": "https://www.cnet.com/tech/mobile/huawei-new-phone-lets-you-transfer-photos-with-hand-gestures/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/56e067b8d93d4464c3369312bb30ae83098fccc3/hub/2024/11/29/73616cf1-31a4-40d4-a951-01fb351e067e/screenshot-2024-11-29-at-2-54-50pm.png?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-11-29T13:00:10Z",
-            "content": "Huawei's new phone lets you transfer content from one company-made device to another using hand gestures. The Mate 70 series, unveiled on Tuesday in the company's hometown of Shenzhen, includes the b\u2026 [+3929 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Windows Central"
-            },
-            "author": "mhuck@live.com (Mauro Huculak)",
-            "title": "Don't be misled by retailers this Black Friday: Double-check for these AI specs on any Windows 11 Copilot+ PC",
-            "description": "If you plan to buy a Copilot+ PC during Black Friday or Cyber Monday, be aware that some retailers may try to deceive you into buying something that's not. In this guide, I will outline the hardware specifications you have to look for to make sure you're gett\u2026",
-            "url": "https://www.windowscentral.com/software-apps/windows-11/dont-be-misled-by-retailers-this-black-friday-double-check-these-specs-for-a-windows-11-ai-pc",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/mHCTrXMXLTBz2ugaCF4ws5-1200-80.jpg",
-            "publishedAt": "2024-11-27T13:00:00Z",
-            "content": "If you're planning to get a new laptop and looking for a good deal during Black Friday, the following Cyber Monday, or another end-of-year sales event, be careful and understand what you're adding to\u2026 [+4416 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phandroid - News for Android"
-            },
-            "author": "Mike Viray",
-            "title": "OnePlus\u2019 Upcoming Ace Series Phones Pack Flagship-Grade Chipsets",
-            "description": "A product render showing the Ace 5's design was also shared online.\nThe post OnePlus\u2019 Upcoming Ace Series Phones Pack Flagship-Grade Chipsets appeared first on Phandroid.",
-            "url": "https://phandroid.com/2024/11/28/oneplus-upcoming-ace-series-phones-pack-flagship-grade-chipsets/",
-            "urlToImage": "https://phandroid.com/wp-content/uploads/2024/06/oneplus-ace3-pro-1.png",
-            "publishedAt": "2024-11-28T23:18:27Z",
-            "content": "In addition to its flagship series phones and budget-friendly \u201cNord\u201d devices, OnePlus has also launched several models under its \u201cAce\u201d lineup, the latter of which is getting a new addition in Decembe\u2026 [+1060 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "XDA Developers"
-            },
-            "author": "Brady Snyder",
-            "title": "Dell Inspiron 14 5441 (Qualcomm) review: The entry-level Windows on Arm laptop to buy",
-            "description": "There were a few compromises made to hit this appealing price, however.",
-            "url": "https://www.xda-developers.com/dell-inspiron-14-5441-qualcomm-review/",
-            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/11/dell-inspiron-14-snapdragon-2.jpg",
-            "publishedAt": "2024-11-27T14:00:14Z",
-            "content": "When Apple spearheaded the transition to Arm processors, a key benefit was that the cheapest machines ended up beating high-end x86 computers. We're now seeing the exact same thing happen with Window\u2026 [+13193 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ritholtz.com"
-            },
-            "author": "Guest Author",
-            "title": "A Guide to Awkward Holiday Conversations",
-            "description": "Callie Cox is the Chief Market Strategist at RWM. She regularly posts at Optimistic Callie. (Subscribe, its great and free!) This is her first post here, and it\u2019s\u00a0perfect for the holiday weekend. Enjoy! Hey hey, happy holiday-shortened week! I don\u2019t know abou\u2026",
-            "url": "https://ritholtz.com/2024/11/a-guide-to-awkward-holiday-conversations/",
-            "urlToImage": "https://ritholtz.com/wp-content/uploads/2024/11/NVDIA.png",
-            "publishedAt": "2024-11-28T16:00:16Z",
-            "content": "Especially over a plate of turkey and mashed potatoes.\r\nYou can dance around emotionally charged issues like politics, the economy, the stock market and your love life for only so long before your cr\u2026 [+7532 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Xataka Android"
-            },
-            "author": "Pepu Ricca",
-            "title": "Las mejores ofertas en m\u00f3viles Android en el Black Friday, y los m\u00e1s recomendados por nuestros expertos",
-            "description": "\u00a1Llego el Black Friday! Aunque llevamos toda la semana con ofertas en dispositivos Android que os hemos ido desgranando cada d\u00eda, ahora llega la traca final. \u00bfEsperabas este momento para dar el salto a tu nuevo m\u00f3vil? \u00bfBuscas un m\u00f3vil Android de la gama premi\u2026",
-            "url": "https://www.xatakandroid.com/guias-de-compra/mejores-ofertas-moviles-android-black-friday-recomendados-nuestros-expertos-1",
-            "urlToImage": "https://i.blogs.es/4c9a5c/xtk-bfrecopilatorio/840_560.jpeg",
-            "publishedAt": "2024-11-29T09:15:47Z",
-            "content": "\u00a1Llego el Black Friday! Aunque llevamos toda la semana con ofertas en dispositivos Android que os hemos ido desgranando cada d\u00eda, ahora llega la traca final. \u00bfEsperabas este momento para dar el salto\u2026 [+5786 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "HYPEBEAST"
-            },
-            "author": "info@hypebeast.com (Hypebeast)",
-            "title": "SCRY's New AI-Powered PS5 Coolers Might Make Your Console Last Longer",
-            "description": "If your PS5 gets so hot you can warm your pizza on it, look no further: thermal solutions company SCRY is soon launching its Artic cooler series with a version made for each member of the PS5 family. And, of course, they are all powered by AI.Overheating cons\u2026",
-            "url": "https://hypebeast.com/2024/11/scry-artic-ps5-cooler-kickstarter-release",
-            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F11%2F27%2Fscry-artic-ps5-cooler-kickstarter-release-tw.jpg?w=1080&cbr=1&q=90&fit=max",
-            "publishedAt": "2024-11-27T18:59:34Z",
-            "content": "If your PS5 gets so hot you can warm your pizza on it, look no further: thermal solutions company SCRY is soon launching its Artic cooler series with a version made for each member of the PS5 family.\u2026 [+1819 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Authority"
-            },
-            "author": "C. Scott Brown",
-            "title": "When I\u2019m buying tech, battery life is my top concern, not performance",
-            "description": "Companies love to tout the performance gains of their newest products. But for me, I don't care: all I'm looking at is battery life.",
-            "url": "https://www.androidauthority.com/battery-life-opinion-3502120/",
-            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Ultra-Battery-Life-angled.jpg",
-            "publishedAt": "2024-11-27T21:44:27Z",
-            "content": "Whenever a company launches a new product, it almost always puts a massive emphasis on how much more powerful that product is. For recent smartphones, there are plenty of examples of this. During the\u2026 [+12729 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Authority"
-            },
-            "author": "Robert Triggs",
-            "title": "When people ask me what phone to buy this year, it\u2019s not a $1,000 powerhouse",
-            "description": "Ignore the expensive flagships and their blazing-fast silicon; the phone you should probably buy costs an awful lot less.",
-            "url": "https://www.androidauthority.com/best-2024-phones-arent-fast-3502060/",
-            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/11/Samsung-Galaxy-S24-FE-home-screen.jpg",
-            "publishedAt": "2024-11-29T14:00:13Z",
-            "content": "The end of the year and early 2025 are shaping up to be exciting times for performance junkies like myself. The arrival of the latest iPhone and Android flagships sporting the newest silicon from Qua\u2026 [+4838 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Authority"
-            },
-            "author": "Ryan Haines",
-            "title": "Sayonara, MacBook Air: The Lenovo Chromebook Duet (Gen 9) is my new travel companion",
-            "description": "When space is at a premium, it helps to have a two-in-one like Lenovo's Chromebook Duet that can keep up with light travel tasks.",
-            "url": "https://www.androidauthority.com/lenovo-chromebook-duet-gen-9-review-3501518/",
-            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/11/Lenovo-Chromebook-Duet-angle.jpg",
-            "publishedAt": "2024-11-29T18:00:21Z",
-            "content": "To this point, Ive been a pretty loyal laptop guy. No matter my needs, Ive reached for my spacious 15-inch MacBook Air with its M2 chip, knowing that it had me covered. And its true I havent encounte\u2026 [+12550 chars]"
+            "title": "Apple Uses Amazon's Custom AI Chips for Search Services",
+            "description": "Apple uses custom Trainium and Graviton artificial intelligence chips from Amazon Web Services for search services, Apple machine learning and AI director Benoit Dupin said today at the AWS re:Invent conference (via CNBC).\n\n\n\n\n\nDupin said that Amazon's AI chi\u2026",
+            "url": "https://www.macrumors.com/2024/12/03/apple-amazon-ai-chips-search/",
+            "urlToImage": "https://images.macrumors.com/t/cDYV_iTHQYfFd3G_5RsnYDoN4hY=/1600x/article-new/2024/12/aws-trainium.jpg",
+            "publishedAt": "2024-12-03T19:41:18Z",
+            "content": "Apple uses custom Trainium and Graviton artificial intelligence chips from Amazon Web Services for search services, Apple machine learning and AI director Benoit Dupin said today at the AWS re:Invent\u2026 [+788 chars]"
         },
         {
             "source": {
@@ -541,64 +268,961 @@
                 "name": "MacRumors"
             },
             "author": "Tim Hardwick",
-            "title": "Apple Orders M5 Chips From TSMC Ahead of Late 2025 Production",
-            "description": "Apple has ordered M5 chips from TSMC as the company begins production development of its next-generation processor for future devices, claims a new Korean-language report by The Elec.\n\n\n\n\n\nThe M5 series is expected to feature an enhanced ARM architecture and \u2026",
-            "url": "https://www.macrumors.com/2024/11/29/apple-orders-m5-chips-from-tsmc/",
-            "urlToImage": "https://images.macrumors.com/t/J46PnqFon6uZq7AZIAThCrBf36g=/2500x/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
-            "publishedAt": "2024-11-29T12:22:34Z",
-            "content": "Apple has ordered M5 chips from TSMC as the company begins production development of its next-generation processor for future devices, claims a new Korean-language report by The Elec.\r\nThe M5 series \u2026 [+2263 chars]"
+            "title": "TSMC 2nm Chip Production Hits 60% Yield, on Track for iPhone 18 Pro",
+            "description": "TSMC has achieved better-than-expected results in trial production of its 2-nanometer chip technology, with yield rates exceeding 60%, according to Taiwanese supply chain sources (via Liberty Times Net). The news suggests the company is well-positioned to beg\u2026",
+            "url": "https://www.macrumors.com/2024/12/06/tsmc-2nm-chip-production-on-track-iphone-18-pro/",
+            "urlToImage": "https://images.macrumors.com/t/n8JMxdkOzk8f3BBf2vAizoWlfEI=/1600x/article-new/2020/08/tsmc_semiconductor_chip_inspection_678x452.jpg",
+            "publishedAt": "2024-12-06T13:55:23Z",
+            "content": "TSMC has achieved better-than-expected results in trial production of its 2-nanometer chip technology, with yield rates exceeding 60%, according to Taiwanese supply chain sources (via Liberty Times N\u2026 [+1671 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Techmeme.com"
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "Apple Looking to Fundamentally Change iPhone Memory Design to Enhance AI Performance",
+            "description": "Apple is reportedly planning a significant shift in its iPhone hardware design by transitioning to discrete memory packaging to enhance on-device AI performance.\n\n\n\n\n\nSamsung, a key supplier of Apple's memory components, has begun research to accommodate the \u2026",
+            "url": "https://www.macrumors.com/2024/12/05/apple-looking-to-change-iphone-memory/",
+            "urlToImage": "https://images.macrumors.com/t/J46PnqFon6uZq7AZIAThCrBf36g=/2500x/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
+            "publishedAt": "2024-12-05T14:38:59Z",
+            "content": "Apple is reportedly planning a significant shift in its iPhone hardware design by transitioning to discrete memory packaging to enhance on-device AI performance.\r\nSamsung, a key supplier of Apple's m\u2026 [+2484 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Scott Stein",
+            "title": "Exclusive: Xreal One Smart Glasses Have Entered the Vision Pro Zone, and I Wore Them",
+            "description": "Xreal's CEO says these new glasses are the start of something bigger. After wearing them, I agree.",
+            "url": "https://www.cnet.com/tech/computing/i-wore-xreal-one-smart-glasses-are-entering-the-vision-pro-zone/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/a584391dd6f4107f26ac47d1d4bd9dd2dbc75029/hub/2024/12/03/2599cfd9-07b0-404b-98b9-a06c96cb1154/xreal-one-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-12-04T15:00:00Z",
+            "content": "Perching a pair of tethered glasses over my own lenses in an office in midtown New York, I see a familiar sight: Floating in front of me is a widescreen Mac monitor. It's just there, hovering in spac\u2026 [+11462 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Adam Oram",
+            "title": "After Hours of Digging Through Final Amazon Deals, We\u2019ve Found the Best Cyber Monday Discounts Still Available",
+            "description": "Amazon's Cyber Monday sale is over, but some valuable deals are still live -- offering one last chance to save big this holiday shopping season.",
+            "url": "https://www.cnet.com/deals/best-cyber-monday-amazon-deals-2024-12-03/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/f64f4ae759d9c83590102cd17e3ca38ec4ea7f1a/hub/2024/10/23/ff88a0c5-e772-4a8a-a71e-d9cd9810c1d6/cyber-monday-amazon-device.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-12-03T10:47:00Z",
+            "content": "Cyber Monday is officially over, but if you're still looking to shop, we have good news: There are still plenty of great deals, especially at Amazon, including extensions of Black Friday savings and \u2026 [+8247 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple 'Investigating' Macs With Cellular Connectivity",
+            "description": "Apple is considering bringing cellular connectivity to the Mac lineup for the first time, reports Bloomberg's Mark Gurman. The Cupertino company is said to be \"investigating\" the possibility of adding a modem chip to a future Mac, but a cellular Mac isn't lik\u2026",
+            "url": "https://www.macrumors.com/2024/12/06/apple-cellular-mac-custom-modem/",
+            "urlToImage": "https://images.macrumors.com/t/Aq1gNF8zGjPo7F2zFWfVzDOQyAY=/2500x/article-new/2024/02/macbook-pro-purple-february.jpg",
+            "publishedAt": "2024-12-06T20:16:41Z",
+            "content": "Apple is considering bringing cellular connectivity to the Mac lineup for the first time, reports Bloomberg's Mark Gurman. The Cupertino company is said to be \"investigating\" the possibility of addin\u2026 [+1603 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "Intel CEO Pat Gelsinger Retires Amid Company's Decline",
+            "description": "Intel CEO Pat Gelsinger has retired following a challenging tenure marked by the company's struggles to compete against Apple and other major chipmakers.\n\n\n\n\n\nIntel today announced that Gelsinger, who served as the company's CEO since early 2021, officially s\u2026",
+            "url": "https://www.macrumors.com/2024/12/02/intel-ceo-pat-gelsinger-retires/",
+            "urlToImage": "https://images.macrumors.com/t/uV6LL2-iM9PHSab18iHbFTvZ0cc=/1600x/article-new/2021/01/pat-gelsinger-intel.jpg",
+            "publishedAt": "2024-12-02T15:20:54Z",
+            "content": "Intel CEO Pat Gelsinger has retired following a challenging tenure marked by the company's struggles to compete against Apple and other major chipmakers.\r\nIntel today announced that Gelsinger, who se\u2026 [+4073 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "MacRumors Staff",
+            "title": "Top Stories: iOS 18.2 Coming Soon, iPhone 17 Rumors, and More",
+            "description": "2024 is rapidly drawing to a close, but Apple isn't quite done with releases for the year as iOS 18.2 and related operating system updates are arriving very shortly. Apple Intelligence is a major focus for these updates, but there are some other tweaks and im\u2026",
+            "url": "https://www.macrumors.com/2024/12/07/top-stories-ios-18-2-coming-soon/",
+            "urlToImage": "https://images.macrumors.com/t/1ShzmV4UXMJoIkPEvWdEuyL-DEA=/1600x/article-new/2024/12/top-stories-7dec2024.jpg",
+            "publishedAt": "2024-12-07T14:00:00Z",
+            "content": "2024 is rapidly drawing to a close, but Apple isn't quite done with releases for the year as iOS 18.2 and related operating system updates are arriving very shortly. Apple Intelligence is a major foc\u2026 [+3832 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "Microsoft Discontinues iMac Rival Surface Studio 2+",
+            "description": "Microsoft has discontinued its Surface Studio 2+, marking the end of the company's only direct competitor to Apple's iMac, leaving a gap in the Windows ecosystem for high-end all-in-one PCs.\n\n\n\n\n\nMicrosoft has confirmed to Windows Central that it has ended pr\u2026",
+            "url": "https://www.macrumors.com/2024/12/06/microsoft-discontinues-imac-rival-surface-studio/",
+            "urlToImage": "https://images.macrumors.com/t/tKuX53YdVxLzWpgKTRSm6AAM8tY=/1600x/article-new/2016/11/surface-studio-4.jpg",
+            "publishedAt": "2024-12-06T14:30:08Z",
+            "content": "Microsoft has discontinued its Surface Studio 2+, marking the end of the company's only direct competitor to Apple's iMac, leaving a gap in the Windows ecosystem for high-end all-in-one PCs.\r\nMicroso\u2026 [+1978 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "Small AI Chip Maker Marvell is Now More Valuable Than Intel",
+            "description": "This year Marvell's stock rose 95%, giving it a $100 billion market capitalization, according to the Wall Street Journal. \n\n\"The latest gains have even put Marvell's market cap ahead of much-beleaguered Intel, which still generates 10 times as much annual rev\u2026",
+            "url": "https://hardware.slashdot.org/story/24/12/08/1753204/small-ai-chip-maker-marvell-is-now-more-valuable-than-intel",
+            "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+            "publishedAt": "2024-12-08T17:55:00Z",
+            "content": "This year Marvell's stock rose 95%, giving it a $100 billion market capitalization, according to the Wall Street Journal.\"The latest gains have even put Marvell's market cap ahead of much-beleaguered\u2026 [+2366 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Eugene Kim",
+            "title": "Amazon's AI chip executive tells BI why Nvidia is not a competitor, how Anthropic helps, and what AMD needs",
+            "description": "Amazon's AI chip strategy focuses on customer choice, not competing directly with Nvidia.",
+            "url": "https://www.businessinsider.com/aws-exec-explains-why-nvidia-is-not-competitor-trainium-chip-2024-12",
+            "urlToImage": "https://i.insider.com/675297b94adc4cc13434f187?width=1200&format=jpeg",
+            "publishedAt": "2024-12-06T19:52:43Z",
+            "content": "Gadi Hutt, AWS Annapurna Labs's senior director of customer and product engineeringAmazon\r\n<ul><li>AWS launched new AI chips that compete with Nvidia's GPUs.</li><li>AWS says its goal is to provide m\u2026 [+10497 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Riddhi Kanetkar",
+            "title": "Biden fires a parting shot at China's chip industry ahead of Trump's second term",
+            "description": "The US has introduced export restrictions to 140 Chinese semiconductor companies to curb the growth of its AI industry.",
+            "url": "https://www.businessinsider.com/biden-trump-us-export-controls-china-tech-ai-2024-12",
+            "urlToImage": "https://i.insider.com/674dabb97929f317fb4f8762?width=1200&format=jpeg",
+            "publishedAt": "2024-12-02T13:36:00Z",
+            "content": "Donald Trump has previously described China as the \"main threat\" to the US AI industry.iStock; Rebecca Zisser/BI\r\n<ul><li>The US has introduced new export controls on China's semiconductor industry, \u2026 [+3289 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Eugene Kim",
+            "title": "Amazon isn't seeing enough demand for AMD's AI chips to offer them via its cloud",
+            "description": "AWS has not committed to offer access to AMD's AI chips. That's partly because cloud customers aren't asking for these components.",
+            "url": "https://www.businessinsider.com/amazon-not-enough-demand-amd-ai-chips-aws-nvidia-2024-12",
+            "urlToImage": "https://i.insider.com/675346478fbb2783ed30586e?width=1200&format=jpeg",
+            "publishedAt": "2024-12-06T19:59:58Z",
+            "content": "AWS logo at re:Invent 2024Noah Berger/Getty Images for Amazon Web Services\r\n<ul><li>AWS has not committed to offering cloud access to AMD's AI chips in part due to low customer demand.</li><li>AWS sa\u2026 [+1911 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hasan Chowdhury",
+            "title": "Silicon and supercomputers will define the next AI era. AWS just made a big bet on both.",
+            "description": "AWS unveiled a new line of its own AI chips and plans for a supercomputer at its Re: Invent conference, signalling a shift away from Nvidia.",
+            "url": "https://www.businessinsider.com/aws-chips-supercomputer-ai-reinvent-big-tech-2024-12",
+            "urlToImage": "https://i.insider.com/67505a84e45a68623a27b739?width=1200&format=jpeg",
+            "publishedAt": "2024-12-04T15:07:12Z",
+            "content": "Amazon is betting on its own chips and supercomputers to forge ahead with its AI ambitions.Noah Berger/Getty Images for Amazon Web Services\r\n<ul><li>AWS unveiled a new AI chip and a supercomputer at \u2026 [+5048 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Shubhangi Goel",
+            "title": "Meet 2 chip execs reportedly in the running for Intel CEO \u2014 one is an outsider",
+            "description": "The chipmaker is considering at least two people outside the company to replace former CEO Pat Gelsinger, who abruptly retired on Sunday.",
+            "url": "https://www.businessinsider.com/who-could-be-intel-new-ceo-gelsinger-replacement-top-candidates-2024-12",
+            "urlToImage": "https://i.insider.com/675003147929f317fb4fdb98?width=1200&format=jpeg",
+            "publishedAt": "2024-12-04T07:16:56Z",
+            "content": "Intel is considering two people for the position of its new CEO, Bloomberg and Reuters reported.Justin Sullivan/Getty Images\r\n<ul><li>Intel is reportedly considering Lip-Bu Tan and Matt Murphy for CE\u2026 [+3448 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Gabriel Erard",
+            "title": "La MSI Claw se renueva: m\u00e1s pantalla y bater\u00eda, mandos mejorados y lo \u00faltimo de Intel",
+            "description": "La MSI Claw se anunci\u00f3 en los primeros d\u00edas de 2024 como una de las tant\u00edsimas rivales de la Steam Deck en el segmento de las consolas port\u00e1tiles. Y si bien todav\u00eda no ha cumplido un a\u00f1o en el mercado, su fabricante ha decidido lanzar dos nuevas versiones con\u2026",
+            "url": "http://hipertextual.com/2024/12/nuevas-msi-claw-7-a-y-claw-8-ai-novedades-y-precios",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/12/MSI-Claw-2-scaled.jpg",
+            "publishedAt": "2024-12-03T17:28:24Z",
+            "content": "La MSI Clawse anunci\u00f3 en los primeros d\u00edas de 2024 como una de las tant\u00edsimas rivales de la Steam Deck en el segmento de las consolas port\u00e1tiles. Y si bien todav\u00eda no ha cumplido un a\u00f1o en el mercado\u2026 [+2099 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "Apple plans three-year modem rollout to compete with Qualcomm, Bloomberg News reports",
+            "description": "The iPhone maker is looking to ultimately overtake Qualcomm's technology by 2027, the report said, citing people familiar with the matter.  Qualcomm, a...",
+            "url": "https://finance.yahoo.com/news/apple-plans-three-modem-rollout-175207839.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/f91d3347a2f53e6ea928785a4c411fbb",
+            "publishedAt": "2024-12-06T17:52:07Z",
+            "content": "(Reuters) - Apple is preparing to launch its long-awaited series of cellular modem chips next year, which will replace components from longtime partner Qualcomm, Bloomberg News reported on Friday.\r\nT\u2026 [+1623 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Police"
+            },
+            "author": "Jay Bonggolto",
+            "title": "With the Pixel 8 this cheap for Cyber Monday, don't give the Pixel 9 a second thought",
+            "description": "Stick with the classics",
+            "url": "https://www.androidpolice.com/google-pixel-8-cyber-monday-deal-250/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SI0xxA6FHtr8joH2P6i2mQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/android_police_756/d10cfbd00dcf1d832dda73ecd96d4531",
+            "publishedAt": "2024-12-01T12:00:12Z",
+            "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nG\u2026 [+2352 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tom's Guide"
+            },
+            "author": "Alan Martin",
+            "title": "iPhone 17 Air \u2014 7 biggest rumors so far",
+            "description": "What we\u2019re expecting Apple to deliver with its rumored slimmer iPhone.",
+            "url": "https://www.tomsguide.com/phones/iphones/iphone-17-air-7-biggest-rumors-so-far",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3NWpgG3GFBMkh1BldJ7pcQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/toms_guide_826/37df45cb4ddf66c2636140ae8bcd7f89",
+            "publishedAt": "2024-12-07T13:38:00Z",
+            "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nW\u2026 [+5865 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "MICHELLE CHAPMAN / AP",
+            "title": "Intel CEO Pat Gelsinger Retires",
+            "description": "Intel CEO Pat Gelsinger has retired, with David Zinsner and Michelle Johnston Holthaus named as interim co-CEOs.",
+            "url": "https://time.com/7199294/intel-gelsinger-zinsner-johnston-holthaus/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/12/GettyImages-2155358471.jpg?quality=85&w=1024&h=628&crop=1",
+            "publishedAt": "2024-12-02T14:30:22Z",
+            "content": "Intel CEO Pat Gelsinger has retired, with David Zinsner and Michelle Johnston Holthaus named as interim co-CEOs.\r\nGelsinger, whose career has spanned more than 40 years, also stepped down from the co\u2026 [+2010 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Javier Penalva",
+            "title": "HP Omnibook X, an\u00e1lisis: si buscas un port\u00e1til Windows con la mejor autonom\u00eda, no hay mucho que pensar",
+            "description": "Poner la excusa de que te has quedado tirado sin bater\u00eda en el port\u00e1til para acabar el informe pendiente en medio de un viaje en AVE tiene muy complicado ser una excusa cre\u00edble con la llegada de los equipos port\u00e1tiles con ARM, centrados principalmente en ofre\u2026",
+            "url": "https://www.xataka.com/analisis/hp-omnibook-x-analisis-caracteristicas-precio-especificaciones",
+            "urlToImage": "https://i.blogs.es/a3d8d2/hp-omnibook-x-xataka-analisis-portada/840_560.jpeg",
+            "publishedAt": "2024-12-07T15:00:34Z",
+            "content": "Poner la excusa de que te has quedado tirado sin bater\u00eda en el port\u00e1til para acabar el informe pendiente en medio de un viaje en AVE tiene muy complicado ser una excusa cre\u00edble con la llegada de los \u2026 [+15892 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Stanfordreview.org"
+            },
+            "author": "John Gruber",
+            "title": "From the Department of Bringing Receipts to the Interview",
+            "description": "Stanford Review: Hi President Levin, thank you so much for agreeing to do this interview. Also, happy belated birthday! Your father was the president of Yale. Obviously, you are now the President of Stanford. The last year has been difficult for university pr\u2026",
+            "url": "https://stanfordreview.org/levin-interview/",
+            "urlToImage": "https://stanfordreview.org/content/images/size/w1200/2024/12/Screenshot-2024-12-01-at-4.18.35-PM.png",
+            "publishedAt": "2024-12-05T02:27:12Z",
+            "content": "Stanford Review: Hi President Levin, thank you so much for agreeing to do this interview. Also, happy belated birthday! Your father was the president of Yale. Obviously, you are now the President of \u2026 [+27169 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Acer Swift 16 AI Review: A Beautiful Screen Connected to a Bad Chassis",
+            "description": "The Acer Swift 16 AI with Lunar Lake has the display of a great laptop, but not the chassis or audio quality of one.",
+            "url": "https://gizmodo.com/acer-swift-16-ai-review-2000534460",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/12/Acer-Swift-16-AI-Photo-1.jpg",
+            "publishedAt": "2024-12-07T14:00:41Z",
+            "content": "The Acer Swift 16 AI looks like a piece of slate. Without the Acer logo on the cover, I would swear the laptop looks like something you\u2019d pick up from a construction site. The Swift 16 AI with the la\u2026 [+8233 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Cheaper Than The 55\u2033, The 65\u2033 LG C3 OLED TV Is at a Record Low Price For Cyber Monday",
+            "description": "The C3 model is a fantastic OLED TV available at a reasonable price.",
+            "url": "https://gizmodo.com/cheaper-than-the-55-the-65-lg-c3-oled-tv-is-at-a-record-low-price-for-cyber-monday-2000532633",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/12/lg-c3-oled.jpg",
+            "publishedAt": "2024-12-02T12:25:13Z",
+            "content": "Amazon has revealed a great Cyber Monday deal that\u2019s turning heads in the world of high-end televisions: The LG C3 Series 65-inch OLED TV is now available at a jaw-dropping price of $1,196 which is a\u2026 [+2528 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Joe Tilleli",
+            "title": "Amazon\u2019s Top-Selling Electric Hand Warmers Are Just $12.50 Each, Perfect for Holiday Gifts!",
+            "description": "The electric hand warmers are rechargeable which means they are a one time cost.",
+            "url": "https://gizmodo.com/amazons-top-selling-electric-hand-warmers-are-just-12-50-each-perfect-for-holiday-gifts-2000535051",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/12/HandWarmers.jpg",
+            "publishedAt": "2024-12-06T14:30:57Z",
+            "content": "Cyber Week is reaching its close which means you only have a short window of time to save big on some gifts this year for your friends, family, and loved ones. If you are still in search of a good st\u2026 [+2173 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Florence Ion",
+            "title": "What to Expect From Samsung\u2019s Galaxy Unpacked S25 Event",
+            "description": "When will Galaxy Unpacked happen? Will the regular Galaxy S25 get any smaller? And will smart glasses be Samsung's \"one more thing\"?",
+            "url": "https://gizmodo.com/what-to-expect-from-samsungs-galaxy-unpacked-s25-event-2000534462",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/12/GalaxyS24_For-S25-Rumors.jpg",
+            "publishedAt": "2024-12-05T12:05:44Z",
+            "content": "Time is cyclical, and we\u2019re already back at the part of the year where rumors about Samsung\u2019s next major smartphone are clogging up the airwaves. I\u2019m still toiling around with the latest Apple iPhone\u2026 [+3647 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Patrick Hearn",
+            "title": "The iPhone 18 may get a big redesign you won\u2019t be able to see",
+            "description": "The iPhone 18 could have radically different internal components with faster memory, but at the cost of battery life.",
+            "url": "https://www.digitaltrends.com/mobile/iphone-18-may-get-a-big-redesign-you-wont-be-able-to-see/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/10/iphone-16-plus-back.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-12-05T17:36:34Z",
+            "content": "The design of the iPhone can only be described as iconic. That rectangular shape has been a major influence on phone aesthetics and design since the first iPhone came onto the market back in 2007, an\u2026 [+1716 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Jacob Roach",
+            "title": "Intel announces sudden departure of CEO amid financial turmoil",
+            "description": "Intel has announced that its CEO Pat Gelsinger will retire after less than four years as the company's head executive.",
+            "url": "https://www.digitaltrends.com/computing/intel-announces-sudden-departure-of-ceo-amid-financial-turmoil/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2021/04/intel-pat-gelsinger-engineering-the-future-2.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-12-02T14:14:12Z",
+            "content": "Intel has announced that CEO Pat Gelsinger has retired. The executive, who first joined Intel in 1979 at 18 years old, is being replaced by David Zinsner and Michelle Johnston Holthaus. Holthaus and \u2026 [+2244 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Nadeem Sarwar",
+            "title": "How two apps are turning smartphones into navigation devices for the blind",
+            "description": "A team of researchers has built two apps that only need the sensors fitted inside a phone to help blind people navigate buildings. It's almost magical ingenuity.",
+            "url": "https://www.digitaltrends.com/mobile/how-two-apps-are-turning-smartphones-into-navigation-devices-for-the-blind/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/11/app-system-map-wayfinding-app.jpeg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-12-02T22:32:08Z",
+            "content": "Table of Contents\r\nTable of Contents\r\nA new way to assist blind people\r\nHow it all works\r\nThe big caveat\r\nThe first time I witnessed the challenges of disability was when I started college in 2016. M\u2026 [+10822 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Isabel Gr\u00fcnewald",
+            "title": "KI-Update kompakt: ChatGPT, Adobe MultiFoley, Yann LeCun, GenAI in Unternehmen",
+            "description": "Das \"KI-Update\" liefert werkt\u00e4glich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+            "url": "https://www.heise.de/news/KI-Update-kompakt-ChatGPT-Adobe-MultiFoley-Yann-LeCun-GenAI-in-Unternehmen-10186126.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/5/6/1/6/4/KIupdate_Titel_122023-4cd1ddee68e292c6.png",
+            "publishedAt": "2024-12-03T14:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nEin bemerkenswertes Ph\u00e4nomen wurde von Reddit-Nutzern entdeckt: ChatGPT verweigert konsequent jegliche Antworten auf Fragen nach \"David Mayer\" und kann den Namen nicht schreiben. \u2026 [+10628 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ryan Christoffel",
+            "title": "Report: 2026 iPhone will prioritize AI upgrades by reworking RAM setup",
+            "description": "Apple is always working on new iPhones that are multiple years out, and today a new report details a noteworthy internal change coming to the 2026 iPhone 18 lineup.\n\n\n\n more\u2026",
+            "url": "https://9to5mac.com/2024/12/05/report-2026-iphone-will-prioritize-ai-upgrades-by-reworking-ram-setup/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/More-sophisticated-iPhone-17-Pro-cameras-expected.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-12-05T15:47:47Z",
+            "content": "Apple is always working on new iPhones that are multiple years out, and today a new report details a noteworthy internal change coming to the 2026 iPhone 18 lineup.\r\nThe iPhone 16 has been called the\u2026 [+2338 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ryan Christoffel",
+            "title": "Intel\u2019s CEO shakeup is an Apple silicon success story in a big way",
+            "description": "It hasn\u2019t been a great season for Intel, and now its CEO Pat Gelsinger is out. And in the midst of the chipmaker\u2019s transitionary period, Apple silicon is looking like a bigger win than ever for Apple.\n\n\n\n more\u2026",
+            "url": "https://9to5mac.com/2024/12/02/intels-ceo-shakeup-is-just-one-more-apple-silicon-success-story/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/07/Tim-Cook-major-services-acquisitions.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-12-02T17:21:00Z",
+            "content": "It hasnt been a great season for Intel, and now its CEO Pat Gelsinger is out. And in the midst of the chipmakers transitionary period, Apple silicon is looking like a bigger win than ever for Apple.\r\u2026 [+2360 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Police"
+            },
+            "author": "Gaurav Shukla",
+            "title": "Google Pixel 9 Pro XL vs. Apple iPhone 16 Pro Max: The big phone showdown",
+            "description": "How does Google's XL flagship stack up against Apple's latest Pro Max smartphone?",
+            "url": "https://www.androidpolice.com/google-pixel-9-pro-xl-vs-apple-iphone-16-pro-max/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/11/google-pixel-9-pro-xl-vs-apple-iphone-16-pro-max.jpg",
+            "publishedAt": "2024-12-08T11:30:11Z",
+            "content": "<ul><li>Your changes have been saved\r\nEmail has already been sent\r\nFollowFollowed Follow with Notifications Follow Unfollow \r\nGoogle's premium flagship\r\nThe Pixel 9 Pro XL is Google's traditional lar\u2026 [+11435 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Police"
+            },
+            "author": "Will Sattelberg",
+            "title": "Stumped this Cyber Monday? Let our Phones Editor help you pick a budget Android phone",
+            "description": "Skip deals shopping and head on an adventure with AP as we select the only budget Android phones worth your hard-earned cash",
+            "url": "https://www.androidpolice.com/budget-android-phone-cyber-monday-2024/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/galaxy-s24-fe-vs-oneplus-12r-vs-pixel-8a-4.jpg",
+            "publishedAt": "2024-12-01T22:02:29Z",
+            "content": "Across the web, at this very moment, you can find dozens of phone-specific Cyber Monday guides, all designed to help you find the device worth buying this holiday season. From expensive foldables to \u2026 [+10099 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Police"
+            },
+            "author": "Michael Bizzaco",
+            "title": "Samsung Galaxy Buds 3 Pro vs Apple AirPods Pro: Warring flagships",
+            "description": "Bixby and Siri will not be shaking hands today, but that doesn\u2019t mean we can\u2019t compare and contrast",
+            "url": "https://www.androidpolice.com/samsung-galaxy-buds-3-pro-vs-apple-airpods-pro/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/11/samsung-galaxy-buds-3-pro-vs-apple-airpods-pro-2-hero-1.jpg",
+            "publishedAt": "2024-12-07T15:00:10Z",
+            "content": "<ul><li>Your changes have been saved\r\nEmail has already been sent\r\nFollowFollowed\r\nFollow with Notifications\r\nFollow\r\nUnfollow\r\nApple AirPods Pro (2nd Gen, USB-C)\r\nApple ANC is some of the best ANC\r\n\u2026 [+12675 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Police"
+            },
+            "author": "Nathan Drescher",
+            "title": "Nubia Z70 Ultra review: A photo powerhouse",
+            "description": "The Nubia Z70 Ultra offers powerful cameras, stellar battery life, and a gorgeous display, but it might not suit everyone",
+            "url": "https://www.androidpolice.com/nubia-z70-ultra-review/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/11/nubia-z70-ultra-forest.jpeg",
+            "publishedAt": "2024-12-04T23:00:10Z",
+            "content": "I had my sights set on the Nubia Z70 Ultra's cameras, expecting them to blow me away. Well, they did. This device packs the world's first 35mm custom optical lens with a variable aperture. The Sony-b\u2026 [+9710 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Eduardo Baptista and Heekyong Yang",
+            "title": "Chinese chip firms say they can withstand new US export curbs",
+            "description": "Chinese chip companies targeted by Washington with fresh export controls have vowed to speed up supply chain localisation and said they would be able to...",
+            "url": "https://ca.finance.yahoo.com/news/chinese-chip-firms-withstand-us-073606233.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/f11004e96ca5b44f5bb633691016c2a5",
+            "publishedAt": "2024-12-03T07:36:06Z",
+            "content": "By Eduardo Baptista and Heekyong Yang\r\nBEIJING/SEOUL (Reuters) - Chinese chip companies targeted by Washington with fresh export controls have vowed to speed up supply chain localisation and said the\u2026 [+3913 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ghazal Ahmed",
+            "title": "Apple Inc. (AAPL) Leverages AWS AI Chips for Apple Intelligence Pretraining, Highlights Collaboration at AWS re:Invent",
+            "description": "We recently compiled a list of the 10 AI News Investors Should Not Miss. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL...",
+            "url": "https://finance.yahoo.com/news/apple-inc-aapl-leverages-aws-013228196.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/e1QwhqQiBt5ecLL5Qx6Rkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/bd47dc2e86b4a3086f845d200d9daf1f",
+            "publishedAt": "2024-12-06T01:32:28Z",
+            "content": "We recently compiled a list of the 10 AI News Investors Should Not Miss.\u00a0In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against the other AI stocks investors sh\u2026 [+4623 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "MICHELLE CHAPMAN",
+            "title": "Intel CEO Gelsinger retires; Zinsner and Johnston Holthaus named interim co-CEOs",
+            "description": "Intel CEO CEO Pat Gelsinger has retired, with David Zinsner and Michelle Johnston Holthaus named as interim Co-CEOs.  Intel said Monday that it will conduct ...",
+            "url": "https://finance.yahoo.com/news/intel-ceo-gelsinger-retires-zinsner-134827727.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/wl9M.vxrBOcQuG5oX7cwWw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/47f700287b5943e006ad2002e77b8f98",
+            "publishedAt": "2024-12-02T13:48:27Z",
+            "content": "Intel CEO CEO Pat Gelsinger has retired, with David Zinsner and Michelle Johnston Holthaus named as interim Co-CEOs.\r\nGelsinger, whose career has spanned more than 40 years, also stepped down from th\u2026 [+1956 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Malcolm Owen)",
+            "title": "Apple considers using Amazon chips to train future Apple Intelligence models",
+            "description": "Apple is using chips sourced from Amazon Web Services to handle searches, and it may also use them to pre-train Apple Intelligence AI models.Apple Intelligence features may get trained with Amazon AI chipsIt is common knowledge that large companies like Apple\u2026",
+            "url": "https://appleinsider.com/articles/24/12/03/apple-considers-using-amazon-chips-to-train-future-apple-intelligence-models",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/61936-128256-aws-xl.jpg",
+            "publishedAt": "2024-12-03T21:28:47Z",
+            "content": "Apple is using chips sourced from Amazon Web Services to handle searches, and it may also use them to pre-train Apple Intelligence AI models. \r\nIt is common knowledge that large companies like Apple \u2026 [+3501 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher)",
+            "title": "Apple wants faster RAM in the iPhone to help speed up Apple Intelligence",
+            "description": "Apple is working with Samsung to change how RAM is packaged for the iPhone, with the aim of widening the bandwidth to help in AI tasks.Apple Intelligence on an iPhone will benefit from faster memoryWhile most smartphones have their RAM on the same package as \u2026",
+            "url": "https://appleinsider.com/articles/24/12/05/apple-wants-faster-ram-in-the-iphone-to-help-speed-up-apple-intelligence",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/61245-126450-000-lede-Apple-Intelligence-xl.jpg",
+            "publishedAt": "2024-12-05T15:52:14Z",
+            "content": "Apple is working with Samsung to change how RAM is packaged for the iPhone, with the aim of widening the bandwidth to help in AI tasks.\r\nWhile most smartphones have their RAM on the same package as t\u2026 [+1677 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Wesley Hilliard)",
+            "title": "Rumor roundup: iPhone SE 4 could be a low-priced Apple Intelligence powerhouse",
+            "description": "Apple could finally be ready to reveal iPhone SE 4 in early 2025, and it may be the lowest-priced iPhone with access to Apple Intelligence. Here's what's rumored to be arriving soon.iPhone SE 4 could look like an iPhone 14 with only one rear cameraiPhone SE w\u2026",
+            "url": "https://appleinsider.com/articles/24/12/05/rumor-roundup-iphone-se-4-could-be-a-low-priced-apple-intelligence-powerhouse",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/61935-128267-iPhone-SE-4-camera-xl.jpg",
+            "publishedAt": "2024-12-05T13:43:36Z",
+            "content": "Apple could finally be ready to reveal iPhone SE 4 in early 2025, and it may be the lowest-priced iPhone with access to Apple Intelligence. Here's what's rumored to be arriving soon.\r\niPhone SE was l\u2026 [+4873 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Wesley Hilliard)",
+            "title": "M4 MacBook Air to iPhone SE -- What to expect from Apple in early 2025",
+            "description": "Apple is set to have a packed spring with an AirTag refresh, the AI-powered Home Hub, an M4 MacBook Air, iPhone SE 4, iPad 11, and possibly more. Here's what to expect.Apple's early 2025 is packed with possible product announcementsRumor season never ends, th\u2026",
+            "url": "https://appleinsider.com/articles/24/12/04/m4-macbook-air-to-iphone-se----what-to-expect-from-apple-in-early-2025",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/61925-128236-IMG_1397-xl.jpg",
+            "publishedAt": "2024-12-04T13:00:05Z",
+            "content": "Apple is set to have a packed spring with an AirTag refresh, the AI-powered Home Hub, an M4 MacBook Air, iPhone SE 4, iPad 11, and possibly more. Here's what to expect.\r\nRumor season never ends, thou\u2026 [+9379 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yanko Design"
+            },
+            "author": "Sarang Sheth",
+            "title": "Nothing Fold (1) Could Launch In 2025, Boosting the Folding Phone Market before a Folding iPhone",
+            "description": "Nothing Fold (1) Could Launch In 2025, Boosting the Folding Phone Market before a Folding iPhoneMeet the Nothing Fold (1), a new chapter for the company that brought us the Phone (1), Phone (2), and Phone (2a), disrupting the smartphone...",
+            "url": "https://www.yankodesign.com/2024/12/08/nothing-fold-1-could-launch-in-2025-boosting-the-folding-phone-market-before-a-folding-iphone/",
+            "urlToImage": "https://www.yankodesign.com/images/design_news/2024/12/a-nothing-folding-phone-will-fix-the-dying-foldables-industry-more-than-a-folding-iphone/nothing_fold_1_1.jpg",
+            "publishedAt": "2024-12-08T12:40:05Z",
+            "content": "Meet the Nothing Fold (1), a new chapter for the company that brought us the Phone (1), Phone (2), and Phone (2a), disrupting the smartphone landscape.\r\nThe London-based startup is in a uniquely adva\u2026 [+4593 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "sean.endicott@futurenet.com (Sean Endicott)",
+            "title": "We've reviewed a lot of laptops and this powerful AMD AI PC is a better bargain than a Surface Laptop or anything Samsung has to offer",
+            "description": "The HP OmniBook Ultra delivers excellent performance and battery life at a more affordable price than its competitors.",
+            "url": "https://www.windowscentral.com/hardware/laptops/weve-reviewed-a-lot-of-laptops-and-this-powerful-amd-ai-pc-is-a-better-bargain-than-a-surface-laptop-or-anything-samsung-has-to-offer",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Lq8v7rpHiptF9bBL9MKAx7-1200-80.jpg",
+            "publishedAt": "2024-12-02T18:29:00Z",
+            "content": "Cyber Monday isn\u2019t just about massive discounts \u2014 it\u2019s about finding the best value. That involves more than finding the biggest discounts. To get the most for your money, you need to pick a device t\u2026 [+2728 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "c.cale.hunt@gmail.com (Cale Hunt)",
+            "title": "This mini PC is the first I've seen with a discrete NPU for dedicated AI tasks. There's just one problem.",
+            "description": "Lenovo's ThinkCentre neo Ultra mini PC has a discrete NPU for AI acceleration, but I'm having a hard time finding where and when it actually benefits the system. Turns out, it can't actually be used without a \"future software update.\"",
+            "url": "https://www.windowscentral.com/hardware/computers-desktops/lenovo-thinkcentre-neo-ultra-discrete-npu",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/8nLe89yj9DRjruGQWFB97N-1200-80.jpg",
+            "publishedAt": "2024-12-06T11:54:25Z",
+            "content": "This week, I've been busy putting Lenovo's ThinkCentre neo Ultra mini PC to the test. It's a sleek, powerful, and compact desktop that I'll have a full review to check out in the next couple of days.\u2026 [+8451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "jez@windowscentral.com (Jez Corden)",
+            "title": "The new XREAL AR glasses are what Microsoft HoloLens should've been: on-board spatial computing takes the new 'XREAL AR One' and 'One Pro' to the next level",
+            "description": "XREAL takes augmented reality to the next level with its new XREAL One and One Pro glasses, giving users an onboard augmented reality experience for the first time.",
+            "url": "https://www.windowscentral.com/gaming/virtual-reality/the-new-xreal-ar-glasses-are-what-microsoft-hololens-shouldve-been-on-board-spatial-computing-takes-the-new-xreal-ar-one-and-one-pro-to-the-next-level",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/4KtL4PKY4sLhjC4HHRYw3K-1200-80.jpg",
+            "publishedAt": "2024-12-04T17:25:01Z",
+            "content": "What you need to know\r\n<ul><li>XREAL is an augmented reality glasses company that is at the forefront of miniaturising the tech.</li><li>Up until now, XREAL relied on external computing solutions to \u2026 [+4556 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "kevinokemwa@outlook.com (Kevin Okemwa)",
+            "title": "Microsoft makes its stringent TPM 2.0 Windows 11 upgrade requirement \"non-negotiable\" \u2014 potentially leading to the single biggest jump in junked and unsupported Windows 10 PCs",
+            "description": "According to Microsoft, TPM 2.0 is \"a necessity for a secure and future-proof Windows 11,\" making it harder for users with unsupported hardware to upgrade.",
+            "url": "https://www.windowscentral.com/software-apps/windows-11/microsoft-makes-tpm-2-0-upgrade-requirement-non-negotiable",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hVSveHde5bMavcoAzHmDNc-1200-80.jpg",
+            "publishedAt": "2024-12-04T14:28:08Z",
+            "content": "What you need to know\r\n<ul><li>Microsoft recently published a new blog post indicating that its stringent TPM 2.0 system requirement for upgrading to Windows 11 is non-negotiable.</li><li>The company\u2026 [+3742 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "richard.devine@futurenet.com (Richard Devine)",
+            "title": "I can't believe you can already get a Snapdragon-powered Copilot+ PC for under $500 on Cyber Monday \u2014 this deal is so good I'm angry I can't get one!",
+            "description": "The Snapdragon X Plus version of the ASUS VivoBook S 15 is (barely) under $500 now in this crazy Cyber Monday sale, and I wish I was in the U.S. so I could get one.",
+            "url": "https://www.windowscentral.com/hardware/laptops/i-cant-believe-you-can-already-get-a-snapdragon-powered-copilot-pc-for-under-500-on-cyber-monday",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qH3g9aWGjWzxkY5Pj5iTvA-1200-80.jpg",
+            "publishedAt": "2024-12-01T18:56:15Z",
+            "content": "The ASUS VivoBook S 15 was the first Copilot+ PC we got our hands on, and to this day it remains one of the very best. There's now a more affordable version with the Snapdragon X Plus inside, too, wh\u2026 [+3777 chars]"
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": "Matthew Sparkes",
+            "title": "DeepMind AI predicts weather more accurately than existing forecasts",
+            "description": "The latest weather forecasting AI model from Google DeepMind can beat the leading providers more than 97 per cent of the time, and it is quicker and cheaper to run",
+            "url": "https://www.newscientist.com/article/2458465-deepmind-ai-predicts-weather-more-accurately-than-existing-forecasts/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/12/03142925/SEI_231789094.jpg",
+            "publishedAt": "2024-12-04T16:00:48Z",
+            "content": "Today\u2019s weather forecasts rely on simulations that require a lot of computing power\r\nPetrovich9/Getty Images/iStockphoto\r\nGoogle DeepMind claims its latest weather forecasting AI can make predictions\u2026 [+5067 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Tobias Mann",
+            "title": "RISC-V's AI champion just scored $693M cash infusion",
+            "description": "Architecture may be good for more than cut-rate SoCs and high-volume microcontrollers after all\nRISC-V chip designer Tenstorrent has won $693 million of investment \u2013 an endorsement of its plans to use the permissively licensed instruction set architecture for\u2026",
+            "url": "https://www.theregister.com/2024/12/04/riscv_ai_champion_investment/",
+            "urlToImage": "https://regmedia.co.uk/2024/08/27/tenstorrent_galaxy.jpg",
+            "publishedAt": "2024-12-04T04:01:11Z",
+            "content": "RISC-V chip designer Tenstorrent has won $693 million of investment an endorsement of its plans to use the permissively licensed instruction set architecture for workloads like AI.\r\nThe startup annou\u2026 [+3290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Simon Sharwood",
+            "title": "China encourages local orgs to seek alternatives to US silicon",
+            "description": "Which could be in short supply as Beijing bans rare earth exports\nFour of China's top industry bodies have published advice suggesting members source fewer semiconductors from US silicon slingers, because supply chain issues caused by sanctions mean they are \u2026",
+            "url": "https://www.theregister.com/2024/12/05/china_stop_buying_us_chips_advice/",
+            "urlToImage": "https://regmedia.co.uk/2022/05/05/shuttertsotck_chip_ban_global.jpg",
+            "publishedAt": "2024-12-05T05:37:59Z",
+            "content": "Four of China's top industry bodies have published advice suggesting members source fewer semiconductors from US silicon slingers, because supply chain issues caused by sanctions mean they are \"no lo\u2026 [+2600 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Thomas Claburn",
+            "title": "AWS says AI could disrupt everything \u2013 and hopes it will do just that to Windows",
+            "description": "Cloud colossus reckons it can clarify hallucinations, get your apps off Microsoft's OS at pleasing speed\nre:Invent Amazon Web Services CEO Matt Garman opened the cloud computing service's 13th annual re:Invent conference by observing: \"Generative AI has the p\u2026",
+            "url": "https://www.theregister.com/2024/12/04/amazon_leans_into_ai/",
+            "urlToImage": "https://regmedia.co.uk/2021/01/05/aws.jpg",
+            "publishedAt": "2024-12-04T01:14:11Z",
+            "content": "re:Invent Amazon Web Services CEO Matt Garman opened the cloud computing service's 13th annual re:Invent conference by observing: \"Generative AI has the potential to disrupt every single industry out\u2026 [+10583 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
             },
             "author": null,
-            "title": "How Huawei and other Chinese tech companies are inundating workers in Taiwan, Europe, and Silicon Valley with job offers in areas like advanced chips and AI (Wall Street Journal)",
-            "description": "Wall Street Journal:\nHow Huawei and other Chinese tech companies are inundating workers in Taiwan, Europe, and Silicon Valley with job offers in areas like advanced chips and AI\u00a0 \u2014\u00a0 Huawei offered triple pay to lure staff from a key supplier of chip-making pa\u2026",
-            "url": "https://www.techmeme.com/241128/p12",
-            "urlToImage": "https://images.wsj.net/im-60336674/social",
-            "publishedAt": "2024-11-28T13:35:01Z",
-            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 8:35\u00a0AM\u00a0ET, November\u00a028,\u00a02024.\r\nThe most current version of the site as always is available at our home page.\r\nTo \u2026 [+187 chars]"
+            "title": "Innovative robot navigation inspired by brain function boosts efficiency and accuracy",
+            "description": "A research team has taken inspiration from the brains of insects and animals for more energy-efficient robotic navigation.",
+            "url": "https://www.sciencedaily.com/releases/2024/12/241202124241.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2024-12-02T17:42:41Z",
+            "content": "A QUT research team has taken inspiration from the brains of insects and animals for more energy-efficient robotic navigation.Led by postdoctoral research fellow Somayeh Hussaini, alongside Professor\u2026 [+2359 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MIT Technology Review"
+                "name": "Golem.de"
             },
-            "author": "Rhiannon Williams",
-            "title": "The Download: uncertainty over NASA\u2019s moon rocket, and what\u2019s next for nuclear",
-            "description": "This is today\u2019s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. What\u2019s next for NASA\u2019s giant moon rocket? NASA\u2019s huge lunar rocket, the Space Launch System (SLS), might be in trouble. A\u2026",
-            "url": "https://www.technologyreview.com/2024/11/28/1107545/the-download-uncertainty-over-nasas-moon-rocket-and-whats-next-for-nuclear/",
-            "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2024/11/241122_NASA_SLS_hero.jpg?resize=1200,600",
-            "publishedAt": "2024-11-28T13:10:00Z",
-            "content": "2The FTC is probing MicrosoftIts a wide-ranging antitrust investigation into its cloud computing, AI and security arms. (NYT $)+ The FTC has been preparing for this for a full year. (WP $)+ Its notab\u2026 [+1876 chars]"
+            "author": "Oliver Nickel",
+            "title": "Spielekonsolen: MSI bringt neue Handhelds mit Intel-Prozessor",
+            "description": "Die Claw 8 und Claw 7 AI+ sollen vor allem mehr Leistung bringen. Es wird sich zeigen, wie das mit einem Intel-Chip funktioniert. (MSI, Windows)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fspielekonsolen-msi-bringt-neue-handhelds-mit-intel-prozessor-2412-191401.html&referer=https%3A%2F%2Ft.co%2Fe0feac716d",
+            "urlToImage": null,
+            "publishedAt": "2024-12-04T09:35:01Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat\u2026 [+607 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "GSMArena.com"
+                "name": "Xataka Android"
             },
-            "author": "Yordan",
-            "title": "Samsung reshuffles executives amidst chip market challenges",
-            "description": "Samsung Electronics made some changes in its leadership in an attempt to become more competitive in the AI chip market. The company announced that it promoted Semiconductor chief Jun Young-hyun to co-CEO to better manage the memory chip business.\n\n\n\nHan Jin-m\u2026",
-            "url": "https://www.gsmarena.com/samsung_reshuffles_head_executives_amidst_chip_crisis-news-65512.php",
-            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/11/samsung-new-leadership/-952x498w6/gsmarena_001.jpg",
-            "publishedAt": "2024-11-27T12:13:02Z",
-            "content": "Samsung Electronics made some changes in its leadership in an attempt to become more competitive in the AI chip market. The company announced that it promoted Semiconductor chief Jun Young-hyun to co\u2026 [+836 chars]"
+            "author": "Ana Su\u00e1rez",
+            "title": "Apple vuelve a pedir ayuda a Samsung y esta vez no tiene nada que ver con las pantallas OLED",
+            "description": "La inteligencia artificial est\u00e1 siendo la baza por la que est\u00e1n apostando los grandes fabricantes de smartphones del mercado. As\u00ed ha sido con Galaxy AI, que lleg\u00f3 de la mano de la serie Galaxy S24 de Samsung, y tambi\u00e9n lo estamos viendo con Apple Intelligence\u2026",
+            "url": "https://www.xatakandroid.com/territorio-ese/apple-vuelve-a-pedir-ayuda-a-samsung-esta-vez-no-tiene-nada-que-ver-pantallas-oled",
+            "urlToImage": "https://i.blogs.es/6bcf29/_c49f469f-c253-4cfb-94a6-298c7c6677c9/840_560.jpeg",
+            "publishedAt": "2024-12-05T08:30:24Z",
+            "content": "La inteligencia artificial est\u00e1 siendo la baza por la que est\u00e1n apostando los grandes fabricantes de smartphones del mercado. As\u00ed ha sido con Galaxy AI, que lleg\u00f3 de la mano de la serie Galaxy S24 de\u2026 [+2400 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "GSMArena.com"
+                "name": "Android Authority"
             },
-            "author": "Yordan",
-            "title": "Honor 300 Ultra is real and arriving next week",
-            "description": "Honor 300 Ultra is real and will arrive on December 2, alongside the Honor 300 and Honor 300 Pro. It will have a periscope lens and two color versions, called Flower White and Charcoal Black, and the company says the phone will have \u201cAI travel photography\u201d ca\u2026",
-            "url": "https://www.gsmarena.com/honor_300_ultra_is_real_and_arriving_next_week-news-65524.php",
-            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/11/honor-300-ultra-confirmed/-952x498w6/gsmarena_001.jpg",
-            "publishedAt": "2024-11-28T08:10:01Z",
-            "content": "Honor 300 Ultra is real and will arrive on December 2, alongside the Honor 300 and Honor 300 Pro. It will have a periscope lens and two color versions, called Flower White and Charcoal Black, and the\u2026 [+886 chars]"
+            "author": "Aamir Siddiqui",
+            "title": "Samsung\u2019s next \u2018one more thing\u2019 for Galaxy Unpacked could be its XR glasses",
+            "description": "Samsung is rumored to unveil its XR glasses at the Galaxy S25 launch event in January 2025, with an official launch expected later in 2025.",
+            "url": "https://www.androidauthority.com/samsung-xr-glasses-galaxy-s25-launch-3504962/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/03/smart-glasses-from-above-scaled.jpg",
+            "publishedAt": "2024-12-03T11:59:10Z",
+            "content": "<ul><li>Samsung may reveal a photo or video of a prototype of its XR glasses at the Galaxy S25 launch event.</li><li>The glasses are rumored to be lightweight and feature AR capabilities.</li><li>Lea\u2026 [+2177 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "Robert Triggs",
+            "title": "Google\u2019s extended Pixel updates prove just how important Tensor is",
+            "description": "While it might not top the benchmark charts, Google's Tensor chipset has allowed it to lease more life into its older flagships smartphones.",
+            "url": "https://www.androidauthority.com/extended-pixel-updates-tensor-3506437/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/04/pixel-6a-vs-7-vs-7-pro-1-scaled.jpg",
+            "publishedAt": "2024-12-08T17:00:36Z",
+            "content": "Anyone whos peered behind the scenes at Tensors development issues might be pretty down on Googles custom chipset project, but going its own way has scored the Pixel series a few notable wins. Solid \u2026 [+5851 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "Hadlee Simons",
+            "title": "From 400MP telephoto shots to blur-free snaps, this mobile brand is bringing the heat",
+            "description": "TECNO has announced two new camera technologies today, and these solutions could address blurry images and annoying zoom controls.",
+            "url": "https://www.androidauthority.com/tecno-blurry-photos-camera-zoom-technologies-3506328/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/10/TECNO-logo-2023-2.jpg",
+            "publishedAt": "2024-12-06T12:38:03Z",
+            "content": "<ul><li>TECNO has announced two new camera technologies for smartphones.</li><li>EVS Dynamic Snapshot uses an event-based camera sensor to capture images without blur.</li><li>The firms Tap Any Zoom \u2026 [+4313 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "Apple's Second 5G Modem for iPhone 18 Pro and iPad Pro Expected to Support mmWave",
+            "description": "As we wrote about earlier today, Bloomberg's Mark Gurman expects Apple's first 5G modem to debut in a new iPhone SE, an ultra-thin iPhone 17, and low-end iPads in 2025. Towards the end of the report, he also outlined Apple's modem plans for devices launching \u2026",
+            "url": "https://www.macrumors.com/2024/12/06/apples-second-5g-modem-said-to-support-mmwave/",
+            "urlToImage": "https://images.macrumors.com/t/IHL9bVLl1s8V8hr6AaCmZcetTsc=/2500x/article-new/2023/02/5G-Modem-Feature-Blue.jpg",
+            "publishedAt": "2024-12-06T17:55:32Z",
+            "content": "As we wrote about earlier today, Bloomberg's Mark Gurman expects Apple's first 5G modem to debut in a new iPhone SE, an ultra-thin iPhone 17, and low-end iPads in 2025. Towards the end of the report,\u2026 [+1456 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "Andr\u00e9 Westphal",
+            "title": "Intel: CEO Pat Gelsinger ist mit sofortiger Wirkung ausgeschieden",
+            "description": "Bei Intel dreht sich das F\u00fchrungskarussell recht unvermittelt: Der bisherige CEO Pat Gelsinger ist bereits am 1. Dezember in den Ruhestand gegangen und hat sich auch aus dem Vorstand zur\u00fcckgezogen. An seiner Stelle sitzen ab sofort als Co-CEOs David Zinsner..\u2026",
+            "url": "https://stadt-bremerhaven.de/intel-ceo-pat-gelsinger-ist-mit-sofortiger-wirkung-ausgeschieden/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2024/12/Intel-Pat-Gelsinger.jpg",
+            "publishedAt": "2024-12-02T15:00:06Z",
+            "content": "Effective Dec. 1, 2024, Intel Corporation CEO Pat Gelsinger has retired from the company and stepped down from the board of directors. (Credit: Intel Corporation)\r\nBei Intel dreht sich das F\u00fchrungska\u2026 [+2036 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Britney Nguyen",
+            "title": "Biden is escalating the U.S. AI chip war with China",
+            "description": "The U.S. is continuing its efforts to curb China\u2019s advanced chipmaking ambitions with new trade restrictions.Read more...",
+            "url": "https://qz.com/biden-administration-escalate-us-china-ai-chip-trade-1851711001",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b403b807c167c60cb06184330334a4d6.jpg",
+            "publishedAt": "2024-12-02T14:24:00Z",
+            "content": "In This Story\r\nThe U.S. is continuing its efforts to curb Chinas advanced chipmaking ambitions with new trade restrictions.\r\nThe Department of Commerce introduced more restrictions on the sale of hig\u2026 [+2015 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Britney Nguyen",
+            "title": "Amazon's next-generation AI training chip is here",
+            "description": "Amazon Web Services (AMZN) unveiled its next-generation artificial intelligence training chip that it says is faster and expected to use less energy.Read more...",
+            "url": "https://qz.com/amazon-ai-training-chip-trainium-aws-cloud-computing-1851712037",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e92ffff9d7ce52cbd4b4822908f83b14.jpg",
+            "publishedAt": "2024-12-03T16:39:00Z",
+            "content": "In This Story\r\nAmazon Web Services (AMZN+0.51%\r\n) unveiled its next-generation artificial intelligence training chip that it says is faster and expected to use less energy.\r\nTrainium3 is the first ch\u2026 [+2186 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Rocio Fabbro",
+            "title": "Jeff Bezos is betting millions on a Nvidia rival",
+            "description": "Billionaire Jeff Bezos is throwing his weight behind a computing company that\u2019s coming for Nvidia\u2019s (NVDA) dominance of the artificial intelligence chip market.Read more...",
+            "url": "https://qz.com/jeff-bezos-expeditions-tenstorrent-nvidia-ai-chips-1851710966",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/08c71c9b7130916bbfca29752d08723f.jpg",
+            "publishedAt": "2024-12-02T13:37:00Z",
+            "content": "In This Story\r\nBillionaire Jeff Bezos is throwing his weight behind a computing company thats coming for Nvidias (NVDA+2.15%\r\n) dominance of the artificial intelligence chip market.\r\nBezos Expedition\u2026 [+2972 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Britney Nguyen",
+            "title": "The 'smartest' ChatGPT, Bezos bets on a Nvidia rival, and Amazon's new chip: AI news roundup",
+            "description": "OpenAI kicked off its \u201c12 Days of OpenAI\u201d on Thursday by announcing the full version of its o1 model which it called the \u201csmartest model in the world.\u201dRead more...",
+            "url": "https://qz.com/chatgpt-meta-nuclear-power-amazon-jeff-bezos-nvidia-ai-1851714836",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3f6acf329d51cd3237c31443d2c39e96.jpg",
+            "publishedAt": "2024-12-06T10:00:00Z",
+            "content": "OpenAI kicked off its 12 Days of OpenAI on Thursday by announcing the full version of its o1 model which it called the smartest model in the world.\r\nThe artificial intelligence startup also announced\u2026 [+238 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "William Gavin",
+            "title": "Musk's DOGE allies, Bezos and Altman stand tall, and Biden's AI chip war isn't over: Politics news roundup",
+            "description": "Elon Musk is finding some tentative allies on Capitol Hill as he looks to advance his cost-cutting agenda. But his growing influence \u2014 and penchant for revenge \u2014 apparently isn\u2019t scaring Amazon (AMZN) founder and Blue Origin owner Jeff Bezos or OpenAI CEO Sam\u2026",
+            "url": "https://qz.com/musk-doge-bezos-altman-trump-biden-ai-china-1851714874",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e98919ca6d934132b481fa46267f053c.jpg",
+            "publishedAt": "2024-12-06T10:00:00Z",
+            "content": "Elon Musk is finding some tentative allies on Capitol Hill as he looks to advance his cost-cutting agenda. But his growing influence and penchant for revenge apparently isnt scaring Amazon (AMZN) fou\u2026 [+700 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Rocio Fabbro",
+            "title": "Meta is the latest tech giant to turn to nuclear to power its AI ambitions",
+            "description": "Meta Platforms (META) is on the hunt for nuclear energy partners to power its artificial intelligence goals.Read more...",
+            "url": "https://qz.com/meta-platforms-nuclear-energy-ai-power-1851713076",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/006bc8ee8f6b6a35084cb20806601d84.jpg",
+            "publishedAt": "2024-12-04T13:15:00Z",
+            "content": "In This Story\r\nMeta Platforms (META+3.50%\r\n) is on the hunt for nuclear energy partners to power its artificial intelligence goals.\r\nThe company put out a request for proposals Tuesday for nuclear en\u2026 [+3013 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Britney Nguyen",
+            "title": "China is banning exports of rare minerals to the U.S. in a trade war tit-for-tat",
+            "description": "The move came after the Biden administration introduced more restrictions on the sale of high-bandwidth memory and chipmaking tools to China",
+            "url": "https://qz.com/china-ban-exports-rare-minerals-military-ai-trade-war-1851711947",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/cafde75c96c8cea1f59955effb1a99c4.jpg",
+            "publishedAt": "2024-12-03T13:21:58Z",
+            "content": "China is pushing back at new U.S. trade restrictions by banning the export of some rare minerals to the U.S.\r\nThe country is prohibiting the export of dual-use items such as gallium, germanium, antim\u2026 [+1909 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jane Lanhee Lee and Vlad Savov",
+            "title": "Bezos Backs AI Chipmaker Vying With Nvidia at $2.6 Billion Value",
+            "description": "(Bloomberg) -- Amazon.com Inc. founder Jeff Bezos joined Samsung in a $700 million bet on Tenstorrent, valuing the AI chip startup with ambitions of taking...",
+            "url": "https://finance.yahoo.com/news/bezos-backs-ai-chipmaker-vying-110000908.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BhuamoqSjJK6VBsPosRGSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTE-/https://media.zenfs.com/en/bloomberg_markets_842/053cf60ae9638cdcdb917ff730cfd319",
+            "publishedAt": "2024-12-02T11:00:00Z",
+            "content": "(Bloomberg) -- Amazon.com Inc. founder Jeff Bezos joined Samsung in a $700 million bet on Tenstorrent, valuing the AI chip startup with ambitions of taking on Nvidia Corp. at about $2.6 billion.\r\nMos\u2026 [+3563 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Matt Day",
+            "title": "Amazon to Provide\u00a0Anthropic Chip Clusters\u00a0With Five Times Power",
+            "description": "(Bloomberg) -- Amazon.com Inc. is ramping up its artificial intelligence offerings, rolling out powerful new chip arrays and a large language model it says...",
+            "url": "https://finance.yahoo.com/news/amazon-anthropic-chip-clusters-five-183823941.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oGTCXvIrJ10XuBfdbXTLrQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/d2e90cfd5e6df0a7a77e968eec78d682",
+            "publishedAt": "2024-12-03T18:38:23Z",
+            "content": "(Bloomberg) -- Amazon.com Inc. is ramping up its artificial intelligence offerings, rolling out powerful new chip arrays and a large language model it says can compete with leading rivals.\r\nMost Read\u2026 [+2844 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Axiado claims its chip can prevent cyberattacks",
+            "description": "Startup Axiado is a proponent of both, having built a business out of designing \"security\" chips and apps to leverage them.  Founded in 2017, Axiado makes...",
+            "url": "https://techcrunch.com/2024/12/04/axiado-claims-its-chip-can-prevent-cyberattacks/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dBtYixqJJ8xxT8gie8H3mQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_350/bda61ec833257783a9a6f98e85a086ef",
+            "publishedAt": "2024-12-04T14:00:00Z",
+            "content": "Cyberattacks are on the rise. In Q1 2024, organizations experienced an average of around 1,300 attacks per week. The cost of attacks is climbing, as well. Per Statista, cybercrime-related losses coul\u2026 [+3728 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Mackenzie Hawkins",
+            "title": "US Tightens Curbs on China\u2019s Access to AI Memory and Chips Tools",
+            "description": "(Bloomberg) -- The Biden administration unveiled new restrictions on China\u2019s access to vital components for chips and AI, escalating a campaign to contain...",
+            "url": "https://finance.yahoo.com/news/us-tightens-curbs-china-access-100000937.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vi1lwM5WXqk1EyOyHQJnEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/c51c83519024c56fffbc2d8238468f5e",
+            "publishedAt": "2024-12-02T10:00:00Z",
+            "content": "(Bloomberg) -- The Biden administration unveiled new restrictions on Chinas access to vital components for chips and AI, escalating a campaign to contain Beijings technological ambitions.\r\nMost Read \u2026 [+4490 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "US unleashes another crackdown on China\u2019s chip industry",
+            "description": "Move is President Biden's administration's last major effort to stymie China's ability to access and produce chips.",
+            "url": "https://www.aljazeera.com/economy/2024/12/2/us-unleashes-another-crackdown-on-chinas-chip-industry",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/01/2022-02-25T122323Z_831561747_RC2ZQS98CQ5P_RTRMADP_3_UKRAINE-CRISIS-CHIPS.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-12-02T21:54:41Z",
+            "content": "The United States has launched its third crackdown in three years on Chinas semiconductor industry, curbing exports to 140 companies, including chip equipment maker Naura Technology Group, among othe\u2026 [+6010 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Shola Lawal",
+            "title": "Tech wars: Why has China banned exports of rare minerals to US?",
+            "description": "The two countries have imposed tit-for-tat export restrictions for months to hamper technological and AI development.",
+            "url": "https://www.aljazeera.com/news/2024/12/4/tech-wars-why-has-china-banned-exports-of-rare-minerals-to-us",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/AFP__20240326__34MC2GF__v4__HighRes__ChinaUsSemicondutorTrade-1733314878.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-12-04T14:41:49Z",
+            "content": "China has banned the export of rare but critical earth minerals used in the manufacture of important semiconductors to the United States in the latest move in an ongoing tech war between the two supe\u2026 [+8381 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Intel CEO Pat Gelsinger forced out in surprise move",
+            "description": "The departure of Gelsinger, whose career spanned more than 40 years, underscores the turmoil at Intel.",
+            "url": "https://www.aljazeera.com/economy/2024/12/2/intel-ceo-pat-gelsinger-forced-out-in-surprise-move",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/08/AP24214481541483-1722561041.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-12-02T23:08:25Z",
+            "content": "Intel chief executive Pat Gelsinger has been forced out less than four years after taking the helm of the company, handing control to two lieutenants as the faltering United States chipmaking icon se\u2026 [+3901 chars]"
         },
         {
             "source": {
@@ -606,701 +1230,77 @@
                 "name": "GSMArena.com"
             },
             "author": "Peter",
-            "title": "Deals: the best Samsung, Google and Amazon tablet deals from Black Friday",
-            "description": "In a separate post we covered smartphone deals, here we will focus on tablets. These will be mostly Android as Apple isn\u2019t really taking part in the Black Friday sales, but there are a couple of Windows tablets in here as well.\n\nThe Samsung Galaxy Tab S10+ la\u2026",
-            "url": "https://www.gsmarena.com/deals_the_best_samsung_google_and_amazon_tablet_deals_from_black_friday-news-65546.php",
-            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/11/weekly-deals-29/-952x498w6/gsmarena_0000.jpg",
-            "publishedAt": "2024-11-29T15:26:02Z",
-            "content": "In a separate post we covered smartphone deals, here we will focus on tablets. These will be mostly Android as Apple isnt really taking part in the Black Friday sales, but there are a couple of Windo\u2026 [+4052 chars]"
+            "title": "Intel launches Battlemage GPUs with $250 Arc B580 and $220 B570",
+            "description": "Battlemage is here \u2013 Intel just announced the first two cards that use its new GPU architecture. Since Intel uses letters instead of numbers to denote generation, say \u201chello\u201d to the Intel Arc B580 and B570.\n\nThe B580 is priced at $250, the B570 is a bit cheap\u2026",
+            "url": "https://www.gsmarena.com/intel_launches_battlemage_gpus_with_250_arc_b580_and_220_b570-news-65592.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/12/intel-first-battlemage-gpus-announced/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2024-12-03T20:31:02Z",
+            "content": "Battlemage is here Intel just announced the first two cards that use its new GPU architecture. Since Intel uses letters instead of numbers to denote generation, say hello to the Intel Arc B580 and B5\u2026 [+2351 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Uol.com.br"
+                "name": "GSMArena.com"
             },
-            "author": "Vinicius Marques",
-            "title": "Samsung: v\u00eddeo vazado revela detalhes do Galaxy S25",
-            "description": "Smartphone deve ser apresentado em janeiro de 2025 durante o evento Galaxy Unpacked; confira os detalhes que j\u00e1 vazaram\nThe post Samsung: v\u00eddeo vazado revela detalhes do Galaxy S25 appeared first on Giz Brasil.",
-            "url": "https://gizmodo.uol.com.br/samsung-video-vazado-revela-detalhes-do-galaxy-s25/",
-            "urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2024/11/zana-latif-aVsbUg8UPvg-unsplash-2-e1732709324438.jpg",
-            "publishedAt": "2024-11-27T14:21:05Z",
-            "content": "Faltando poucas semanas para o evento Galaxy Unpacked, um novo vazamento revelou detalhes do design do aguardado Samsung Galaxy S25. Um v\u00eddeo publicado no Reddit n\u00e3o chega a mostrar totalmente o o co\u2026 [+1923 chars]"
+            "author": "Ivan",
+            "title": "Honor 300 and 300 Pro official with 50MP portrait cameras, 5,300mAh batteries",
+            "description": "Honor's 300 series is official with the 300, 300 Pro, and 300 Ultra, all with emphasis on the portraits. All three phones feature 50MP main cameras and, more importantly, a 50MP f/2.1 selfie camera.\n\nThe Honor 300 Pro uses a 6.78-inch 2700x1224px 120Hz OLED d\u2026",
+            "url": "https://www.gsmarena.com/honor_300_and_300_pro_official_with_50mp_portrait_cameras_5300mah_batteries-news-65564.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/12/honor-300-300-pro/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2024-12-02T13:21:01Z",
+            "content": "Honor's 300 series is official with the 300, 300 Pro, and 300 Ultra, all with emphasis on the portraits. All three phones feature 50MP main cameras and, more importantly, a 50MP f/2.1 selfie camera.\r\u2026 [+1749 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Smartworld.it"
+                "name": "GSMArena.com"
             },
-            "author": "Alessandro Nodari",
-            "title": "I nuovi Mate 70 e Mate X6 sono l'alba di un futuro senza Android per Huawei. Sar\u00e0 la svolta?",
-            "description": "Huawei lancia la serie Mate 70 e il pieghevole Mate X6: scopriamo le caratteristiche e il nuovo sistema operativo HarmonyOS Next, non compatibile con Android\r\nL'articolo I nuovi Mate 70 e Mate X6 sono l'alba di un futuro senza Android per Huawei. Sar\u00e0 la svol\u2026",
-            "url": "https://www.smartworld.it/news/huawei-mate-70-harmonyos-next-senza-android.html",
-            "urlToImage": "https://www.smartworld.it/images/2024/11/27/huawei-mate-70-rs_1200x675.jpg",
-            "publishedAt": "2024-11-27T08:44:00Z",
-            "content": "Sull'onda di una nuova rinascita (almeno in Cina), Huawei ha appena presentato la nuova serie Mate 70 e il pieghevole Mate X6, che a scelta dell'utente possono montare il nuovo\u00a0HarmonyOS Next 5.0, no\u2026 [+12895 chars]"
+            "author": "Prasad",
+            "title": "Apple Mac mini 2024 (M4) review",
+            "description": "The Mac mini has been an unassuming yet stable member of Apple's desktop lineup of Macs for nearly two decades. It has always been the most accessible computer the company has offered and the bare bones nature was designed primarily to make people using Windo\u2026",
+            "url": "https://www.gsmarena.com/apple_mac_mini_2024_m4_review-news-65556.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/11/mac-mini-review/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2024-12-01T18:43:01Z",
+            "content": "The Mac mini has been an unassuming yet stable member of Apple's desktop lineup of Macs for nearly two decades. It has always been the most accessible computer the company has offered and the bare bo\u2026 [+36345 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New Atlas"
+                "name": "Canonrumors.com"
             },
-            "author": "Abhimanyu Ghoshal",
-            "title": "Singularity alert: AIs are already designing their own chips",
-            "description": "Human intelligence and our collective wisdom are already becoming limiting factors in the rise of AI. Indeed, the only smart move at this point seems to be letting AIs design their own future hardware, right down to the microchip level.Continue ReadingCategor\u2026",
-            "url": "https://newatlas.com/ai-humanoids/3-mind-blowing-ways-ai-chip-design-singularity/",
-            "urlToImage": "https://assets.newatlas.com/dims4/default/35fbd0f/2147483647/strip/true/crop/1200x630+0+23/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F88%2F46%2F26276849405f848f60fa0abbe40d%2Fai-not-only-assists-and-accelerates-chip-design-its-also-essential-to-building-the-processors-we-use-today.jpg&na.image_optimisation=0",
-            "publishedAt": "2024-11-30T11:03:00Z",
-            "content": "Human intelligence and our collective wisdom are already becoming limiting factors in the rise of AI. Indeed, the only smart move at this point seems to be letting AIs design their own future hardwar\u2026 [+14545 chars]"
+            "author": "Canon Rumors",
+            "title": "Apple 14\u2033 MacBook Pro (M4 Pro, Space Black) $1799 (Reg $1999)",
+            "description": "B&H Photo has the recently released Apple 14\u2033 MacBook Pro (M4 Pro, Space Black) for $1799 (Reg $1999) after an instant rebate. This deal likely won't last long. This is a pretty well equipped MacBook Pro and should serve most people well for a long time. Appl\u2026",
+            "url": "https://www.canonrumors.com/apple-14-macbook-pro-m4-pro-space-black-1799-reg-1999/",
+            "urlToImage": "https://www.canonrumors.com/wp-content/uploads/2024/12/macbookpro14header.jpg",
+            "publishedAt": "2024-12-04T08:17:27Z",
+            "content": "B&amp;H Photo has the recently released Apple 14\u2033 MacBook Pro (M4 Pro, Space Black) for $1799 (Reg $1999) after an instant rebate. This deal likely won't last long. This is a pretty well equipped Mac\u2026 [+1234 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New Atlas"
+                "name": "PCWorld"
             },
-            "author": "David Szondy",
-            "title": "Interview: Why diamonds may be a computer's best friend",
-            "description": "We recently sat down with Adam Khan of Diamond Quanta \u2013 the company that wants to replace the silicon chip with ones made from diamond. We discussed the reason for this glittering idea, the challenges it presents, and the implications of the technology.Contin\u2026",
-            "url": "https://newatlas.com/computers/interview-why-diamonds-computers-best-friend/",
-            "urlToImage": "https://assets.newatlas.com/dims4/default/b18c4f2/2147483647/strip/true/crop/2000x1050+0+38/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F3f%2Fae%2Fd028181347e290e981e116b15a5b%2Fdepositphotos-153753142-l.jpg&na.image_optimisation=0",
-            "publishedAt": "2024-11-30T16:03:00Z",
-            "content": "We recently sat down with Adam Khan of Diamond Quanta the company that wants to replace the silicon chip with ones made from diamond. We discussed the reason for this glittering idea, the challenges \u2026 [+8380 chars]"
+            "author": "Chris Hoffman",
+            "title": "Windows Copilot+ PCs aren\u2019t there yet: 8 must-change upgrades for 2025",
+            "description": "It seems like every new laptop lately is a \u201cWindows Copilot+ PC.\u201d With Intel\u2019s Lunar Lake and AMD\u2019s Ryzen AI 300 CPUs, AI-infused Copilot+ PCs have finally expanded into traditional x86 laptop territory. They aren\u2019t limited to just Arm-powered laptops with Qu\u2026",
+            "url": "https://www.pcworld.com/article/2526643/how-windows-copilot-plus-ai-pcs-need-to-change-2025.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2024/12/neues_ki_windows-1.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2024-12-03T11:30:00Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nIt seems like every \u2026 [+10833 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Tomshw.it"
+                "name": "PCWorld"
             },
-            "author": "Andrea Maiellano",
-            "title": "Un Gamer ha creato un PC handheld ultrawide usando parti rotte di vecchi laptop",
-            "description": "Un gamer, appassionato di DIY, ha creato un PC portatile da gioco, con uno schermo ultrawide, partendo dalla scheda madre di un laptop rotto. Marcin Plaza ha realizzato questo dispositivo insolito in...",
-            "url": "https://www.tomshw.it/hardware/gamer-crea-pc-portatile-ultrawide-fai-da-te-2024-11-28",
-            "urlToImage": "https://www.tomshw.it/storage/media/2024/11/42795/gaming-pc-broken-laptop.webp",
-            "publishedAt": "2024-11-28T17:02:13Z",
-            "content": "Un gamer, appassionato di DIY, ha creato un PC portatile da gioco, con uno schermo ultrawide, partendo dalla scheda madre di un laptop rotto. Marcin Plaza ha realizzato questo dispositivo insolito in\u2026 [+2045 chars]"
-        },
-        {
-            "source": {
-                "id": "el-mundo",
-                "name": "El Mundo"
-            },
-            "author": "BAZAR",
-            "title": "Black Friday 2024, el viernes de los grandes chollos: sigue aqu\u00ed las mejores ofertas de Amazon, Media Markt o El Corte Ingl\u00e9s: un Apple Watch muy rebajado, un patinete el\u00e9ctrico por 199 euros, un afilador de cuchillos superventas...",
-            "description": "Tecnolog\u00eda, deporte, moda, belleza, hogar y cocina, juguetes, consumibles... Hoy, viernes 29 de noviembre, comienza el d\u00eda oficial de Black Friday. Sigue aqu\u00ed las mejores ofertas, en directo\u00a0Leer",
-            "url": "https://www.elmundo.es/ofertas-regalos/black-friday/2024/11/29/6748461ee9cf4a37418b4592.html",
-            "urlToImage": "https://phantom-elmundo.unidadeditorial.es/42697d67f84ec2d3c212c9d5eef4aae3/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/28/17327987489292.png",
-            "publishedAt": "2024-11-28T23:00:01Z",
-            "content": "\u00a1Ya est\u00e1 aqu\u00ed el Black Friday! En una jornada de ventas que promete ser hist\u00f3rica hemos seleccionado en BAZAR las mejores ofertas en Amazon, El Corte Ingl\u00e9s y otros e-commerce.\r\nTodo para que no te p\u2026 [+62692 chars]"
-        },
-        {
-            "source": {
-                "id": "el-mundo",
-                "name": "El Mundo"
-            },
-            "author": "BAZAR",
-            "title": "Black Friday 2024 en Amazon y El Corte Ingl\u00e9s, las mejores ofertas del 28 de noviembre, en directo: unas zapatillas Nike muy rebajadas, una televisi\u00f3n LG al 50%, una crema hidratante L'Or\u00e9al por 6 euros...",
-            "description": "S\u00f3lo queda un d\u00eda para el Black Friday. Pero no hace falta esperar al viernes negro del 29 de noviembre, porque desde ya puedes hacerte con aut\u00e9nticas gangas que superan el 50%.",
-            "url": "https://www.elmundo.es/ofertas-regalos/black-friday/2024/11/28/6747052621efa02c0d8b4570.html",
-            "urlToImage": "https://phantom-elmundo.unidadeditorial.es/97f5cd1ca45eb55617fe59564d2de0fd/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/27/17327077331221.png",
-            "publishedAt": "2024-11-27T23:27:45Z",
-            "content": "S\u00f3lo queda un d\u00eda para el Black Friday. Pero no hace falta esperar al viernes negro del 29 de noviembre, porque desde ya puedes hacerte con aut\u00e9nticas gangas que superan el 50%.\r\nEn BAZAR hemos selec\u2026 [+92790 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TalkAndroid"
-            },
-            "author": "Irene Okpanachi",
-            "title": "Oppo Pad 3 Launches with Vibrant Design and Dimensity 8350 Chip",
-            "description": "Oppo isn't giving us space to breathe with these powerful gadget launches. The Oppo Pad 3 is now out and ready for pre-orders.",
-            "url": "https://www.talkandroid.com/495124-oppo-pad-3-launch/",
-            "urlToImage": "https://www.talkandroid.com/wp-content/uploads/2024/11/Oppo-Pad-3-unveiled-with-AI.jpg",
-            "publishedAt": "2024-11-27T13:58:53Z",
-            "content": "Five days ago, Oppo globally launched the Pad 3 Pro alongside the Find X8 phone series. Today, the brand has unveiled the base tablet model, Oppo Pad 3, alongside the Reno 13 phone series. \r\nThe Pad \u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TalkAndroid"
-            },
-            "author": "Irene Okpanachi",
-            "title": "Is The Galaxy S24 Still Worth it or Should You Wait For the S25?",
-            "description": "The Galaxy S24 offers minor upgrades over the S23. Black Friday deals make it a great time to buy.",
-            "url": "https://www.talkandroid.com/495298-should-you-wait-for-s25/",
-            "urlToImage": "https://www.talkandroid.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-TA-PH-9-847x640.jpg",
-            "publishedAt": "2024-11-30T17:48:59Z",
-            "content": "The only reason I upgrade my phone is if the hardware degrades or the software can't support my needs. If theres no big improvement in performance or features, its not worth upgrading. That's the cas\u2026 [+4250 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tomshw.it"
-            },
-            "author": "Giulia Serena",
-            "title": "Intel: taglio di 600 milioni ai fondi per i chip",
-            "description": "Il governo degli Stati Uniti ha ridotto di oltre 600 milioni di dollari il finanziamento del CHIPS Act destinato a Intel, per cui l'azienda ricever\u00e0 fino a 7,85 miliardi di dollari invece degli...",
-            "url": "https://www.tomshw.it/hardware/intel-taglio-di-600-milioni-ai-fondi-chips-act-2024-11-27",
-            "urlToImage": "https://www.tomshw.it/storage/media/2024/08/30752/Intel-Core-Cover.png",
-            "publishedAt": "2024-11-27T08:33:38Z",
-            "content": "Il governo degli Stati Uniti ha ridotto di oltre 600 milioni di dollari il finanziamento del CHIPS Act destinato a Intel, per cui l'azienda ricever\u00e0 fino a 7,85 miliardi di dollari invece degli 8,5 m\u2026 [+3010 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tomshw.it"
-            },
-            "author": "Andrea Pellicane",
-            "title": "Mac Mini M2: il potentissimo computer che si nasconde dietro al monitor \u00e8 in SUPER SCONTO!",
-            "description": "Se siete alla ricerca di un computer desktop potente ma incredibilmente compatto, che possa adattarsi a qualsiasi ambiente di lavoro senza sacrificare le prestazioni, dovreste considerare questa offer...",
-            "url": "https://www.tomshw.it/hardware/mac-mini-m2-il-potentissimo-computer-che-si-nasconde-dietro-al-monitor-e-in-super-sconto-Ggq",
-            "urlToImage": "https://www.tomshw.it/storage/media/2024/11/42623/mac-mini-m2-offerta-27112024-copertina.jpg",
-            "publishedAt": "2024-11-27T08:52:55Z",
-            "content": "Se siete alla ricerca di un computer desktop potente ma incredibilmente compatto, che possa adattarsi a qualsiasi ambiente di lavoro senza sacrificare le prestazioni, dovreste considerare questa offe\u2026 [+1593 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nakedcapitalism.com"
-            },
-            "author": "Yves Smith",
-            "title": "Links 11/30/2024",
-            "description": "Our boisterous daily links: Orca head gear, Covid in the brain, global warming>stronger hurricanes, Taiwan provokes China again, Chad dumps France, Europe hearts WWIII, Israel aid sabotage, Putin on Russia weapons, jihadists attack in Syria, AI copyright suit\u2026",
-            "url": "https://www.nakedcapitalism.com/2024/11/links-11-30-2024.html",
-            "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/11/Screen-Shot-2024-11-30-at-2.43.34-PM.png",
-            "publishedAt": "2024-11-30T11:59:15Z",
-            "content": "Orcas start wearing dead salmon hats again after ditching the trend for 37 years Live Science\r\nMacron unveils \u2018sublime\u2019 Notre-Dame Cathedral after \u2018impossible\u2019 restoration Le Monde\r\nMany worlds, many\u2026 [+8849 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5google.com"
-            },
-            "author": "Damien Wilde",
-            "title": "Pixel 9 long-term review: No longer the best base model [Video]",
-            "description": "Thanks to Google\u2019s decision to get ahead of the curve and drop new devices in August, we\u2019re almost 100 days into the life of the Pixel 9. The big drop of Android 15 means the final piece of the puzzle has been added, but does that make the entry-level model a\u2026",
-            "url": "http://9to5google.com/2024/11/27/pixel-9-long-term-review/",
-            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/11/Pixel-9-Wintergreen-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-11-27T17:00:00Z",
-            "content": "Thanks to Google\u2019s decision to get ahead of the curve and drop new devices in August, we\u2019re almost 100 days into the life of the Pixel 9. The big drop of Android 15 means the final piece of the puzzl\u2026 [+12460 chars]"
-        },
-        {
-            "source": {
-                "id": "techradar",
-                "name": "TechRadar"
-            },
-            "author": "Efosa Udinmwen",
-            "title": "Meta helped design a chip for its own network, but you'll never be able to buy it",
-            "description": "Meta and Marvell Technology have developed the FBNIC chip.",
-            "url": "https://www.techradar.com/pro/facebooks-parent-company-helped-design-a-chip-but-you-wont-be-able-to-buy-it",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bnZCTdpNJn5gdPUv2pyqW8-1200-80.jpg",
-            "publishedAt": "2024-11-28T20:19:00Z",
-            "content": "<ul><li>Meta and Marvell Technology design new chip hardware together</li><li>FBNIC looks to boost internal networking capabilities at Meta</li><li>The chip will likely never go on commercial sale th\u2026 [+2324 chars]"
-        },
-        {
-            "source": {
-                "id": "techradar",
-                "name": "TechRadar"
-            },
-            "author": "Dr Seena Rejal",
-            "title": "What AMD needs to do to break Nvidia\u2019s stranglehold on AI",
-            "description": "Dr Seena Rejal examines the implications of increased competition in the semiconductor market on AI development.",
-            "url": "https://www.techradar.com/pro/what-amd-needs-to-do-to-break-nvidias-stranglehold-on-ai",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
-            "publishedAt": "2024-11-27T15:27:39Z",
-            "content": "Nvidia has dominated the semiconductor industry for years, making it nearly synonymous with artificial intelligence (AI) hardware. From self-driving cars to cutting-edge research, Nvidia\u2019s high-perfo\u2026 [+7193 chars]"
-        },
-        {
-            "source": {
-                "id": "techradar",
-                "name": "TechRadar"
-            },
-            "author": "Mike Moore",
-            "title": "Google Chat takes on Teams, Slack with instant meetings",
-            "description": "Google Workspace users can quickly start audio chats with new huddles in Chat.",
-            "url": "https://www.techradar.com/pro/google-chat-takes-on-teams-slack-with-instant-meetings",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/czroHyF4JNPTdVUGqm2iM-1200-80.jpg",
-            "publishedAt": "2024-11-28T11:23:10Z",
-            "content": "<ul><li>Google Chat adds new quick-start \"Huddles\"</li><li>Audio-first meetings will allow users to quickly chat to colleagues or friends</li><li>Follows similar launches by Slack and Microsoft Teams\u2026 [+2744 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "John Werner, Contributor, \n John Werner, Contributor\n https://www.forbes.com/sites/johnwerner/",
-            "title": "Amazon, Anthropic, And Trainium \u2013 AI Acceleration For Today\u2019s Market",
-            "description": "A strategic alliance on hardware is part of Amazon\u2019s major plan for market competition with LLMs.",
-            "url": "https://www.forbes.com/sites/johnwerner/2024/11/27/amazon-anthropic-and-trainium--ai-acceleration-for-todays-market/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67472894cb9379a004bba5f4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-11-27T14:12:54Z",
-            "content": "Sign with logo for ecommerce company Amazon at the company's regional headquarters in the Silicon ... [+] Valley town of Sunnyvale, California, October 28, 2018. (Photo by Smith Collection/Gado/Getty\u2026 [+3759 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Iain Martin, Forbes Staff, \n Iain Martin, Forbes Staff\n https://www.forbes.com/sites/iainmartin/",
-            "title": "This Year\u2019s Biggest Tech IPO Will Be In Dubai",
-            "description": "In a sparse year for listings, the $10.2 billion float of Talabat, a food delivery company, on Dubai\u2019s exchange is set to become this year's biggest tech initial public offering.",
-            "url": "https://www.forbes.com/sites/iainmartin/2024/11/27/this-years-biggest-tech-ipo-will-be-in-dubai/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6745fb021c64f8cbc25d018c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-11-27T08:00:00Z",
-            "content": "Food and grocery delivery company Talabat's $10.2 billion listing on Dubai's stock exchange is set to become this year's largest tech initial public offering (IPO).\r\n\u00a9 2024 Bloomberg Finance LP\r\nIts \u2026 [+4289 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Beth Kindig, Contributor, \n Beth Kindig, Contributor\n https://www.forbes.com/sites/bethkindig/",
-            "title": "Nvidia\u2019s Stock Has 70% Potential Upside For 2025",
-            "description": "Nvidia beats Q3 revenue by $2B, with 94% YoY growth to $35B. Data center revenue tops $30B. Blackwell\u2019s ramp by mid-2025 could drive 70% stock upside.",
-            "url": "https://www.forbes.com/sites/bethkindig/2024/11/27/nvidias-stock-has-70-potential-upside-for-2025/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/674688ada83d2d2534f31f02/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-11-27T13:45:00Z",
-            "content": "Nvidia once again posted a $2 billion beat to consensus revenue estimates in Q3, reporting YoY growth of nearly 94% to over $35 billion in revenue. Data center revenue more than doubled in the quarte\u2026 [+14870 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Sponsored by Sam's Club, Contributor, \n Sponsored by Sam's Club, Contributor\n https://www.forbes.com/",
-            "title": "Don\u2019t Miss These Sam\u2019s Club Black Friday Deals On Tech, Home Goods And More",
-            "description": "Score major discounts on tech, home goods, toys and more during the Sam's Club Black Friday sale.",
-            "url": "https://www.forbes.com/sites/forbes-personal-shopper/2024/11/29/sams-club-black-friday-deals/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6749b49feb451ad58653cd74/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-11-29T12:42:07Z",
-            "content": "This article was created in partnership with Sams Club to showcase some of the retailers best offerings during its annual Black Friday sale. Shop for discounted holiday gifts, home goods, tech and mo\u2026 [+10131 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Erica Wertheim Zohar, Contributor, \n Erica Wertheim Zohar, Contributor\n https://www.forbes.com/sites/ericawertheimzohar/",
-            "title": "The Complete Guide To 2024 Miami Art Week: The Events, Art, And Parties",
-            "description": "Your ultimate guide to the hottest parties, most exclusive exhibitions, and the pulse of the international art scene, taking place all over Miami, from the beach to the city.",
-            "url": "https://www.forbes.com/sites/ericawertheimzohar/2024/11/27/the-complete-guide-to-2024-miami-art-week--the-events-art-and-parties/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/674652ecc5e99fd2309ee974/0x0.jpg?format=jpg&crop=2228,1254,x0,y206,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-11-27T15:34:22Z",
-            "content": "As a Miami native, I can attest to the transformative power of Miami Art Week. I remember many years ago when I would tell friends I was from Miami and our citys only claims to fame were Miami Vice a\u2026 [+48694 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tom's Hardware UK"
-            },
-            "author": "Jowi Morales",
-            "title": "China debuts \u2018Global Scheduling Ethernet\u2019 chip to deliver networking solutions for AI \u2014 aims to compete with the Ultra Ethernet Consortium for next-generation interconnection technologies",
-            "description": "Chinese tech giants launched chips that enables GSE, an Ethernet standard that allows for high-performance communications between AI servers and HPCs.",
-            "url": "https://www.tomshardware.com/networking/china-debuts-global-scheduling-ethernet-chip-to-deliver-networking-solutions-for-ai-aims-to-compete-with-the-ultra-ethernet-consortium-for-next-generation-interconnection-technologies",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/3bv6ZK9EUi2WLJsZvLko33-1200-80.jpg",
-            "publishedAt": "2024-11-27T18:13:48Z",
-            "content": "Multiple Chinese tech firms recently launched several chips that will power \u2018Global Scheduling Ethernet\u2019 or GSE, a networking protocol designed to accommodate the large volumes of data and high trans\u2026 [+2117 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tom's Hardware UK"
-            },
-            "author": "Anton Shilov",
-            "title": "TSMC 'Super Carrier' CoWoS interposer gets bigger, enabling massive AI chips to reach 9-reticle sizes with 12 HBM4 stacks",
-            "description": "TSMC's CoWoS gets even bigger with 9-reticle size packages due in 2027.",
-            "url": "https://www.tomshardware.com/tech-industry/tsmc-super-carrier-cowos-interposer-gets-bigger-enabling-massive-ai-chips-to-reach-9-reticle-sizes-with-12-hbm4-stacks",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/5v5TynY3T6qoQvHBybftxE-1200-80.jpg",
-            "publishedAt": "2024-11-27T12:07:34Z",
-            "content": "TSMC is on track to qualify its ultra-large version of chip-on-wafer-on-substrate (CoWoS) packaging technology that will offer an interposer size of up to nine reticle sizes and 12 HBM4 memory stacks\u2026 [+2707 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hdblog.it"
-            },
-            "author": "HDblog.it",
-            "title": "Honor 300, in arrivo anche modello Ultra. Pro avvistato su Geekbench",
-            "description": "L'Ultra avr\u00e0 apparentemente una tele periscopica e potrebbe addirittura proporre uno Snapdragon 8 Elite come piattaforma hardware. Il Pro sembra basato su Snapdragon 8 Gen 3, ma... Con clock inferiore?",
-            "url": "https://www.hdblog.it/smartphone/articoli/n601155/honor-300-ultra-pro-benchmark-telefoto/",
-            "urlToImage": "https://hd2.tudocdn.net/1213547?w=1920",
-            "publishedAt": "2024-11-29T08:50:00Z",
-            "content": "Ci sar\u00e0 anche Honor 300 Ultra durante il lancio della nuova gamma di upper midrange la settimana prossima in Cina: i render sono trapelati nelle scorse ore. Il dispositivo si distinguer\u00e0 dagli altri \u2026 [+1518 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hdblog.it"
-            },
-            "author": "HDblog.it",
-            "title": "TSMC, fabbriche in Arizona potrebbero produrre a 2 nm gi\u00e0 nel 2028",
-            "description": "Il governo taiwanese per\u00f2 frena gli entusiasmi: si potrebbe slittare al 2029, se non al 2030.",
-            "url": "https://www.hdblog.it/hardware/articoli/n601244/tsmc-arizona-nodo-2-nm-2028/",
-            "urlToImage": "https://hd2.tudocdn.net/1072497?w=1920",
-            "publishedAt": "2024-11-29T15:15:00Z",
-            "content": "Le fabbriche di TSMC dell\u2019Arizona potrebbero produrre chip a 2 nm gi\u00e0 dal 2028: a sostenerlo \u00e8 la fonderia taiwanese stessa, stando a quanto riporta TrendForce citando documentazione burocratica uffi\u2026 [+2053 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hdblog.it"
-            },
-            "author": "HDblog.it",
-            "title": "Attenzione alla nuova truffa: come funziona Ghost Tap e perch\u00e9 \u00e8 cos\u00ec difficile bloccarla",
-            "description": "Pochi ingredienti per un furto che pu\u00f2 fruttare molto ai criminali.",
-            "url": "https://www.hdblog.it/sicurezza/articoli/n600885/truffa-ghost-tap-furto-carta-credito-come-funziona/",
-            "urlToImage": "https://hd2.tudocdn.net/1212775?w=1920",
-            "publishedAt": "2024-11-27T10:25:00Z",
-            "content": "Tra i cybercriminali si sta diffondendo una nuova tecnica che sfrutta la tecnologia NFC per rubare denaro a chi utilizza i servizi di pagamento digitale. Gli esperti di sicurezza informatica di Threa\u2026 [+2670 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hdblog.it"
-            },
-            "author": "HDblog.it",
-            "title": "Apple, dopo anni di sviluppo sarebbe pronta a lanciare il suo modem 5G",
-            "description": "Apple pare che sia ormai pronta a lanciare il suo primo modem 5G proprietario",
-            "url": "https://www.hdblog.it/smartphone/articoli/n600845/apple-pronta-lanciare-modem-5g-2025/",
-            "urlToImage": "https://hd2.tudocdn.net/1212646?w=1920",
-            "publishedAt": "2024-11-27T06:20:00Z",
-            "content": "Dopo anni di sviluppo e alcune difficolt\u00e0 tecniche, Apple pare che sia ormai pronta a lanciare il suo primo modem 5G proprietario il prossimo anno. Questo chip, atteso da tempo, rappresenta un passo \u2026 [+3556 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hdblog.it"
-            },
-            "author": "HDblog.it",
-            "title": "Google Pixel 9 Pro XL 256GB: nuovo minimo storico Amazon con il Black Friday",
-            "description": "Nuovo minimo storico per il Google Pixel 9 Pro XL da 256GB: con il Black Friday di Amazon costa 999 euro, compresa spedizione.",
-            "url": "https://www.hdblog.it/smartphone/offerte/n600881/google-pixel-9-pro-xl-256gb-black-friday/",
-            "urlToImage": "https://hd2.tudocdn.net/1212719?w=1920",
-            "publishedAt": "2024-11-27T08:44:00Z",
-            "content": "Nel corso del lungo Black Friday Amazon si segnala anche il nuovo minimo storico per il Google Pixel 9 Pro XL da 256GB. Lo smartphone AI di ultima generazione di Big G costa infatti 999 euro, ovvero \u2026 [+1886 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hdblog.it"
-            },
-            "author": "HDblog.it",
-            "title": "HP accusata di bloccare l'uso di cartucce d'inchiostro compatibili e ricondizionate",
-            "description": "HP implementerebbe pratiche di obsolescenza programmata per le sue cartucce d\u0092inchiostro",
-            "url": "https://www.hdblog.it/hardware/articoli/n600996/hp-blocca-cartucce-compatibili-ricondizionate/",
-            "urlToImage": "https://hd2.tudocdn.net/1212979?w=1920",
-            "publishedAt": "2024-11-28T07:25:00Z",
-            "content": "L\u2019associazione francese Halte \u00e0 l\u2019obsolescence programm\u00e9e (HOP), nota come Stop Planned Obsolescence, ha presentato una denuncia contro HP, leader mondiale nella produzione di stampanti, accusandola \u2026 [+3791 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hdblog.it"
-            },
-            "author": "HDblog.it",
-            "title": "Recensione Xiaomi Smart Band 9 Pro: ottimi display e GPS ma vogliamo l'NFC!",
-            "description": "Xiaomi Smart Band 9 Pro non rappresenta una rivoluzione, ma piuttosto un'evoluzione rispetto al modello passato. Come la sua versione \"liscia\" (nota ancora oggi per gli appassionati...",
-            "url": "https://www.hdblog.it/indossabili/recensioni/n601210/xiaomi-smartband-9-pro-prova-test-prezzo/",
-            "urlToImage": "https://hd2.tudocdn.net/1213731?w=1920",
-            "publishedAt": "2024-11-30T09:30:00Z",
-            "content": "Xiaomi Smart Band 9 Pro non rappresenta una rivoluzione, ma piuttosto un'evoluzione rispetto al modello passato. Come la sua versione \"liscia\" (nota ancora oggi per gli appassionati come \"MiBand\") ag\u2026 [+5947 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hdblog.it"
-            },
-            "author": "HDblog.it",
-            "title": "Migliori eSIM per il Marocco e Marrakech (2024)",
-            "description": "Guida aggiornata alle migliori eSIM per viaggi in Marocco. Una nuova tecnologia per avere Internet all'estero in maniera semplice e veloce.",
-            "url": "https://www.hdblog.it/tariffe/guide/n600947/migliori-esim-marocco/",
-            "urlToImage": "https://hd2.tudocdn.net/1212859?w=1920",
-            "publishedAt": "2024-11-28T10:05:00Z",
-            "content": "I viaggiatori in procinto di partire possono risparmiare molto sul costo dell\u2019abbonamento a Internet ed evitare i costi di roaming utilizzando una eSIM per il Marocco, associata direttamente a un ope\u2026 [+18569 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hdblog.it"
-            },
-            "author": "HDblog.it",
-            "title": "Migliori eSIM per gli USA e Nord America (2024)",
-            "description": "Cos'\u00e8 e come funziona una eSIM per gli USA? Leggi le recensioni delle migliori eSIM prepagate e usa e getta per un viaggio in Nord America.",
-            "url": "https://www.hdblog.it/tariffe/guide/n600371/esim-usa-migliori/",
-            "urlToImage": "https://hd2.tudocdn.net/1211323?w=1920",
-            "publishedAt": "2024-11-27T11:16:00Z",
-            "content": "Quando si viaggia negli Stati Uniti o in Canada pu\u00f2 essere molto utile affidarsi a una eSIM per collegarsi a Internet tramite connessione di rete dati mobile, sfruttando la velocit\u00e0 delle reti 4G e 5\u2026 [+21141 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Antyweb.pl"
-            },
-            "author": "Grzegorz U\u0142an",
-            "title": "Black Friday na Allegro, czyli iPhone 15 Pro Max tysi\u0105c z\u0142 taniej",
-            "description": "Ju\u017c od 18 listopada trwa na Allegro festiwal zakupowy, a dzi\u015b przyszed\u0142 czas na pocz\u0105tek kulminacji, czyli Black Friday i jeszcze lepsze promocje produkt\u00f3w w niskich cenach. Warto z nich skorzysta\u0107, bo zosta\u0142o ju\u017c tylko trzy dni do Cyber Monday, kt\u00f3ry to zako\u2026",
-            "url": "https://antyweb.pl/allegro-black-friday-2024",
-            "urlToImage": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2024/11/balck_friday_Allegro_2024.jpg",
-            "publishedAt": "2024-11-29T07:00:50Z",
-            "content": "Dwa tygodnie szalonych promocji na Allegro, dziki kt\u00f3rym mona zakupi wybrane produkty nawet z obnik ceny do 50%, to jak co roku doskonaa okazja do zaopatrzenia si w prezenty, zar\u00f3wno dla siebie jak i\u2026 [+4760 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Iphoneitalia.com"
-            },
-            "author": "Giuseppe Migliorino",
-            "title": "Vendite iPhone in stallo: la crescita del mercato globale degli smartphone non aiuta Apple",
-            "description": "Il mercato degli smartphone globali cresce del 6,2% nel 2024, ma le vendite di iPhone aumentano solo dello 0,4%.\nLink all'articolo originale: Vendite iPhone in stallo: la crescita del mercato globale degli smartphone non aiuta Apple",
-            "url": "https://www.iphoneitalia.com/832588/vendite-iphone-in-stallo-la-crescita-del-mercato-globale-degli-smartphone-non-aiuta-apple",
-            "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2024/09/iphone-16-pro-colors-1.jpg",
-            "publishedAt": "2024-11-27T18:30:37Z",
-            "content": "Il 2024 ha segnato una significativa ripresa per il mercato globale degli smartphone, con spedizioni in aumento del 6,2% e un totale di 1,24 miliardi di unit\u00e0. Tuttavia, per Apple il quadro \u00e8 meno en\u2026 [+2403 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tecnoblog.net"
-            },
-            "author": "Laura Canal",
-            "title": "Galaxy S23 Ultra tem melhor promo\u00e7\u00e3o do ano na Black Friday da Amazon",
-            "description": "Galaxy S23 Ultra tem c\u00e2mera de 200 MP, processador Snapdragon exclusivo e fica pelo menor pre\u00e7o hist\u00f3rico com cupom SAMSUNG10 na Amazon\nGalaxy S23 Ultra tem melhor promo\u00e7\u00e3o do ano na Black Friday da Amazon",
-            "url": "https://tecnoblog.net/achados/galaxy-s23-ultra-tem-melhor-promocao-do-ano-na-black-friday-da-amazon/",
-            "urlToImage": "https://files.tecnoblog.net/wp-content/uploads/2023/11/galaxy-s23-ultra-imagem-emerson-alecrimtecnoblog-2.png",
-            "publishedAt": "2024-11-28T23:42:49Z",
-            "content": "Corre! O Galaxy S23 Ultra de 256 GB n\u00e3o poderia estar com o pre\u00e7o melhor: apenas R$ 3.821 \u00e0 vista com o cupom SAMSUNG10. O desconto faz parte da promo\u00e7\u00e3o de Black Friday da loja da Samsung na Amazon,\u2026 [+2016 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tinhte.vn"
-            },
-            "author": "no-reply@tinhte.vn (C\u00e1o - Foxtek), C\u00e1o - Foxtek",
-            "title": "So s\u00e1nh Xiaomi REDMI K80 VS Xiaomi REDMI K70",
-            "description": "V\u00e0o t\u1ed1i ng\u00e0y 27/11/2024 (theo gi\u1edd Vi\u1ec7t Nam), Xiaomi ch\u00ednh th\u1ee9c ra m\u1eaft REDMI K80 - phi\u00ean b\u1ea3n k\u1ebf nhi\u1ec7m REDMI K70 v\u1edbi m\u1ed9t v\u00e0i thay \u0111\u1ed5i \u0111\u00e1ng ch\u00fa \u00fd. Sau \u0111\u00e2y s\u1ebd l\u00e0 b\u00e0i so s\u00e1nh REDMI K80 VS REDMI K70 v\u00e0 m\u00ecnh hy v\u1ecdng c\u00e1c th\u00f4ng tin b\u00ean d\u01b0\u1edbi s\u1ebd gi\u00fap b\u1ea1n d\u1ec5\u2026",
-            "url": "https://tinhte.vn/thread/so-sanh-xiaomi-redmi-k80-vs-xiaomi-redmi-k70.3894248/",
-            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/11/8554426_redmi-k80-vs-redmi-k70-thumb.jpg",
-            "publishedAt": "2024-11-28T04:19:41Z",
-            "content": "2. Dung lng pin ln 6.550 mAh: REDMI K80 c trang b vi\u00ean pin 6.550 mAh (pin c\u00f4ng ngh silicon-carbon), vi\u00ean pin ln nht trong c\u00e1c d\u00f2ng REDMI. Vi\u00ean pin trong REDMI K80 c\u00f3 dung lng pin cao hn REDMI K70 n 1\u2026 [+1118 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Alice French",
-            "title": "Japan\u2019s Chip Shares Climb on Hopes of Lighter US Curbs on China",
-            "description": "(Bloomberg) -- Shares of Japanese semiconductor-related companies jumped after the US government was reported to be weighing lighter-than-expected...",
-            "url": "https://finance.yahoo.com/news/japan-chip-shares-climb-hopes-025053910.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/liG4F6pEnpI92VHnLbkctg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/06fe46e4b4895d8b16f7ab624466a9ee",
-            "publishedAt": "2024-11-28T04:27:16Z",
-            "content": "(Bloomberg) -- Shares of Japanese semiconductor-related companies jumped after the US government was reported to be weighing lighter-than-expected restrictions on sales of chip equipment and AI memor\u2026 [+1718 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "PATRICK SEITZ, Investor's Business Daily",
-            "title": "SoundHound Makes Itself Heard On Wall Street With Voice AI",
-            "description": "SoundHound AI is giving a voice to artificial intelligence. And that opportunity has fueled interest in SoundHound stock.",
-            "url": "https://www.investors.com/news/technology/soundhound-stock-voice-ai-advancements/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/11/Stock-SoundHoudAI-WhiteCastle-01-company.jpg",
-            "publishedAt": "2024-11-27T13:00:50Z",
-            "content": "SoundHound AI (SOUN) is giving a voice to artificial intelligence. And the AI voice tech company is making itself heard on Wall Street, where the spotlight on SoundHound stock is growing.\r\nThe path t\u2026 [+5577 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "ED CARSON, Investor's Business Daily",
-            "title": "Dow Jones Futures: Stock Market Falls Into Thanksgiving Holiday; Nvidia Defends Key Level",
-            "description": "The major indexes declined Wednesday amid earnings turkeys, but came off lows.",
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-thanksgiving-nvidia/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2021/11/Stock-turkeysolo-01-adobe.jpg",
-            "publishedAt": "2024-11-28T03:58:08Z",
-            "content": "Dow Jones futures rose slightly overnight, along with S&amp;P 500 futures and Nasdaq futures.\r\nThe stock market rally saw the major indexes fall Wednesday heading into the Thanksgiving holiday, but c\u2026 [+5441 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hwupgrade.it"
-            },
-            "author": null,
-            "title": "Germania: in arrivo sussidi (2 miliardi?) per l'industria dei semiconduttori",
-            "description": "Il governo tedesco sta preparando miliardi di euro di nuovi investimenti nell'industria dei semiconduttori del Paese. Secondo quanto riportato da Bloomberg, si prevede che i sussidi ammonteranno a circa 2 miliardi di euro.",
-            "url": "https://www.hwupgrade.it/news/mercato/germania-in-arrivo-sussidi-2-miliardi-per-l-industria-dei-semiconduttori_133278.html",
-            "urlToImage": "https://www.hwupgrade.it/i/n/infineon-smart-power-fab-dresda_720.jpg",
-            "publishedAt": "2024-11-29T06:21:01Z",
-            "content": "Incassato lo stop - per ora temporaneo - di Intel sulle Fab di Magdeburgo e il passo indietro di Wolfspeed, il governo tedesco starebbe \"preparando miliardi di euro investimenti nell'industriale nazi\u2026 [+2150 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hwupgrade.it"
-            },
-            "author": null,
-            "title": "Ecco gli iPhone 15 e 16 in offerta ora: si parte da 691\u0080 e occhio al 16 Pro a 1.169\u0080",
-            "description": "Il Black Friday Amazon ha letteralmente travolto molti articoli Apple, con una serie di sconti senza precedenti. Ci sono iPhone 16 e 15, ma anche AirTag",
-            "url": "https://www.hwupgrade.it/news/apple/ecco-gli-iphone-15-e-16-in-offerta-ora-si-parte-da-691-e-occhio-al-16-pro-a-1169_133298.html",
-            "urlToImage": "https://www.hwupgrade.it/i/n/iphone16_9sept_720_1.jpg",
-            "publishedAt": "2024-11-29T09:24:37Z",
-            "content": "Un click qui per cercare articoli Amazon Seconda mano ex Warehouse scontati del \r\n30%!\r\niPhone 16 128 e 256 GB a prezzi super per Amazon Black Friday, e occhio ad iPhone 16 Pro 128 GB ora a 1.169\u0080. I\u2026 [+1407 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hwupgrade.it"
-            },
-            "author": null,
-            "title": "AirPods, iPhone 15 e 16, AirTag: prezzi bassissimi con il Black Friday sui prodotti Apple!",
-            "description": "Il Black Friday Amazon ha letteralmente travolto molti articoli Apple, con una serie di sconti senza precedenti. Ci sono iPhone 16 e 15, ma anche AirTag e le super desiderate AirPods, anche quelle presentate di recente.",
-            "url": "https://www.hwupgrade.it/news/apple/airpods-iphone-15-e-16-airtag-prezzi-bassissimi-con-il-black-friday-sui-prodotti-apple_133237.html",
-            "urlToImage": "https://www.hwupgrade.it/i/n/airpods4_ricarica_720.jpg",
-            "publishedAt": "2024-11-28T06:32:58Z",
-            "content": "Qui per accedere a tute le offerte -20% su articoli seconda mano - ex warehouse!\r\niPhone 16 128 e 256 GB a prezzi super per Amazon Black Friday. I nuovi iPhone 16 rappresentano un aggiornamento molto\u2026 [+1633 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hwupgrade.it"
-            },
-            "author": null,
-            "title": "HP e il blocco delle cartucce non originali sulle stampanti: denunciata da un'associazione francese",
-            "description": "HOP (Halte \u00e0 l'Obsolescence Programm\u00e9e), associazione francese contro l'obsolescenza programmata, ha denunciato HP per gli ostacoli che pone nell'uso di cartucce a getto d'inchiostro ricondizionate.",
-            "url": "https://www.hwupgrade.it/news/periferiche/hp-e-il-blocco-delle-cartucce-non-originali-sulle-stampanti-denunciata-da-un-associazione-francese_133205.html",
-            "urlToImage": "https://www.hwupgrade.it/i/n/HP_Envy_Inspire_7220e_720.jpg",
-            "publishedAt": "2024-11-27T09:21:01Z",
-            "content": "L'associazione dei consumatori francese HOP (Halte \u00e0 l'obsolescence programm\u00e9e) ha presentato una denuncia formale contro Hewlett-Packard (HP) per presunta obsolescenza programmata sulle cartucce a g\u2026 [+2741 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hwupgrade.it"
-            },
-            "author": null,
-            "title": "Amazon, cosa succede a mezzanotte? In teoria \u00e8 il vero Black Friday, azzardiamo un'ipotesi",
-            "description": "Qualche segnale c'\u00e8, almeno dettato dall'esperienza: questa notte \u00e8 il Black Friday ufficiale Amazon e difficilmente non faranno qualcosa, nonostante tutte le migliori offerte siano gi\u00e0 attive da diversi giorni. La nostra ipotesi.",
-            "url": "https://www.hwupgrade.it/news/multimedia/amazon-cosa-succede-a-mezzanotte-in-teoria-il-vero-black-friday-azzardiamo-un-ipotesi_133257.html",
-            "urlToImage": "https://www.hwupgrade.it/i/n/ama_pday23_720.jpg",
-            "publishedAt": "2024-11-28T13:33:33Z",
-            "content": "Lo abbiamo gi\u00e0 detto ma meglio ripetersi: il Black Friday Amazon, nel senso di forti sconti su moltissimi prodotti a listino, \u00e8 attivo gi\u00e0 da oltre una settimana. Questa notte per\u00f2 scatta il \r\nBlack \u2026 [+11457 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cineblog.it"
-            },
-            "author": "Pietro Ferraro",
-            "title": "Voltron: aggiornato e confermato il cast ufficiale del film live-action di Amazon MGM Studios",
-            "description": "Annunciati nuovi arrivati nel cast del live-action di Voltron di Amazon MGM che si uniranno ai gi\u00e0 annunciati Henry Cavill, Sterling K. Brown, Rita Ora, John Kim e Daniel Quinn-Toye.",
-            "url": "https://www.cineblog.it/post/voltron-confermato-cast-live-action",
-            "urlToImage": "https://www.blogo.it/app/uploads/sites/3/2024/11/voltron-aggiornato-e-confermato-il-cast-ufficiale-del-film-live-action-di-amazon-mgm-studios-1.jpg",
-            "publishedAt": "2024-11-28T09:07:35Z",
-            "content": "Amazon MGM Studios ha confermato il cast del film live-action di Voltron. Il nuovo cast andr\u00e0 a comporre una nuova squadra e quindi una nuova generazione di personaggi guidati da Henry Cavill (Luomo \u2026 [+6051 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hwupgrade.it"
-            },
-            "author": null,
-            "title": "PlayStation VR2 \u00e8 sceso tanto di prezzo per il Black Friday (399\u0080). E non \u00e8 l'unico visore VR in offerta",
-            "description": "Oggi Amazon propone degli sconti interessanti su diversi visori VR. Non solo Meta Quest 3, che rimane il migliore per l'intrattenimento, ma anche una soluzione espressamente dedicata ai videogiochi come PlayStation VR2",
-            "url": "https://gaming.hwupgrade.it/news/videogames/playstation-vr2-e-sceso-tanto-di-prezzo-per-il-black-friday-399-e-non-e-l-unico-visore-vr-in-offerta_133199.html",
-            "urlToImage": "https://www.hwupgrade.it/i/n/psvr2-design-1280-f.jpg",
-            "publishedAt": "2024-11-27T08:31:21Z",
-            "content": "PlayStation VR2 \u00e8 il noto visore di realt\u00e0 virtuale sviluppato da Sony, progettato principalmente per funzionare con PlayStation 5. Integra tecnologie avanzate come il tracciamento oculare, feedback \u2026 [+3661 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hwupgrade.it"
-            },
-            "author": null,
-            "title": "Black Friday: adesso gli Apple AirTag costano 79\u0080 nella confezione da 4. Come ritrovare tutto spendendo poco!",
-            "description": "Questi dispositivi offrono un modo pratico per evitare la perdita di oggetti personali. Lo fanno attraverso le rispettive reti di dispositivi per una copertura di tracciamento ampia e affidabile.",
-            "url": "https://www.hwupgrade.it/news/apple/black-friday-adesso-gli-apple-airtag-costano-79-nella-confezione-da-4-come-ritrovare-tutto-spendendo-poco_133251.html",
-            "urlToImage": "https://www.hwupgrade.it/i/n/AirtagAereo_720.jpg",
-            "publishedAt": "2024-11-28T11:27:28Z",
-            "content": "Gli Apple AirTag sono dispositivi di localizzazione progettati per aiutare gli utenti a tenere traccia di oggetti personali. Il design compatto e leggero li rende facili da usare e da attaccare a qua\u2026 [+1287 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hwupgrade.it"
-            },
-            "author": null,
-            "title": "realme GT7 Pro: un concentrato di potenza e intelligenza artificiale",
-            "description": "Il realme GT7 Pro si distingue come un flagship killer che punta sull'intelligenza artificiale, offrendo prestazioni di alto livello grazie al nuovo Snapdragon 8 Elite e un display innovativo, posizionandosi come un'alternativa competitiva ai top di gamma pi\u00f9\u2026",
-            "url": "https://www.hwupgrade.it/news/telefonia/realme-gt7-pro-un-concentrato-di-potenza-e-intelligenza-artificiale_132981.html",
-            "urlToImage": "https://www.hwupgrade.it/i/n/realmeGT7Pro_Content_720.jpg",
-            "publishedAt": "2024-11-29T11:01:01Z",
-            "content": "realme GT7 Pro si presenta come uno smartphone all'avanguardia, che punta forte sull'intelligenza artificiale e su specifiche hardware di alto livello per competere con i top di gamma pi\u00f9 blasonati. \u2026 [+25351 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hwupgrade.it"
-            },
-            "author": null,
-            "title": "Intel ARC Battlemage: non una ma due schede in arrivo, ecco le date",
-            "description": "Stando a indiscrezioni pubblicate da Videocardz, la seconda generazione desktop di GPU Intel ARC sar\u00e0 annunciata il 3 dicembre, con recensioni disponibili a partire dal 12 dicembre. Oltre alla ARC B850 si prevede l'annuncio della ARC B570.",
-            "url": "https://www.hwupgrade.it/news/skvideo/intel-arc-battlemage-non-una-ma-due-schede-in-arrivo-ecco-le-date_133277.html",
-            "urlToImage": "https://www.hwupgrade.it/i/n/intel-arc-gpu-mobile-die_720.jpg",
-            "publishedAt": "2024-11-29T05:41:02Z",
-            "content": "Secondo quanto pubblicato da Videocardz, Intel annuncer\u00e0 due schede video ARC desktop della famiglia Battlemage il 3 dicembre: la gi\u00e0 chiacchierata ARC B580 e la sorella minore B570, una versione che\u2026 [+1980 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hwupgrade.it"
-            },
-            "author": null,
-            "title": "iPhone 16 128GB in offerta a tempo scontato di 138\u0080 per Amazon Black Friday! Top anche il 15, AirPods e AirTag",
-            "description": "Occhio a questo calo di prezzo su Amazon per il nuovo iPhone 16 con 128 GB di memoria. Mai prima d'ora sul noto e-commerce era costato cos\u00ec poco.",
-            "url": "https://www.hwupgrade.it/news/apple/iphone-16-128gb-in-offerta-a-tempo-scontato-di-138-per-amazon-black-friday-top-anche-il-15-airpods-e-airtag_133202.html",
-            "urlToImage": "https://www.hwupgrade.it/i/n/Apple-iPhone-16-hero_720.jpg",
-            "publishedAt": "2024-11-27T09:05:37Z",
-            "content": "iPhone 16 128 e 256 GB a prezzi super per Amazon Black Friday. I nuovi iPhone 16 rappresentano un aggiornamento molto rilevante, con particolare attenzione all'intelligenza artificiale, alle prestazi\u2026 [+1557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hwupgrade.it"
-            },
-            "author": null,
-            "title": "Zhaoxin KX-7000: ecco i benchmark reali della CPU cinese x86 che sfida Intel e AMD",
-            "description": "I colleghi giapponesi di PC Watch hanno avuto l'opportunit\u00e0 di provare il processore Zhaoxin KX-7000, soluzione cinese a otto core alimentata dall'architettura x86. Una CPU interessante, ma ancora lontana da prestazioni ed efficienza delle offerte Intel e AMD",
-            "url": "https://www.hwupgrade.it/news/cpu/zhaoxin-kx-7000-ecco-i-benchmark-reali-della-cpu-cinese-x86-che-sfida-intel-e-amd_133231.html",
-            "urlToImage": "https://www.hwupgrade.it/i/n/zhaoxin-cpu_720.jpg",
-            "publishedAt": "2024-11-28T08:01:02Z",
-            "content": "A marzo di quest'anno abbiamo parlato di Zhaoxin, unico produttore di chip in Cina ad avere una licenza per l'architettura x86. Ebbene, dopo alcuni benchmark trapelati in rete del processore KX-7000,\u2026 [+2844 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hwupgrade.it"
-            },
-            "author": null,
-            "title": "Intel, l'accordo sul CHIPS Act mette paletti alla vendita dell'unit\u00e0 produttiva",
-            "description": "L'intesa tra Intel e il governo Biden-Harris sui 7,86 miliardi di dollari ottenuti nell'ambito del CHIPS Act impone alcuni paletti all'azienda guidata dal Pat Gelsinger. Un documento depositato alla SEC fa luce sui dettagli dell'intesa.",
-            "url": "https://www.hwupgrade.it/news/mercato/intel-l-accordo-sul-chips-act-mette-paletti-alla-vendita-dell-unita-produttiva_133234.html",
-            "urlToImage": "https://www.hwupgrade.it/i/n/intel-ifs-direct24-wafer_720.jpg",
-            "publishedAt": "2024-11-28T06:01:01Z",
-            "content": "Nei giorni scorsi Intel e il Dipartimento del Commercio hanno raggiunto un accordo sui sussidi del CHIPS Act che rappresenta una boccata d'ossigeno per il colosso dei semiconduttori in difficolt\u00e0. Co\u2026 [+2344 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hwupgrade.it"
-            },
-            "author": null,
-            "title": "Tutte le offerte TOP Amazon Black Friday: iPhone, Google Pixel, MacBook Air, AirPods, robot, portatili (aggiornamenti continui)",
-            "description": "Ecco una raccolta delle migliori offerte del Black Friday Amazon, con sconti veramente eccezionali anche di centinaia di Euro rispetto all'ordinario, come sui robot. Ma ci sono iPhone, portatili, Google Pixel e molto altro!",
-            "url": "https://www.hwupgrade.it/news/multimedia/tutte-le-offerte-top-amazon-black-friday-iphone-google-pixel-macbook-air-airpods-robot-portatili-aggiornamenti-continui_133339.html",
-            "urlToImage": "https://www.hwupgrade.it/i/n/amazon_money_720.jpg",
-            "publishedAt": "2024-11-30T06:29:38Z",
-            "content": "Un click qui per cercare articoli Amazon Seconda mano ex Warehouse scontati del \r\n30%!\r\nIl grande valore aggiunto di questa proposta riguarda la presenza nella configurazione della GPU GeForce RTX 40\u2026 [+9934 chars]"
+            "author": "Author: Matthew S. Smith",
+            "title": "Dell G15 review: A \u2018retro\u2019 laptop that\u2019s all about performance",
+            "description": "At a glanceExpert's Rating\r\n\n\nPros\r\n\n<ul>\n<li>Strong multicore CPU performance</li>\n\n\n\n<li>Excellent game performance for the price</li>\n\n\n\n<li>Attractive motion performance with 360Hz panel</li>\n\n\n\n<li>Lots of USB-A connectivity</li>\n</ul>\n\r\n\n\n\n\nCons\r\n\n<ul>\n\u2026",
+            "url": "https://www.pcworld.com/article/2530473/dell-g15-review.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2024/12/dell-g15-1.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2024-12-03T11:30:00Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nAt a glance<ul><li>S\u2026 [+13900 chars]"
         }
     ]
 }
