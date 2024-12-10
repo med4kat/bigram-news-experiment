@@ -14,14 +14,17 @@ def clean_text(text):
 
 # Perform sentiment analysis
 sentiment_results = []
-for article in raw_data:
-    headline = clean_text(article)
+for article in raw_data.get("articles", []):
+    headline = clean_text(article["title"])
+    if headline.lower() in {"removed", ""}:  # Skip invalid or empty headlines
+        continue
     sentiment = TextBlob(headline).sentiment
     sentiment_results.append({
         "headline": headline,
         "polarity": sentiment.polarity,
         "subjectivity": sentiment.subjectivity
     })
+
 
 # Save sentiment results
 with open("data/processed/sentiment_results.json", "w") as file:

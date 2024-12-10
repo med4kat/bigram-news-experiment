@@ -1,115 +1,115 @@
 [
     [
         [
-            "cyber",
-            "monday"
-        ],
-        9
-    ],
-    [
-        [
-            "intel",
-            "ceo"
+            "ai",
+            "chip"
         ],
         6
     ],
     [
         [
-            "amazon",
-            "'s"
+            "quantum",
+            "computing"
         ],
-        4
+        6
     ],
     [
         [
-            "ceo",
-            "pat"
-        ],
-        4
-    ],
-    [
-        [
-            "pat",
-            "gelsinger"
-        ],
-        4
-    ],
-    [
-        [
-            "ai",
+            "quantum",
             "chip"
         ],
         4
     ],
     [
         [
-            "'s",
-            "ai"
+            "google",
+            "says"
         ],
         4
     ],
     [
         [
-            "apple",
-            "intelligence"
+            "new",
+            "quantum"
         ],
         4
-    ],
-    [
-        [
-            "ai",
-            "chips"
-        ],
-        3
-    ],
-    [
-        [
-            "iphone",
-            "18"
-        ],
-        3
-    ],
-    [
-        [
-            "gelsinger",
-            "retires"
-        ],
-        3
-    ],
-    [
-        [
-            "china",
-            "banned"
-        ],
-        2
     ],
     [
         [
             "google",
-            "pixel"
+            "'s"
         ],
-        2
+        4
     ],
     [
         [
-            "best",
-            "cyber"
+            "'s",
+            "new"
         ],
-        2
+        4
     ],
     [
         [
-            "\u2019",
-            "ceo"
+            "china",
+            "probes"
         ],
-        2
+        4
     ],
     [
         [
-            "macbook",
-            "air"
+            "probes",
+            "nvidia"
         ],
-        2
+        4
+    ],
+    [
+        [
+            "antitrust",
+            "probe"
+        ],
+        4
+    ],
+    [
+        [
+            "error",
+            "correction"
+        ],
+        3
+    ],
+    [
+        [
+            "slides",
+            "china"
+        ],
+        3
+    ],
+    [
+        [
+            "says",
+            "cracked"
+        ],
+        3
+    ],
+    [
+        [
+            "cracked",
+            "quantum"
+        ],
+        3
+    ],
+    [
+        [
+            "computing",
+            "challenge"
+        ],
+        3
+    ],
+    [
+        [
+            "nvidia",
+            "antitrust"
+        ],
+        3
     ],
     [
         [
@@ -121,21 +121,21 @@
     [
         [
             "galaxy",
-            "tab"
+            "s24"
         ],
         2
     ],
     [
         [
-            "smart",
-            "glasses"
+            "google",
+            "\u2019"
         ],
         2
     ],
     [
         [
-            "18",
-            "pro"
+            "willow",
+            "quantum"
         ],
         2
     ]
