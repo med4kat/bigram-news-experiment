@@ -31,3 +31,13 @@ with open("data/processed/sentiment_results.json", "w") as file:
     json.dump(sentiment_results, file, indent=4)
 
 print("Sentiment analysis results saved to data/processed/sentiment_results.json!")
+
+# Calculate average sentiment
+if sentiment_results:
+    avg_polarity = sum(item["polarity"] for item in sentiment_results) / len(sentiment_results)
+    avg_subjectivity = sum(item["subjectivity"] for item in sentiment_results) / len(sentiment_results)
+
+    print(f"Average Polarity: {avg_polarity:.2f}")
+    print(f"Average Subjectivity: {avg_subjectivity:.2f}")
+else:
+    print("No sentiment results available.")
