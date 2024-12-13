@@ -1,491 +1,491 @@
 [
     {
-        "headline": "OPPO Find X8 Pro vs. Samsung Galaxy S24 Ultra A showdown of top Android camera phones",
-        "polarity": 0.5,
-        "subjectivity": 0.5
-    },
-    {
-        "headline": "TikTok owner ByteDance is now Chinas biggest buyer of Nvidia chips as it seeks to lead AI race, report says",
+        "headline": "Samsung Galaxy S25 vs. iPhone 16 The showdown begins",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Finally Putting the RK1 Through its Paces",
-        "polarity": 0.0,
-        "subjectivity": 1.0
-    },
-    {
-        "headline": "Your iPhone is about to get its biggest free update yet  iOS 18.2 release imminent",
-        "polarity": 0.4,
-        "subjectivity": 0.8
-    },
-    {
-        "headline": "Googles Willow Quantum Chip Crushes Classical Computers on a Cosmic Timescale",
+        "headline": "Intel Could Be Split Up By Next CEO",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Google stellt neuen Quantenprozessor Willow vor",
+        "headline": "Googles Quantum Boost Doesnt Really Compute",
+        "polarity": 0.2,
+        "subjectivity": 0.2
+    },
+    {
+        "headline": "The Information Suggests, in an Aside, That Apple Scrapped Work on a QuadMaxDoubleUltra MSeries Chip",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Apples Johny Srouji likely on Intels new CEO short list",
-        "polarity": 0.04545454545454545,
-        "subjectivity": 0.5848484848484848
-    },
-    {
-        "headline": "The last missing piece of silicon photonics",
-        "polarity": -0.1,
-        "subjectivity": 0.058333333333333334
-    },
-    {
-        "headline": "Google says its new quantum chip is septillions of years faster than the worlds most powerful supercomputer",
-        "polarity": 0.3121212121212121,
-        "subjectivity": 0.6515151515151515
-    },
-    {
-        "headline": "China is going after Nvidia",
+        "headline": "AMDs nextgen gaming laptop chips may have just leaked",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Realme 14 Pro series to arrive sooner than expected",
-        "polarity": -0.1,
-        "subjectivity": 0.4
+        "headline": "Another Nothing Phone can now download the Android 15 beta",
+        "polarity": 0.0,
+        "subjectivity": 0.0
     },
     {
-        "headline": "Googles new quantum chip hits error correction target",
+        "headline": "KIUpdate kompakt Gemini 2, Character.AI, Rheinmetall, Microsoft Copilot",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Gurman New Apple TV and HomePod mini on track for 2025 release, will use Apple networking chip",
         "polarity": 0.13636363636363635,
         "subjectivity": 0.45454545454545453
     },
     {
-        "headline": "2025 will be the year Arm dominates PCs",
+        "headline": "Samsungs best Android phone gets a flat 250 discount",
+        "polarity": 0.4875,
+        "subjectivity": 0.2125
+    },
+    {
+        "headline": "Appledesigned WiFi chip rumored to debut in refreshed HomePod mini  Apple TV",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Intels Death and Potential Revival",
-        "polarity": 0.0,
-        "subjectivity": 1.0
+        "headline": "iOS 18.2 Brings Major Upgrade to Apple Intelligence. How To Download It on Your iPhone",
+        "polarity": 0.0625,
+        "subjectivity": 0.5
     },
     {
-        "headline": "Media Buying Briefing How one independent agency CEO sees the advantages she has over holdcos",
+        "headline": "Rising to the TOPS How will NPUs and Windows AI grow in 2025?",
         "polarity": 0.0,
-        "subjectivity": 0.125
+        "subjectivity": 0.0
     },
     {
-        "headline": "Smart nutrition gadget snaps photos of your meals and IDs their elements",
+        "headline": "How GPU hardware acceleration works with Linux",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Recensione Redmi 14C cosa si pu avere a circa 100",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Fujitsu svela chip Monaka a 144core",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Heres The Entire Spec Sheet For The Upcoming Google Pixel 9a",
+        "polarity": 0.0,
+        "subjectivity": 0.625
+    },
+    {
+        "headline": "Find X8 Pro or Galaxy S24 Ultra Which Phone Is Better?",
+        "polarity": 0.5,
+        "subjectivity": 0.5
+    },
+    {
+        "headline": "Amazon scommette milioni su azienda di chip, al via la sfida a Nvidia?",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Occhi puntati sul MacBook Air M3 sconto record su Amazon",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Radiant Photo 2 Review for Landscape Photographers",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "British startup launches lowpower RISCV processor design to address the twin problems of memory and energy promises up to 50 faster calculation speeds",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "What Are Trumps Tech Policy Priorities, And What Will He Do?",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Waveform And Vapi Raise Capital For AI Voices, TikTok Goes The Clock, Samsungs New XR Headset",
+        "polarity": 0.13636363636363635,
+        "subjectivity": 0.45454545454545453
+    },
+    {
+        "headline": "Time Recognizes Lisa Su For Leadership Record",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Semiconductor Stocks Exposed To China With Tariffs Incoming",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Synopsys announces Ultra Ethernet and UALink IP to power the nextgeneration of AI datacenters",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Huawei Mate 70, mistero svelato il chipset non  rivoluzionario",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Samsung und Google Projekt Moohan soll Meta Quest und Apple Vision Pro jagen",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Exclusivo AMD planeja chip mais barato para AI PC na CES 2025",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Why materials science is key to unlocking the next frontier of AI development",
+        "polarity": 0.0,
+        "subjectivity": 0.5
+    },
+    {
+        "headline": "iu tra chng c quyn Nvidia, tc l Trung Quc sn sng tr a trn phng din chui cung ng",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Intel Arc B580 review",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "CEO tm quyn ca Intel CEO mi s phi c kinh nghim v kin thc qun l fab sn xut chip",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Tp ch Time gi tn tin s Lisa Su l CEO ca nm 2024",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Apple reportedly join forces with Broadcom for AI server chip",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Assetera Enables NonU.S. Investors to Trade Tokenized Nvidia, Coinbase, and SP 500",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Broadcom forecasts firstquarter revenue above estimates on strong AI chip demand",
+        "polarity": 0.21666666666666665,
+        "subjectivity": 0.41666666666666663
+    },
+    {
+        "headline": "Dow Jones Futures Fall After Tesla, Titans Push Nasdaq Above 20,000 What To Do Now",
+        "polarity": 0.0,
+        "subjectivity": 0.1
+    },
+    {
+        "headline": "Segnatevi questo nome Ayar Labs. NVIDIA, Intel e AMD ci hanno investito, ecco perch",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Apple i MacBook Air M4 sono in arrivo. Confermati da macOS 15.2",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Questa memoria opera a una temperatura di 600 C, oltre quella di fusione del piombo",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Exclusive Best Buy sale brings the Pixel 8 Pro under 650, possibly for a short while",
+        "polarity": 0.3333333333333333,
+        "subjectivity": 0.5333333333333333
+    },
+    {
+        "headline": "TSMC founder says Intel was wrong to pursue the foundry model",
+        "polarity": -0.5,
+        "subjectivity": 0.9
+    },
+    {
+        "headline": "MacBook Air M4 leaked in macOS 15.2 Sequoia, may feature new ultrawide camera",
+        "polarity": 0.13636363636363635,
+        "subjectivity": 0.45454545454545453
+    },
+    {
+        "headline": "Samsung unveils Galaxy Book 5 Pro with AI and Intels Lunar Lake chip",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Google announces Android XR, a new extended reality platform",
+        "polarity": 0.13636363636363635,
+        "subjectivity": 0.45454545454545453
+    },
+    {
+        "headline": "2024 legjobb tallmnyai randizst segt kd, gygyulst segt algoritmus",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Report Apple to Debut InHouse BluetoothWiFi Chip in iPhones and Smart Home Products in 2025",
         "polarity": 0.21428571428571427,
         "subjectivity": 0.6428571428571429
     },
     {
-        "headline": "Data center cinesi obbligati a usare chip Nvidia",
+        "headline": "Sicurezza a rischio un cavo USBC contraffatto pu svuotarvi il conto",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "BadRAM cos lattacco che mette al tappeto la sicurezza dei processori AMD",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Proton 9.04 nuova versione migliora pi giochi Windows su Linux",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Handson Samsungs Android XR Headset is a Curious Combo of Quest  Vision Pro, With One Standout Advantage",
         "polarity": -0.1,
-        "subjectivity": 0.1
-    },
-    {
-        "headline": "Microsoft si sta preparando a lanciare i nuovi Surface Lunar Lake nel 2025",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Links 1292024",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Windows 11s Recall feature finally rolls out to AMD and Intel Copilot PCs  heres how to try it",
-        "polarity": 0.0,
         "subjectivity": 1.0
     },
     {
-        "headline": "China Probes Nvidia Stock For Antitrust Violations",
+        "headline": "Apple prepara un chip per server AI con prestazioni straordinarie",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Going Into Holidays CSuite Leaders Question AIs Bottom Line Impacts",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Cina, traguardo storico con i computer quantistici un modello da 504 qubit",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "AMD Stock Downgraded On AI Chip Competition, Weakening PC Sales",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Cramer calls analyst downgrade of AMD cogent. But hes not giving up on the stock",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Galaxy S24 tem melhor promoo histrica com cupom da Samsung",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Sora is Here OpenAI Has Finally Unleashed its AI Video Model Into the World",
-        "polarity": 0.0,
+        "headline": "Apple abbandona il chip M4 Extreme per concentrarsi sullintelligenza artificiale",
+        "polarity": -0.125,
         "subjectivity": 1.0
     },
     {
-        "headline": "Googles new quantum chip has solved a problem the best supercomputer would have taken a quadrillion times the age of the universe to crack",
-        "polarity": 0.5681818181818181,
-        "subjectivity": 0.37727272727272726
-    },
-    {
-        "headline": "IBM brings optics into the data center to save energy and boost speed",
-        "polarity": -0.1,
-        "subjectivity": 0.1
-    },
-    {
-        "headline": "China is going after Nvidia",
+        "headline": "macOS Sequoia 15.2 svela in anticipo i nuovi MacBook Air M4",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Rambus Stock Is In A Buy Zone With Its Profits Soaring",
+        "headline": "Google Has The Ability To Scale AI By Leveraging Its Global User Base Analyst",
+        "polarity": -0.4,
+        "subjectivity": 0.5
+    },
+    {
+        "headline": "Broadcom forecasts firstquarter revenue above estimates on strong AI chip demand",
+        "polarity": 0.21666666666666665,
+        "subjectivity": 0.41666666666666663
+    },
+    {
+        "headline": "Russias Secret Blizzard APT targets Ukraine with Kazuar backdoor",
+        "polarity": 0.09999999999999998,
+        "subjectivity": 0.85
+    },
+    {
+        "headline": "Experts discovered surveillance tool EagleMsgSpy used by Chinese law enforcement",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Dow Jones Futures Techs Fall As China Probes Nvidia Beware These Risks",
+        "headline": "Inside Google Willow",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Il modem 5G di Apple sar peggiore dei modelli di Qualcomm le nuove previsioni di Bloomberg",
+        "headline": "La sesta generazione di TPU Trillium  disponibile per i clienti Google Cloud",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Amazon, cosa succede? Tagli di prezzo improvvisi e non previsti Black Friday 2?, ottima notizia ma perch?",
-        "polarity": -0.16666666666666666,
-        "subjectivity": 0.43333333333333335
+        "headline": "ThinkPad T14s Gen 6 Review Perfect for Work, Not for Play",
+        "polarity": 1.0,
+        "subjectivity": 1.0
     },
     {
-        "headline": "Xiaomi SU7 lelettrica che sfida i giganti dellautomotive arriva a Milano",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "China launches Nvidia probe as chip war rumbles on",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Google unveils mindboggling quantum computing chip",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Marvell Technology questa piccola azienda di chip ora vale pi di Intel",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "NVIDIA avviata indagine antitrust in Cina. Una ritorsione contro gli USA?",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Intel, a IEDM 2024 le ultime novit che faranno avanzare il mondo dei semiconduttori",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Apple e Sony uniscono le forze per potenziare il gaming su Vision Pro",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Chipmaker Marvell is now more valuable than Intel amid AI boom",
+        "headline": "Esperienza visiva al top con il LED per Retroilluminazione TV a mini prezzo",
         "polarity": 0.5,
         "subjectivity": 0.5
     },
     {
-        "headline": "From Aurora DSQL to Amazon Nova Highlights of reInvent 2024",
+        "headline": "Apple iPhone 15 con la promo Amazon lo paghi quasi 200 in meno",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "HP Omnibook X AI Probamos el porttil de HP con IA integrada, merece la pena?",
+        "headline": "Offertona di Natale Apple MacBook Pro 2024 con chip M4 Pro a 200 in meno",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Apple sta lavorando per portare la connettivit cellulare sui Mac",
+        "headline": "CEO of the Year Lisa Su Talks Competition and Collaboration in the Semiconductor Industry",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "iPhone SE 4 con fotocamera da 48MP e design rinnovato  Rumor",
+        "headline": "Apple to compete with NVIDIA, develop AI server chip named Baltra",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Nvidia stock slides as China opens antitrust probe against AI chip heavyweight",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Nvidia slides after China says its probing the AI chip company for violating antimonopoly laws",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Google says it has cracked a quantum computing challenge with new chip",
+        "headline": "PR Imec Develops New CXL Buffer Memory That Could Surpass DRAM Bit Density",
         "polarity": 0.13636363636363635,
         "subjectivity": 0.45454545454545453
     },
     {
-        "headline": "Stock market today Dow, SP 500, Nasdaq struggle for gains as Nvidia slips",
+        "headline": "Apple reportedly working with Broadcom on custom AI chip, a boost for ASIC",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Oil prices higher on China boost, Syria uncertainty",
-        "polarity": 0.25,
+        "headline": "Is Intel the Tech Industry Equivalent of the 2024 New York Giants?",
+        "polarity": 0.13636363636363635,
+        "subjectivity": 0.45454545454545453
+    },
+    {
+        "headline": "Lassan, de biztosan haladhat a Huawei a sajt chipjeivel",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Arrivano conferme per i MacBook Air M4 da macOS 15.2",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "REDMAGIC 10 launching soon ultimate power starting at 649, reserve yours today!",
+        "polarity": 0.0,
+        "subjectivity": 0.55
+    },
+    {
+        "headline": "RH Guides To 20 Revenue Spike, Shares Soar As Demand Accelerates",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Red Hat Delivers Next Wave of Gen AI Innovation with New Red Hat Enterprise Linux AI Capabilities",
+        "polarity": 0.03409090909090909,
+        "subjectivity": 0.11363636363636363
+    },
+    {
+        "headline": "Kandji 2025 Predictions Apple, AI, the Evolving Workforce and More",
+        "polarity": 0.5,
         "subjectivity": 0.5
     },
     {
-        "headline": "Intel should have focused on AI rather than chipmaking, TSMC founder says",
+        "headline": "Dnyann en by TSMC, yapay zeka sayesinde para basmaya devam ediyor",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Mandiant devised a technique to bypass browser isolation using QR codes",
+        "headline": "What If AI Becomes Addicted to Learning, and Humans Cant Keep Up?",
+        "polarity": -0.4,
+        "subjectivity": 0.6
+    },
+    {
+        "headline": "Everything We Know About iPhone 17 Air and Release Date",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Deloitte denied its systems were hacked by Brain Cipher ransomware group",
+        "headline": "How to score HPs brandnew Snapdragon X Plus OmniBook Copilot PC at the 550 alltime low 350 off",
+        "polarity": 0.0,
+        "subjectivity": 0.3
+    },
+    {
+        "headline": "Yapay zeka destekli Galaxy Book 5 Pro tantld te zellikleri",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "China opens antitrust probe into US chipmaking giant",
-        "polarity": 0.0,
-        "subjectivity": 1.0
-    },
-    {
-        "headline": "BOOX Note Max arriva in Italia caratteristiche e prezzo del nuovo eReader",
+        "headline": "8 Trends Reshaping Network Security in 2025",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Apple iPad Air 2024 con chip M2 a mini prezzo con il coupon natalizio di eBay",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Doppio sconto sul Mini PC pi piccolo sul mercato oggi lo paghi pochissimo",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Cracking the Challenge of Quantum Error Correction",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "China Probes Nvidia For Violating Antimonopoly Law",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "El nuevo robot de limpieza de Cecotec arrasa con un ofertn de lanzamiento",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "NVIDIA Under Antitrust Investigation in China Amid Escalating Chip Tensions",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "NVIDIA Shows Future AI Accelerator Design Silicon Photonics and DRAM on Top of Compute",
-        "polarity": 0.25,
-        "subjectivity": 0.3125
-    },
-    {
-        "headline": "PR Intel Foundry Unveils Technology Advancements at IEDM 2024",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "The Chinese government backs JCETs expansion into AI chip packaging",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Fujifilm expands CMP polishing agent production to meet AI chip demand",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "AWS sees unprecedented Apple endorsement, highlighting AI computing challenges and cloud chip competition",
+        "headline": "Unprecedented deal makes the Lenovo Tab P12 cheaper than ever",
         "polarity": 0.6,
         "subjectivity": 0.9
     },
     {
-        "headline": "Weekly news roundup Global chip industry shifts as China rises, Intel falters, and TSMC pushes boundaries",
+        "headline": "El nuevo chip cuntico de Google es la prueba definitiva que hay mltiples universos paralelos",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "China probes Nvidia for violating antimonopoly law",
+        "headline": "Samsung anuncia Galaxy Book 5 Pro com tela AMOLED, 25 horas de bateria e chip Intel",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "This rumored Samsung Galaxy S25 Ultra upgrade could be big for Android gamers",
-        "polarity": 0.0,
-        "subjectivity": 0.1
-    },
-    {
-        "headline": "iPhone 17 Air, continue conferme sulliPhone pi sottile di sempre",
+        "headline": "Deze verandering moet Appleapparaten energiezuiniger maken",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "China launches antimonopoly probe into Nvidia",
+        "headline": "Dit is wanneer de MacBook Air M4 verschijnt, verklapt de nieuwste macOSupdate",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Googles latest unlocked Pixel 9 Pro Fold back to Amazon alltime low at 300 off today",
-        "polarity": 0.16666666666666666,
-        "subjectivity": 0.39999999999999997
+        "headline": "Intel Arc B580 im XXLTest Besser als erwartet  mssen sich AMD und Nvidia warm anziehen?",
+        "polarity": 0.6,
+        "subjectivity": 0.6
     },
     {
-        "headline": "Apples most affordable 13inch M4 iPad Pro models are now 200 off at Amazon with holiday delivery",
-        "polarity": 0.5,
-        "subjectivity": 0.5
+        "headline": "Google slpper AIassistenten Deep Research",
+        "polarity": 0.0,
+        "subjectivity": 0.4
     },
     {
-        "headline": "China targets Nvidia with antitrust probe, escalating US chip tensions",
+        "headline": "Google presenterar Gemini 2.0",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Google says it has cracked a quantum computing challenge with new chip",
-        "polarity": 0.13636363636363635,
-        "subjectivity": 0.45454545454545453
-    },
-    {
-        "headline": "Chips linked with light could train AI faster while using less energy",
-        "polarity": 0.11666666666666668,
-        "subjectivity": 0.3833333333333333
-    },
-    {
-        "headline": "Is Googles new Willow quantum computer really such a big deal?",
-        "polarity": 0.04545454545454545,
-        "subjectivity": 0.35151515151515156
-    },
-    {
-        "headline": "Is Googles new quantum computer a big deal?",
-        "polarity": 0.06818181818181818,
-        "subjectivity": 0.2772727272727273
-    },
-    {
-        "headline": "Holiday Gift Guide 2024 Canada LastMinute Gift Ideas for Tech",
+        "headline": "Snart har St1 100 laddpunkter",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Broadcom teases cuttingedge 3.5D XDSiP tech 4 compute tiles, 12 HBM sites fabbed by TSMC",
+        "headline": "rets iOSapp r filmkameraappen Kino",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Notcias do dia",
+        "headline": "Elon Musk sgs nu vara vrd 400 miljarder dollar",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Google claimt doorbraak kwantumcomputer 5 minuten in plaats van 14 miljard jaar",
+        "headline": "Snart fr Volvo EX30 en ny mjukvaruuppdatering",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Smart Money Podcast  Smart Mortgage Strategies From Refinancing to HELOCs",
-        "polarity": 0.21428571428571427,
-        "subjectivity": 0.6428571428571429
-    },
-    {
-        "headline": "Chipmaker Nvidia teams up with Vietnam for AI amid USChina row",
+        "headline": "Android kan nu hitta sprbrickor som fljer dig",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Chinese entrepreneur boasts receipt of 200 NVIDIA H200 GPUs in Beijing despite US export ban",
+        "headline": "Swish fr std fr bankkort",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "China targets Nvidia with antitrust probe",
+        "headline": "BMW M visar bilder p Neue Klasseprototyp",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Google says it has cracked a quantum computing challenge",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Google debuts nextgen quantum computing chip with breakthrough error correction",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "IBM touts fiber optic technology it says can cut AI training times and energy use by 80",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "IBM Unveils Breakthrough in Optics Technology",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Go inside the Google Quantum AI lab to learn about how quantum computing works",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Intel should have focused on AI rather than chipmaking, TSMC founder says",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "20 luxury stocking fillers for him this Christmas 2024  US  Canada edition",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Nvidia slides after China says its probing the AI chip company for violating antimonopoly laws",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Willow to nowy, rewolucyjny procesor kwantowy Google. amie wszelkie dotychczasowe bariery",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "MacBook Pro 2026 display OLED e niente tacca, rivoluzione in arrivo?",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "BofA AMD Can Witness PC Slowdown in 2025  AI Competition From Broadcom And Marvell",
+        "headline": "Med iOS 18.2 kan du gra egna emojier",
         "polarity": 0.0,
         "subjectivity": 0.0
     }

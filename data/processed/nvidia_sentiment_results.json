@@ -1,107 +1,32 @@
 [
     {
-        "headline": "TikTok owner ByteDance is now Chinas biggest buyer of Nvidia chips as it seeks to lead AI race, report says",
+        "headline": "Amazon scommette milioni su azienda di chip, al via la sfida a Nvidia?",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "China is going after Nvidia",
+        "headline": "iu tra chng c quyn Nvidia, tc l Trung Quc sn sng tr a trn phng din chui cung ng",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Data center cinesi obbligati a usare chip Nvidia",
-        "polarity": -0.1,
-        "subjectivity": 0.1
-    },
-    {
-        "headline": "China Probes Nvidia Stock For Antitrust Violations",
+        "headline": "Assetera Enables NonU.S. Investors to Trade Tokenized Nvidia, Coinbase, and SP 500",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "China is going after Nvidia",
+        "headline": "Segnatevi questo nome Ayar Labs. NVIDIA, Intel e AMD ci hanno investito, ecco perch",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Dow Jones Futures Techs Fall As China Probes Nvidia Beware These Risks",
+        "headline": "Apple to compete with NVIDIA, develop AI server chip named Baltra",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "China launches Nvidia probe as chip war rumbles on",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "NVIDIA avviata indagine antitrust in Cina. Una ritorsione contro gli USA?",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Nvidia stock slides as China opens antitrust probe against AI chip heavyweight",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Nvidia slides after China says its probing the AI chip company for violating antimonopoly laws",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Stock market today Dow, SP 500, Nasdaq struggle for gains as Nvidia slips",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "China Probes Nvidia For Violating Antimonopoly Law",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "NVIDIA Under Antitrust Investigation in China Amid Escalating Chip Tensions",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "NVIDIA Shows Future AI Accelerator Design Silicon Photonics and DRAM on Top of Compute",
-        "polarity": 0.25,
-        "subjectivity": 0.3125
-    },
-    {
-        "headline": "China probes Nvidia for violating antimonopoly law",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "China launches antimonopoly probe into Nvidia",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "China targets Nvidia with antitrust probe, escalating US chip tensions",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Chipmaker Nvidia teams up with Vietnam for AI amid USChina row",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Chinese entrepreneur boasts receipt of 200 NVIDIA H200 GPUs in Beijing despite US export ban",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "China targets Nvidia with antitrust probe",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Nvidia slides after China says its probing the AI chip company for violating antimonopoly laws",
-        "polarity": 0.0,
-        "subjectivity": 0.0
+        "headline": "Intel Arc B580 im XXLTest Besser als erwartet  mssen sich AMD und Nvidia warm anziehen?",
+        "polarity": 0.6,
+        "subjectivity": 0.6
     }
 ]

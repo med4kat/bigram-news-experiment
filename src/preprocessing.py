@@ -63,4 +63,4 @@ bigram_counts = Counter(all_bigrams)
 with open("data/processed/bigram_counts.json", "w") as file:
     json.dump(bigram_counts.most_common(20), file, indent=4)
 
-print("Top 20 bigrams saved to data/processed/bigram_counts.json!")
+print("Top 20 bigrams saved to data/processed/bigram_counts.json!") 
