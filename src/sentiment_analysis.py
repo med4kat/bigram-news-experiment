@@ -41,3 +41,15 @@ if sentiment_results:
     print(f"Average Subjectivity: {avg_subjectivity:.2f}")
 else:
     print("No sentiment results available.")
+
+# Filter sentiment results for a specific company (e.g., NVIDIA)
+company_name = "nvidia"  # Change this to your chosen company
+filtered_results = [
+    result for result in sentiment_results if company_name in result["headline"].lower()
+]
+
+# Save the filtered results
+with open(f"data/processed/{company_name}_sentiment_results.json", "w") as file:
+    json.dump(filtered_results, file, indent=4)
+
+print(f"Sentiment results for {company_name} saved to data/processed/{company_name}_sentiment_results.json!")
