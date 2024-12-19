@@ -1,32 +1,47 @@
 [
     {
-        "headline": "Amazon scommette milioni su azienda di chip, al via la sfida a Nvidia?",
+        "headline": "Broadcom Climbs 11, Nvidia Slides as AI Chip Competition Intensifies",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "iu tra chng c quyn Nvidia, tc l Trung Quc sn sng tr a trn phng din chui cung ng",
+        "headline": "Nvidia stocks correction has accelerated since Microsofts CEO hinted the frenzied demand for AI chips may be waning",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Assetera Enables NonU.S. Investors to Trade Tokenized Nvidia, Coinbase, and SP 500",
+        "headline": "China targets Nvidia as cloud firms navigate AI chip restrictions",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Segnatevi questo nome Ayar Labs. NVIDIA, Intel e AMD ci hanno investito, ecco perch",
+        "headline": "Broadcoms AI Success Wont All Come at Nvidias Expense",
+        "polarity": 0.3,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Nvidia stock continues slide on chip supply comments",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Apple to compete with NVIDIA, develop AI server chip named Baltra",
+        "headline": "Fed meeting, Nvidia correction, DAX weakness  whats moving markets",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Intel Arc B580 im XXLTest Besser als erwartet  mssen sich AMD und Nvidia warm anziehen?",
-        "polarity": 0.6,
-        "subjectivity": 0.6
+        "headline": "Just how deep is Nvidias CUDA moat really?",
+        "polarity": 0.1,
+        "subjectivity": 0.30000000000000004
+    },
+    {
+        "headline": "Nvidias RTX 5090 Might Feature 32GB of Memory, Only 16GB for RTX 5080",
+        "polarity": 0.0,
+        "subjectivity": 1.0
+    },
+    {
+        "headline": "Nvidias RTX 5090 Might Feature 32GB of Memory, Only 16GB for RTX 5080",
+        "polarity": 0.0,
+        "subjectivity": 1.0
     }
 ]

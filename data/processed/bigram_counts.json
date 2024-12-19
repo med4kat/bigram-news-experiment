@@ -1,141 +1,141 @@
 [
     [
         [
-            "macbook",
-            "air"
+            "100",
+            "billion"
+        ],
+        8
+    ],
+    [
+        [
+            "tech",
+            "giant"
         ],
         6
     ],
     [
         [
-            "air",
-            "m4"
+            "giant",
+            "softbank"
         ],
-        5
+        6
     ],
     [
         [
-            "lisa",
-            "su"
+            "softbank",
+            "investing"
+        ],
+        6
+    ],
+    [
+        [
+            "investing",
+            "100"
+        ],
+        6
+    ],
+    [
+        [
+            "billion",
+            "us"
+        ],
+        6
+    ],
+    [
+        [
+            "nvidia",
+            "'s"
+        ],
+        4
+    ],
+    [
+        [
+            "elon",
+            "musk"
         ],
         3
     ],
     [
         [
-            "ai",
-            "chip"
+            "rog",
+            "flow"
+        ],
+        3
+    ],
+    [
+        [
+            "flow",
+            "z13"
         ],
         3
     ],
     [
         [
             "macos",
-            "15.2"
+            "sequoia"
         ],
         3
     ],
     [
         [
-            "galaxy",
-            "book"
+            "sequoia",
+            "15.3"
         ],
         3
-    ],
-    [
-        [
-            "book",
-            "5"
-        ],
-        3
-    ],
-    [
-        [
-            "5",
-            "pro"
-        ],
-        3
-    ],
-    [
-        [
-            "apple",
-            "tv"
-        ],
-        2
-    ],
-    [
-        [
-            "homepod",
-            "mini"
-        ],
-        2
-    ],
-    [
-        [
-            "ios",
-            "18.2"
-        ],
-        2
-    ],
-    [
-        [
-            "xr",
-            "headset"
-        ],
-        2
-    ],
-    [
-        [
-            "vision",
-            "pro"
-        ],
-        2
-    ],
-    [
-        [
-            "intel",
-            "arc"
-        ],
-        2
-    ],
-    [
-        [
-            "arc",
-            "b580"
-        ],
-        2
-    ],
-    [
-        [
-            "apple",
-            "reportedly"
-        ],
-        2
     ],
     [
         [
             "ai",
-            "server"
-        ],
-        2
-    ],
-    [
-        [
-            "server",
             "chip"
         ],
-        2
+        3
     ],
     [
         [
-            "broadcom",
-            "forecasts"
+            "apple",
+            "intelligence"
         ],
         2
     ],
     [
         [
-            "forecasts",
-            "first-quarter"
+            "di",
+            "una"
+        ],
+        2
+    ],
+    [
+        [
+            "pixel",
+            "9"
+        ],
+        2
+    ],
+    [
+        [
+            "ra",
+            "m\u1eaft"
+        ],
+        2
+    ],
+    [
+        [
+            "di",
+            "natale"
+        ],
+        2
+    ],
+    [
+        [
+            "tutte",
+            "le"
+        ],
+        2
+    ],
+    [
+        [
+            "15.3",
+            "beta"
         ],
         2
     ]
