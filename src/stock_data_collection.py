@@ -18,3 +18,15 @@ def fetch_stock_data(ticker, date="2024-12-18"):
 nvda_data = fetch_stock_data("NVDA", date='2024-12-17')
 print(nvda_data)
 
+# Collect and save stock data for each ticker
+all_data = {}
+for ticker in tickers:
+    all_data[ticker] = fetch_stock_data(ticker).to_dict(orient="records")
+
+# Save to a JSON file
+output_file = "data/processed/stock_data.json"
+with open(output_file, "w") as file:
+    json.dump(all_data, file, indent=4, default=str)
+
+print(f"Stock data saved to {output_file}")
+
