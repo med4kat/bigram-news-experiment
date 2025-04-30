@@ -14,3 +14,9 @@ This project focuses on detecting financial events in the semiconductor industry
 
 This project analyses financial news in the semiconductor industry to detect patterns and potential market signals by extracting and analysing word pairs (bigrams) from news headlines.
 
+To intialize:
+```bash
+python -m venv venv
+source ./venv/bin/activate
+pip install -r requirements.txt
+```

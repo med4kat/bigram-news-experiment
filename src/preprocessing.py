@@ -16,12 +16,9 @@ for i, article in enumerate(articles[:5]):  # Show first 5 headlines
     print(f"{i+1}. {article['title']}")
 
 # Download NLTK resources (run once)
+nltk.download('punkt_tab')
 nltk.download('punkt')
 nltk.download('stopwords')
-
-# Load data from the JSON file
-with open("data/raw/news_headlines.json", "r") as file:
-    data = json.load(file)
 
 # Extract headlines
 articles = data.get("articles", [])
@@ -44,7 +41,7 @@ def clean_and_tokenise(text):
 # Clean and tokenise headlines
 processed_headlines = [clean_and_tokenise(headline) for headline in headlines]
 
-# Save the cleaned data
+# Save the cleaned data. We don't need the file, but it's good to have it available to learn.
 with open("data/processed/processed_headlines.json", "w") as file:
     json.dump(processed_headlines, file, indent=4)
 

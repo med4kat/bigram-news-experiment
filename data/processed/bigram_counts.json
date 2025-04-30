@@ -1,141 +1,141 @@
 [
     [
         [
-            "100",
-            "billion"
+            "stocks",
+            "buy"
         ],
-        8
+        7
+    ],
+    [
+        [
+            "buy",
+            "according"
+        ],
+        7
+    ],
+    [
+        [
+            "among",
+            "oversold"
+        ],
+        6
+    ],
+    [
+        [
+            "oversold",
+            "tech"
+        ],
+        6
     ],
     [
         [
             "tech",
-            "giant"
+            "stocks"
         ],
         6
     ],
     [
         [
-            "giant",
-            "softbank"
+            "according",
+            "hedge"
         ],
         6
     ],
     [
         [
-            "softbank",
-            "investing"
+            "hedge",
+            "funds"
         ],
         6
-    ],
-    [
-        [
-            "investing",
-            "100"
-        ],
-        6
-    ],
-    [
-        [
-            "billion",
-            "us"
-        ],
-        6
-    ],
-    [
-        [
-            "nvidia",
-            "'s"
-        ],
-        4
-    ],
-    [
-        [
-            "elon",
-            "musk"
-        ],
-        3
-    ],
-    [
-        [
-            "rog",
-            "flow"
-        ],
-        3
-    ],
-    [
-        [
-            "flow",
-            "z13"
-        ],
-        3
-    ],
-    [
-        [
-            "macos",
-            "sequoia"
-        ],
-        3
-    ],
-    [
-        [
-            "sequoia",
-            "15.3"
-        ],
-        3
-    ],
-    [
-        [
-            "ai",
-            "chip"
-        ],
-        3
-    ],
-    [
-        [
-            "apple",
-            "intelligence"
-        ],
-        2
-    ],
-    [
-        [
-            "di",
-            "una"
-        ],
-        2
-    ],
-    [
-        [
-            "pixel",
-            "9"
-        ],
-        2
     ],
     [
         [
             "ra",
             "m\u1eaft"
         ],
-        2
+        4
     ],
     [
         [
-            "di",
-            "natale"
+            "gi\u00e1",
+            "t\u1eeb"
         ],
-        2
+        4
     ],
     [
         [
-            "tutte",
-            "le"
+            "iphone",
+            "18"
         ],
-        2
+        3
     ],
     [
         [
-            "15.3",
-            "beta"
+            "pixel",
+            "9"
+        ],
+        3
+    ],
+    [
+        [
+            "9",
+            "pro"
+        ],
+        3
+    ],
+    [
+        [
+            "funds",
+            "ready"
+        ],
+        3
+    ],
+    [
+        [
+            "ready",
+            "edit1"
+        ],
+        3
+    ],
+    [
+        [
+            "worst-performing",
+            "blue"
+        ],
+        3
+    ],
+    [
+        [
+            "blue",
+            "chip"
+        ],
+        3
+    ],
+    [
+        [
+            "chip",
+            "stock"
+        ],
+        3
+    ],
+    [
+        [
+            "stock",
+            "far"
+        ],
+        3
+    ],
+    [
+        [
+            "far",
+            "2025"
+        ],
+        3
+    ],
+    [
+        [
+            "dimensity",
+            "9500"
         ],
         2
     ]

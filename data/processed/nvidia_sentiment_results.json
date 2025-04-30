@@ -1,47 +1,22 @@
 [
     {
-        "headline": "Broadcom Climbs 11, Nvidia Slides as AI Chip Competition Intensifies",
+        "headline": "Another Ryzen 395 workstation PC launches with 128GB of RAM and yes, it is squarely aimed at AI professionals and Nvidias DGX Spark",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Nvidia stocks correction has accelerated since Microsofts CEO hinted the frenzied demand for AI chips may be waning",
+        "headline": "Forget the rumoured 18 GB RTX 5070 Super, this utterly epic 96 GB Nvidia GPU will solve all your VRAM worries, kinda",
+        "polarity": 0.21666666666666667,
+        "subjectivity": 0.5333333333333333
+    },
+    {
+        "headline": "Vertiv contribuisce alla realizzazione di Colosseum, il supercomputer di iGenius basato su tecnologia NVIDIA",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "China targets Nvidia as cloud firms navigate AI chip restrictions",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Broadcoms AI Success Wont All Come at Nvidias Expense",
-        "polarity": 0.3,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Nvidia stock continues slide on chip supply comments",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Fed meeting, Nvidia correction, DAX weakness  whats moving markets",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Just how deep is Nvidias CUDA moat really?",
-        "polarity": 0.1,
-        "subjectivity": 0.30000000000000004
-    },
-    {
-        "headline": "Nvidias RTX 5090 Might Feature 32GB of Memory, Only 16GB for RTX 5080",
-        "polarity": 0.0,
-        "subjectivity": 1.0
-    },
-    {
-        "headline": "Nvidias RTX 5090 Might Feature 32GB of Memory, Only 16GB for RTX 5080",
-        "polarity": 0.0,
-        "subjectivity": 1.0
+        "headline": "Chip wars Nvidia loses the China market",
+        "polarity": -0.3,
+        "subjectivity": 0.1
     }
 ]

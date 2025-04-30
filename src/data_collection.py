@@ -10,7 +10,8 @@ NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
 # Fetch semiconductor news headlines
 # url = f"https://newsapi.org/v2/everything?q=NVDA&q=AMD&q=INTC&q=QCOM&q=TSM&from=2024-11-27&to=2024-11-30&sortBy=popularity&apiKey={NEWSAPI_KEY}"
 # add language=eng 
-# Trying new key words:
+
+# Fetch news headlines from the last 24 hours AI chip, GPU manufacturing, tech innovation, processor technology:
 today = datetime.today().strftime('%Y-%m-%d')
 a_year_ago = datetime.today().replace(year=datetime.today().year-1).strftime('%Y-%m-%d')
 a_day_ago = datetime.today().replace(day=datetime.today().day-1).strftime('%Y-%m-%d')
