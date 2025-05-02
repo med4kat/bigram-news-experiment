@@ -21,6 +21,7 @@ for article in raw_data.get("articles", []):
     sentiment = TextBlob(headline).sentiment
     sentiment_results.append({
         "headline": headline,
+        "timestamp": article["publishedAt"],
         "polarity": sentiment.polarity,
         "subjectivity": sentiment.subjectivity
     })
