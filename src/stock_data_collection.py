@@ -2,31 +2,19 @@ import yfinance as yf
 import json
 from datetime import datetime, timedelta
 
-# List of tickers for companies to tract, for the first time try NVDA only
-tickers = ["NVDA"]
+today = datetime.today()
+start = today - timedelta(days=7) 
 
-# Fetch historical data
-def fetch_stock_data(ticker, date="2024-12-18"):
-    stock = yf.Ticker(ticker)
-    start_date = datetime.strptime(date, '%Y-%m-%d')
-    end_date = start_date + timedelta(days=1) # Add one day to include full day range
-    data = stock.history(start=start_date, end=end_date)
-    # Convert datetime index to a column for easier processing
-    data.reset_index(inplace=True)
-    return data
+# Get 1-minute intraday data for a specific day
+ticker = yf.Ticker("NVDA")
+df = ticker.history(interval="1m", start=start.strftime('%Y-%m-%d'), end=today.strftime('%Y-%m-%d'))  
+df.reset_index(inplace=True)
 
-nvda_data = fetch_stock_data("NVDA", date='2024-12-17')
-print(nvda_data)
-
-# Collect and save stock data for each ticker
-all_data = {}
-for ticker in tickers:
-    all_data[ticker] = fetch_stock_data(ticker).to_dict(orient="records")
+print(df.head())
 
 # Save to a JSON file
-output_file = "data/processed/stock_data.json"
+output_file = "data/processed/stock_data_NVDA.json"
 with open(output_file, "w") as file:
-    json.dump(all_data, file, indent=4, default=str)
+    json.dump(df.to_dict(orient="records"), file, indent=4, default=str)
 
 print(f"Stock data saved to {output_file}")
-

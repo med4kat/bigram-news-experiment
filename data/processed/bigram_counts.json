@@ -1,71 +1,36 @@
 [
     [
         [
-            "stocks",
-            "buy"
-        ],
-        7
-    ],
-    [
-        [
-            "buy",
-            "according"
-        ],
-        7
-    ],
-    [
-        [
-            "among",
-            "oversold"
-        ],
-        6
-    ],
-    [
-        [
-            "oversold",
-            "tech"
-        ],
-        6
-    ],
-    [
-        [
-            "tech",
-            "stocks"
-        ],
-        6
-    ],
-    [
-        [
-            "according",
-            "hedge"
-        ],
-        6
-    ],
-    [
-        [
-            "hedge",
-            "funds"
-        ],
-        6
-    ],
-    [
-        [
-            "ra",
-            "m\u1eaft"
+            "smart",
+            "glasses"
         ],
         4
     ],
     [
         [
-            "gi\u00e1",
-            "t\u1eeb"
+            "lowest",
+            "price"
         ],
-        4
+        3
     ],
     [
         [
-            "iphone",
-            "18"
+            "motorola",
+            "razr"
+        ],
+        3
+    ],
+    [
+        [
+            "samsung",
+            "galaxy"
+        ],
+        3
+    ],
+    [
+        [
+            "la",
+            "gama"
         ],
         3
     ],
@@ -85,57 +50,92 @@
     ],
     [
         [
-            "funds",
-            "ready"
+            "iphone",
+            "17"
         ],
         3
     ],
     [
         [
-            "ready",
-            "edit1"
+            "surface",
+            "pro"
         ],
         3
     ],
     [
         [
-            "worst-performing",
-            "blue"
+            "surface",
+            "laptop"
         ],
         3
     ],
     [
         [
-            "blue",
-            "chip"
+            "pro",
+            "2"
         ],
         3
     ],
     [
         [
-            "chip",
-            "stock"
+            "apple",
+            "\u2019"
         ],
-        3
+        2
     ],
     [
         [
-            "stock",
-            "far"
+            "\u2019",
+            "latest"
         ],
-        3
+        2
     ],
     [
         [
-            "far",
-            "2025"
+            "one",
+            "ui"
         ],
-        3
+        2
     ],
     [
         [
-            "dimensity",
-            "9500"
+            "ui",
+            "8"
+        ],
+        2
+    ],
+    [
+        [
+            "razr",
+            "plus"
+        ],
+        2
+    ],
+    [
+        [
+            "ipad",
+            "air"
+        ],
+        2
+    ],
+    [
+        [
+            "gama",
+            "media"
+        ],
+        2
+    ],
+    [
+        [
+            "all-time",
+            "low"
+        ],
+        2
+    ],
+    [
+        [
+            "17",
+            "air"
         ],
         2
     ]

@@ -1,45 +1,513 @@
 {
     "status": "ok",
-    "totalResults": 91,
+    "totalResults": 946,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Slashdot.org"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "msmash",
-            "title": "Nvidia and Anthropic Publicly Clash Over AI Chip Export Controls",
-            "description": "Nvidia publicly criticized AI startup Anthropic on Thursday over claims about Chinese smuggling tactics, just days before the Biden-era \"AI Diffusion Rule\" takes effect on May 15. The confrontation highlights growing tensions between AI hardware providers and\u2026",
-            "url": "https://slashdot.org/story/25/05/01/1520202/nvidia-and-anthropic-publicly-clash-over-ai-chip-export-controls",
-            "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
-            "publishedAt": "2025-05-01T15:20:00Z",
-            "content": "Nvidia publicly criticized AI startup Anthropic on Thursday over claims about Chinese smuggling tactics, just days before the Biden-era \"AI Diffusion Rule\" takes effect on May 15. The confrontation h\u2026 [+978 chars]"
+            "author": "Sheena Vasani",
+            "title": "Apple\u2019s latest iPad Mini has dropped to its lowest price in months",
+            "description": "It\u2019s true that Apple\u2019s latest iPad remains an excellent value, especially when it\u2019s on sale for $299. However, if you want features like Apple Intelligence and Apple Pencil Pro support without spending a fortune on an iPad Pro, the latest iPad Mini might be t\u2026",
+            "url": "https://www.theverge.com/tech/661211/apple-ipad-mini-seventh-gen-2024-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/iPad-Mini-Deal-Lead.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-05-05T19:01:47Z",
+            "content": "The iPad Mini offers a cost-effective way to get access to Apple Intelligence.\r\nThe iPad Mini offers a cost-effective way to get access to Apple Intelligence.\r\nIts true that Apples latest iPad remain\u2026 [+1730 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "David Nield",
+            "title": "Your email inbox isn\u2019t just an annoyance\u2014it\u2019s a privacy risk",
+            "description": "We understandably avoid our overflowing our email inbox, in favor of getting on with something else more fun, but there are very good privacy reasons to want to tackle this pile of digital detritus\u2014and there are powerful tools to help.Delete old accounts, pro\u2026",
+            "url": "https://gizmodo.com/your-email-inbox-isnt-just-an-annoyance-its-a-privacy-risk-2000598016",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/Mailbox-1-1.jpg",
+            "publishedAt": "2025-05-08T12:39:58Z",
+            "content": "For most of us, taking a long, hard look at our inbox isn\u2019t fun: Typically, the digital clutter and spam email is piled high, while anything useful and informative often gets lost in the deluge. Gett\u2026 [+7492 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz)",
+            "title": "Nothing Phone 3 emoji teasers could finally spell an impending launch",
+            "description": "Nothing started teasing the Phone 3 with a couple of emojis on X.",
+            "url": "https://www.androidcentral.com/phones/nothing-phones/nothing-phone-3-emoji-teasers-impending-launch",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nvkEpF7TUPyRwYhUdxJYHi.jpg",
+            "publishedAt": "2025-05-08T17:46:01Z",
+            "content": "What you need to know\r\n<ul><li>Nothing has started teasing a new device on social media, which appears to be the Phone 3.</li><li>The company has posted emojis for a smartphone and the number three i\u2026 [+3442 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "vishnu.skar@gmail.com (Vishnu Sarangapurkar)",
+            "title": "New Moto Edge 70 leak suggests it will get a major camera upgrade",
+            "description": "The renders suggest a design similar to its predecessor, including curved edges, a vegan leather back, and a triple-camera system.",
+            "url": "https://www.androidcentral.com/phones/motorola/moto-edge-70-leaks-reveal-familiar-design-and-potential-specs",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/HYQmbEkHzAY3LuEeogcLdA.jpg",
+            "publishedAt": "2025-05-05T17:27:03Z",
+            "content": "What you need to know\r\n<ul><li>Early leaked renders of the Moto Edge 70 showcase a design reminiscent of the recently launched Moto Edge 60.</li><li>The device is likely to feature a triple-camera se\u2026 [+2357 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "nickodiaz@sbcglobal.net (Nickolas Diaz)",
+            "title": "An alleged One UI 8 Watch leak highlights 'actions' for Google's Gemini",
+            "description": "Samsung's One UI 8 Watch code reportedly surfaced and might've detailed Gemini's functions.",
+            "url": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/alleged-one-ui-8-watch-leak-samsung-gemini-actions",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/D3XUws3Evcq8v9DY9ejQFe.jpg",
+            "publishedAt": "2025-05-07T20:02:38Z",
+            "content": "What you need to know\r\n<ul><li>A tipster claims to have discovered an early build for Samsung's Wear OS update, One UI 8 Watch, which reportedly holds clues about Gemini.</li><li>Gemini is expected i\u2026 [+3201 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "derrek.lee@futurenet.com (Derrek Lee)",
+            "title": "Which Motorola Razr 2025 model should you buy?",
+            "description": "Motorola launched three Razr 2025 models with similar designs but different specs and capabilities. Here, we'll help you decide which one you should buy.",
+            "url": "https://www.androidcentral.com/phones/motorola/which-motorola-razr-2025-model-should-you-buy",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/koLWjXKCDwQYaL7Ksi9VWd.jpg",
+            "publishedAt": "2025-05-02T16:41:09Z",
+            "content": "Motorola just launched its latest Razr smartphones, which are set to hit store shelves in the coming weeks. However, instead of just two phones, Motorola launched three Razr 2025 models, taking more \u2026 [+10344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "roydon.cerejo@gmail.com (Roydon Cerejo)",
+            "title": "Samsung Galaxy Z Flip 7 vs. Motorola Razr Ultra 2025: Which one will be the first to fold?",
+            "description": "The Galaxy Z Flip 7 is not out yet but rumors are pointing to it being a significant upgrade, which means it goes up directly against the new Razr Ultra 2025.",
+            "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-flip-7-vs-motorola-razr-ultra-2025",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/RohBotZnfQzj9EcAas6UNc.jpg",
+            "publishedAt": "2025-05-06T20:59:22Z",
+            "content": "Motorola has raised the bar for what a premium flip phone should look like with the new Razr Ultra 2025. The $1,299 price tag officially makes it the most expensive Motorola flip phone yet, and has i\u2026 [+11404 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "derrek.lee@futurenet.com (Derrek Lee)",
+            "title": "Motorola Razr Plus 2025 vs. Razr Plus 2024: The same but different",
+            "description": "Motorola launched the new Razr Plus 2025, which appears nearly identical to the Razr Plus 2024. So what's the same and what's different?",
+            "url": "https://www.androidcentral.com/phones/motorola/motorola-razr-plus-2025-vs-razr-plus-2024",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Jzmc9pbgmjbDYe3mh5kaK3.jpg",
+            "publishedAt": "2025-05-02T16:22:04Z",
+            "content": "Motorola's Razr Plus used to be the top of the line when it came to flip phones, but with the company's Razr 2025 series, the Plus now sits squarely in the middle. With the Razr 2025 below it and the\u2026 [+8733 chars]"
         },
         {
             "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "Lara O'Reilly",
-            "title": "Meta's advertisers didn't flinch after it shook up content moderation",
-            "description": "Meta rolled back fact checking and content moderation in Q1, and advertisers showed they weren't spooked.",
-            "url": "https://www.businessinsider.com/meta-earnings-advertisers-fact-checking-content-moderation-2025-5",
-            "urlToImage": "https://i.insider.com/68132d63a466d2b74ab4ae4b?width=1200&format=jpeg",
-            "publishedAt": "2025-05-01T11:10:58Z",
-            "content": "Mark Zuckerberg introduced sweeping changes to content moderation in January. Emma McIntyre/WireImage via Getty Images\r\n<ul><li>Meta's ad business is firing on all cylinders.</li><li>That's despite r\u2026 [+3704 chars]"
+            "author": "fdemott@businessinsider.com (Filip De Mott)",
+            "title": "'The new battlegrounds for AI supremacy:' 3 things to know about the trade in rare earth minerals",
+            "description": "Soaring demand for copper, lithium, and nickel could make the metals more valuable than oil and gas by 2050, Barclays said.",
+            "url": "https://www.businessinsider.com/ai-rare-earth-metals-tech-data-centers-lithium-cobalt-china-2025-5",
+            "urlToImage": "https://i.insider.com/6814e8dd3fe8d3928364c3b2?width=1200&format=jpeg",
+            "publishedAt": "2025-05-03T08:45:01Z",
+            "content": "The artificial intelligence race is a much a scramble for physical resources as it is a contest to maximize computing capabilities. \r\nThe AI boom has fueled a fresh surge of demand for rare earth min\u2026 [+3671 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Jennifer Gonick)",
+            "title": "The newest iPad Air is now $100 off \u2014 Score this tablet deal on Amazon",
+            "description": "One of the newest iPad models, the 2025 iPad Air M3, is on sale now. Get it 17% off at Amazon for a limited time.",
+            "url": "https://www.businessinsider.com/guides/deals/apple-ipad-air-m3-amazon-deal-2025",
+            "urlToImage": "https://i.insider.com/681a554f3fe8d39283651854?width=1200&format=jpeg",
+            "publishedAt": "2025-05-06T20:03:10Z",
+            "content": "Investing in a tablet can optimize your work, schoolwork, or daily life by combining all of the features of your smartphone, laptop, and more in a portable device. There's no doubt that Apple iPads a\u2026 [+4370 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "iPhone 18 Rumors: What to Expect From Apple Next Year",
+            "description": "Apple's is continually working with suppliers on successive iPhone models simultaneously, which is why we often get rumored features so far ahead of launch. The iPhone 18 series is no different, and we already have a picture forming of what to expect from App\u2026",
+            "url": "https://www.macrumors.com/2025/05/02/iphone-18-rumors-what-to-expect/",
+            "urlToImage": "https://images.macrumors.com/t/kmk-hyxizdo1yDAAukPuuY9oJfk=/1785x/article-new/2023/11/iphone-16-pro-ghost-hand.jpg",
+            "publishedAt": "2025-05-02T10:01:44Z",
+            "content": "Apple's is continually working with suppliers on successive iPhone models simultaneously, which is why we often get rumored features so far ahead of launch. The iPhone 18 series is no different, and \u2026 [+4528 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sarah Jackson",
+            "title": "The first nonverbal patient to receive Elon Musk's Neuralink shares a video he edited and narrated using his brain chip",
+            "description": "Brad Smith is the third person in the world to get a brain chip implant with Elon Musk's Neuralink, and the first nonverbal ALS patient to do so.",
+            "url": "https://www.businessinsider.com/als-neuralink-patient-edits-video-brain-ai-voice-elon-musk-2025-5",
+            "urlToImage": "https://i.insider.com/6818ef07c6ad288d1480059a?width=1200&format=jpeg",
+            "publishedAt": "2025-05-05T17:44:47Z",
+            "content": "Elon Musk's Neuralink implanted its brain chip device in its first human patient in 2024.SOPA Images/Getty\r\n<ul><li>The first nonverbal recipient of Elon Musk's Neuralink brain chip has shared a vide\u2026 [+3249 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Julia Hornstein",
+            "title": "I went to the 'Conclave of Silicon Valley.' It showed the hold tech has on DC.",
+            "description": "Tech titans and DC policymakers sound the alarm on China's AI and defense tech surge at the high-powered Hill and Valley Forum.",
+            "url": "https://www.businessinsider.com/silicon-valley-descended-on-dc-talk-ai-china-rebuilding-america",
+            "urlToImage": "https://i.insider.com/6813bd103fe8d3928364aab9?width=1200&format=jpeg",
+            "publishedAt": "2025-05-02T09:00:02Z",
+            "content": "Delian Asparouhov moderating a discussion with Emil Michael, Ruth Porat, and Kevin Weil at the Hill and Valley Forum.Julia Hornstein/BI\r\n<ul><li>I went to the fourth Hill and Valley Forum, a mashup o\u2026 [+6581 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ritujay Ghosh",
+            "title": "4 Semiconductor Stocks to Grab Now as Revenues Skyrocket in Q1",
+            "description": "Stocks like SMTC, MX, ASML and AEIS are poised to benefit form the steady growth in semiconductor sales.",
+            "url": "https://finance.yahoo.com/news/4-semiconductor-stocks-grab-now-152400615.html",
+            "urlToImage": "https://media.zenfs.com/en/zacks.com/4f3a4a3f1384d86ecd3126b757cf4db2",
+            "publishedAt": "2025-05-06T15:24:00Z",
+            "content": "Semiconductor sales skyrocketed in the first quarter of 2025 despite price challenges and threats from the emergence of DeepSeek, a low-cost AI model from China. Also, sales grew month over month in \u2026 [+4971 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Juan Carlos L\u00f3pez",
+            "title": "Los televisores de Samsung para 2025, explicados: hasta 240 Hz y m\u00e1s brillo que nunca para asaltar la gama alta",
+            "description": "Los televisores que nos propone Samsung para 2025 acaban de llegar a Espa\u00f1a. A principios del pasado mes de enero, durante la \u00faltima edici\u00f3n del CES que se celebr\u00f3 en Las Vegas (EEUU), pudimos coquetear con algunas de sus caracter\u00edsticas, pero en aquel moment\u2026",
+            "url": "https://www.xataka.com/televisores/televisores-samsung-para-2025-explicados-240-hz-brillo-que-nunca-para-asaltar-gama-alta",
+            "urlToImage": "https://i.blogs.es/3846bd/samsungtv-ap/840_560.jpeg",
+            "publishedAt": "2025-05-08T12:10:00Z",
+            "content": "Los televisores que nos propone Samsung para 2025 acaban de llegar a Espa\u00f1a. A principios del pasado mes de enero, durante la \u00faltima edici\u00f3n del CES que se celebr\u00f3 en Las Vegas (EEUU), pudimos coquet\u2026 [+7726 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Fran Le\u00f3n",
+            "title": "M\u00f3viles, teles y m\u00e1s: estos son los mejores chollos que MediaMarkt tiene en su campa\u00f1a \u201cHazte un Renove\u201d",
+            "description": "Hasta el pr\u00f3ximo 12 de mayo a las 9 de la ma\u00f1ana, MediaMarkt tiene vigente su campa\u00f1a \u201cHazte un Renove\u201d, con la que conseguir dispositivos tecnol\u00f3gicos al mejor precio. Con ahorros de hasta 400 euros en televisi\u00f3n, 130 euros en telefon\u00eda y 200 euros en inform\u2026",
+            "url": "https://www.xataka.com/seleccion/moviles-teles-estos-mejores-chollos-que-mediamarkt-tiene-su-campana-hazte-renove",
+            "urlToImage": "https://i.blogs.es/d07004/ofertas_cpa_v3-copia-49-/840_560.jpeg",
+            "publishedAt": "2025-05-07T08:31:35Z",
+            "content": "Hasta el pr\u00f3ximo 12 de mayo a las 9 de la ma\u00f1ana, MediaMarkt tiene vigente su campa\u00f1a Hazte un Renove, con la que conseguir dispositivos tecnol\u00f3gicos al mejor precio. Con ahorros de hasta 400 euros e\u2026 [+3739 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "\u00c1lvaro Garc\u00eda M.",
+            "title": "Honor 400 Lite, an\u00e1lisis: el imperfecto equilibrio entre dise\u00f1o y rendimiento para la gama media",
+            "description": "El Honor 400 Lite ha llegado ya a Espa\u00f1a con una misi\u00f3n: conquistar la gama media. Es una haza\u00f1a perseguida por todos los fabricantes y que Honor trata de ganar a lomos de un Dimensity 7025 Ultra, usando como escudo una pantalla con brillo de hasta 3.500 nits\u2026",
+            "url": "https://www.xataka.com/analisis/honor-400-lite-analisis-caracteristicas-precio-especificaciones",
+            "urlToImage": "https://i.blogs.es/7a07fc/honor-400-lite/840_560.jpeg",
+            "publishedAt": "2025-05-05T09:01:52Z",
+            "content": "El Honor 400 Lite ha llegado ya a Espa\u00f1a con una misi\u00f3n: conquistar la gama media. Es una haza\u00f1a perseguida por todos los fabricantes y que Honor trata de ganar a lomos de un Dimensity 7025 Ultra, us\u2026 [+19631 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Pepu Ricca",
+            "title": "Vivo V50 5G, an\u00e1lisis: pensaba que la gama media no daba m\u00e1s de s\u00ed. Estas c\u00e1maras demuestran lo contrario",
+            "description": "Tras desvelar sus cartas para la gama alta, su Vivo X200 Pro que destaca en fotograf\u00eda por sus tres c\u00e1maras, la firma china pone su granito de arena en el segmento medio con un Vivo V50 5G que he probado durante estas semanas. Una de las firmas de m\u00e1s r\u00e1pido \u2026",
+            "url": "https://www.xataka.com/analisis/vivo-v50-5g-analisis-caracteristicas-precio-especificaciones",
+            "urlToImage": "https://i.blogs.es/9bc06e/dsc03456_1/840_560.jpeg",
+            "publishedAt": "2025-05-03T14:01:54Z",
+            "content": "Tras desvelar sus cartas para la gama alta, su Vivo X200 Pro que destaca en fotograf\u00eda por sus tres c\u00e1maras, la firma china pone su granito de arena en el segmento medio con un Vivo V50 5G que he pro\u2026 [+19648 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Joe Tilleli",
+            "title": "Amazon Offers the Apple iPad Air Powered by the M3 Chip at Its Lowest Price to Clear Out Stock",
+            "description": "You can secure yourself an 11\" Apple iPad Air for as low as $499 for a limited time.",
+            "url": "https://gizmodo.com/amazon-offers-the-apple-ipad-air-powered-by-the-m3-chip-at-its-lowest-price-to-clear-out-stock-2000597174",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/AppleiPadAir11inch.jpg",
+            "publishedAt": "2025-05-02T12:15:33Z",
+            "content": "The weather has been beautiful lately but that doesn\u2019t mean you can just stay inside, playing Fortnite on an iPad, or streaming the new season of The Last of Us from Max. Amazon right now has the App\u2026 [+2109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "Mac Mini M4 Is Just $4 From Its All-Time Low, Amazon Clears Stock And Cuts All Its Margin",
+            "description": "This powerhouse is now available for under $500, exclusively on Amazon.",
+            "url": "https://gizmodo.com/mac-mini-m4-is-just-4-from-its-all-time-low-amazon-clears-stock-and-cuts-all-its-margin-2000599395",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/mac-mini-m4.jpg",
+            "publishedAt": "2025-05-07T20:20:25Z",
+            "content": "Looking for a powerful, compact Mac desktop for the future of Apple Intelligence? The 2024 Mac mini with the M4 chip is currently on sale at Amazon and it is one of the best opportunities to get Appl\u2026 [+2204 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Joe Tilleli",
+            "title": "Google Pixel 9 Pro Drops to an All-Time Low, Perfect Time to Upgrade Mom\u2019s Phone",
+            "description": "Save up to $300 on the Google Pixel 9 Pro over at Amazon for a limited time.",
+            "url": "https://gizmodo.com/google-pixel-9-pro-drops-to-an-all-time-low-perfect-time-to-upgrade-moms-phone-2000598339",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/Pixel9Pro.jpg",
+            "publishedAt": "2025-05-06T13:55:16Z",
+            "content": "Maybe its time to treat yourself to something new and cool with an upgrade to your smartphone. Amazon has the Google Pixel 9 Pro as part of a limited time deal, knocking off as much as 25% from its p\u2026 [+2253 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Leaked Xbox Handheld Looks a Little Wonky\u2014but in the Best Way",
+            "description": "The Asus ROG Ally 2 may include a dedicated Xbox button, plus some contoured grips.",
+            "url": "https://gizmodo.com/leaked-xbox-handheld-looks-a-little-wonky-but-in-the-best-way-2000599046",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/xboxcontroller.jpg",
+            "publishedAt": "2025-05-07T16:30:21Z",
+            "content": "The Xbox handheld is reportedly real, and it already looks really strange compared to PC handhelds we\u2019re used to. Leaked images found on government certification sites offer a glimpse into what is li\u2026 [+4135 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Corticallabs.com"
+            },
+            "author": "Cortical Labs P/L",
+            "title": "The CL1: the first code deployable biological computer",
+            "description": "The world's first code deployable biological computer. Test how lab-grown neurons process information and learn.",
+            "url": "https://corticallabs.com/cl1.html",
+            "urlToImage": "https://corticallabs.com/images/c-share.jpg",
+            "publishedAt": "2025-05-06T20:40:28Z",
+            "content": "Silicon meets neuron\r\nReal neurons are cultivated inside a nutrient rich solution, supplying them with everything they need to be healthy. They grow across a silicon chip, which sends and receives el\u2026 [+994 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Poker.org"
+            },
+            "author": "Matt Hansen",
+            "title": "The birth of AI poker? Letters from the 1984 WSOP",
+            "description": "Discover the forgotten story of Mike Caro's 'Orac', an early poker AI that challenged pro players like Doyle Brunson in 1984, predating more famous poker bot competitions by decades.",
+            "url": "https://www.poker.org/latest-news/the-birth-of-ai-poker-letters-from-the-1984-wsop-a4v2W4N4X3EP/",
+            "urlToImage": "https://media.poker.org/prod/images/preview_webp/bd9984bdccfa-apple-ii-by-museums-victoria-on-unsplash.jpg",
+            "publishedAt": "2025-05-05T16:30:22Z",
+            "content": "In 2007, a crafty computer poker research group at the University of Alberta showed off its Polaris poker bot, a project that had been over 16 years in the making. It was a complex program run on an \u2026 [+8236 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Zac Hall",
+            "title": "Apple reportedly planning to introduce Meta Ray-Ban style smart glasses around 2027",
+            "description": "Mark Gurman reports for Bloomberg News that Apple is developing a chip intended for smart glasses that could come to market in the next two years. However, these smart glasses may not be the highly advanced augmented reality glasses that Apple envisions makin\u2026",
+            "url": "https://9to5mac.com/2025/05/08/apple-reportedly-planning-to-introduce-meta-ray-ban-style-smart-glasses-around-2027/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/Apple-smart-glasses-only-make-sense-if-two-things-are-true.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2025-05-08T17:26:25Z",
+            "content": "Mark Gurman reports for Bloomberg News that Apple is developing a chip intended for smart glasses that could come to market in the next two years. However, these smart glasses may not be the highly a\u2026 [+2807 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "Apple CEO Tim Cook thanks Trump for focus on US chip manufacturing",
+            "description": "Apple CEO Tim Cook appeared virtually at a gathering of business executives this week to celebrate President Trump\u2019s first 100 days in office. \u201cI wanna take a moment to recognize President Trump\u2019s focus on domestic semiconductor manufacturing, and we will con\u2026",
+            "url": "https://9to5mac.com/2025/05/02/tim-cook-trump-semiconductor-investment-lol/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/tim-cook-trump-comments.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2025-05-02T12:55:58Z",
+            "content": "Screenshot\r\nApple CEO Tim Cook appeared virtually at a gathering of business executives this week to celebrate President Trump\u2019s first 100 days in office. \u201cI wanna take a moment to recognize Presiden\u2026 [+4374 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "90% of people shouldn\u2019t buy the iPhone 17 Air, per Apple",
+            "description": "An argument could be made that this year\u2019s iPhone line-up will have two top-tier models, depending on your priorities: either the iPhone 17 Pro Max or the iPhone 17 Air.\n\n\n\nIf you value iPhone photography, or all-round performance, you\u2019ll want to stick to the\u2026",
+            "url": "https://9to5mac.com/2025/05/06/90-of-people-shouldnt-buy-the-iphone-17-air-per-apple/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/iphone-air.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2025-05-06T11:30:47Z",
+            "content": "An argument could be made that this year\u2019s iPhone line-up will have two top-tier models, depending on your priorities: either the iPhone 17 Pro Max or the iPhone 17 Air.\r\nIf you value iPhone photogra\u2026 [+2929 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Android Police"
             },
-            "author": "Rajesh Pandey",
-            "title": "Samsung Galaxy S25 Edge leak spills all the details you\u2019ve been waiting for",
-            "description": "From design to specs, this Galaxy S25 Edge leak covers it all",
-            "url": "https://www.androidpolice.com/samsung-galaxy-s25-edge-leak-spills-details-waiting-for/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2025/02/samsung-galaxy-s25-desk-wordmark-logo.jpg",
-            "publishedAt": "2025-05-01T12:36:47Z",
-            "content": "Summary\r\n<ul><li>\r\n Samsung Galaxy S25 Edge's official press renders have leaked, revealing its slim design.\r\n </li><li>\r\n The phone's full spec sheet has also been detailed.\r\n </li><li>\r\n The Galaxy\u2026 [+2542 chars]"
+            "author": "Stephen Radochia",
+            "title": "I\u2019ve seen a few discounts on the Samsung Galaxy A36, but none like this deal",
+            "description": "Total Wireless wants you to get a Samsung Galaxy A36 for free with a qualifying plan",
+            "url": "https://www.androidpolice.com/samsung-galaxy-a36-total-wireless-deal/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/03/samsung-galaxy-a56-and-galaxy-a36.jpg",
+            "publishedAt": "2025-05-04T12:00:10Z",
+            "content": "Carrier discounts are getting aggressive as multiple companies vie for your business. This is good news if youre looking for a phone or considering switching to a new carrier to save money. You often\u2026 [+2431 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Police"
+            },
+            "author": "Nathan Drescher",
+            "title": "Galaxy phones may multitask better thanks to One UI 8",
+            "description": "Samsung may be increasing virtual RAM capacity with One UI 8, up to 12GB of RAM Plus",
+            "url": "https://www.androidpolice.com/one-ui-8-vram-boost/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/img_6518.jpg",
+            "publishedAt": "2025-05-02T22:37:57Z",
+            "content": "Summary\r\n<ul><li>\r\n A new 12GB RAM Plus option is coming with One UI 8, an upgrade from 8GB in One UI 7.\r\n </li><li>\r\n Virtual RAM offers more app efficiency without a physical RAM upgrade.\r\n </li><l\u2026 [+2276 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Marko Zivkovic)",
+            "title": "Apple working on M6 & M7 chips alongside new AI server processor",
+            "description": "While Apple's M5 chip is expected to debut on Mac and iPad, in late 2025, the company's M6 and M7 chips are in the works, in conjunction with a new AI server farm processor.An M5-powered MacBook Pro could debut in 2025, while M6 and M7 chips will likely follo\u2026",
+            "url": "https://appleinsider.com/articles/25/05/08/apple-working-on-m6-m7-chips-alongside-new-ai-server-processor",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/63565-132148-63147-131210-62650-129979-62019-128435-61511-127060-M3-MBA-7-xl-xl-xl-xl-xl.jpg",
+            "publishedAt": "2025-05-08T18:02:55Z",
+            "content": "While Apple's M5 chip is expected to debut on Mac and iPad, in late 2025, the company's M6 and M7 chips are in the works, in conjunction with a new AI server farm processor.\r\nThe current M4 chip was \u2026 [+2058 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Malcolm Owen)",
+            "title": "Apple Glass will get custom Apple Silicon tailored for low power & camera control",
+            "description": "Apple is reportedly custom-tailoring specialized chips, with the needs of the Apple Glass in mind.Optimistic renders of what Apple Glass could look like - Image Credit: AppleInsiderApple's internal silicon design team is behind the creation of chips used in t\u2026",
+            "url": "https://appleinsider.com/articles/25/05/08/apple-glass-will-get-custom-apple-silicon-tailored-for-low-power-camera-control",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/63563-132147-63302-131541-62895-130546-62434-129439-52052-103434-000-lead-Apple-AR-xl-xl-xl-xl-xl.jpg",
+            "publishedAt": "2025-05-08T17:34:54Z",
+            "content": "Apple is reportedly custom-tailoring specialized chips, with the needs of the Apple Glass in mind.\r\nApple's internal silicon design team is behind the creation of chips used in the Apple Silicon line\u2026 [+2139 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Marko Zivkovic)",
+            "title": "iPhone 17 rumors: More speed & ProMotion screen, but no big redesign",
+            "description": "While it'll probably look very familiar, the iPhone 17 is set to bring some performance increases and new features. Here's everything the rumor mill thinks is coming in the fall of 2025.Apple's iPhone 17 will look almost identical to the current iPhone 16.In \u2026",
+            "url": "https://appleinsider.com/articles/25/05/02/iphone-17-rumors-more-speed-promotion-screen-but-no-big-redesign",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/63488-131981-iPhone-17-in-Black-and-White-xl.jpg",
+            "publishedAt": "2025-05-02T17:58:38Z",
+            "content": "While it'll probably look very familiar, the iPhone 17 is set to bring some performance increases and new features. Here's everything the rumor mill thinks is coming in the fall of 2025.\r\nIn Septembe\u2026 [+8330 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Mike Wuerthele)",
+            "title": "Apple smart glasses rumored to arrive as soon as Christmas 2026",
+            "description": "Apple has been rumored to be working on smart glasses for a long time, and a new report has narrowed down the debut of the platform to be as soon as the end of 2026.Apple may be turning to Ray-Ban style for Apple Glasses - image credit AppleInsiderThe \"Apple \u2026",
+            "url": "https://appleinsider.com/articles/25/05/08/apple-smart-glasses-rumored-to-arrive-as-soon-as-christmas-2026",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/63564-132146-Apple-glasses-versus-apple-vision-pro-xl.jpg",
+            "publishedAt": "2025-05-08T17:24:14Z",
+            "content": "Apple has been rumored to be working on smart glasses for a long time, and a new report has narrowed down the debut of the platform to be as soon as the end of 2026.\r\nThe \"Apple Glass\" project has ru\u2026 [+2479 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Andrew O'Hara)",
+            "title": "Consumer Reports' Dan Wroclawski joins HomeKit Insider to talk about testing smart home devices",
+            "description": "On the latest episode of the HomeKit Insider Podcast, Dan Wroclawski from Consumer Reports joins to break down the week's news, as well as talk about AI smart fridges, how smart devices are tested, and more.HomeKit Insider PodcastDan Wrocawski is this week's \u2026",
+            "url": "https://appleinsider.com/articles/25/05/06/consumer-reports-dan-wroclawski-joins-homekit-insider-to-talk-about-testing-smart-home-devices",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/46889-91403-HKI-Header-xl.jpg",
+            "publishedAt": "2025-05-06T14:42:25Z",
+            "content": "On the latest episode of the HomeKit Insider Podcast, Dan Wroclawski from Consumer Reports joins to break down the week's news, as well as talk about AI smart fridges, how smart devices are tested, a\u2026 [+16549 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yanko Design"
+            },
+            "author": "Vincent Nguyen",
+            "title": "Lenovo Legion 9i: The Ultimate Machine Bridging Gaming and Game Development",
+            "description": "Lenovo Legion 9i: The Ultimate Machine Bridging Gaming and Game DevelopmentPowerful doesn\u2019t begin to describe Lenovo\u2019s latest gaming powerhouse. The new Lenovo Legion 9i (18\u2033, 10) represents a significant evolution in portable computing, designed not...",
+            "url": "https://www.yankodesign.com/2025/05/08/lenovo-legion-9i-the-ultimate-machine-bridging-gaming-and-game-development/",
+            "urlToImage": "https://www.yankodesign.com/images/design_news/2025/05/lenovo-legion-9i-the-ultimate-machine-bridging-gaming-and-game-development/IMG_1987.jpeg",
+            "publishedAt": "2025-05-08T10:00:13Z",
+            "content": "Powerful doesn\u2019t begin to describe Lenovo\u2019s latest gaming powerhouse. The new Lenovo Legion 9i (18\u2033, 10) represents a significant evolution in portable computing, designed not just for playing games \u2026 [+6727 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yanko Design"
+            },
+            "author": "Aki Ukita",
+            "title": "2025 Xpeng X9 MPV: A Game-Changer in Design and Technology for European EV Buyers",
+            "description": "2025 Xpeng X9 MPV: A Game-Changer in Design and Technology for European EV BuyersXpeng, a leading Chinese electric vehicle (EV) manufacturer, unveiled its upgraded flagship multi-purpose vehicle (MPV), the X9, at its first global brand event in Hong...",
+            "url": "https://www.yankodesign.com/2025/05/03/2025-xpeng-x9-mpv-a-game-changer-in-design-and-technology-for-european-ev-buyers/",
+            "urlToImage": "https://www.yankodesign.com/images/design_news/2025/05/2025-xpeng-x9-mpv-a-game-changer-in-design-and-technology-for-european-ev-buyers/YD-Xpeng-Globa-Brand-Night-01.jpg",
+            "publishedAt": "2025-05-03T15:20:35Z",
+            "content": "Xpeng, a leading Chinese electric vehicle (EV) manufacturer, unveiled its upgraded flagship multi-purpose vehicle (MPV), the X9, at its first global brand event in Hong Kong on April 15. Marketed as \u2026 [+10233 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "c.cale.hunt@gmail.com (Cale Hunt)",
+            "title": "Surface Pro 12-inch vs. Surface Pro 11: Which 2-in-1 Copilot+ PC is better for you?",
+            "description": "Microsoft just unveiled a Surface Pro 12-inch designed with mobility in mind. I compare it to the flagship Surface Pro 11 to ensure you get the right 2-in-1 PC.",
+            "url": "https://www.windowscentral.com/hardware/laptops/surface-pro-12-inch-vs-surface-pro-11",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/cSHXGvNXsacFS6GQMoNtic.jpg",
+            "publishedAt": "2025-05-06T13:00:40Z",
+            "content": "Microsoft officially announced the new 12-inch Surface Pro on May 6, 2025, roughly a year after the first Copilot+ AI PCs \u2014 including the Surface Pro 11 \u2014 were unveiled.\r\nThe new Surface Pro 12-inch \u2026 [+14186 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "daniel@windowscentral.com (Daniel Rubino)",
+            "title": "Surface Pro 12-inch: First impressions and hands-on review",
+            "description": "Microsoft's smaller Surface Pro 12-inch is looking to be a banger after I've spent the last day with it. Here are some frequently asked questions and my initial thoughts on this Copilot+ PC.",
+            "url": "https://www.windowscentral.com/hardware/surface-pro/surface-pro-12inch-review-2025",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nhexSCBLzH4naGztRgvNMG.jpg",
+            "publishedAt": "2025-05-07T22:05:04Z",
+            "content": "Why you can trust Windows Central\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.Yesterday, Microsof\u2026 [+7691 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "c.cale.hunt@gmail.com (Cale Hunt)",
+            "title": "Surface Laptop 13-inch vs. Surface Laptop 7: Which Copilot+ PC is better for you?",
+            "description": "Microsoft unveiled a new 13-inch Surface Laptop as a more portable alternative to the Surface Laptop 7. I take a look at how the devices compare to help you choose.",
+            "url": "https://www.windowscentral.com/hardware/surface/surface-laptop-13-inch-vs-surface-laptop-7",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/E3zEG8QNGAWVjQ6YuvWqWW.jpg",
+            "publishedAt": "2025-05-06T13:18:20Z",
+            "content": "Microsoft officially unveiled the new Surface Laptop 13-inch on May 6, 2025. It arrives roughly a year after the first Copilot+ PCs \u2014 including the Surface Laptop 7 \u2014 made their debut.\r\nMicrosoft off\u2026 [+11867 chars]"
         },
         {
             "source": {
@@ -47,51 +515,428 @@
                 "name": "Theregister.com"
             },
             "author": "Tobias Mann",
-            "title": "Anthropic calls for tougher GPU export controls as Nvidia's CEO implores Trump to spread the AI love",
-            "description": "This couldn't possibly be about Chinese model builders taking some of the shine off US rivals, could it?\n+Comment Anthropic has urged the White House to further tighten so-called AI diffusion rules \u2013 which are already set to hurt Nvidia and co by limiting or \u2026",
-            "url": "https://www.theregister.com/2025/05/01/anthropic_limit_gpus/",
-            "urlToImage": "https://regmedia.co.uk/2024/05/01/shutterstock_generic_claude.jpg",
-            "publishedAt": "2025-05-01T00:50:10Z",
-            "content": "+Comment Anthropic has urged the White House to further tighten so-called AI diffusion rules which are already set to hurt Nvidia and co by limiting or blocking the sale of higher-end GPUs and accele\u2026 [+6399 chars]"
+            "title": "Cerebras CEO actually finds common ground with Nvidia as startup notches IBM win",
+            "description": "Feldman calls US's AI Diffusion rules \u2018bad policy\u2019\nCerebras Systems' dinner-plate-sized chips currently power the latest AI inference offerings from Meta and, soon, those of IBM, but US trade policy weighs heavy on its prospects worldwide.\u2026",
+            "url": "https://www.theregister.com/2025/05/06/cerebras_ceo_blasts_us_trade/",
+            "urlToImage": "https://regmedia.co.uk/2021/03/30/cerebras_cs1.png",
+            "publishedAt": "2025-05-06T14:00:08Z",
+            "content": "Cerebras Systems' dinner-plate-sized chips currently power the latest AI inference offerings from Meta and, soon, those of IBM, but US trade policy weighs heavy on its prospects worldwide.\r\n\"The [AI]\u2026 [+5796 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Brandon Vigliarolo",
+            "title": "'I see you're running a local LLM. Would you like some help with that?'",
+            "description": "Dev creates official Clippy 'love letter' to query AI models on your box\nClippy is back - and this time, its arrival on your desktop as a front-end for locally run LLMs has nothing to do with Microsoft.\u00a0\u2026<!--#include virtual='/data_centre/_whitepaper_textlink\u2026",
+            "url": "https://www.theregister.com/2025/05/08/clippy_returns_to_your_desktop/",
+            "urlToImage": "https://regmedia.co.uk/2025/05/07/shutterstock_clippy.jpg",
+            "publishedAt": "2025-05-08T07:28:07Z",
+            "content": "Clippy is back - and this time, its arrival on your desktop as a front-end for locally run LLMs has nothing to do with Microsoft.\u00a0\r\nIn what appears to be a first for the 90s icon, Clippy has finally \u2026 [+4364 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phandroid - News for Android"
+            },
+            "author": "Tyler Lee",
+            "title": "Lenovo ThinkBook 16 G7 Just Dropped to $1,099 \u2013 52% Off This 64GB Powerhouse",
+            "description": "Save 52% on the Lenovo ThinkBook 16 G7\u2014now $1,099 with 64GB RAM, 2TB SSD, and Intel Ultra 7 chip. One of the best pro laptop deals right now.\nThe post Lenovo ThinkBook 16 G7 Just Dropped to $1,099 \u2013 52% Off This 64GB Powerhouse appeared first on Phandroid.",
+            "url": "https://phandroid.com/2025/05/08/lenovo-thinkbook-16-g7-just-dropped-to-1099-52-off-this-64gb-powerhouse/",
+            "urlToImage": "https://phandroid.com/wp-content/uploads/2025/05/lenovo-think-16-g7.jpg",
+            "publishedAt": "2025-05-08T13:30:56Z",
+            "content": "For anyone looking to upgrade their work setup, this deal on the Lenovo ThinkBook 16 G7 is worth a serious look. It\u2019s currently going for $1,099, which is 52% off the original $2,299 priceone of the \u2026 [+1761 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phandroid - News for Android"
+            },
+            "author": "Tyler Lee",
+            "title": "Best Flagship Phones 2025: Every Killer Release Ranked",
+            "description": "Discover the best flagship phones of 2025 with top specs, stunning displays, and next-gen performance from Samsung, Apple, Google, and more.\nThe post Best Flagship Phones 2025: Every Killer Release Ranked appeared first on Phandroid.",
+            "url": "https://phandroid.com/2025/05/08/best-flagship-phones-2025-every-killer-release-ranked/",
+            "urlToImage": "https://phandroid.com/wp-content/uploads/2025/05/best-flagship-phones-2025-phandroid.jpg",
+            "publishedAt": "2025-05-08T14:33:34Z",
+            "content": "Looking for the best flagship phones 2025 has to offer? This years lineup is seriously impressive. From sleek foldables to powerhouse camera phones, brands like OPPO, Samsung, Google, and Apple are p\u2026 [+11295 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phandroid - News for Android"
+            },
+            "author": "Tyler Lee",
+            "title": "Best Pixel 9a Deal Yet? $100 Amazon Credit at No Extra Cost",
+            "description": "Get a $100 Amazon gift card when you buy the Google Pixel 9a. One of the best midrange phones just got better.\nThe post Best Pixel 9a Deal Yet? $100 Amazon Credit at No Extra Cost appeared first on Phandroid.",
+            "url": "https://phandroid.com/2025/05/08/pixel-9a-deal-100-amazon-gift-card-bonus-with-purchase/",
+            "urlToImage": "https://phandroid.com/wp-content/uploads/2025/03/pixel-9a-header-scaled.jpg",
+            "publishedAt": "2025-05-08T13:15:49Z",
+            "content": "If youve been looking for a deal for the Pixel 9a, nows a good time to jump in. At $499, the price hasnt changed since launchbut what makes this deal different is that Amazon is throwing in a $100 gi\u2026 [+1290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phandroid - News for Android"
+            },
+            "author": "Tyler Lee",
+            "title": "Lowest Price Yet: Refurbished Pixel 9 Pro XL Drops to $699 \u2013 Save $400 Instantly!",
+            "description": "Why This Deal Hits Hard Flagship Android doesn\u2019t have to mean flagship pricing. Right now, you can grab the powerful Google Pixel 9 Pro XL (Renewed, 256GB) for just $699.97, a massive $400 off its original price of $1,099. This is one of the lowest prices we\u2019\u2026",
+            "url": "https://phandroid.com/2025/05/07/lowest-price-yet-refurbished-pixel-9-pro-xl-drops-to-699-save-400-instantly/",
+            "urlToImage": "https://phandroid.com/wp-content/uploads/2024/08/pixel-9-pro-xl-hazel-640x359.png",
+            "publishedAt": "2025-05-07T13:00:37Z",
+            "content": "Why This Deal Hits Hard\r\nFlagship Android doesnt have to mean flagship pricing. Right now, you can grab the powerful Google Pixel 9 Pro XL (Renewed, 256GB) for just $699.97, a massive $400 off its or\u2026 [+3698 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Jacob Roach",
+            "title": "Someone got the Nintendo Switch 2's hardware early and spilled all the beans",
+            "description": "We now have a full technical breakdown of the Switch 2.",
+            "url": "https://www.xda-developers.com/someone-got-the-nintendo-switch-2s-hardware-early-and-spilled-all-the-beans/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2025/05/this-is-nintendo-switch-2-s-cpu-0-40-screenshot.png",
+            "publishedAt": "2025-05-07T14:26:56Z",
+            "content": "Summary\r\n<ul><li>\r\n A YouTuber was able to secure a Nintendo Switch 2 motherboard ahead of the console's release. \r\n </li><li>\r\n The Switch 2 features a 207mm squared Nvidia SoC with 12 SMs. \r\n </li>\u2026 [+2713 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Jacob Roach",
+            "title": "5 motherboard features that sound premium but are usually pointless",
+            "description": "You don't need to spend a lot to get a high-quality motherboard.",
+            "url": "https://www.xda-developers.com/motherboard-features-that-sound-premium-but-are-usually-pointless/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2025/03/msi-mag-x870e-tomahawk-wifi-cooler-installed.jpg",
+            "publishedAt": "2025-05-04T00:00:18Z",
+            "content": "I feel bad for motherboard makers. Short of your power supply, it's probably the most mundane component in your PC, and with stiff competition in the market, brands like MSI, Gigabyte, Asus, and ASRo\u2026 [+8783 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Simon Batt",
+            "title": "Microsoft wants you to upgrade to TPM 2.0, but what does it actually do?",
+            "description": "It isn't just for show.",
+            "url": "https://www.xda-developers.com/microsoft-tpm-20-what-does-it-do/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2025/03/1280px-core_2_q6600_g0.jpg",
+            "publishedAt": "2025-05-02T19:01:19Z",
+            "content": "If you've kept up-to-date with your Windows news, you'll know that . In its piece, the Redmond giant explained why Windows 11 has TPM 2.0 as part of its system requirements, including data encryption\u2026 [+4713 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Android Authority"
             },
-            "author": "Christine Romero-Chan",
-            "title": "The Galaxy S25 Edge debuts in a couple weeks, but we already know what to expect",
-            "description": "The Samsung Galaxy S25 Edge is coming in just a few weeks, but the latest leak leaves little to the imagination.",
-            "url": "https://www.androidauthority.com/samsung-galaxy-s25-edge-specs-leak-3549929/",
-            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/05/samsung-galaxy-s25-edge-renders-winfuture.jpg",
-            "publishedAt": "2025-05-01T14:52:14Z",
-            "content": "<ul><li>The Galaxy S25 Edge could potentially launch on May 13 with a Galaxy Unpacked event.</li><li>Itll be the thinnest S25 model at 5.85mm thickness.</li><li>Due to the thinness of the device, the\u2026 [+2938 chars]"
+            "author": "Joe Maring",
+            "title": "Google\u2019s latest Pixel decision is one of the most annoying yet",
+            "description": "Google says its new Battery Health feature isn't coming to older Pixels because of \"product limitations.\" But I'm not buying that.",
+            "url": "https://www.androidauthority.com/google-pixel-battery-health-bad-decision-3554917/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/05/Pixel-7a-vs-Pixel-8a-vs-Pixel-8-back-covers-angled.jpg",
+            "publishedAt": "2025-05-07T10:00:48Z",
+            "content": "Cmon, Google. What are you thinking?\r\nThis is the first thought that came to mind when I saw the news about Android 16s Battery Health feature. As the name suggests, Battery Health provides a glancea\u2026 [+5076 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Stratechery.com"
+                "name": "Android Authority"
             },
-            "author": "Ben Thompson",
-            "title": "An Interview with Meta CEO Mark Zuckerberg About AI and the Evolution of Social Media",
-            "description": "An interview with Meta CEO Mark Zuckerberg about Llama and the AI opportunity, the evolution of social medial, and what it means to connect.",
-            "url": "https://stratechery.com/2025/an-interview-with-meta-ceo-mark-zuckerberg-about-ai-and-the-evolution-of-social-media/",
-            "urlToImage": "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=512%2C512&ssl=1",
-            "publishedAt": "2025-05-01T09:54:26Z",
-            "content": "Good morning,\r\nToday\u2019s Stratechery Interview is with Meta CEO Mark Zuckerberg, who obviously needs no introduction; I interviewed Zuckerberg previously in October 2021 and October 2022.\r\nSome quick c\u2026 [+60755 chars]"
+            "author": "Ryan Haines",
+            "title": "Here\u2019s why no OnePlus 13T in the US is a big loss for me and you",
+            "description": "Everything about the OnePlus 13T should put Google and Samsung on edge, but it's not coming stateside, so never mind.",
+            "url": "https://www.androidauthority.com/no-oneplus-13t-us-bad-3549654/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/04/OnePlus-13T-scaled.jpg",
+            "publishedAt": "2025-05-02T12:00:30Z",
+            "content": "When we first saw teasers of the OnePlus 13T coming to India as the 13S I let myself get excited. I thought this was finally a sign that OnePlus was ready to shake up at least parts of the formula it\u2026 [+5226 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The-independent.com"
+                "name": "Android Authority"
             },
-            "author": "Rhian Lubin",
-            "title": "Tech giants playing nice with White House hasn't translated to windfall...",
-            "description": "Tech giants playing nice with White House hasn't translated to windfall...\r\n\n \n \n \n (First column, 11th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:Profits up, stocks down and angry calls...\r\nMICROSOFT Drops Law Firm That Made Deal With The Don...",
-            "url": "https://www.the-independent.com/news/world/americas/us-politics/trump-tariffs-big-tech-ceo-profits-stocks-b2743169.html",
-            "urlToImage": "https://static.the-independent.com/2025/01/22/13/2194362811.jpg?width=1200&height=800&crop=1200:800",
-            "publishedAt": "2025-05-01T19:40:37Z",
-            "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+6293 chars]"
+            "author": "Rushil Agrawal",
+            "title": "The $300 Samsung Galaxy A26 5G and makes the $400 Galaxy A36 5G look like a bad deal",
+            "description": "Our Samsung Galaxy A26 5G review shows that the phone nothing too well but still feels like a better deal than the Galaxy A36 5G this year.",
+            "url": "https://www.androidauthority.com/samsung-galaxy-a26-5g-review-3546077/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/04/Samsung-Galaxy-A26-5G-review-image-1.jpg",
+            "publishedAt": "2025-05-07T10:30:12Z",
+            "content": "The Samsung Galaxy A26 plays it safe, delivers where it counts, and avoids major mistakes.\r\nSamsungs Galaxy A series has long been a go-to recommendation for anyone shopping for a solid Android phone\u2026 [+17451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PetaPixel"
+            },
+            "author": "Kate Garibaldi",
+            "title": "Microsoft Photos Can Relight Your Images",
+            "description": "Microsoft announced that the next wave of Windows experiences includes new features for Windows 11 and Copilot+ PCs, followed by powerful new Surface AI-ready hardware. On the software side, Microsoft Photos and Paint promise impressive new AI-powered image e\u2026",
+            "url": "https://petapixel.com/2025/05/06/microsoft-photos-can-relight-your-images/",
+            "urlToImage": "https://petapixel.com/assets/uploads/2025/05/microsoft-photos-relight.jpg",
+            "publishedAt": "2025-05-06T20:19:15Z",
+            "content": "Microsoft announced that the next wave of Windows experiences includes new features for Windows 11 and Copilot+ PCs, followed by powerful new Surface AI-ready hardware. On the software side, Microsof\u2026 [+10544 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Designing Chips for Smart Glasses That Rival Meta Ray-Bans",
+            "description": "Apple is working on new chips that are destined for smart glasses that would compete with Meta's Ray-Bans, reports Bloomberg. The chip is in development now, with Apple targeting mass production in 2026 or 2027 for a launch in the next two years or so.\n\n\n\n\n\nT\u2026",
+            "url": "https://www.macrumors.com/2025/05/08/apple-chips-smart-glasses/",
+            "urlToImage": "https://images.macrumors.com/t/hUh5j4CL2wDEN4BUkDZZTd9IRA4=/1724x/article-new/2024/10/meta-ray-bans.jpg",
+            "publishedAt": "2025-05-08T17:01:08Z",
+            "content": "Apple is working on new chips that are destined for smart glasses that would compete with Meta's Ray-Bans, reports Bloomberg. The chip is in development now, with Apple targeting mass production in 2\u2026 [+1233 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple's Camera Equipped AirPods and Apple Watch Could Launch as Soon as 2027",
+            "description": "Apple is working on versions of the AirPods and Apple Watch that incorporate a camera, and the devices could be ready to launch sometime around 2027, reports Bloomberg.\n\n\n\n\n\nApple has developed a chip codenamed \"Nevis\" that will be used for its camera-equippe\u2026",
+            "url": "https://www.macrumors.com/2025/05/08/apple-camera-equipped-airpods-2027/",
+            "urlToImage": "https://images.macrumors.com/t/hZNqVW5CIFNjQp6JAllzNjs2kmk=/1600x/article-new/2019/10/airpods-pro-purple.jpg",
+            "publishedAt": "2025-05-08T17:14:08Z",
+            "content": "Apple is working on versions of the AirPods and Apple Watch that incorporate a camera, and the devices could be ready to launch sometime around 2027, reports Bloomberg.\r\nApple has developed a chip co\u2026 [+1184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Samsung's Super Thin 'Galaxy S25 Edge' Will Debut Next Week, Beating iPhone 17 Air",
+            "description": "When Samsung unveiled the Galaxy S25 lineup back in January, it teased a \"one more thing\" announcement, and introduced a super thin Galaxy Edge smartphone slated for release later in the year. The Galaxy Edge is now closer to launching, and Samsung is plannin\u2026",
+            "url": "https://www.macrumors.com/2025/05/07/samsung-galaxy-edge-unveiled-next-week/",
+            "urlToImage": "https://images.macrumors.com/t/lWSkNWaHO31Am5vKaS78DQKg2jY=/1600x/article-new/2025/05/samsung-galaxy-edge-may-12.jpg",
+            "publishedAt": "2025-05-07T23:23:39Z",
+            "content": "When Samsung unveiled the Galaxy S25 lineup back in January, it teased a \"one more thing\" announcement, and introduced a super thin Galaxy Edge smartphone slated for release later in the year. The Ga\u2026 [+1850 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "The MacRumors Show: Apple Watch Series 11, Ultra 3, and SE 3 Rumors",
+            "description": "On this week's episode of The MacRumors Show, we look at what to expect from the 2025 Apple Watch lineup when new models launch in the fall.\n\n\n\n\r\nSubscribe to The MacRumors Show YouTube channel for more videos\n\nThe Apple Watch Series 11 is anticipated to offe\u2026",
+            "url": "https://www.macrumors.com/2025/05/02/the-macrumors-show-series-11-ultra-3-se-3/",
+            "urlToImage": "https://images.macrumors.com/t/01jG5wGO5Xfdnr9autyHy7OlXW4=/3840x/article-new/2025/05/TMRS-144-2025-Apple-Watch-Lineup-Thumb.jpg",
+            "publishedAt": "2025-05-02T16:27:53Z",
+            "content": "On this week's episode of The MacRumors Show, we look at what to expect from the 2025 Apple Watch lineup when new models launch in the fall.\r\nThe Apple Watch Series 11 is anticipated to offer hyperte\u2026 [+2618 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techmeme.com"
+            },
+            "author": null,
+            "title": "Sources: Nvidia told ByteDance, Alibaba, Tencent, and others that it is tweaking its AI chips so they can be sold in China without breaching US export rules (Qianer Liu/The Information)",
+            "description": "Qianer Liu / The Information:\nSources: Nvidia told ByteDance, Alibaba, Tencent, and others that it is tweaking its AI chips so they can be sold in China without breaching US export rules\u00a0 \u2014\u00a0 The U.S. government is steadily tightening the noose on Nvidia's sal\u2026",
+            "url": "https://www.techmeme.com/250502/p11",
+            "urlToImage": "https://tii.imgix.net/production/articles/14973/a6c24a9f-d234-4354-b86b-7d1e48bc1fb1.jpg?fm=jpeg&auto=compress&w=610",
+            "publishedAt": "2025-05-02T13:15:02Z",
+            "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 9:15\u00a0AM\u00a0ET, May\u00a02,\u00a02025.\r\nThe most current version of the site as always is available at our home page.\r\nTo view a\u2026 [+65 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slickdeals.net"
+            },
+            "author": "CleverName8062",
+            "title": "Costco Members: Insta360 X5 8K 360\u00b0 Action Camera Bundle $550 + Free Shipping",
+            "description": "Costco Wholesale has for their Members: Insta360 X5 8K 360\u00b0 Action Camera Bundle (CINSAAHA) on sale for $549.99. Shipping is free. \n \n \nFeatures: \nPowered by Triple AI Chip for 360\u00b0 8K Pure Video...",
+            "url": "https://slickdeals.net/f/18295933-costco-insta360-x5-8k-360-action-camera-bundle-549-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+            "urlToImage": "https://slickdeals.net/attachment/1/8/9/8/4/3/7/0/450x450/17525917.thumb",
+            "publishedAt": "2025-05-05T21:51:16Z",
+            "content": "I got this with the last deal alert. Overall, quite satisified, after using it this past week.You will need a fast and high capacity V30 microSD card, which is included in this bundle. The included s\u2026 [+885 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slickdeals.net"
+            },
+            "author": "Geckohands",
+            "title": "Shokz Bone Conduction Open Ear Wireless Earphones: OpenRun Pro 2 $140, OpenMove $55 & More + Free S/H",
+            "description": "From May 5 to May 11, Shokz [shokz.com] is running a Mother's Day Sale. Seems to be free shipping (we won't know until the sale actually starts). \n \n* *OpenMove* (grey / white / blue / pink)...",
+            "url": "https://slickdeals.net/f/18291283-shokz-bone-conduction-open-ear-wireless-earphones-openrun-pro-2-140-openmove-55-more-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+            "urlToImage": "https://slickdeals.net/attachment/8/6/6/3/0/450x450/17521882.thumb",
+            "publishedAt": "2025-05-05T07:51:05Z",
+            "content": "I have passively been interested in Shokz. Passively because I use an iPhone and AirPods Pro 2s that integrate really well with the \"H\" chip. Anyway, I found this comparison review of the Shokz OpenM\u2026 [+738 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Kevin Ryan",
+            "title": "Nvidia CEO Jensen Huang got his first raise in a decade",
+            "description": "The chief executive of the world\u2019s biggest chipmaker is getting his first raise in a decade.Read more...",
+            "url": "https://qz.com/nvidia-ceo-jensen-huang-pay-salary-compensation-stock-1851778812",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/293d48f7c572e09fffc5b521ccc78cf1.jpg",
+            "publishedAt": "2025-05-02T13:43:00Z",
+            "content": "In This Story\r\nThe chief executive of the worlds biggest chipmaker is getting his first raise in a decade.\r\nNvidia (NVDA) CEO Jensen Huangs total pay rose to $49.9 million in 2025, according to an SE\u2026 [+2009 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Catherine Baab",
+            "title": "Markets climb as Trump teases UK trade breakthrough",
+            "description": "U.S. stock futures are pointing to a strong open on Thursday morning, with major indexes climbing. Tech is leading the rally, with the Nasdaq gaining 1.2% premarket.Read more...",
+            "url": "https://qz.com/goog-googl-aapl-bud-nasdaq-dow-s-p-500-1851779675",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ea5c52a67347f1f4e3c884ee8a154a89.jpg",
+            "publishedAt": "2025-05-08T12:00:00Z",
+            "content": "In This Story\r\nU.S. stock futures are pointing to a strong open on Thursday morning, with major indexes climbing. Tech is leading the rally, with the Nasdaq gaining 1.2% premarket.\r\nThe S&amp;P 500 i\u2026 [+2851 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Catherine Baab",
+            "title": "Markets slide and even more forecasts vanish as the trade war drags on and Wall Street eyes the Fed",
+            "description": "U.S. stocks moved lower early Tuesday, extending a recent losing streak as traders eye rising volatility and brace for a wave of economic signals \u2014 due later this morning and later this week. Read more...",
+            "url": "https://qz.com/ford-mattel-amd-anet-openai-1851779287",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4c18991692525a939e752eb6bbb04ca3.jpg",
+            "publishedAt": "2025-05-06T12:20:00Z",
+            "content": "In This Story\r\nU.S. stocks moved lower early Tuesday, extending a recent losing streak as traders eye rising volatility and brace for a wave of economic signals due later this morning and later this \u2026 [+3645 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Catherine Baab",
+            "title": "Disney, Palantir, AMD and more stocks to watch this week",
+            "description": "After blockbuster earnings last week from Big Tech, capped by Apple (AAPL), Amazon (AMZN), and a weekend of Buffett wisdom at Berkshire Hathaway\u2019s (BRK.A) annual meeting, markets are still digesting what it all means. The Dow, S&P, and Nasdaq are rallying, bu\u2026",
+            "url": "https://qz.com/disney-palantir-amd-uber-coinbase-earnings-stock-market-1851778787",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9bddd5ed918e7beba861dee65ec00122.jpg",
+            "publishedAt": "2025-05-04T09:00:00Z",
+            "content": "In This Story\r\nAfter blockbuster earnings last week from Big Tech, capped by Apple (AAPL-0.39%\r\n), Amazon (AMZN-2.87%\r\n), and a weekend of Buffett wisdom at Berkshire Hathaways (BRK.A-0.82%\r\n) annual\u2026 [+4852 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Michail",
+            "title": "Sony WH-1000XM6 emerge in Amazon listing ahead of launch",
+            "description": "Nearly three years since the launch of the WH-1000XM5, Sony is finally ready to introduce a new version of its premium over-ear headphones. Sony\u2019s highly anticipated WH-1000XM6 made an unexpected appearance in an Amazon Spain listing (since deleted), revealin\u2026",
+            "url": "https://www.gsmarena.com/sony_wh1000xm6_emerge_in_amazon_listing_ahead_of_launch_-news-67690.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/05/sony-wh-1000xm6-amazon-listing/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2025-05-08T09:14:03Z",
+            "content": "Nearly three years since the launch of the WH-1000XM5, Sony is finally ready to introduce a new version of its premium over-ear headphones. Sonys highly anticipated WH-1000XM6 made an unexpected appe\u2026 [+1698 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": null,
+            "title": "Moto G Stylus 5G (2025) review",
+            "description": "Here is a phone only the a couple of markets gets to enjoy, which is a shame as it is the only affordable alternative to Samsung's S Pen-wielding...",
+            "url": "https://www.gsmarena.com/motoro_moto_g_stylus_5g_2025-review-2826.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/reviews/25/motorola-moto-g-stylus-2025/-728x314/gsmarena_001.jpg",
+            "publishedAt": "2025-05-02T16:03:13Z",
+            "content": "Introduction, specs, unboxing\r\nHere is a phone only the a couple of markets gets to enjoy, which is a shame as it is the only affordable alternative to Samsung's S Pen-wielding flagship. Yes, we are \u2026 [+3390 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "Ashley Biancuzzo",
+            "title": "The real win of AI PCs? Battery life",
+            "description": "In 2022-2023, AI-powered PCs made quite a splash with their automatic generation and built-in virtual assistants. Those features are cool, sure, but they\u2019re a little gimmicky at first blush. That said, amid the hype, the real standout feature emerged: battery\u2026",
+            "url": "https://www.pcworld.com/article/2657882/ai-powered-pcs-battery-life-totally-stole-the-show.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/05/omnibook-x-14.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2025-05-06T14:30:00Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nIn 2022-2023, AI-pow\u2026 [+5425 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "Mark Hachman",
+            "title": "Microsoft\u2019s tiny new Surface Laptop and Pro shrink in other ways, too",
+            "description": "Smaller Surfaces have finally arrived. Microsoft is announcing smaller, less powerful revisions of the Microsoft Surface Pro tablet and Surface Laptop, all built around a more conservative version of Qualcomm\u2019s battery-sipping Qualcomm Snapdragon X Plus chip.\u2026",
+            "url": "https://www.pcworld.com/article/2770913/microsofts-tiny-new-surface-laptop-and-pro-shrink-in-other-ways-too.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/05/New-Surface-Copilot-PCs_UNDER-EMBARGO-UNTIL-MAY-6-6-AM-PT-9-AM-ET.png?w=1024",
+            "publishedAt": "2025-05-06T13:00:00Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nSmaller Surfaces hav\u2026 [+9677 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "Mark Hachman",
+            "title": "\u2018Computer, do this.\u2019 Windows PCs take a cue from Star Trek\u2019s AI",
+            "description": "\u201cComputer, do this.\u201d It\u2019s been one future that sci-fi has promised since Star Trek. Microsoft now says that that future is arriving, at least within a small corner of Windows 11.\r\n\n\n\n\nMicrosoft is promising that you\u2019ll be able to use natural language to chang\u2026",
+            "url": "https://www.pcworld.com/article/2772241/computer-do-this-windows-pcs-take-a-cue-from-star-treks-ai.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/05/Paint-generative-fill.png?w=1024",
+            "publishedAt": "2025-05-06T13:00:00Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\n\u201cComputer, do this.\u201d\u2026 [+6906 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "jsor@businessinsider.com (Jennifer Sor)",
+            "title": "There are 2 distinct forces driving stocks higher today",
+            "description": "A trade deal between the US and the UK boosted optimism on Wall Street. Stocks jumped, while yields rose as traders adjusted after Wednesday's Fed meeting.",
+            "url": "https://www.businessinsider.com/trade-deal-trump-tariffs-us-uk-stock-market-today-2025-5",
+            "urlToImage": "https://i.insider.com/681ca7c53fe8d39283654508?width=1200&format=jpeg",
+            "publishedAt": "2025-05-08T13:56:38Z",
+            "content": "US stocks rose on Thursday, driven higher by optimism around trade deals and an end to chip rules that had been a headwind for high-flying AI names. \r\nPresident Donald Trump on Thursday said he would\u2026 [+3902 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Creative Bloq"
+            },
+            "author": "Ian Evenden",
+            "title": "I've tested the Apple Mac Studio M4 Max, and it's clearly just gotten better",
+            "description": "We've tested the Apple Mac Studio M4 Max, and the result is as predictable and solid as the design.",
+            "url": "https://www.creativebloq.com/tech/laptops/ive-tested-the-apple-mac-studio-m4-max-and-its-clearly-just-gotten-better",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/7XAdXHq8Sh5y3xe9NYXyUc.jpg",
+            "publishedAt": "2025-05-02T06:00:00Z",
+            "content": "Why you can trust Creative Bloq\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.\r\nDo you ever play th\u2026 [+12679 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Andro4all.com"
+            },
+            "author": "Alejandro Mier",
+            "title": "Samsung lanza nuevos televisores: ll\u00e9vate el tuyo con descuentazo en Samsung.com y barra de sonido de regalo",
+            "description": "Samsung vuelve a convertirse en el epicentro de los grandes lanzamientos tecnol\u00f3gicos con la llegada de sus , una campa\u00f1a que no solo presenta los modelos m\u00e1s punteros del momento (Neo QLED 4K, Neo QLED 8K, OLED y The Frame), sino que lo hace acompa\u00f1ada de pr\u2026",
+            "url": "https://andro4all.com/ofertas/samsung-lanza-nuevos-televisores-llevate-el-tuyo-con-descuentazo-en-samsung-com-y-barra-de-sonido-de-regalo",
+            "urlToImage": "https://andro4all.com/hero/2025/05/promocion-televisores-samsung-2025.jpg?width=1200",
+            "publishedAt": "2025-05-08T08:29:31Z",
+            "content": "Imagina lo bien que quedar\u00e1 tu nuevo televisor en el mueble del sal\u00f3n o en la mejor pared de tu casa\r\nSamsung vuelve a convertirse en el epicentro de los grandes lanzamientos tecnol\u00f3gicos con la lleg\u2026 [+8060 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tomshw.it"
+            },
+            "author": "Marco Pedrani",
+            "title": "Un tasto per \"uccidere\" le GPU che finiscono in Cina: la folle idea di un politico USA",
+            "description": "Le GPU NVIDIA potrebbero presto essere dotati di sistemi di tracciamento e disattivazione remota. Una proposta legislativa che arriva (ovviamente) da gli USA e sa di film di spionaggio, ma che in real...",
+            "url": "https://www.tomshw.it/hardware/un-tasto-per-uccidere-le-gpu-che-finiscono-in-cina-la-folle-idea-di-un-politico-usa-2025-05-08",
+            "urlToImage": "https://www.tomshw.it/storage/media/2025/05/56708/NVIDIA-esportazioni-Cina-USA.jpg",
+            "publishedAt": "2025-05-08T12:12:12Z",
+            "content": "Le GPU NVIDIA potrebbero presto essere dotati di sistemi di tracciamento e disattivazione remota. Una proposta legislativa che arriva (ovviamente) da gli USA e sa di film di spionaggio, ma che in rea\u2026 [+4150 chars]"
         },
         {
             "source": {
@@ -99,1078 +944,337 @@
                 "name": "Tomshw.it"
             },
             "author": "Andrea Maiellano",
-            "title": "NVIDIA chiede di allentare le regole sull'export di GPU AI",
-            "description": "La disputa globale sulle esportazioni di processori AI sta assumendo contorni sempre pi\u00f9 complessi, con NVIDIA che preme per una liberalizzazione mentre l'amministrazione americana valuta di ra...",
-            "url": "https://www.tomshw.it/hardware/nvidia-chiede-di-allentare-le-regole-sullexport-di-gpu-ai-2025-05-01",
-            "urlToImage": "https://www.tomshw.it/storage/media/2023/12/8487/Jensen-Huang.webp",
-            "publishedAt": "2025-05-01T10:11:26Z",
-            "content": "La disputa globale sulle esportazioni di processori AI sta assumendo contorni sempre pi\u00f9 complessi, con NVIDIA che preme per una liberalizzazione mentre l'amministrazione americana valuta di rafforza\u2026 [+3448 chars]"
+            "title": "Apple prevede di acquistare 19 miliardi di chip dagli USA",
+            "description": "Nel 2025, il colosso di Cupertino prevede di integrare nei suoi dispositivi oltre 19 miliardi di chip prodotti sul suolo americano, segnando un importante traguardo per la filiera tecnologica statunit...",
+            "url": "https://www.tomshw.it/hardware/apple-prevede-di-acquistare-19-miliardi-di-chip-dagli-usa-2025-05-02",
+            "urlToImage": "https://www.tomshw.it/storage/media/2025/05/56246/arm-chip.webp",
+            "publishedAt": "2025-05-02T20:00:25Z",
+            "content": "Nel 2025, il colosso di Cupertino prevede di integrare nei suoi dispositivi oltre 19 miliardi di chip prodotti sul suolo americano, segnando un importante traguardo per la filiera tecnologica statuni\u2026 [+4459 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Forbes"
+                "name": "Tomshw.it"
             },
-            "author": "R. Scott Raynovich, Contributor, \n R. Scott Raynovich, Contributor\n https://www.forbes.com/sites/rscottraynovich/",
-            "title": "Huawei Moves Ratchet Up Nvidia\u2019s Stakes In The AI Trade War",
-            "description": "Nvidia CEO Jensen Huang made a remarkable admission this week: He\u2019s fearful of Huawei.",
-            "url": "https://www.forbes.com/sites/rscottraynovich/2025/05/01/huawei-moves-ratchet-up-nvidias-stakes-in-the-ai-trade-war/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6813994dfa31c9ca820bb2b4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-05-01T15:55:30Z",
-            "content": "Nvidia CEO Jensen Huang made a remarkable admission this week: Hes fearful of Huawei. He should be, as Huawei is a formidable technology power in the world, its history of using political advantages \u2026 [+6826 chars]"
+            "author": "Luca Zaninello",
+            "title": "Intel promette novit\u00e0 sulle GPU Arc a Computex",
+            "description": "Le nuove GPU Intel Arc Battlemage si preparano a conquistare il settore professionale con un importante aggiornamento della linea Pro, specificamente ottimizzata per carichi di lavoro AI e creazione d...",
+            "url": "https://www.tomshw.it/hardware/intel-promette-novita-sulle-gpu-arc-a-computex-2025-05-08",
+            "urlToImage": "https://www.tomshw.it/storage/media/2025/05/56676/intel-arc-pro-computex.jpg",
+            "publishedAt": "2025-05-08T09:00:44Z",
+            "content": "Le nuove GPU Intel Arc Battlemage\u00a0si preparano a conquistare il settore professionale con un importante aggiornamento della linea Pro, specificamente ottimizzata per carichi di lavoro AI e creazione \u2026 [+3286 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Forbes"
+                "name": "Tomshw.it"
             },
-            "author": "Edward Segal, Senior Contributor, \n Edward Segal, Senior Contributor\n https://www.forbes.com/sites/edwardsegal/",
-            "title": "How Corporate Activism Has Changed During Trump\u2019s Second Term",
-            "description": "Compared to when Joe Biden was president, the shift in activism has become obvious in President Donald Trump\u2019s first hundred days of his second term in office.",
-            "url": "https://www.forbes.com/sites/edwardsegal/2025/05/01/how-corporate-activism-has-changed--during-trumps-second-term/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68138184c672fd63850115eb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2025-05-01T14:58:31Z",
-            "content": "Over the past several months, many companies have gone from embracing corporate activism to ... More distancing themselves from it. Compared to when Joe Biden was president, the shift in activism has\u2026 [+5224 chars]"
+            "author": "Dario De Vita",
+            "title": "Il NO IVA di Comet abbatte il prezzo del MacBook Air: ora a 876\u20ac",
+            "description": "Negli ultimi tempi, la promozione NO IVA \u00e8 diventata una delle pi\u00f9 apprezzate tra i consumatori italiani, spesso proposta da grandi catene come Mediaworld e Unieuro. Oggi, anche Comet si...",
+            "url": "https://www.tomshw.it/hardware/super-sconto-macbook-air-13-m2-oggi-a-soli-876eur-63d",
+            "urlToImage": "https://www.tomshw.it/storage/media/2025/05/56655/Apple-MacBook-Air-13-M2-copertina.jpg",
+            "publishedAt": "2025-05-08T07:41:36Z",
+            "content": "Negli ultimi tempi, la promozione \"NO IVA\" \u00e8 diventata una delle pi\u00f9 apprezzate tra i consumatori italiani, spesso proposta da grandi catene come Mediaworld e Unieuro. Oggi, anche Comet si unisce a q\u2026 [+1566 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Tom's Hardware UK"
+                "name": "Tomshw.it"
             },
-            "author": "editors@tomshardware.com (Jowi Morales)",
-            "title": "Tiny cooling fan-on-a-chip designed for phones to be deployed in AI data centers",
-            "description": "xMEMS Labs is deploying its micro cooling solution on optical transceiver DSPs to make fiber optic communication in AI data centers more efficient.",
-            "url": "https://www.tomshardware.com/pc-components/air-cooling/tiny-cooling-fan-on-a-chip-designed-for-phones-to-be-deployed-in-ai-data-centers",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/c7TMms5rBosL9KsozSatCn.jpg",
-            "publishedAt": "2025-05-01T15:51:01Z",
-            "content": "AI data centers will start using xMEMS Labs\u2019 tiny, all-silicon, active fan-on-a-chip cooling solution, \u00b5Cooling, initially designed for smartphones and mobile devices.\r\nAccording to GamesBeat, this t\u2026 [+2544 chars]"
+            "author": "Marco Pedrani",
+            "title": "Nvidia blocca la RTX 5090D: ordini cancellati in Cina",
+            "description": "Secondo recenti indiscrezioni provenienti dal mercato asiatico, l'RTX 5090D - versione appositamente depotenziata per il mercato cinese - sarebbe stata ufficialmente bloccata dalle autorit\u00e0 sta...",
+            "url": "https://www.tomshw.it/hardware/nvidia-blocca-la-rtx-5090d-ordini-cancellati-in-cina-2025-05-08",
+            "urlToImage": "https://www.tomshw.it/storage/media/2025/01/47289/NVIDIA-RTX-5090-Founders-Edition-3.jpg",
+            "publishedAt": "2025-05-08T13:51:02Z",
+            "content": "Secondo recenti indiscrezioni provenienti dal mercato asiatico, l'RTX 5090D - versione appositamente depotenziata per il mercato cinese - sarebbe stata ufficialmente bloccata dalle autorit\u00e0 statunite\u2026 [+3134 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Hdblog.it"
+                "name": "Tomshw.it"
             },
-            "author": "HDblog.it",
-            "title": "Google sostiene la formazione di elettricisti per far fronte al fabbisogno energetico dell'AI",
-            "description": "Google investe nella formazione di elettricisti negli USA per soddisfare la crescente domanda energetica dei data center AI",
-            "url": "https://www.hdblog.it/google/articoli/n616989/google-formazione-elettricisti-ai/",
-            "urlToImage": "https://hd2.tudocdn.net/1255589?w=1920",
-            "publishedAt": "2025-05-01T13:30:00Z",
-            "content": "L'intelligenza artificiale sta rapidamente diventando una forza trainante nell'economia globale, portando con s\u00e9 un'esigenza sempre maggiore di energia elettrica. Per rispondere a questa crescente do\u2026 [+2407 chars]"
+            "author": "Antonello Buzzi",
+            "title": "Apple MacBook Pro M4: prestazioni da sogno a un PREZZO MAI VISTO!",
+            "description": "Se siete alla ricerca di un portatile professionale che unisca prestazioni elevate, autonomia eccezionale e un design iconico, non potete lasciarvi sfuggire questa offerta Amazon sul nuovo Apple MacBo...",
+            "url": "https://www.tomshw.it/hardware/apple-macbook-pro-m4-prestazioni-da-sogno-a-un-prezzo-mai-visto-mpR",
+            "urlToImage": "https://www.tomshw.it/storage/media/2025/05/56391/Apple-MacBook-Pro-M4-14,2-offerta-06052025-copertina.png",
+            "publishedAt": "2025-05-08T06:02:44Z",
+            "content": "Se siete alla ricerca di un portatile professionale che unisca prestazioni elevate, autonomia eccezionale e un design iconico, non potete lasciarvi sfuggire questa offerta Amazon sul nuovo Apple MacB\u2026 [+2196 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Antyweb.pl"
+                "name": "Tomshw.it"
             },
-            "author": "Bartek Luzak",
-            "title": "Mopuj\u0105 i podnosz\u0105 skarpetki: Najbardziej wypasione roboty sprz\u0105taj\u0105ce 2025 roku.",
-            "description": "Szukasz robota sprz\u0105taj\u0105cego, kt\u00f3ry nie zna kompromis\u00f3w? Oto najciekawsze, najbardziej wypasione modele 2025 roku \u2013 od samomyj\u0105cych si\u0119 mop\u00f3w po robotyczne ramiona.",
-            "url": "https://antyweb.pl/najciekawsze-roboty-sprzatajace",
-            "urlToImage": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2025/04/Roborock-Saros-Z70.jpeg",
-            "publishedAt": "2025-05-01T16:00:37Z",
-            "content": "Najciekawsze roboty sprztajce zestawienie\r\nCzy sprztanie moe by \"jakby luksusowe\"? Moe. A w 2025 roku moe by te autonomiczne. Szczeg\u00f3lnie wtedy, kiedy nie ogranicza nas aden budet. Roboty sprztajce j\u2026 [+5003 chars]"
+            "author": "Antonello Buzzi",
+            "title": "Insta360 Ace Pro 2: l'action cam definitiva per gli amanti dell'adrenalina, oggi in OFFERTA!",
+            "description": "Se siete appassionati di video ad altissima risoluzione e amate catturare ogni dettaglio delle vostre avventure, non potete lasciarvi sfuggire questa straordinaria offerta su AliExpress. Infatti, Inst...",
+            "url": "https://www.tomshw.it/altro/insta360-ace-pro-2-laction-cam-definitiva-per-gli-amanti-delladrenalina-oggi-in-offerta",
+            "urlToImage": "https://www.tomshw.it/storage/media/2025/05/56297/Insta360-Ace-Pro-2-offerta-05052025-copertina.png",
+            "publishedAt": "2025-05-05T08:52:08Z",
+            "content": "Se siete appassionati di video ad altissima risoluzione e amate catturare ogni dettaglio delle vostre avventure, non potete lasciarvi sfuggire questa straordinaria offerta su AliExpress. Infatti, Ins\u2026 [+1832 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Tecnoblog.net"
+                "name": "Tomshw.it"
             },
-            "author": "Ana Marques",
-            "title": "Galaxy S24 tem oferta por menos de R$ 3 mil com cupom no Magalu",
-            "description": "Samsung Galaxy S24 de 256 GB tem 54% de desconto com cupom TEL500 no Magazine Luiza, em pagamentos \u00e0 vista no Pix\nGalaxy S24 tem oferta por menos de R$ 3 mil com cupom no Magalu",
-            "url": "https://tecnoblog.net/achados/galaxy-s24-tem-oferta-por-menos-de-r-3-mil-com-cupom-no-magalu/",
-            "urlToImage": "https://files.tecnoblog.net/wp-content/uploads/2024/06/iphone-15-imagem-thassius-velosotecnoblog-6.png",
-            "publishedAt": "2025-05-01T19:57:42Z",
-            "content": "O Galaxy S24 com 256 GB de armazenamento est\u00e1 com um super desconto no Magalu, saindo por R$ 2.988 com o cupom TEL500 e selecionando o Pix \u00e0 vista como forma de pagamento. A oferta n\u00e3o permite parcel\u2026 [+1980 chars]"
+            "author": "Luca Zaninello",
+            "title": "Nuove etichette energetiche per smartphone: cosa sono, come si leggono e cosa cambia",
+            "description": "Il mondo della tecnologia mobile \u00e8 in costante evoluzione, ma raramente un cambiamento normativo ha avuto un potenziale impatto cos\u00ec profondo sia sui produttori che sui milioni di consum...",
+            "url": "https://www.tomshw.it/smartphone/etichette-classe-energetica-smartphone-tablet-cosa-cambia-come-si-leggono",
+            "urlToImage": "https://www.tomshw.it/storage/media/2025/05/56523/etichette-smartphone-copertina.png",
+            "publishedAt": "2025-05-07T08:31:15Z",
+            "content": "Il mondo della tecnologia mobile \u00e8 in costante evoluzione, ma raramente un cambiamento normativo ha avuto un potenziale impatto cos\u00ec profondo sia sui produttori che sui milioni di consumatori in Euro\u2026 [+29262 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Tinhte.vn"
+                "name": "Idownloadblog.com"
             },
-            "author": "no-reply@tinhte.vn (P.W), P.W",
-            "title": "M\u1ef9 s\u1ebd gi\u1eef v\u00e0 thay \u0111\u1ed5i quy \u0111\u1ecbnh h\u1ea1n ng\u1ea1ch mua GPU AI v\u1edbi to\u00e0n th\u1ebf gi\u1edbi",
-            "description": "Theo ba ngu\u1ed3n tin c\u1ee7a Reuters, ch\u00ednh quy\u1ec1n c\u1ee7a T\u1ed5ng th\u1ed1ng Donald Trump \u0111ang nghi\u00ean c\u1ee9u c\u00e1c s\u1eeda \u0111\u1ed5i \u0111\u1ed1i v\u1edbi m\u1ed9t quy \u0111\u1ecbnh \u0111\u01b0\u1ee3c ban h\u00e0nh trong nh\u1eefng ng\u00e0y cu\u1ed1i c\u00f9ng c\u1ee7a ch\u00ednh quy\u1ec1n t\u1ed5ng th\u1ed1ng Joe Biden. Khung s\u01b0\u1eddn quy \u0111\u1ecbnh n\u00e0y \u0111\u00e3 \u0111\u01b0\u1ee3c \u0111\u01b0a ra\u2026",
-            "url": "https://tinhte.vn/thread/my-se-giu-va-thay-doi-quy-dinh-han-ngach-mua-gpu-ai-voi-toan-the-gioi.4014860/",
-            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2025/04/8720857_GPU-cover.webp",
-            "publishedAt": "2025-05-01T01:25:47Z",
-            "content": "Hin ti, quy nh chia to\u00e0n b c\u00e1c quc gia v\u00e0 v\u00f9ng l\u00e3nh th tr\u00ean th gii th\u00e0nh ba nh\u00f3m. Mi by quc gia v\u00e0 o \u00e0i Loan thuc nh\u00f3m 1, c ph\u00e9p nhn chip kh\u00f4ng gii hn. Khong 120 quc gia kh\u00e1c nm nh\u00f3m 2, phi chu c\u00e1c h\u2026 [+1548 chars]"
+            "author": "Christian Zibreg",
+            "title": "Apple\u2019s first smart glasses could arrive in the next two years",
+            "description": "Apple's custom chip should enter mass production in time for power Apple's smart glasses to compete with to Meta's AR ones in 2027.",
+            "url": "https://www.idownloadblog.com/2025/05/08/apples-first-smart-glasses-could-arrive-in-the-next-two-years/",
+            "urlToImage": "https://media.idownloadblog.com/wp-content/uploads/2022/08/Apple-Park-headquarters-main-entrance-aerial-view.jpg",
+            "publishedAt": "2025-05-08T21:15:17Z",
+            "content": "Apple\u2019s custom chip should enter mass production in time to power Apple\u2019s smart glasses to compete with Meta\u2019s upcoming AR spectacles in 2027.\r\nThe Apple Park headquarters in California. Image: Carle\u2026 [+4187 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "PC Gamer"
+                "name": "TalkAndroid"
             },
-            "author": "Jacob Fox",
-            "title": "'China is right behind us': Jensen Huang says we need to 'accelerate the diffusion of American AI technology around the world'",
-            "description": "Is more exports or less exports in the American interest?",
-            "url": "https://www.pcgamer.com/hardware/china-is-right-behind-us-jensen-huang-says-we-need-to-accelerate-the-diffusion-of-american-ai-technology-around-the-world/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hJkLN4Zb3pgAj9NTkYDL6f.jpg",
-            "publishedAt": "2025-05-01T10:14:46Z",
-            "content": "What do you get when you cross a giant global tech company with an overtly 'America-first' US administration? It looks like the answer is: Policy talk that mixes a strange blend of globalisation and \u2026 [+4550 chars]"
+            "author": "Ayomide Sadiq",
+            "title": "The Infinix XPAD GT Is Its First Tablet Built for Mobile Gamers",
+            "description": "Infinix's gaming-focused GT series is about to get a tablet; perfect for those who want to maximize their displays.",
+            "url": "https://www.talkandroid.com/506492-infinix-xpad-gt-tablet/",
+            "urlToImage": "https://www.talkandroid.com/wp-content/uploads/2021/06/Infinix-Concept-Phone-2021-160W2-847x590.jpg",
+            "publishedAt": "2025-05-08T15:00:00Z",
+            "content": "Infinix is a brand that is well known for the low-cost and budget devices that it makes (alongside its sibling company, Tecno). Infinix makes smartphones, tablets, and even laptops, and none of them \u2026 [+3007 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Macitynet.it"
+                "name": "TalkAndroid"
             },
-            "author": "Fabrizio Frattini",
-            "title": "Questa sera i risultati fiscali di Apple tra calo di iPhone e rischio dazi",
-            "description": "Apple questa sera riporta i risultati del secondo trimestre fiscale 2025. Ma in un contesto di tensioni commerciali, rallentamento delle vendite in Cina e nuovi lanci hardware., l'attenzione di analisti e investitori \u00e8 tutta orientata al futuro\n- su macitynet\u2026",
-            "url": "https://www.macitynet.it/previsione-apple-risultati-q2-2025/",
-            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2025/05/risultat-fiscali-apple-q2-2025.jpg",
-            "publishedAt": "2025-05-01T17:52:09Z",
-            "content": "Un occhio al passato ma soprattutto un occhio al futuro. \u00c8 quello che ci possiamo attendere dalla presentazione dei risultati fiscali che Apple sveler\u00e0 questa sera, dopo la chiusura dei mercati USA.\r\u2026 [+4626 chars]"
+            "author": "Irene Okpanachi",
+            "title": "OnePlus 13 Vs Pixel 9 Pro XL: What Is The Difference?",
+            "description": "The Pixel 9 Pro XL will receive support until 2031. The OnePlus 13 won't, but it does have other amazing features. Let's compare them.",
+            "url": "https://www.talkandroid.com/504872-oneplus13-pixel9proxl-comparison/",
+            "urlToImage": "https://www.talkandroid.com/wp-content/uploads/2025/04/Most-Attractive-Youtube-Thumbnail-10.png",
+            "publishedAt": "2025-05-04T13:57:55Z",
+            "content": "OnePlus maintains its spotlight in the smartphone industry with the OnePlus 13. Its latest flagship is designed with a new camera system shaped from its continued partnership with Hasselblad and Snap\u2026 [+13932 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Macitynet.it"
+                "name": "Tomshw.it"
             },
-            "author": "Fabrizio Frattini",
-            "title": "iPhone 17 Air, Apple inventa l\u2019impossibile per farlo davvero sottile",
-            "description": "Conferme e dettagli inediti dai nuovi mockup: Apple ripensa il design per spingersi oltre i limiti, tra spessore record, scelte sorprendenti e soluzioni mai viste prima. Una porta USB-C fuori asse ma non solo\n- su macitynet.it iPhone 17 Air, Apple inventa l\u2019i\u2026",
-            "url": "https://www.macitynet.it/iphone-17-air-design-usb-c/",
-            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2025/04/porta-usb-c-iphone-17-air.jpg",
-            "publishedAt": "2025-05-01T05:29:30Z",
-            "content": "Il design dell\u2019iPhone 17 Air continua a prendere forma e man mano si comprende che siamo di fronte a qualche cosa di mai visto prima. Parliamo dello spessore ma anche di qualche scelta apparentemente\u2026 [+1955 chars]"
+            "author": "Luca Zaninello",
+            "title": "Le foto satellitari non mentono, Huawei produrr\u00e0 i propri chip",
+            "description": "A Shenzhen si sta combattendo una battaglia tecnologica che ridisegna gli equilibri globali nel settore dei semiconduttori. Mentre gli Stati Uniti continuano a rafforzare le restrizioni contro Huawei,...",
+            "url": "https://www.tomshw.it/smartphone/le-foto-satellitari-non-mentono-huawei-produrra-i-propri-chip-2025-05-05",
+            "urlToImage": "https://www.tomshw.it/storage/media/2024/02/14369/Huawei-MWC-2024.jpg",
+            "publishedAt": "2025-05-05T08:47:28Z",
+            "content": "A Shenzhen si sta combattendo una battaglia tecnologica che ridisegna gli equilibri globali nel settore dei semiconduttori. Mentre gli Stati Uniti continuano a rafforzare le restrizioni contro Huawei\u2026 [+4105 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Liliputing"
+                "name": "Tomshw.it"
             },
-            "author": "Brad Linder",
-            "title": "FEVM FA-EX9 mini PC with AMD Strix Halo coming soon",
-            "description": "Chinese mini PC maker FEVM has a habit of cramming high-performance hardware into compact designs. Last year the company introduced a Mac Studio clone with up to an Intel Core i9-14900KF processor and NVIDIA RTX 4090M graphics. And now FEVM is preparing to la\u2026",
-            "url": "https://liliputing.com/fevm-fa-ex9-mini-pc-with-amd-strix-halo-coming-soon/",
-            "urlToImage": "https://liliputing.com/wp-content/uploads/2025/05/ex9_03.jpg",
-            "publishedAt": "2025-05-01T18:11:24Z",
-            "content": "Chinese mini PC maker FEVM has a habit of cramming high-performance hardware into compact designs. Last year the company introduced a Mac Studio clone with up to an Intel Core i9-14900KF processor an\u2026 [+1757 chars]"
+            "author": "Luca Zaninello",
+            "title": "Intel Panther Lake, al lancio un solo modello. Gli altri slittano al 2026",
+            "description": "Il panorama dei processori Intel sta subendo un importante riassetto, con ritardi che potrebbero modificare significativamente le strategie di lancio previste. Secondo le ultime indiscrezioni, Intel s...",
+            "url": "https://www.tomshw.it/hardware/intel-panther-lake-al-lancio-un-solo-modello-gli-altri-slittano-al-2026-2025-05-02",
+            "urlToImage": "https://www.tomshw.it/storage/media/2024/10/37907/Intel-Panther-Lake.png",
+            "publishedAt": "2025-05-02T08:15:56Z",
+            "content": "Il panorama dei processori Intel sta subendo un importante riassetto, con ritardi che potrebbero modificare significativamente le strategie di lancio previste. Secondo le ultime indiscrezioni, Intel \u2026 [+3248 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Tomshw.it"
             },
-            "author": "Nauman khan",
-            "title": "Why Are Nvidia Shares Climbing Today",
-            "description": "Trump Weighs Bilateral AI Deal With UAE, Nvidia Shares Rise",
-            "url": "https://finance.yahoo.com/news/why-nvidia-shares-climbing-today-172416962.html",
-            "urlToImage": "https://media.zenfs.com/en/us.finance.gurufocus/fd31fc095649afb25abfee1d159ebdd3",
-            "publishedAt": "2025-05-01T17:24:16Z",
-            "content": "Nvidia (NASDAQ:NVDA) rose more than 4% on Thursday after a report said the Trump administration is considering easing export restrictions on AI chips to the United Arab Emirates, ahead of President T\u2026 [+901 chars]"
+            "author": "Carla Cigognini",
+            "title": "Insta360 Ace Pro 2: l'action cam che riscrive le regole!",
+            "description": "Se pensavi che il mondo delle action cam avesse gi\u00e0 raggiunto il massimo, \u00e8 il momento di ricrederti. La Insta360 Ace Pro 2 alza l\u2019asticella con un concentrato di tecnologia all&rs...",
+            "url": "https://www.tomshw.it/offerte/insta360-ace-pro-2-laction-cam-che-riscrive-le-regole",
+            "urlToImage": "https://www.tomshw.it/storage/media/2025/05/56715/insta.png",
+            "publishedAt": "2025-05-08T12:49:12Z",
+            "content": "Se pensavi che il mondo delle action cam avesse gi\u00e0 raggiunto il massimo, \u00e8 il momento di ricrederti. La\u00a0Insta360 Ace Pro 2 alza l\u2019asticella con un concentrato di tecnologia all\u2019avanguardia, co-ingeg\u2026 [+1922 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Tomshw.it"
             },
-            "author": "Abdul Rahman",
-            "title": "Is WisdomTree Japan Hedged SmallCap Equity Fund (DXJS) the Best International Index Fund to Invest In?",
-            "description": "We recently published a list of 9 Best International Index Funds to Invest In. In this article, we are going to take a look at where WisdomTree Japan Hedged ...",
-            "url": "https://finance.yahoo.com/news/wisdomtree-japan-hedged-smallcap-equity-002005587.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TGRRELexxNOn0fMOe5HTOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/2f66f16e62e3d55ac7283a27ca726b30",
-            "publishedAt": "2025-05-01T00:20:05Z",
-            "content": "We recently published a list of 9 Best International Index Funds to Invest In. In this article, we are going to take a look at where WisdomTree Japan Hedged SmallCap Equity Fund (NASDAQ:DXJS) stands \u2026 [+5640 chars]"
+            "author": "Andrea Riviera",
+            "title": "AMD abbandona Samsung per TSMC? Cos\u00ec sembra",
+            "description": "Il panorama dell'industria dei semiconduttori sta attraversando un periodo di profondi cambiamenti strategici, con un significativo riorientamento delle partnership produttive che coinvolge i principa...",
+            "url": "https://www.tomshw.it/hardware/amd-abbandona-samsung-per-tsmc-ordini-di-chip-4nm-trasferiti-2025-05-06",
+            "urlToImage": "https://www.tomshw.it/storage/media/2025/03/52706/AMD-Gaia.webp",
+            "publishedAt": "2025-05-06T14:44:27Z",
+            "content": "Il panorama dell'industria dei semiconduttori sta attraversando un periodo di profondi cambiamenti strategici, con un significativo riorientamento delle partnership produttive che coinvolge i princip\u2026 [+2916 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNET"
+                "name": "Tomshw.it"
             },
-            "author": "Andrew Lanxon",
-            "title": "The Best Android Phones of 2025: Tested by Our Experts",
-            "description": "From Google's Pixel 9 and foldable phones like Motorola's Razr Plus to Samsung's Galaxy S25, these are the best Android phones that we tested and that you...",
-            "url": "https://www.cnet.com/tech/mobile/best-android-phone/?pageview_type=RSS-yahoo-feed",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/I1146ChcZrn_YfNhsTSAGQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/cnet_articles_178/772b61189ead6e8ed6c4af7ce06bbaa2",
-            "publishedAt": "2025-05-01T02:52:00Z",
-            "content": "The best Android phones have excellent cameras, a battery life that lasts a day or more, a powerful processor and years of software and security updates. We tested dozens of Android smartphones, and \u2026 [+6750 chars]"
+            "author": "Luca Zaninello",
+            "title": "Samsung non molla, Galaxy S26 avr\u00e0 un chip a 2nm in Europa (ma non ne sarete contenti)",
+            "description": "Nonostante manchino ancora diversi mesi al lancio ufficiale, previsto per gennaio 2026, Samsung sembra intenzionata a ripristinare una strategia gi\u00e0 vista in passato: utilizzare chipset differe...",
+            "url": "https://www.tomshw.it/smartphone/samsung-non-molla-galaxy-s26-avra-un-chip-a-2nm-in-europa-ma-non-ne-sarete-contenti-2025-05-05",
+            "urlToImage": "https://www.tomshw.it/storage/media/2025/02/48626/samsung-galaxy-s25-ultra-42.jpg",
+            "publishedAt": "2025-05-05T08:22:44Z",
+            "content": "Nonostante manchino ancora diversi mesi al lancio ufficiale, previsto per gennaio 2026, Samsung sembra intenzionata a ripristinare una strategia gi\u00e0 vista in passato: utilizzare chipset differenti a \u2026 [+3376 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Securityaffairs.com"
+                "name": "Tomshw.it"
             },
-            "author": "Pierluigi Paganini",
-            "title": "Two SonicWall SMA100 flaws actively exploited in the wild",
-            "description": "SonicWall confirmed that threat actors actively exploited two vulnerabilities impacting its SMA100 Secure Mobile Access (SMA) appliances. SonicWall revealed that attackers actively exploited two security vulnerabilities, tracked as CVE-2023-44221\u00a0and CVE-2024\u2026",
-            "url": "https://securityaffairs.com/177278/security/two-sonicwall-sma100-flaws-actively-exploited-in-the-wild.html",
-            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2020/10/SonicWall.png",
-            "publishedAt": "2025-05-01T08:31:17Z",
-            "content": "Two SonicWall SMA100 flaws actively exploited in the wild\r\n\u00a0|\u00a0Hive0117 group targets Russian firms with new variant of DarkWatchman malware\r\n\u00a0|\u00a0Russia-linked group Nebulous Mantis targets NATO-relate\u2026 [+160032 chars]"
+            "author": "Giulia Serena",
+            "title": "Intel Raptor Lake: finalmente addio insatabilit\u00e0? Arriva il fix 0x12F",
+            "description": "L'instabilit\u00e0 dei processori Raptor Lake di Intel continua a far parlare di s\u00e9, sebbene in misura decisamente minore rispetto ai mesi scorsi. Nonostante i numerosi aggiornamenti firmware...",
+            "url": "https://www.tomshw.it/hardware/problemi-di-instabilita-raptor-lake-arriva-il-fix-0x12f-2025-05-08",
+            "urlToImage": "https://www.tomshw.it/storage/media/2025/03/51221/intel-ai.webp",
+            "publishedAt": "2025-05-08T09:27:40Z",
+            "content": "L'instabilit\u00e0 dei processori Raptor Lake di Intel continua a far parlare di s\u00e9, sebbene in misura decisamente minore rispetto ai mesi scorsi. Nonostante i numerosi aggiornamenti firmware rilasciati d\u2026 [+3070 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Securityaffairs.com"
+                "name": "Tomshw.it"
             },
-            "author": "Pierluigi Paganini",
-            "title": "Canadian electric utility Nova Scotia Power and parent company Emera suffered a cyberattack",
-            "description": "Canadian electric utility Nova Scotia Power and parent company Emera are facing a cyberattack that disrupted their IT systems and networks. Nova Scotia Power Inc. is a vertically integrated electric utility serving the province of Nova Scotia, Canada. Headqua\u2026",
-            "url": "https://securityaffairs.com/177281/hacking/canadian-electric-utility-nova-scotia-power-and-parent-company-emera-suffered-a-cyberattack.html",
-            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/01/uk-power-grid.jpg",
-            "publishedAt": "2025-05-01T15:52:08Z",
-            "content": "Canadian electric utility Nova Scotia Power and parent company Emera suffered a cyberattack\r\n\u00a0|\u00a0Two SonicWall SMA100 flaws actively exploited in the wild\r\n\u00a0|\u00a0Hive0117 group targets Russian firms with\u2026 [+160128 chars]"
+            "author": "Dario De Vita",
+            "title": "Lo smartphone che elimina cover e powerbank: oggi a un super prezzo",
+            "description": "Se siete stanchi di dover portare con voi sempre una cover ultraresistente o una powerbank per non restare a secco di batteria, il DOOGEE S200 Plus \u00e8 la risposta definitiva. Questo smartphone r...",
+            "url": "https://www.tomshw.it/smartphone/doogee-s200-plus-super-sconto-su-amazon-solo-437eur-KmF",
+            "urlToImage": "https://www.tomshw.it/storage/media/2025/05/56155/DOOGEE-S200-Plus-copertina.jpg",
+            "publishedAt": "2025-05-02T07:23:37Z",
+            "content": "Se siete stanchi di dover portare con voi sempre una cover ultraresistente o una powerbank per non restare a secco di batteria, il DOOGEE S200 Plus \u00e8 la risposta definitiva. Questo smartphone rugged \u2026 [+2206 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Securityaffairs.com"
+                "name": "Tomshw.it"
             },
-            "author": "Pierluigi Paganini",
-            "title": "FBI shared a list of phishing domains associated with the LabHost PhaaS platform",
-            "description": "The FBI shared 42K phishing domains tied to LabHost, a PhaaS platform shut down in April 2024, to boost awareness and help identify compromises. The FBI shared a list of 42,000 domains registered from November 2021 to Apr 2024, linked to LabHost to raise awar\u2026",
-            "url": "https://securityaffairs.com/177293/cyber-crime/fbi-shared-a-list-of-phishing-domains-associated-with-the-labhost-phaas-platform.html",
-            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/02/Rule-41-google-fbi-21.jpg",
-            "publishedAt": "2025-05-01T18:04:47Z",
-            "content": "FBI shared a list of phishing domains associated with the LabHost PhaaS platform\r\n\u00a0|\u00a0Canadian electric utility Nova Scotia Power and parent company Emera suffered a cyberattack\r\n\u00a0|\u00a0Two SonicWall SMA1\u2026 [+160213 chars]"
+            "author": "Antonello Buzzi",
+            "title": "Beats Powerbeats Pro: qualit\u00e0 audio e comfort ora a PREZZO STRACCIATO!",
+            "description": "Se siete alla ricerca di auricolari wireless ad alte prestazioni, l'offerta disponibile su Amazon per i Beats Powerbeats Pro rappresenta un'opportunit\u00e0 senza precedenti. Attualmente potete acqu...",
+            "url": "https://www.tomshw.it/smartphone/beats-powerbeats-pro-qualita-audio-e-comfort-ora-a-prezzoo-stracciato-6SJ",
+            "urlToImage": "https://www.tomshw.it/storage/media/2025/05/56310/Beats-Powerbeats-Pro-offerta-05052025-copertina.png",
+            "publishedAt": "2025-05-05T09:33:10Z",
+            "content": "Se siete alla ricerca di auricolari wireless ad alte prestazioni, l'offerta disponibile su Amazon per i Beats Powerbeats Pro rappresenta un'opportunit\u00e0 senza precedenti. Attualmente potete acquistarl\u2026 [+2000 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Geeky Gadgets"
+                "name": "Tomshw.it"
             },
-            "author": "Roland Hutchinson",
-            "title": "iPhone 17 Pro: The Design Refinements We\u2019ve Been Waiting For",
-            "description": "The iPhone 17 Pro represents a bold step forward in smartphone technology, blending innovative hardware with seamless software to deliver a device that is both powerful and intuitive. Designed with a focus on performance, durability, and user-centric features\u2026",
-            "url": "https://www.geeky-gadgets.com/iphone-17-pro/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/04/iphone-17-pro-camera-bar-design_optimized-1.jpg",
-            "publishedAt": "2025-05-01T06:30:55Z",
-            "content": "The iPhone 17 Pro represents a bold step forward in smartphone technology, blending innovative hardware with seamless software to deliver a device that is both powerful and intuitive. Designed with a\u2026 [+6459 chars]"
+            "author": "Andrea Maiellano",
+            "title": "Spuntano i benchamrk della RTX Pro 6000 di NVIDIA",
+            "description": "Nonostante l'azienda californiana non abbia ancora svelato ufficialmente i suoi nuovi prodotti destinati alla visualizzazione professionale, la NVIDIA RTX Pro 6000 Blackwell Workstation Edition &egrav...",
+            "url": "https://www.tomshw.it/hardware/spuntano-i-benchamrk-della-rtx-pro-6000-di-nvidia-2025-05-03",
+            "urlToImage": "https://www.tomshw.it/storage/media/2025/05/56247/NVIDIA-rtx-6000.webp",
+            "publishedAt": "2025-05-03T09:22:10Z",
+            "content": "Nonostante l'azienda californiana non abbia ancora svelato ufficialmente i suoi nuovi prodotti destinati alla visualizzazione professionale, la NVIDIA RTX Pro 6000 Blackwell Workstation Edition \u00e8 gi\u00e0\u2026 [+3804 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Geeky Gadgets"
+                "name": "Tomshw.it"
             },
-            "author": "Roland Hutchinson",
-            "title": "Google Pixel 9a: The Mid-Range Marvel",
-            "description": "The Google Pixel 9a, priced at $499 USD, offers a compelling combination of affordability and premium features, positioning itself as a strong competitor in the mid-range smartphone market. While it borrows some elements from the flagship Pixel 9 series, it i\u2026",
-            "url": "https://www.geeky-gadgets.com/google-pixel-9a/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2025/04/google-pixel-9a-design-and-build_optimized.jpg",
-            "publishedAt": "2025-05-01T10:00:37Z",
-            "content": "The Google Pixel 9a, priced at $499 USD, offers a compelling combination of affordability and premium features, positioning itself as a strong competitor in the mid-range smartphone market. While it \u2026 [+7362 chars]"
+            "author": "Giulia Serena",
+            "title": "ROG Ally 2 si mostra in dei leak: design rinnovato e specifiche tecniche trapelate",
+            "description": "L'attesa per i nuovi dispositivi portatili da gaming di ASUS sta per concludersi, ma come spesso accade nel mondo tecnologico, i segreti non rimangono tali a lungo. Grazie a documenti ufficiali emersi...",
+            "url": "https://www.tomshw.it/hardware/asus-rog-ally-2-si-mostra-in-dei-leak-design-rinnovato-e-specifiche-tecniche-potenti-2025-05-07",
+            "urlToImage": "https://www.tomshw.it/storage/media/2025/05/56543/ASUS-ROG-ALLY-2-WHITE-1.jpg",
+            "publishedAt": "2025-05-07T08:22:03Z",
+            "content": "L'attesa per i nuovi dispositivi portatili da gaming di ASUS sta per concludersi, ma come spesso accade nel mondo tecnologico, i segreti non rimangono tali a lungo. Grazie a documenti ufficiali emers\u2026 [+3788 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Webnews.it"
+                "name": "Tomshw.it"
             },
-            "author": "Marika Luongo",
-            "title": "Mini PC TRIGKEY: potenza e compattezza ad un prezzo imbattibile",
-            "description": "Il TRIGKEY Mini PC K-N95 offre prestazioni elevate con Intel N95, 8GB RAM, SSD 256GB e supporto 4K. Approfitta dell'offerta Amazon!",
-            "url": "https://www.webnews.it/mini-pc-trigkey-potenza-e-compattezza-ad-un-prezzo-imbattibile/",
-            "urlToImage": "https://cdn.webnews.it/nNxTkS8af_W-lk84SUuZ5V0TbOY=/2120x848/filters:format(webp)/https://www.webnews.it/app/uploads/2025/04/mini-pc.png",
-            "publishedAt": "2025-05-01T09:00:40Z",
-            "content": "Un\u2019occasione da non perdere per chi cerca potenza e versatilit\u00e0 in un formato compatto: il TRIGKEY Mini PC K-N95 \u00e8 disponibile ad un prezzo davvero scontato del 5% e quindi di soli 128 euro su Amazon\u2026 [+3131 chars]"
+            "author": "Andrea Riviera",
+            "title": "Come proteggere la console portatile dal caldo estivo?",
+            "description": "L'estate \u00e8 una stagione che molti di noi videogiocatori attendono con impazienza: giornate pi\u00f9 lunghe, magari qualche vacanza, e pi\u00f9 tempo libero da dedicare alle nostre passioni....",
+            "url": "https://www.tomshw.it/videogioco/come-proteggere-la-console-portatile-dal-caldo-estivo",
+            "urlToImage": "https://www.tomshw.it/storage/media/2025/03/53394/la-lenovo-legion-go-s-sous-steamos-coutera-499-et-sortira-en-mai-2025-cover677d5ccfb14a2.jpg",
+            "publishedAt": "2025-05-08T14:05:03Z",
+            "content": "L'estate \u00e8 una stagione che molti di noi videogiocatori attendono con impazienza: giornate pi\u00f9 lunghe, magari qualche vacanza, e pi\u00f9 tempo libero da dedicare alle nostre passioni. Le console portatil\u2026 [+15410 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Www.nrc.nl"
+                "name": "Nakedcapitalism.com"
             },
-            "author": "Amber Wiznitzer",
-            "title": "Soepsites? Tech-onderwerpen in talkshows werken als een magneet op merkwaardige types",
-            "description": "ZAP: In Goedemorgen Nederland kwam schaatser Ben van der Burg over AI praten, maar hij verloor zich in een soep-metafoor. En welke chip heeft Nieuws van de Dag in Malou Petter gestopt?",
-            "url": "https://www.nrc.nl/nieuws/2025/05/01/soepsites-tech-onderwerpen-in-talkshows-werken-als-een-magneet-op-merkwaardige-types-a4891771",
-            "urlToImage": "https://images.nrc.nl/ZYl9qaCFTDPrWKtJKmDdE167IeE=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data131612187-719e4d.jpg",
-            "publishedAt": "2025-05-01T09:30:48Z",
-            "content": "Kijk, zei Ben van der Burg. Het internet. Jij hebt bijvoorbeeld een soepsite, ja? Dit ging Goedemorgen Nederland-presentatrice Welmoed Sijtsma net te snel. Een soepsite?, vroeg ze voorzichtig. Oh!, r\u2026 [+3572 chars]"
+            "author": "Haig Hovaness",
+            "title": "Links 5/7/2025",
+            "description": "Our strategic daily links: Elephant evolution, vanishing snow, China tourism, Mexican Standoff, Gaza horrors, Ukraine burning, self deportation, vanishing privacy, homeless warnings, Trumpishness, DOGEy moves, , plunging markets, Democrats adrift, AI getting \u2026",
+            "url": "https://www.nakedcapitalism.com/2025/05/links-5-7-2025-2.html",
+            "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/05/Peacock.jpg",
+            "publishedAt": "2025-05-07T10:55:09Z",
+            "content": "A 108-Million-Year-Old Bone Just Rewrote Our Understanding of the Worlds Strangest Mammal SciTechDaily\r\nThe evolution of elephantspic.twitter.com/1mYcLgAimP\r\n Science girl (@gunsnrosesgirl3) May 6, 2\u2026 [+7258 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Techpowerup.com"
+                "name": "Nakedcapitalism.com"
             },
-            "author": "AleksandarK",
-            "title": "US to Implement Bilateral Licensing Framework for AI Chips",
-            "description": "The Trump administration is preparing substantial changes to the Biden-era Framework for AI Diffusion controlling advanced semiconductor exports. Sources close to the Reuters indicate officials will replace the current three-tier country classification with a\u2026",
-            "url": "https://www.techpowerup.com/336194/us-to-implement-bilateral-licensing-framework-for-ai-chips",
-            "urlToImage": "https://www.techpowerup.com/img/DO3b8lrNEdxinXTm.jpg",
-            "publishedAt": "2025-05-01T08:59:31Z",
-            "content": "The Trump administration is preparing substantial changes to the Biden-era Framework for AI Diffusion controlling advanced semiconductor exports. Sources close to the Reuters indicate officials will \u2026 [+1251 chars]"
+            "author": "Haig Hovaness",
+            "title": "Links 5/4/2025",
+            "description": "Our strategic daily links: flying bike, snake venom, COVID politics, Chinese pharmaceuticals, Brazil engergy, Gaza horrors, Ukraine burning, Real ID, vanishing privacy, hopeless homeless, Trumpishness, DOGEy moves, immigration troubles, nervous markets, Democ\u2026",
+            "url": "https://www.nakedcapitalism.com/2025/05/links-5-4-2025.html",
+            "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/05/Racoon-600.jpg",
+            "publishedAt": "2025-05-04T10:55:56Z",
+            "content": "Blood of man whos had 200 snake bites helps make a potent antivenom Nature\r\nKuwait cracks down on crypto miners to cut down on electricity usage Engadget\r\nAbsolutely unreal! This bike trick is pure t\u2026 [+6462 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Techpowerup.com"
+                "name": "Nakedcapitalism.com"
             },
-            "author": "T0@st",
-            "title": "GMKtec Lining Up AMD \"Strix Halo\" APU-powered EVO-X2 Mini PC for Launch in US & Europe",
-            "description": "Around the middle of March, GMKtec's EVO-X2 Mini PC design attracted international media attention\u2014thanks to Dr. Lisa Su's autograph adorning a special presentation sample. During festivities, this relatively young Chinese brand\u2014founded back in 2019\u2014introduce\u2026",
-            "url": "https://www.techpowerup.com/336216/gmktec-lining-up-amd-strix-halo-apu-powered-evo-x2-mini-pc-for-launch-in-us-europe",
-            "urlToImage": "https://www.techpowerup.com/img/mNyWSDgQi9onQYjA.jpg",
-            "publishedAt": "2025-05-01T17:20:47Z",
-            "content": "Around the middle of March, GMKtec's EVO-X2 Mini PC design attracted international media attentionthanks to Dr. Lisa Su's autograph adorning a special presentation sample. During festivities, this re\u2026 [+1768 chars]"
+            "author": "Conor Gallagher",
+            "title": "Links 5/8/2025",
+            "description": "Our fragrant daily links, including OpenAI partners with the FDA, the Dems cave on crypto corruption, and \"halfway decent people\" at Ireland's oldest gym.",
+            "url": "https://www.nakedcapitalism.com/2025/05/links-5-8-2025.html",
+            "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/05/Screenshot-2025-05-07-at-8.53.06\u202fAM-1024x1013.png",
+            "publishedAt": "2025-05-08T10:55:07Z",
+            "content": "Physicists uncover how geometric frustration shapes the rose\u2019s iconic blossom Phys.org\r\nFed holds rates steady, warns of higher inflation and unemployment Reuters\r\nBlack smoke: Cardinals fail to elec\u2026 [+9337 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNET"
+                "name": "Nakedcapitalism.com"
             },
-            "author": "Abrar Al-Heeti",
-            "title": "iPhone 17 Rumors, From a Slim 'Air' Model to a New Camera Design",
-            "description": "Rumors also suggest the full iPhone 17 lineup could get more RAM.",
-            "url": "https://www.cnet.com/tech/mobile/iphone-17-rumors-from-a-slim-air-model-to-a-new-camera-design/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/caf61ae1f5459fa108830f6e9ad568c15975adac/hub/2024/05/06/4d14c079-68c9-43a1-9416-4efaece51346/iphone-17-rumors-00000.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-05-01T11:30:04Z",
-            "content": "We're still months away from Apple's anticipated reveal of the next\u00a0iPhone, but plenty of rumors are swirling about what the upcoming device, likely called the iPhone 17, could look like.\u00a0\r\nFrom a re\u2026 [+8797 chars]"
+            "author": "Yves Smith",
+            "title": "Links 5/7/2025",
+            "description": "Our authentic daily links: sexy veggies, moar Long Covid consequences, US-China tariff talks, India attacks Pakistan, Merz big stumble, Trump retreat in Houthi deal, Kellogg vaporware, Trump crypto probe? deportation fail, deepfake arms race, inflation, arres\u2026",
+            "url": "https://www.nakedcapitalism.com/2025/05/links-5-7-2025.html",
+            "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/05/00-capybaras-scaled.jpeg",
+            "publishedAt": "2025-05-07T10:55:30Z",
+            "content": "Dear patient readers,\r\nYou get a Links double dose due to a coordination issue. This has never happened before, so enjoy.\r\nI left both stand rather than sorting this out. You will note the comparativ\u2026 [+10169 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Nvidia stock rises to lead chip rally after Meta, Microsoft back AI investment plans",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9b3c6820-4964-4f3c-94b1-f9e4bb2dff22",
-            "urlToImage": null,
-            "publishedAt": "2025-05-01T12:43:24Z",
-            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+702 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PhoneArena"
-            },
-            "author": "Polina Kovalakova",
-            "title": "Get the Lenovo IdeaPad Slim 3i with Chromebook Plus for $120 off with this hot sale",
-            "description": "With its Google AI features and lightweight design, the 14-inch Lenovo IdeaPad Slim 3i is a perfect choice for casual use, study, and more. Plus, it's $120 off at the official store!",
-            "url": "https://www.phonearena.com/news/lenovo-ideapad-slim-3i-120-off_id169956",
-            "urlToImage": "https://m-cdn.phonearena.com/images/article/169956-wide-two_1200/Get-the-Lenovo-IdeaPad-Slim-3i-with-Chromebook-Plus-for-120-off-with-this-hot-sale.jpg",
-            "publishedAt": "2025-05-01T12:44:58Z",
-            "content": "Looking for a casual laptop for studying and browsing? Consider the Lenovo IdeaPad Slim 3i. This 14-inch model offers great visuals with its Full HD resolution and anti-glare coating. On top of that,\u2026 [+1858 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Maham Fatima",
-            "title": "Is NVIDIA Corporation (NVDA) the Best Growth Stock to Buy for the Next 3 Years?",
-            "description": "We recently published a list of the 15 Best Growth Stocks to Buy for the Next 3 Years. In this article, we are going to take a look at where NVIDIA...",
-            "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-best-growth-091502819.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
-            "publishedAt": "2025-05-01T09:15:02Z",
-            "content": "We recently published a list of the 15 Best Growth Stocks to Buy for the Next 3 Years. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other grow\u2026 [+7797 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Maxim G.",
-            "title": "Is NVIDIA Corporation (NVDA) the Most Profitable Growth Stock to Buy Now?",
-            "description": "We recently published a list of 13 Most Profitable Growth Stocks to Buy Now. In this article, we are going to take a look at where NVIDIA Corporation...",
-            "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-most-profitable-075300394.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kZveoOmr3ngssVpudK1u4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc",
-            "publishedAt": "2025-05-01T07:53:00Z",
-            "content": "We recently published a list of 13 Most Profitable Growth Stocks to Buy Now. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) stands against other most profitabl\u2026 [+7754 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Maxim G.",
-            "title": "Is Robinhood Markets, Inc. (HOOD) the Most Profitable Growth Stock to Buy Now?",
-            "description": "We recently published a list of 13 Most Profitable Growth Stocks to Buy Now. In this article, we are going to take a look at where Robinhood Markets, Inc...",
-            "url": "https://finance.yahoo.com/news/robinhood-markets-inc-hood-most-073852488.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yoVdKNwBOZEOZs2_YPEELg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/ec7cdbcb5520f1c412e1549972f60dcf",
-            "publishedAt": "2025-05-01T07:38:52Z",
-            "content": "We recently published a list of 13 Most Profitable Growth Stocks to Buy Now. In this article, we are going to take a look at where Robinhood Markets, Inc. (NASDAQ:HOOD) stands against other most prof\u2026 [+7595 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Maxim G.",
-            "title": "Is Shopify Inc. Class A Subordinate Voting Shares (SHOP) the Most Profitable Growth Stock to Buy Now?",
-            "description": "We recently published a list of 13 Most Profitable Growth Stocks to Buy Now. In this article, we are going to take a look at where Shopify Inc. Class A...",
-            "url": "https://finance.yahoo.com/news/shopify-inc-class-subordinate-voting-073733276.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/c1QPE_7hWUMBuv04dQd4MQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/957bf12a8f9f34061283019df4f94b2d",
-            "publishedAt": "2025-05-01T07:37:33Z",
-            "content": "We recently published a list of 13 Most Profitable Growth Stocks to Buy Now. In this article, we are going to take a look at where Shopify Inc. Class A Subordinate Voting Shares (NASDAQ:SHOP) stands \u2026 [+8261 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Mac Observer"
-            },
-            "author": "Rajat Saini",
-            "title": "Apple CEO Excited as TSMC Expands With New US Chip Plant",
-            "description": "Apple CEO Tim Cook has welcomed the expansion of TSMC\u2019s U.S. manufacturing presence, calling it an \u201cexciting\u201d development as the company broke ground on its third semiconductor plant in Arizona. \n\n\n\nApple, already the first and largest customer of TSMC\u2019s U.S.\u2026",
-            "url": "https://www.macobserver.com/news/apple-ceo-excited-as-tsmc-expands-with-new-us-chip-plant/",
-            "urlToImage": "https://www.macobserver.com/wp-content/uploads/2025/05/about_arizona.jpg",
-            "publishedAt": "2025-05-01T12:19:23Z",
-            "content": "Apple CEO Tim Cook has welcomed the expansion of TSMCsU.S. manufacturing presence, calling it an exciting development as the company broke ground on its third semiconductor plant in Arizona. \r\nApple,\u2026 [+2011 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNA"
-            },
-            "author": null,
-            "title": "US tech-related stocks jump after Microsoft, Meta Platforms results",
-            "description": "NEW YORK :U.S. technology-related stocks including many involved in artificial intelligence rose sharply on Thursday following stronger-than-expected results from Microsoft and Meta Platforms, while investors awaited results from Apple and Amazon.com after th\u2026",
-            "url": "https://www.channelnewsasia.com/business/us-tech-related-stocks-jump-after-microsoft-meta-platforms-results-5103146",
-            "urlToImage": "https://dam.mediacorp.sg/image/upload/s--HbVJ_ul0--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2025-05-01t173838z_1_lynxmpel401xc_rtroptp_3_germany-politics-hannover-fair.jpg?itok=bXeJiRVm",
-            "publishedAt": "2025-05-01T17:38:38Z",
-            "content": "NEW YORK :U.S. technology-related stocks including many involved in artificial intelligence rose sharply on Thursday following stronger-than-expected results from Microsoft and Meta Platforms, while \u2026 [+1675 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Headlines"
-            },
-            "author": "Alexander Maxham",
-            "title": "Samsung Galaxy S24 Ultra Features",
-            "description": "The Samsung Galaxy S24 Ultra is easily one of the most feature-packed phones Samsung has ever made. Whether you're into photography, multitasking, or just",
-            "url": "https://www.androidheadlines.com/2025/05/samsung-galaxy-s24-ultra-features.html",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2024/03/Samsung-Galaxy-S24-Ultra-AM-AH-11-jpg.webp",
-            "publishedAt": "2025-05-01T12:38:53Z",
-            "content": "The Samsung Galaxy S24 Ultra is easily one of the most feature-packed phones Samsung has ever made. Whether youre into photography, multitasking, or just want a phone that feels futuristic, the Galax\u2026 [+2746 chars]"
-        },
-        {
-            "source": {
-                "id": "svenska-dagbladet",
-                "name": "Svenska Dagbladet"
-            },
-            "author": "SvD",
-            "title": "N\u00e4sta omr\u00e5de d\u00e4r Kina kan g\u00e5 om v\u00e4st",
-            "description": "PODD Solpaneler, elbilar och mobiltelefoner. P\u00e5 flera omr\u00e5den har Kina kommit ikapp eller g\u00e5tt om v\u00e4stv\u00e4rlden. \u00c4r landet snart ocks\u00e5 b\u00e4st p\u00e5 AI-chip?",
-            "url": "https://www.svd.se/a/25Ardx/nasta-omrade-dar-kina-kan-ga-om-vast-svd-tech-brief",
-            "urlToImage": "https://svd.vgc.no/v2/images/d33241d1-7c8e-448b-a704-588e90133adb?h=630&q=80&upscale=true&w=1200&s=834a7dbadcfd99c1294ef2923015bcd18360aad8",
-            "publishedAt": "2025-05-01T13:45:49Z",
-            "content": "Mycket \u00e4r h\u00f6ljt i dunkel. Men flera nyheter om tekniska genombrott p\u00e5 chipomr\u00e5det har l\u00e4ckt ut fr\u00e5n Huawei under de senaste veckorna. Nu p\u00e5st\u00e5r vissa att det kinesiska bolaget blivit lika vassa som m\u2026 [+483 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WebProNews"
-            },
-            "author": "Rich Ord",
-            "title": "Microsoft\u2019s Q3 2025 Earnings: Satya Nadella\u2019s Vision for AI-Driven Growth",
-            "description": "On April 30, 2025, Microsoft Chairman and CEO Satya Nadella took to X to share key highlights from the company\u2019s fiscal year 2025 third-quarter earnings, underscoring Microsoft\u2019s accelerating momentum in artificial intelligence (AI), cloud computing, and cons\u2026",
-            "url": "https://www.webpronews.com/microsofts-q3-2025-earnings-satya-nadellas-vision-for-ai-driven-growth/",
-            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2025/05/Microsoft-Chairman-and-CEO-Satya-Nadella.jpg",
-            "publishedAt": "2025-05-01T14:25:55Z",
-            "content": "On April 30, 2025, Microsoft Chairman and CEO Satya Nadella took to X to share key highlights from the companys fiscal year 2025 third-quarter earnings, underscoring Microsofts accelerating momentum \u2026 [+11850 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "iTnews"
-            },
-            "author": null,
-            "title": "Microsoft forecasts strong growth for Azure cloud business",
-            "description": "Could ease concerns about a potential slowdown in AI demand.",
-            "url": "https://www.itnews.com.au/news/microsoft-forecasts-strong-growth-for-azure-cloud-business-616892?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-            "urlToImage": "https://i.nextmedia.com.au/News/20210429070843_microsoft-azure-sign-2.jpg",
-            "publishedAt": "2025-05-01T20:40:00Z",
-            "content": "Microsoft has forecast stronger-than-expected quarterly growth for its cloud-computing business Azure after blowout results in the latest quarter, calming investor worries in an uncertain economy and\u2026 [+4003 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nextgov"
-            },
-            "author": "Alexandra Kelley",
-            "title": "Companies announce billions in investments to support emerging tech",
-            "description": "The new corporate investments pledged to U.S. manufacturing aim to support the country\u2019s growing artificial intelligence innovation ecosystem, among others.",
-            "url": "https://www.nextgov.com/emerging-tech/2025/05/companies-announce-billions-investments-support-emerging-tech/404992/",
-            "urlToImage": "https://cdn.nextgov.com/media/img/cd/2025/05/01/050125TrumpNG/open-graph.jpg",
-            "publishedAt": "2025-05-01T18:29:00Z",
-            "content": "President Donald Trump announced Wednesday that multiple large tech companies like NVIDIA, IBM and SoftBank have recently committed billions of dollars to manufacturing in the U.S. that will support \u2026 [+3634 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Histalk2.com"
-            },
-            "author": "Mr. HIStalk",
-            "title": "EPtalk by Dr. Jayne 5/1/25",
-            "description": "A hot topic around the virtual physician lounge this week ...",
-            "url": "https://histalk2.com/2025/05/01/eptalk-by-dr-jayne-5-1-25/",
-            "urlToImage": null,
-            "publishedAt": "2025-05-01T11:48:40Z",
-            "content": "A hot topic around the virtual physician lounge this week was the potential for an impending staffing crisis. Its not the nursing crisis that everyone talks about, however. Instead, it is the risk th\u2026 [+6247 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Kristina Partsinevelos, CNBC",
-            "title": "Nvidia says Anthropic is telling 'tall tale' in its defense of U.S. AI chip restrictions on China",
-            "description": "Nvidia blasted Anthropic Thursday in a rare public clash over artificial intelligence policy with U.S. chip export restrictions set to take effect.",
-            "url": "https://www.nbcnews.com/business/business-news/nvidia-says-anthropic-telling-tall-tale-defense-us-ai-chip-restriction-rcna204207",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250227-jensen-huang-mn-1345-22e776.jpg",
-            "publishedAt": "2025-05-01T18:55:23Z",
-            "content": "Nvidia\u00a0blasted\u00a0Anthropic\u00a0Thursday in a rare public clash over\u00a0artificial intelligence\u00a0policy with U.S.\u00a0chip export restrictions\u00a0set to take effect.\r\nAmerican firms should focus on innovation and rise\u2026 [+2234 chars]"
-        },
-        {
-            "source": {
-                "id": "the-times-of-india",
-                "name": "The Times of India"
-            },
-            "author": "Reuters",
-            "title": "Big Tech's fortunes diverge as AI powers cloud, tariffs hit consumer electronics",
-            "description": "The fortunes of Big Tech are diverging in a rapidly changing business landscape, as demand for artificial intelligence fuels growth in cloud and digital ads while consumer electronics take a battering from President Donald Trump's global trade war.",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/big-techs-fortunes-diverge-as-ai-powers-cloud-tariffs-hit-consumer-electronics/articleshow/120796867.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-120796977,width-1200,height-630,imgsize-80655,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2025-05-01T13:56:09Z",
-            "content": "The fortunes of Big Tech are diverging in a rapidly changing business landscape, as demand for artificial intelligence fuels growth in cloud and digital ads while consumer electronics take a batterin\u2026 [+4779 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Livemint"
-            },
-            "author": "Livemint",
-            "title": "Zoho Corporation drops $700m chipmaking venture, including $400m Karnataka facility, over lack of tech partner: Report",
-            "description": "Zoho Corporation has scrapped its $700 million venture into chipmaking, including a $400 million Karnataka facility, due to the inability to find a suitable tech partner. The move comes amid co-founder Sridhar Vembu\u2019s warning of a structural shift in India's \u2026",
-            "url": "https://www.livemint.com/industry/manufacturing/zoho-corporation-drops-700m-chipmaking-venture-including-400m-karnataka-facility-over-lack-of-tech-partner-report-11746101880258.html",
-            "urlToImage": "https://www.livemint.com/lm-img/img/2025/05/01/1600x900/Sridhar_Vembu_1738859070258_1746102269553.jpg",
-            "publishedAt": "2025-05-01T13:02:32Z",
-            "content": "Information technology company Zoho Corporation has suspended its $700 million plan to venture into chip manufacturing, as it struggled to find the right technology partner to advise on the complex c\u2026 [+2354 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Computerworld"
-            },
-            "author": "Taryn Plumb",
-            "title": "What is an AI PC? The power of artificial intelligence locally",
-            "description": "What is an AI PC?\u00a0\r\n\n\n\n\nUnlike traditional computers, an artificial intelligence PC, or AI PC, comes with AI capabilities built in by design. AI runs locally, right on the machine, allowing it to essentially learn, adapt, reason and problem-solve without havi\u2026",
-            "url": "https://www.computerworld.com/article/3975373/what-is-an-ai-pc-the-power-of-artificial-intelligence-locally.html",
-            "urlToImage": "https://www.computerworld.com/wp-content/uploads/2025/05/3975373-0-40041600-1746123243-what-is-an-AI-PC.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2025-05-01T18:13:16Z",
-            "content": "Unlike traditional computers, an artificial intelligence PC, or AI PC, comes with AI capabilities built in by design. AI runs locally, right on the machine, allowing it to essentially learn, adapt, r\u2026 [+762 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "techcrunch.com",
-            "title": "Anthropic suggests tweaks to proposed US AI chip export controls",
-            "description": "Anthropic agrees with the U.S. government that implementing robust export controls on domestically made AI chips will help the U.S. compete in the AI race against China. But the company is suggesting a few tweaks to the proposed restrictions.\nAnthropic releas\u2026",
-            "url": "https://biztoc.com/x/f813a802a5231112",
-            "urlToImage": "https://biztoc.com/cdn/f813a802a5231112_s.webp",
-            "publishedAt": "2025-05-01T02:12:15Z",
-            "content": "Anthropic agrees with the U.S. government that implementing robust export controls on domestically made AI chips will help the U.S. compete in the AI race against China. But the company is suggesting\u2026 [+153 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "techcrunch.com",
-            "title": "Nvidia takes aim at Anthropic\u2019s support of chip export controls",
-            "description": "Nvidia clearly doesn\u2019t agree with Anthropic\u2019s support for export controls on U.S.-made AI chips.\nOn Wednesday, Anthropic doubled down on its support for the U.S. Department of Commerce\u2019s \u201cFramework for Artificial Intelligence Diffusion,\u201d which would impose sw\u2026",
-            "url": "https://biztoc.com/x/3263590afe9dae99",
-            "urlToImage": "https://biztoc.com/cdn/3263590afe9dae99_s.webp",
-            "publishedAt": "2025-05-01T17:54:55Z",
-            "content": "Nvidia clearly doesnt agree with Anthropics support for export controls on U.S.-made AI chips.On Wednesday, Anthropic doubled down on its support for the U.S. Department of Commerces Framework for Ar\u2026 [+135 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "pymnts.com"
-            },
-            "author": "PYMNTS",
-            "title": "Nvidia Accuses Anthropic of Spinning \u2018Tall Tales\u2019 About Chip Restrictions",
-            "description": "Nvidia has reportedly criticized Anthropic over its stance on U.S. chip export restrictions. \u201cAmerican firms should focus on innovation and rise to the challenge, rather than tell tall tales that large, heavy, and sensitive electronics are somehow smuggled in\u2026",
-            "url": "https://www.pymnts.com/artificial-intelligence-2/2025/nvidia-accuses-anthropic-of-spinning-tall-tales-about-chip-restrictions/",
-            "urlToImage": "https://www.pymnts.com/wp-content/uploads/2024/03/Nvidia-1.jpg",
-            "publishedAt": "2025-05-01T19:01:00Z",
-            "content": "Nvidia has reportedly criticized Anthropic over its stance on U.S. chip export restrictions.\r\nAmerican firms should focus on innovation and rise to the challenge, rather than tell tall tales that lar\u2026 [+2584 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "thestreet.com",
-            "title": "Nvidia CEO sends Washington 10-word message on AI chip change",
-            "description": "One of the most pressing questions posed by artificial intelligence (AI) investors over the past few months may finally be answered soon.\nSince President Donald Trump took office, many people have wondered what AI policy will look like under his administratio\u2026",
-            "url": "https://biztoc.com/x/a24ae05233f35abb",
-            "urlToImage": "https://biztoc.com/cdn/a24ae05233f35abb_s.webp",
-            "publishedAt": "2025-05-01T16:48:39Z",
-            "content": "One of the most pressing questions posed by artificial intelligence (AI) investors over the past few months may finally be answered soon.Since President Donald Trump took office, many people have won\u2026 [+147 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "finance.yahoo.com",
-            "title": "Nvidia stock rises to lead chip rally after Meta, Microsoft back AI investment plans",
-            "description": "In This Article:\nNvidia (NVDA) stock rose as much as 4.9% Thursday morning before the market open, leading chip stocks higher after Big Tech leader Meta (META) and Microsoft (MSFT) reaffirmed their aggressive AI investment plans.\nShares of fellow AI chipmaker\u2026",
-            "url": "https://biztoc.com/x/98be338a380b3778",
-            "urlToImage": "https://biztoc.com/cdn/98be338a380b3778_s.webp",
-            "publishedAt": "2025-05-01T12:57:17Z",
-            "content": "In This Article:Nvidia (NVDA) stock rose as much as 4.9% Thursday morning before the market open, leading chip stocks higher after Big Tech leader Meta (META) and Microsoft (MSFT) reaffirmed their ag\u2026 [+145 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "nbcnews.com",
-            "title": "Nvidia says Anthropic is telling 'tall tale' in its defense of U.S. AI chip restrictions on China",
-            "description": "Nvidia blasted Anthropic Thursday in a rare public clash over artificial intelligence policy with U.S. chip export restrictions set to take effect.",
-            "url": "https://biztoc.com/x/e5463c2ba73db48a",
-            "urlToImage": "https://biztoc.com/cdn/e5463c2ba73db48a_s.webp",
-            "publishedAt": "2025-05-01T19:12:19Z",
-            "content": "Nvidia blasted Anthropic Thursday in a rare public clash over artificial intelligence policy with U.S. chip export restrictions set to take effect.\r\nThis story appeared on nbcnews.com, 2025-05-01 18:\u2026 [+5 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "scmp.com",
-            "title": "Nvidia CEO urges Trump to change rules for AI chip exports to spread US tech globally",
-            "description": "Nvidia chief executive officer Jensen Huang said he would like the Trump administration to change regulations for exporting artificial intelligence (AI) technology from the US to the rest of the world so American businesses can better capitalise on the opport\u2026",
-            "url": "https://biztoc.com/x/da7e3dd88544b9a4",
-            "urlToImage": "https://biztoc.com/cdn/da7e3dd88544b9a4_s.webp",
-            "publishedAt": "2025-05-01T01:50:24Z",
-            "content": "Nvidia chief executive officer Jensen Huang said he would like the Trump administration to change regulations for exporting artificial intelligence (AI) technology from the US to the rest of the worl\u2026 [+128 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-post",
-                "name": "Financial Post"
-            },
-            "author": "Bloomberg News",
-            "title": "US Weighs Easing Nvidia Chip Curbs on UAE as Trump Plans Visit",
-            "description": "The US is weighing a potential easing of restrictions on Nvidia Corp. sales to the United Arab Emirates, according to people familiar with the matter, who said President Donald Trump could announce the start of work on a bilateral chip deal during his upcomin\u2026",
-            "url": "https://financialpost.com/pmn/business-pmn/us-weighs-easing-nvidia-chip-curbs-on-uae-as-trump-plans-visit",
-            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/05/us-chip-curbs-now-cover-most-of-the-world-most-markets-face.jpg",
-            "publishedAt": "2025-05-01T15:56:03Z",
-            "content": "The administrations discussions about including Intel in a potential UAE deal remain internal and in very early stages, the people said. A Mubadala spokesman said he wasnt aware of any discussions re\u2026 [+2977 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "cnbc.com",
-            "title": "Nvidia says Anthropic is telling 'tall tales' in its defense of U.S. AI chip restrictions on China",
-            "description": "Nvidia blasted Anthropic Thursday in a rare public clash over artificial intelligence policy with U.S. chip export restrictions set to take effect.\n\"American firms should focus on innovation and rise to the challenge, rather than tell tall tales that large, h\u2026",
-            "url": "https://biztoc.com/x/d48768fa1cc063fb",
-            "urlToImage": "https://biztoc.com/cdn/d48768fa1cc063fb_s.webp",
-            "publishedAt": "2025-05-01T15:09:27Z",
-            "content": "Nvidia blasted Anthropic Thursday in a rare public clash over artificial intelligence policy with U.S. chip export restrictions set to take effect.\"American firms should focus on innovation and rise \u2026 [+132 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GlobeNewswire"
-            },
-            "author": "Movellus",
-            "title": "Movellus Debuts Industry-First On-Die Power Delivery Network Analyzer",
-            "description": "Aeonic Insight PDN IQ arms industry with unprecedented transistor-level PDN visibility and analytics that spans the entire product cycle from characterization to in-field monitoring Aeonic Insight PDN IQ arms industry with unprecedented transistor-level PDN v\u2026",
-            "url": "https://www.globenewswire.com/news-release/2025/05/01/3072431/0/en/Movellus-Debuts-Industry-First-On-Die-Power-Delivery-Network-Analyzer.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/826c26b2-86df-42aa-9e81-f80b70a8ec21",
-            "publishedAt": "2025-05-01T13:00:00Z",
-            "content": "SANTA CLARA, Calif., May 01, 2025 (GLOBE NEWSWIRE) -- Movellus today announced the industrys first on-chip sensor for power delivery network (PDN) characterization and monitoring. Power integrity is \u2026 [+4562 chars]"
-        },
-        {
-            "source": {
-                "id": "the-times-of-india",
-                "name": "The Times of India"
-            },
-            "author": "ET Online",
-            "title": "Nvidia CEO Jensen Huang sees future where robots will manage and manufacture everything in AI factories",
-            "description": "At the Hill and Valley Forum in Washington D.C., Nvidia CEO Jensen Huang called on American companies to become \u201cAI factories\u201d\u2014digitally driven hubs producing both physical goods and artificial intelligence. He emphasised the role of Nvidia chips in these ope\u2026",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/nvidia-ceo-jensen-huang-sees-future-where-robots-will-manage-and-manufacture-everything-in-ai-factories/articleshow/120784162.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-120785508,width-1200,height-630,imgsize-203058,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-05-01T05:55:11Z",
-            "content": "American companies must evolve into AI factoriesentities that produce both physical goods and artificial intelligence, said Nvidia CEO Jensen Huang on Wednesday. Speaking at the Hill and Valley Forum\u2026 [+4295 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GlobeNewswire"
-            },
-            "author": "AstuteAnalytica India Pvt. Ltd.",
-            "title": "Collaborative Robot Market to Worth Over US$ 65.18 Billion by 2033 | Astute Analytica",
-            "description": "Collaborative robot market is accelerating through AI-enhanced precision and ISO/TS 15066 safety compliance, driven by demand for human-centric automation in EV and semiconductor sectors. Modular tools, cybersecurity prioritization, and hybrid workforce train\u2026",
-            "url": "https://www.globenewswire.com/news-release/2025/05/01/3072606/0/en/Collaborative-Robot-Market-to-Worth-Over-US-65-18-Billion-by-2033-Astute-Analytica.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
-            "publishedAt": "2025-05-01T15:30:00Z",
-            "content": "Chicago, May 01, 2025 (GLOBE NEWSWIRE) -- The global collaborative robot market was valued at US$ 2.69 billion in 2024 and is anticipated to reach US$ 65.18 billion by 2033, growing at a CAGR of 42.5\u2026 [+14408 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GlobeNewswire"
-            },
-            "author": "Research and Markets",
-            "title": "Asia-Pacific Data Center Liquid Cooling Market to 2034, with Profiles of PEZY Computing, Firmus Technologies, Shenzhen MicroBT Electronics Technology, Sunonwealth Electric Machine Industry, FogHashing",
-            "description": "The Asia-Pacific data center liquid cooling market (excluding China) is projected to surge from $1.10 billion in 2024 to $11.76 billion by 2034, growing at a 26.65% CAGR. The market is driven by demands for energy-efficient cooling systems due to increasing d\u2026",
-            "url": "https://www.globenewswire.com/news-release/2025/05/01/3072694/28124/en/Asia-Pacific-Data-Center-Liquid-Cooling-Market-to-2034-with-Profiles-of-PEZY-Computing-Firmus-Technologies-Shenzhen-MicroBT-Electronics-Technology-Sunonwealth-Electric-Machine-Indu.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-            "publishedAt": "2025-05-01T16:56:00Z",
-            "content": "Dublin, May 01, 2025 (GLOBE NEWSWIRE) -- The \"Asia-Pacific Data Center Liquid Cooling Market: Focus on Product, Application, and Country Analysis - Analysis and Forecast, 2024-2034\" report has been a\u2026 [+7638 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GlobeNewswire"
-            },
-            "author": "GSI Technology, Inc.",
-            "title": "GSI Technology, Inc. Reports Fourth Quarter and Fiscal Year 2025 Results",
-            "description": "SUNNYVALE, Calif., May 01, 2025 (GLOBE NEWSWIRE) -- GSI Technology, Inc. (NASDAQ: GSIT) today reported financial results for its fourth fiscal quarter and fiscal year ended March 31, 2025.",
-            "url": "https://www.globenewswire.com/news-release/2025/05/01/3072795/0/en/GSI-Technology-Inc-Reports-Fourth-Quarter-and-Fiscal-Year-2025-Results.html",
-            "urlToImage": "https://ml.globenewswire.com/Resource/Download/0d33557b-8ce1-45b5-b5cb-46a355e1f533",
-            "publishedAt": "2025-05-01T20:05:00Z",
-            "content": "SUNNYVALE, Calif., May 01, 2025 (GLOBE NEWSWIRE) -- GSI Technology, Inc. (NASDAQ: GSIT) today reported financial results for its fourth fiscal quarter and fiscal year ended March 31, 2025.\r\nSummary F\u2026 [+22802 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Html.it"
-            },
-            "author": "Michea Elia",
-            "title": "Super prezzo Amazon per Xiaomi 14T Pro: prestazioni top e risparmio",
-            "description": "Il Xiaomi 14T Pro combina potenza AI, ricarica HyperCharge e un sensore fotografico avanzato. Ora in offerta su Amazon al 34% di sconto.\nLeggi Super prezzo Amazon per Xiaomi 14T Pro: prestazioni top e risparmio",
-            "url": "https://www.html.it/magazine/super-prezzo-amazon-per-xiaomi-14t-pro-prestazioni-top-risparmio/",
-            "urlToImage": "https://cdn.html.it/p5T6C9hSrhx_wUcIAh_nDYNTOAU=/560x350/smart/filters:format(webp)/https://www.html.it/app/uploads/2025/04/super-prezzo-amazon-per-xiaomi-14t-pro-prestazioni-top-risparmio.jpg",
-            "publishedAt": "2025-05-01T04:10:02Z",
-            "content": "Se stai cercando un dispositivo che combina prestazioni di fascia alta e un prezzo competitivo, il Xiaomi 14T Pro \u00e8 l'offerta che non puoi lasciarti sfuggire. Attualmente disponibile su Amazon a soli\u2026 [+2739 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Html.it"
-            },
-            "author": "Michea Elia",
-            "title": "Offerta imperdibile: caricatore USB-C da 65W compatto e potente a 14\u20ac",
-            "description": "Il caricatore ARZOPA 65W offre ricarica rapida, tecnologia GaN e 3 porte per dispositivi come MacBook, iPhone e Galaxy. Ora solo 14\u20ac circa.\nLeggi Offerta imperdibile: caricatore USB-C da 65W compatto e potente a 14\u20ac",
-            "url": "https://www.html.it/magazine/offerta-imperdibile-caricatore-usb-c-65w-compatto-potente-14e/",
-            "urlToImage": "https://cdn.html.it/foncFhXh1H7lqjEDu7ndnTskauM=/560x350/smart/filters:format(webp)/https://www.html.it/app/uploads/2025/04/offerta-imperdibile-caricatore-usb-c-65w-compatto-potente-14e.jpg",
-            "publishedAt": "2025-05-01T04:20:29Z",
-            "content": "Il caricatore USB-C ARZOPA da 65W con tecnologia GaN rappresenta la scelta ideale per chi cerca una soluzione unica e potente per la ricarica di pi\u00f9 dispositivi. Grazie a un prezzo competitivo di 14,\u2026 [+2819 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Multiplayer.it"
-            },
-            "author": "Ivan Miralli",
-            "title": "Samsung Galaxy Z Flip7 monter\u00e0 il chip Exynos 2500, \u00e8 quasi ufficiale",
-            "description": "Il nuovo pieghevole di casa Samsung monter\u00e0 il chip Exynos 2500, secondo un report delle ultime ore.",
-            "url": "https://multiplayer.it/notizie/samsung-galaxy-z-flip7-montera-il-chip-exynos-2500-e-quasi-ufficiale.html",
-            "urlToImage": "https://multiplayer.net-cdn.it/thumbs/images/2025/05/01/galaxyzfe1_jpg_1600x900_crop_q85_jpg_800x0_crop_upscale_q85-2_jpg_1200x0_crop_q85.jpg",
-            "publishedAt": "2025-05-01T17:00:00Z",
-            "content": "Sempre meno ci settimane ci separano dal probabile annuncio ufficiale dei nuovi modelli pieghevoli della compagnia sudcoreana, rispettivamente Samsung Galaxy Z Flip7 e Galaxy Z Fold7, che si terr\u00e0 pr\u2026 [+1961 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tom's Hardware UK"
-            },
-            "author": "ashilov@gmail.com (Anton Shilov)",
-            "title": "TSMC SVP Kevin Zhang opens up on process technology development & evolving demands: Interview",
-            "description": "TSMC is evolving its strategy by developing distinct leading-edge process technologies optimized for AI, client, and HPC applications, while maintaining aggressive scaling with innovations like backside power delivery and second-generation nanosheet transisto\u2026",
-            "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-svp-kevin-zhang-opens-up-on-process-technology-development-and-evolving-demands-interview",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/i7EpjHrg4JQpsrm5KspzPo.jpg",
-            "publishedAt": "2025-05-01T11:36:13Z",
-            "content": "We had the opportunity to interview TSMC's Kevin Zhang, the deputy co-COO and SVP at TSMC, to discuss the latest trends in the semiconductor industry and how they impact TSMC's strategy moving forwar\u2026 [+16763 chars]"
-        },
-        {
-            "source": {
-                "id": "the-times-of-india",
-                "name": "The Times of India"
-            },
-            "author": "Reuters",
-            "title": "Big Tech's fortunes diverge as AI powers cloud, tariffs hit consumer electronics",
-            "description": "\u200b\u200bAI came to the rescue of earnings at Microsoft and Google-parent Alphabet in their March quarter, offering investors hope that their billion-dollar bets on the technology would help them ride out the fallout from sweeping US tariffs. The Trump administratio\u2026",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/big-techs-fortunes-diverge-as-ai-powers-cloud-tariffs-hit-consumer-electronics/articleshow/120792125.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-120792159,width-1200,height-630,imgsize-1992626,overlay-ettech/articleshow.jpg",
-            "publishedAt": "2025-05-01T10:21:43Z",
-            "content": "The fortunes of Big Tech are diverging in a rapidly changing business landscape, as demand for artificial intelligence fuels growth in cloud and digital ads while consumer electronics take a batterin\u2026 [+4695 chars]"
-        },
-        {
-            "source": {
-                "id": "the-times-of-india",
-                "name": "The Times of India"
-            },
-            "author": "Reuters",
-            "title": "Microsoft forecasts strong growth for Azure cloud business, shares surge 7%",
-            "description": "Microsoft reported a 33% rise in Azure cloud revenue for Q3 2025, surpassing estimates and driven partly by AI, which contributed 16 percentage points to growth. The company forecasted 34-35% cloud revenue growth for Q4, easing concerns about AI demand slowdo\u2026",
-            "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-forecasts-strong-growth-for-azure-cloud-business-shares-surge-7/articleshow/120781319.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-120781349,width-1200,height-630,imgsize-79634,overlay-ettech/articleshow.jpg",
-            "publishedAt": "2025-05-01T01:34:37Z",
-            "content": "Microsoft forecast on Wednesday stronger-than-expected quarterly growth for its cloud-computing business Azure after blowout results in the latest quarter, calming investor worries in an uncertain ec\u2026 [+4014 chars]"
-        },
-        {
-            "source": {
-                "id": "the-times-of-india",
-                "name": "The Times of India"
-            },
-            "author": "ETtech",
-            "title": "Zomato Q4 earnings: strong growth, slim profit",
-            "description": "Zomato parent Eternal reported a drop in its net profit due to increasing losses in Blinkit, even as food delivery growth continued to be subdued. This and more in today\u2019s ETtech Top 5.",
-            "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/zomato-q4-earnings-strong-growth-slim-profit/articleshow/120795535.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-120795535,width-1070,height-580,imgsize-59882,overlay-ettech/editionshow.jpg",
-            "publishedAt": "2025-05-01T13:29:23Z",
-            "content": "Zomato parent Eternal reported a drop in its net profit due to increasing losses in Blinkit, even as food delivery growth continued to be subdued. This and more in todays ETtech Top 5. Also in the le\u2026 [+7290 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ZDNet"
-            },
-            "author": "Adrian Kingsley-Hughes",
-            "title": "3 Apple devices you definitely shouldn't buy this month (and 9 to get instead)",
-            "description": "Before you click buy on that shiny new Apple gadget, check out where it fits into Apple's product release plans.",
-            "url": "https://www.zdnet.com/article/3-apple-devices-you-definitely-shouldnt-buy-this-month-and-9-to-get-instead/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/be19a991f106ac3554a58ffa5a52d9456569deb1/2025/05/01/a65c4f1a-eaec-45c7-b6b8-68543ae2fa17/apple-products2.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2025-05-01T16:56:00Z",
-            "content": "Elyse Betters Picaro / ZDNET\r\nIt's been a busy few weeks for Apple and an equally busy time for the wallets of Apple fans. We got a brand-new iPhone 16e\u00a0--Apple's replacement to the iPhone SE -- as w\u2026 [+6896 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": null,
-            "title": "Nvidia says Anthropic is telling 'tall tales' in its defense of U.S. AI chip restrictions on China",
-            "description": "President Donald Trump is reportedly working on updating the chip restrictions, adding another layer of uncertainty to the already contentious policy.",
-            "url": "https://www.cnbc.com/2025/05/01/nvidia-and-anthropic-clash-over-us-ai-chip-restrictions-on-china.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139110-1746049018921-gettyimages-2212801534-ah805109_ovha5wzr.jpeg?v=1746049072&w=1920&h=1080",
-            "publishedAt": "2025-05-01T14:59:00Z",
-            "content": "Nvidia blasted Anthropic Thursday in a rare public clash over artificial intelligence policy with U.S. chip export restrictions set to take effect.\r\n\"American firms should focus on innovation and ris\u2026 [+1790 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Commercial Observer"
-            },
-            "author": "Nick Trombola",
-            "title": "Equinix Boasts Strong Q1 With a Deep Pipeline as Tariff Uncertainty Mounts",
-            "description": "Global demand for digital infrastructure catapulted data center giant Equinix \u2014 the fourth-largest real estate investment trust in the nation in terms of market cap \u2014 into a strong first quarter, despite economic uncertainty fostered by President Donald Trump\u2026",
-            "url": "http://commercialobserver.com/2025/04/equinix-q1-25-earnings/",
-            "urlToImage": "https://commercialobserver.com/wp-content/uploads/sites/3/2025/04/Adaire-Fox-Martin-GettyImages-1257310058-WEB.jpg?quality=80&crop=0px%2C29px%2C2000px%2C1051px&resize=1200%2C630&strip",
-            "publishedAt": "2025-05-01T01:05:41Z",
-            "content": "Global demand for digital infrastructure catapulted data center giant Equinix the fourth-largest real estate investment trust in the nation in terms of market cap into a strong first quarter, despite\u2026 [+3442 chars]"
-        },
-        {
-            "source": {
-                "id": "the-times-of-india",
-                "name": "The Times of India"
-            },
-            "author": "Reuters",
-            "title": "Meta's strong ad sales dampen tariff-induced fears",
-            "description": "Meta Platforms exceeded first-quarter revenue expectations, driven by strong advertising performance, and anticipates similar success in the second quarter. The company is increasing capital expenditures to bolster AI infrastructure, despite economic uncertai\u2026",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/metas-strong-ad-sales-dampen-tariff-induced-fears/articleshow/120781727.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-120781755,width-1200,height-630,imgsize-12144,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2025-05-01T02:12:27Z",
-            "content": "Meta Platforms rode strong advertising performance to beat analysts' revenue estimates for the first quarter and match expectations for the next quarter on Wednesday, assuaging investor concerns over\u2026 [+4548 chars]"
-        },
-        {
-            "source": {
-                "id": "the-times-of-india",
-                "name": "The Times of India"
-            },
-            "author": "Global Desk",
-            "title": "US stock market today: Dow Jones, S&P, Nasdaq up - Here's top gainers, top losers, major stocks, data to consider",
-            "description": "US Stock market today rallied as Microsoft and Meta earnings beat expectations, pushing the Nasdaq up over 2.2% and lifting Wall Street spirits. Investors were reassured by both companies\u2019 continued AI spending, even as President Trump\u2019s tariff policy stirred\u2026",
-            "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-dow-jones-sp-nasdaq-up-heres-top-gainers-top-losers-major-stocks-data-to-consider/articleshow/120798411.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-120798660,width-1200,height-630,imgsize-20524,overlay-economictimes/articleshow.jpg",
-            "publishedAt": "2025-05-01T16:05:22Z",
-            "content": "US Stock Market Today: Nasdaq Leads Rally as Microsoft and Meta Earnings Lift Wall Street- Stock market today saw a powerful rebound, with the Nasdaq Composite leading the charge thanks to strong ear\u2026 [+5004 chars]"
-        },
-        {
-            "source": {
-                "id": "the-irish-times",
-                "name": "The Irish Times"
-            },
-            "author": "Christian Davies, Kathrin Hille, Michael Acton, George Hammond",
-            "title": "\u2018The threat of the US kneecapping itself is real\u2019: tech insiders voice fears over global AI race",
-            "description": "Tariffs and threat of new duties on chips and computing infrastructure could frustrate American ambitions",
-            "url": "https://www.irishtimes.com/business/2025/05/01/the-threat-of-the-us-kneecapping-itself-is-real-tech-insiders-voice-fears-over-global-ai-race/",
-            "urlToImage": "https://www.irishtimes.com/resizer/v2/TK27JWMIW5D6LOMT5CRIVPKBW4.jpg?smart=true&auth=9b86d2c0ffc1d208284424ced9907c1ab012869d184a07410aaa1ea12bd5d705&width=1200&height=630",
-            "publishedAt": "2025-05-01T04:00:00Z",
-            "content": "Donald Trumps global tariff regime is endangering his ambitions of encouraging domestic chip production while hampering US goals of dominating the race to develop world-beating artificial intelligenc\u2026 [+6570 chars]"
-        },
-        {
-            "source": {
-                "id": "the-irish-times",
-                "name": "The Irish Times"
-            },
-            "author": null,
-            "title": "Apple edges past expectations as world girds for tariff impact",
-            "description": "While the results were better than analysts had expected, investors are focused on how tariff concerns will play out in the coming quarter",
-            "url": "https://www.irishtimes.com/business/2025/05/01/apple-edges-past-expectations-as-world-girds-for-tariff-impact-clone/",
-            "urlToImage": "https://www.irishtimes.com/resizer/v2/TF5T7TS645JUFDCAX6BW7NOYTI.jpg?smart=true&auth=d76c1405854531d9555381b1edb095099a7ef3b618370ef9074c15ab7d01fd47&width=1200&height=630",
-            "publishedAt": "2025-05-01T20:41:25Z",
-            "content": "Apple on Thursday reported results that narrowly beat Wall Street expectations as consumers stocked up on iPhones amid fears of potential import taxes on its signature device from President Donald Tr\u2026 [+3367 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hdblog.it"
-            },
-            "author": "Hardware HDblog.it",
-            "title": "Intel rilancia la sfida nei semiconduttori: ottimizzazioni per i processi 18A e 14A",
-            "description": "Intel rilancia la sfida nella produzione di chip con miglioramenti ai processi 18A e 14A, puntando a nuovi clienti per la sua fonderia",
-            "url": "https://www.hdblog.it/hardware/articoli/n616979/intel-fonderia-18a-14a-semiconduttori/",
-            "urlToImage": "https://hd2.tudocdn.net/1239014?w=1920",
-            "publishedAt": "2025-05-01T12:30:00Z",
-            "content": "Dopo un periodo di incertezze nel competitivo mercato dei semiconduttori, Intel sembra intenzionata a riprendere il suo ruolo da protagonista nel settore della produzione di chip. La recente nomina d\u2026 [+2306 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CHIP Online Deutschland"
-            },
-            "author": "Raphael Diebold",
-            "title": "Hisense-Fernseher: Tipps f\u00fcr die optimalen Bildeinstellungen",
-            "description": "Ein Hisense Fernseher bietet mit den richtigen Tipps f\u00fcr optimale Bildeinstellungen ein Erlebnis, das Filme, Serien und Games in ungekannter Pr\u00e4zision zeigt. Dieser Leitfaden kombiniert technisches Know-how mit praxistauglichen Schritten \u2013 von Basiskalibrieru\u2026",
-            "url": "https://praxistipps.chip.de/hisense-fernseher-tipps-fuer-die-optimalen-bildeinstellungen_50126",
-            "urlToImage": "https://im.contentlounge.net/styles/manual_crop/s3/2025-02/hisense-tv-optimale-bildeinstellungen_81e05475.png?im=AspectCrop%3D%281.91%2C1%29%2Cgravity%3DCenter%3BResize%3D%281200%2C630%29%2Caspect%3Dfit%3BBackgroundColor%2Ccolor%3Dffffff&hash=1ae487b08f1e492580ace6596377439a76393bd66be5f5c4a85f3dfe414ebcce",
-            "publishedAt": "2025-05-01T13:57:43Z",
-            "content": "Ein Hisense Fernseher bietet mit den richtigen Tipps f\u00fcr optimale Bildeinstellungen ein Erlebnis, das Filme, Serien und Games in ungekannter Pr\u00e4zision zeigt. Dieser Leitfaden kombiniert technisches K\u2026 [+3378 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "iTnews"
-            },
-            "author": null,
-            "title": "Microsoft forecasts strong growth for Azure cloud business",
-            "description": "Could ease concerns about a potential slowdown in AI demand.",
-            "url": "https://www.itnews.com.au/news/microsoft-forecasts-strong-growth-for-azure-cloud-business-616892?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed",
-            "urlToImage": "https://i.nextmedia.com.au/News/20210429070843_microsoft-azure-sign-2.jpg",
-            "publishedAt": "2025-05-01T20:40:00Z",
-            "content": "Microsoft has forecast stronger-than-expected quarterly growth for its cloud-computing business Azure after blowout results in the latest quarter, calming investor worries in an uncertain economy and\u2026 [+4003 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hdblog.it"
-            },
-            "author": "Samsung HDblog.it",
-            "title": "Snapdragon 8 Elite 2, ipotesi doppio fornitore: TSMC a 3 nm e Samsung a 2",
-            "description": "Dalla Corea emerge un'indiscrezione davvero incredibile per il settore dei semiconduttori. Uno scenario pressoch\u00e9 inaudito: lo stesso chip prodotto non solo da due fonderie diverse, ma anche su nodo di classi diverse!",
-            "url": "https://www.hdblog.it/hardware/articoli/n616934/qualcomm-snapdragon-8-elite-2-samsung-tsmc/",
-            "urlToImage": "https://hd2.tudocdn.net/1220865?w=1920",
-            "publishedAt": "2025-05-01T06:00:00Z",
-            "content": "Si torna a parlare della possibilit\u00e0 che sia effettivamente Samsung a produrre i prossimi chip top di gamma di Qualcomm, gli Snapdragon 8 Elite Gen 2, dopo tre anni di assenza dalle scene a tutto van\u2026 [+2169 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "iTnews"
-            },
-            "author": null,
-            "title": "Microsoft forecasts strong growth for Azure cloud business",
-            "description": "Could ease concerns about a potential slowdown in AI demand.",
-            "url": "https://www.itnews.com.au/news/microsoft-forecasts-strong-growth-for-azure-cloud-business-616892?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed",
-            "urlToImage": "https://i.nextmedia.com.au/News/20210429070843_microsoft-azure-sign-2.jpg",
-            "publishedAt": "2025-05-01T20:40:00Z",
-            "content": "Microsoft has forecast stronger-than-expected quarterly growth for its cloud-computing business Azure after blowout results in the latest quarter, calming investor worries in an uncertain economy and\u2026 [+4003 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Techreport.com"
-            },
-            "author": "Krishi Chowdhary",
-            "title": "Trump Wants to Restrict Export of AI Chips \u2013 It\u2019s a Move That Can Backfire",
-            "description": "The US government may remove the tiered system adopted by the Framework for Artificial Intelligence Diffusion for AI chip export. A country-specific agreement model may be adopted instead. The new policy will require countries to get a license to import US-ma\u2026",
-            "url": "https://techreport.com/news/trump-ai-chip-export-restrictions-backfire/",
-            "urlToImage": "https://techreport.com/wp-content/uploads/2025/05/trump-ai-chip-export-restrictions-backfire-e1746109318674.jpg?_t=1746110628",
-            "publishedAt": "2025-05-01T14:43:47Z",
-            "content": "Key Takeaways\r\n<ul><li>The US government may remove the tiered system adopted by the Framework for Artificial Intelligence Diffusion for AI chip export.</li><li>A country-specific agreement model may\u2026 [+5793 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizchina.gr"
-            },
-            "author": "GizTeam",
-            "title": "Poco F7 Pro: \u03c4\u03bf \u03bf\u03bb\u03bf\u03ba\u03b1\u03af\u03bd\u03bf\u03c5\u03c1\u03b9\u03bf flagship killer \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03bf \u03c3\u03b5 \u03c0\u03c1\u03bf\u03c3\u03c6\u03bf\u03c1\u03ac!",
-            "description": "\u03a4\u03bf Poco F7 Pro \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03b8\u03b7\u03ba\u03b5 \u03bc\u03b5 Snapdragon 8 Gen 3, \u03bc\u03c0\u03b1\u03c4\u03b1\u03c1\u03af\u03b1 6.000mAh, HyperOS 2 & IP68 \u03ba\u03b1\u03b9 \u03b5\u03bc\u03b5\u03af\u03c2 \u03c4\u03bf \u03b2\u03c1\u03ae\u03ba\u03b1\u03bc\u03b5 \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03bf \u03c3\u03b5 \u03c0\u03c1\u03bf\u03c3\u03c6\u03bf\u03c1\u03ac!\nThe post Poco F7 Pro: \u03c4\u03bf \u03bf\u03bb\u03bf\u03ba\u03b1\u03af\u03bd\u03bf\u03c5\u03c1\u03b9\u03bf flagship killer \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03bf \u03c3\u03b5 \u03c0\u03c1\u03bf\u03c3\u03c6\u03bf\u03c1\u03ac! appeared first on GizChina Greece.",
-            "url": "https://www.gizchina.gr/2025/05/01/poco-f7-pro-snapdragon-8-gen-3-kai-mpataria-6-000mah-deal-available-2/",
-            "urlToImage": "https://www.gizchina.gr/wp-content/uploads/2025/03/gsmarena_005-1.jpg",
-            "publishedAt": "2025-05-01T17:38:33Z",
-            "content": "Poco F7 Ultra, Poco F7 Pro . flagship Qualcomm, Snapdragon 8 Gen 3, 12GB RAM &amp; 512GB , F7 Pro premium mid-range .\r\nPoco F7 ProRedmi K80, 6.000mAh, 90W.\r\n<ul><li>Surge G1 chip .</li><li>Surge P3 c\u2026 [+661 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Securityaffairs.com"
-            },
-            "author": "Pierluigi Paganini",
-            "title": "Hive0117 group targets Russian firms with new variant of DarkWatchman malware",
-            "description": "Hive0117 targets Russian firms in multiple sectors with phishing attacks using a modified version of the DarkWatchman malware. A cybercrime group named Hive0117 is behind a fresh phishing campaign that targeted Russian organizations with a new version of the \u2026",
-            "url": "https://securityaffairs.com/177268/cyber-crime/hive0117-targets-russian-firms-with-darkwatchman-malware.html",
-            "urlToImage": "https://securityaffairs.com/wp-content/uploads/2016/12/Consular-Department-of-the-Embassy-of-the-Russian-Federation.jpg",
-            "publishedAt": "2025-05-01T07:55:30Z",
-            "content": "Hive0117 group targets Russian firms with new variant of DarkWatchman malware\r\n\u00a0|\u00a0Russia-linked group Nebulous Mantis targets NATO-related defense organizations\r\n\u00a0|\u00a0France links Russian APT28 to atta\u2026 [+159970 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space Daily"
-            },
-            "author": null,
-            "title": "IBM to invest $150 bn in US over five years",
-            "description": "New York (AFP) April 28, 2025 -\n\n Technology giant IBM announced plans on Monday to invest $150 billion in the United States over five years, including $30 billion earmarked for research and development to bolster manufacturing of mainframe and quantum comput\u2026",
-            "url": "https://www.spacedaily.com/reports/IBM_to_invest_150_bn_in_US_over_five_years_999.html",
-            "urlToImage": "https://www.spxdaily.com/images-hg/ibm-ramac-first-magnetic-hard-disc-hg.jpg",
-            "publishedAt": "2025-05-01T01:07:05Z",
-            "content": "IBM to invest $150 bn in US over five yearsby AFP Staff WritersNew York (AFP) April 28, 2025\r\nTechnology giant IBM announced plans on Monday to invest $150 billion in the United States over five year\u2026 [+1513 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Rebecca Szkutak",
-            "title": "Nvidia takes aim at Anthropic's support of chip export controls | TechCrunch",
-            "description": "Nvidia said that Anthropic shouldn't tell 'tall tales' about AI chips being smuggled across borders, and should instead focus on innovation.",
-            "url": "https://techcrunch.com/2025/05/01/nvidia-takes-aim-at-anthropics-support-of-chip-export-controls/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1598978057.jpg?w=1024",
-            "publishedAt": "2025-05-01T17:49:10Z",
-            "content": "Nvidia clearly doesn\u2019t agree with Anthropic\u2019s support for export controls on U.S.-made AI chips.\r\nOn Wednesday, Anthropic doubled down on its support for the U.S. Department of Commerce\u2019s \u201cFramework \u2026 [+854 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Github.com"
-            },
-            "author": "stanlee_o",
-            "title": "Show HN: Spellbound \u2013 open-source Chrome and Safari AI writing extensions",
-            "description": "Just dropped Chrome & Safari extensions for Spellbound - a multilingual AI-powered writing assistantalso runs on mac, win & linux too\n\nComments URL: https://news.ycombinator.com/item?id=43861812\nPoints: 1\n# Comments: 0",
-            "url": "https://github.com/stanlee000/spellbound/tree/main/safari-extension",
-            "urlToImage": "https://opengraph.githubassets.com/b48789054836a8d634e9408e0a9440c855dbe6814ff02eb238c9f0147a187b6e/stanlee000/spellbound",
-            "publishedAt": "2025-05-01T18:48:18Z",
-            "content": "Spellbound brings AI-powered multilingual text assistance directly into your Safari browser. Check grammar, enhance your writing for different platforms, and translate text seamlessly, all without le\u2026 [+4326 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Madshrimps.be"
+                "id": "techradar",
+                "name": "TechRadar"
             },
-            "author": "Stefan Mileschin",
-            "title": "AI chip clampdown throttling Nvidia\u0092s global sales",
-            "description": "So-called \u0093AI-diffusion\u0094 restrictions, set to take effect within weeks, will limit GPU sales not just to adversaries but to friendly countries like Israel, Switzerland, India, and Saudi Arabia.\n\nhttps://fudzilla.com/news/ai/60953-ai-chip-clampdown-throttling-\u2026",
-            "url": "http://www.madshrimps.be/news/item/239058",
-            "urlToImage": null,
-            "publishedAt": "2025-05-01T04:40:18Z",
-            "content": "Copyright \u00a9 2001-2011 Madshrimps, All rights reserved.Graphic Design by Dennis Kestelle, Programming by Maarten Menten,\r\nOverall Site design by John Meys\r\nAll information and graphics contained in Ma\u2026 [+135 chars]"
+            "author": "waynewilliams@onmail.com (Wayne Williams)",
+            "title": "Like King Arthur and Excalibur, here's yet another AI startup trying its luck at dislodging Nvidia from the AI stone",
+            "description": "French startup VSORA raises $46 million to take on Nvidia with a custom-built AI inference chip.",
+            "url": "https://www.techradar.com/pro/security/like-arthur-and-excalibur-heres-yet-another-ai-startup-trying-its-luck-at-dislodging-nvidia-from-the-ai-stone",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/zW28La3rQyYvtMBLpRgPBd.jpg",
+            "publishedAt": "2025-05-08T17:33:00Z",
+            "content": "<ul><li>VSORA raises $46 million to build Europe's alternative to AI giants</li><li>Jotunn8 chip targets inference with lower power and higher throughput </li><li>French startup challenges Nvidia\u2019s l\u2026 [+2544 chars]"
         }
     ]
 }

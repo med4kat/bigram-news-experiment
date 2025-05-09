@@ -1,26 +1,38 @@
 [
     {
-        "headline": "Another Ryzen 395 workstation PC launches with 128GB of RAM and yes, it is squarely aimed at AI professionals and Nvidias DGX Spark",
-        "timestamp": "2025-04-29T17:33:00Z",
+        "headline": "Cerebras CEO actually finds common ground with Nvidia as startup notches IBM win",
+        "timestamp": "2025-05-06T14:00:08Z",
+        "polarity": 0.16666666666666666,
+        "subjectivity": 0.3333333333333333
+    },
+    {
+        "headline": "Sources Nvidia told ByteDance, Alibaba, Tencent, and others that it is tweaking its AI chips so they can be sold in China without breaching US export rules Qianer LiuThe Information",
+        "timestamp": "2025-05-02T13:15:02Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Forget the rumoured 18 GB RTX 5070 Super, this utterly epic 96 GB Nvidia GPU will solve all your VRAM worries, kinda",
-        "timestamp": "2025-04-29T16:00:44Z",
-        "polarity": 0.21666666666666667,
-        "subjectivity": 0.5333333333333333
+        "headline": "Nvidia CEO Jensen Huang got his first raise in a decade",
+        "timestamp": "2025-05-02T13:43:00Z",
+        "polarity": 0.25,
+        "subjectivity": 0.3333333333333333
     },
     {
-        "headline": "Vertiv contribuisce alla realizzazione di Colosseum, il supercomputer di iGenius basato su tecnologia NVIDIA",
-        "timestamp": "2025-04-29T13:38:07Z",
+        "headline": "Nvidia blocca la RTX 5090D ordini cancellati in Cina",
+        "timestamp": "2025-05-08T13:51:02Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Chip wars Nvidia loses the China market",
-        "timestamp": "2025-04-29T17:04:39Z",
-        "polarity": -0.3,
-        "subjectivity": 0.1
+        "headline": "Spuntano i benchamrk della RTX Pro 6000 di NVIDIA",
+        "timestamp": "2025-05-03T09:22:10Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Like King Arthur and Excalibur, heres yet another AI startup trying its luck at dislodging Nvidia from the AI stone",
+        "timestamp": "2025-05-08T17:33:00Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
     }
 ]

@@ -1,601 +1,589 @@
 [
     {
-        "headline": "Tinder Swindler survivor launches identity verifier to fight scams",
-        "timestamp": "2025-04-29T06:23:47Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "5th Price Drop on MacBook Air M4 Since Launch in March, Amazon Shows No Mercy for Apple",
-        "timestamp": "2025-04-29T12:57:33Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Rumored iPhone 18 memory bandwidth boost will greatly enhance processing power",
-        "timestamp": "2025-04-29T15:16:05Z",
-        "polarity": 0.8,
-        "subjectivity": 0.75
-    },
-    {
-        "headline": "Pixel 8 Pro Refurbished Now 454  Save Over 500 vs Buying a Pixel 9 Pro",
-        "timestamp": "2025-04-29T06:16:36Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "iPhone 18 to Use High Performance SixChannel Memory, Claims Leaker",
-        "timestamp": "2025-04-29T14:00:22Z",
-        "polarity": 0.16,
-        "subjectivity": 0.54
-    },
-    {
-        "headline": "Firefox 138 Released with LongAwaited Profile Manager",
-        "timestamp": "2025-04-29T11:04:00Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Dimensity 9500 specs leak allbig CPU cores, monster NPU and other improvements",
-        "timestamp": "2025-04-29T09:41:02Z",
-        "polarity": -0.125,
-        "subjectivity": 0.375
-    },
-    {
-        "headline": "LG Opens PreOrders for 2025 QNED evo TVs, Adds Wireless Model to the Mix",
-        "timestamp": "2025-04-29T18:35:58Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Heres an Early Look at the Specs of the MediaTek Dimensity 9500",
-        "timestamp": "2025-04-29T12:31:12Z",
-        "polarity": 0.1,
-        "subjectivity": 0.3
-    },
-    {
-        "headline": "Another Ryzen 395 workstation PC launches with 128GB of RAM and yes, it is squarely aimed at AI professionals and Nvidias DGX Spark",
-        "timestamp": "2025-04-29T17:33:00Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "IBM plans 150 billion in US investment over next five years",
-        "timestamp": "2025-04-29T12:02:00Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Zuckerberg Vs Musk Who Lost More Wealth From Their Stock In 2025",
-        "timestamp": "2025-04-29T16:18:13Z",
+        "headline": "Apples latest iPad Mini has dropped to its lowest price in months",
+        "timestamp": "2025-05-05T19:01:47Z",
         "polarity": 0.5,
-        "subjectivity": 0.5
+        "subjectivity": 0.9
     },
     {
-        "headline": "Tariffs Are Just The Start The Macro Trends That Could Disrupt Your Business",
-        "timestamp": "2025-04-29T17:52:22Z",
+        "headline": "Your email inbox isnt just an annoyanceits a privacy risk",
+        "timestamp": "2025-05-08T12:39:58Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Anaheim Ducks Owner Henry Samueli Is Investing 1 Billion In CityOwned Arena",
-        "timestamp": "2025-04-29T19:00:04Z",
+        "headline": "Nothing Phone 3 emoji teasers could finally spell an impending launch",
+        "timestamp": "2025-05-08T17:46:01Z",
+        "polarity": 0.0,
+        "subjectivity": 1.0
+    },
+    {
+        "headline": "New Moto Edge 70 leak suggests it will get a major camera upgrade",
+        "timestamp": "2025-05-05T17:27:03Z",
+        "polarity": 0.09943181818181818,
+        "subjectivity": 0.4772727272727273
+    },
+    {
+        "headline": "An alleged One UI 8 Watch leak highlights actions for Googles Gemini",
+        "timestamp": "2025-05-07T20:02:38Z",
+        "polarity": -0.1,
+        "subjectivity": 0.1
+    },
+    {
+        "headline": "Which Motorola Razr 2025 model should you buy?",
+        "timestamp": "2025-05-02T16:41:09Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Toms Hardware Innovation Awards 2025 Surprise and Delight",
-        "timestamp": "2025-04-29T17:57:36Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Intelligenza artificiale, emissioni su del 450 nel 2024",
-        "timestamp": "2025-04-29T06:55:00Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Huawei spinge sullAI Ascend 910D deve essere pronto il prima possibile",
-        "timestamp": "2025-04-29T09:25:00Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Il prossimo Apple Vision Pro potrebbe non essere cos lontano",
-        "timestamp": "2025-04-29T06:35:00Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "iPhone 18 con memoria a sei canali, rivoluzione in arrivo?",
-        "timestamp": "2025-04-29T15:42:13Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Taiwan chip supplier Unimicron eyes AI growth despite US tariffs",
-        "timestamp": "2025-04-29T01:24:32Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "BBVA First Quarter Earnings Beat Estimates on Trading, Fees",
-        "timestamp": "2025-04-29T06:23:35Z",
+        "headline": "Samsung Galaxy Z Flip 7 vs. Motorola Razr Ultra 2025 Which one will be the first to fold?",
+        "timestamp": "2025-05-06T20:59:22Z",
         "polarity": 0.25,
         "subjectivity": 0.3333333333333333
     },
     {
-        "headline": "Adidas Says Trump Tariffs Put a Stop to Boost in Targets",
-        "timestamp": "2025-04-29T06:23:38Z",
+        "headline": "Motorola Razr Plus 2025 vs. Razr Plus 2024 The same but different",
+        "timestamp": "2025-05-02T16:22:04Z",
+        "polarity": 0.0,
+        "subjectivity": 0.3625
+    },
+    {
+        "headline": "The new battlegrounds for AI supremacy 3 things to know about the trade in rare earth minerals",
+        "timestamp": "2025-05-03T08:45:01Z",
+        "polarity": 0.21818181818181817,
+        "subjectivity": 0.6772727272727272
+    },
+    {
+        "headline": "The newest iPad Air is now 100 off  Score this tablet deal on Amazon",
+        "timestamp": "2025-05-06T20:03:10Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "BP Cuts Buyback as Profit Misses Estimates and Net Debt Rises",
-        "timestamp": "2025-04-29T06:23:25Z",
+        "headline": "iPhone 18 Rumors What to Expect From Apple Next Year",
+        "timestamp": "2025-05-02T10:01:44Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Galaxy Tab S10 FE e S10 FE Plus chegam ao Brasil veja os preos",
-        "timestamp": "2025-04-29T14:48:27Z",
+        "headline": "The first nonverbal patient to receive Elon Musks Neuralink shares a video he edited and narrated using his brain chip",
+        "timestamp": "2025-05-05T17:44:47Z",
+        "polarity": 0.25,
+        "subjectivity": 0.3333333333333333
+    },
+    {
+        "headline": "I went to the Conclave of Silicon Valley. It showed the hold tech has on DC.",
+        "timestamp": "2025-05-02T09:00:02Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Galaxy S24 FE na fila da One UI 7 tem promoo com 48 OFF no Magazine",
-        "timestamp": "2025-04-29T15:26:27Z",
+        "headline": "4 Semiconductor Stocks to Grab Now as Revenues Skyrocket in Q1",
+        "timestamp": "2025-05-06T15:24:00Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "CMF Phone 2 Pro ra mt Tho c np lng, 3 camera, Dimensity 7300 Pro 5G, gi t 7.6 triu",
-        "timestamp": "2025-04-29T04:41:20Z",
+        "headline": "Los televisores de Samsung para 2025, explicados hasta 240 Hz y ms brillo que nunca para asaltar la gama alta",
+        "timestamp": "2025-05-08T12:10:00Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Intels upcoming Panther Lake CPU looks like a killer gaming handheld chip thanks to a reported massive graphics upgrade, hefty AI performance and upgraded Ecores",
-        "timestamp": "2025-04-29T14:07:26Z",
+        "headline": "Mviles, teles y ms estos son los mejores chollos que MediaMarkt tiene en su campaa Hazte un Renove",
+        "timestamp": "2025-05-07T08:31:35Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Honor 400 Lite, anlisis el imperfecto equilibrio entre diseo y rendimiento para la gama media",
+        "timestamp": "2025-05-05T09:01:52Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Vivo V50 5G, anlisis pensaba que la gama media no daba ms de s. Estas cmaras demuestran lo contrario",
+        "timestamp": "2025-05-03T14:01:54Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Amazon Offers the Apple iPad Air Powered by the M3 Chip at Its Lowest Price to Clear Out Stock",
+        "timestamp": "2025-05-02T12:15:33Z",
         "polarity": 0.1,
-        "subjectivity": 0.6
+        "subjectivity": 0.19166666666666665
     },
     {
-        "headline": "MSI Vector 16 HX AI gaming laptop review",
-        "timestamp": "2025-04-29T16:11:38Z",
+        "headline": "Mac Mini M4 Is Just 4 From Its AllTime Low, Amazon Clears Stock And Cuts All Its Margin",
+        "timestamp": "2025-05-07T20:20:25Z",
         "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Forget the rumoured 18 GB RTX 5070 Super, this utterly epic 96 GB Nvidia GPU will solve all your VRAM worries, kinda",
-        "timestamp": "2025-04-29T16:00:44Z",
-        "polarity": 0.21666666666666667,
-        "subjectivity": 0.5333333333333333
-    },
-    {
-        "headline": "ZTE nubia Z70S Ultra Photographer Edition ra mt Camera 35 mm, AI DeepSeek, gi t 16.3 triu",
-        "timestamp": "2025-04-29T14:55:50Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Decode Nhit t chip x l PC v smartphone t u m ra? Lm mt nh th no?",
-        "timestamp": "2025-04-29T03:38:23Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "iQOO Z10 Series ra mt 3 phin bn, Snapdragon 8s Gen 4, pin ln n 7.620 mAh, gi t 4.2 triu",
-        "timestamp": "2025-04-29T03:39:44Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "iQOO Z10 Series ra mt 3 phin bn, Snapdragon 8s Gen 4, pin 7.620 mAh, sc 120 W, gi t 4.2 triu",
-        "timestamp": "2025-04-29T01:23:12Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "AppFolio, Inc. APPF Among the Oversold Tech Stocks to Buy According to Hedge Funds READY TO EDIT1",
-        "timestamp": "2025-04-29T15:41:57Z",
-        "polarity": 0.2,
-        "subjectivity": 0.5
-    },
-    {
-        "headline": "VNET Group, Inc. VNET Among the Oversold Tech Stocks to Buy According to Hedge Funds",
-        "timestamp": "2025-04-29T15:49:21Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Enphase Energy, Inc. ENPH Among the Oversold Tech Stocks to Buy According to Hedge Funds READY TO EDIT1",
-        "timestamp": "2025-04-29T15:43:40Z",
-        "polarity": 0.2,
-        "subjectivity": 0.5
-    },
-    {
-        "headline": "Torna liPhone 16 a 769 in tutti i colori su Amazon si risparmiano 210, in sconto anche il 256GB",
-        "timestamp": "2025-04-29T06:20:23Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "The vanilla Galaxy S25 is sweetly discounted with Amazons latest deal",
-        "timestamp": "2025-04-29T10:54:28Z",
-        "polarity": 0.425,
-        "subjectivity": 0.775
-    },
-    {
-        "headline": "Vertiv contribuisce alla realizzazione di Colosseum, il supercomputer di iGenius basato su tecnologia NVIDIA",
-        "timestamp": "2025-04-29T13:38:07Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "AI is reshaping chip design tools, and the results are impossible to ignore",
-        "timestamp": "2025-04-29T07:23:00Z",
-        "polarity": -0.6666666666666666,
-        "subjectivity": 1.0
-    },
-    {
-        "headline": "IBM pledges to invest 150 billion in US manufacturing over the next five years",
-        "timestamp": "2025-04-29T11:58:00Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Nothings new CMF Phone 2 Pro looks a great deal at just 279, but theres a major catch",
-        "timestamp": "2025-04-29T13:46:00Z",
-        "polarity": 0.33295454545454545,
-        "subjectivity": 0.5681818181818182
-    },
-    {
-        "headline": "Meta lanza su propio chatbot de IA con Llama 4 para iPhone y iPad",
-        "timestamp": "2025-04-29T19:59:34Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "PyXL, Python eseguito in hardware con prestazioni ai massimi livelli",
-        "timestamp": "2025-04-29T11:08:50Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Google Wallet sta per lanciare una funzione comodissima per le carte di credito",
-        "timestamp": "2025-04-29T08:23:12Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Differenza tra SPID e CIE perch se ne parla tanto",
-        "timestamp": "2025-04-29T16:53:13Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Is Occidental Petroleum Corporation OXY the WorstPerforming Blue Chip Stock So Far in 2025?",
-        "timestamp": "2025-04-29T14:27:47Z",
-        "polarity": 0.05,
-        "subjectivity": 0.55
-    },
-    {
-        "headline": "Entegris, Inc. ENTG Among the Best Stocks to Buy According to D1 Capitals Daniel Sundheim",
-        "timestamp": "2025-04-29T14:56:46Z",
-        "polarity": 1.0,
         "subjectivity": 0.3
     },
     {
-        "headline": "RFKs Autism Registry What Could Go Wrong?",
-        "timestamp": "2025-04-29T14:12:49Z",
-        "polarity": -0.5,
-        "subjectivity": 0.9
+        "headline": "Google Pixel 9 Pro Drops to an AllTime Low, Perfect Time to Upgrade Moms Phone",
+        "timestamp": "2025-05-06T13:55:16Z",
+        "polarity": 0.5,
+        "subjectivity": 0.65
     },
     {
-        "headline": "Xpeng G6 facelift in Shanghai  5C charging, 625725 km CLTC range, single rear motor with 296 PS, 450 Nm",
-        "timestamp": "2025-04-29T02:42:33Z",
-        "polarity": -0.07142857142857142,
-        "subjectivity": 0.21428571428571427
+        "headline": "Leaked Xbox Handheld Looks a Little Wonkybut in the Best Way",
+        "timestamp": "2025-05-07T16:30:21Z",
+        "polarity": 0.40625,
+        "subjectivity": 0.4
     },
     {
-        "headline": "Ultimate Alexa Guide 200 Commands to Master Amazon Echo and New Alexa Plus",
-        "timestamp": "2025-04-29T11:32:00Z",
-        "polarity": 0.06818181818181818,
-        "subjectivity": 0.7272727272727273
+        "headline": "The CL1 the first code deployable biological computer",
+        "timestamp": "2025-05-06T20:40:28Z",
+        "polarity": 0.25,
+        "subjectivity": 0.3333333333333333
     },
     {
-        "headline": "SentinelOne warns of threat actors targeting its systems and highvalue clients",
-        "timestamp": "2025-04-29T18:49:15Z",
+        "headline": "The birth of AI poker? Letters from the 1984 WSOP",
+        "timestamp": "2025-05-05T16:30:22Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "U.S. CISA adds Qualitia Active! Mail, Broadcom Brocade Fabric OS, and Commvault Web Server flaws to its Known Exploited Vulnerabilities catalog",
-        "timestamp": "2025-04-29T07:17:43Z",
-        "polarity": -0.16666666666666666,
-        "subjectivity": 0.6
+        "headline": "Apple reportedly planning to introduce Meta RayBan style smart glasses around 2027",
+        "timestamp": "2025-05-08T17:26:25Z",
+        "polarity": 0.21428571428571427,
+        "subjectivity": 0.6428571428571429
     },
     {
-        "headline": "VeriSource data breach impacted 4M individuals",
-        "timestamp": "2025-04-29T10:13:33Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Google Threat Intelligence Group GTIG tracked 75 actively exploited zeroday flaws in 2024",
-        "timestamp": "2025-04-29T12:25:23Z",
-        "polarity": -0.13333333333333333,
-        "subjectivity": 0.6
-    },
-    {
-        "headline": "Big Law isnt the dream anymore. Young lawyers are betting on startups instead.",
-        "timestamp": "2025-04-29T09:00:02Z",
-        "polarity": 0.05,
-        "subjectivity": 0.25
-    },
-    {
-        "headline": "Google Pixel 10 Pro XL Leaks  Top Reasons This Could Be a Major Upgrade",
-        "timestamp": "2025-04-29T08:30:52Z",
-        "polarity": 0.28125,
-        "subjectivity": 0.5
-    },
-    {
-        "headline": "Budget Rivals iPhone 16e vs. Nothing Phone 3a Pro",
-        "timestamp": "2025-04-29T06:30:54Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Google Pixel 9 Pro tecnologia e design a un prezzo competitivo",
-        "timestamp": "2025-04-29T10:00:30Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "iPhone 16 con chip A18 in offerta qualit e risparmio su Amazon",
-        "timestamp": "2025-04-29T07:38:03Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Scopri il suono senza compromessi con i Powerbeats Pro in offerta",
-        "timestamp": "2025-04-29T07:40:23Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Inside the First Major U.S. Bill Tackling AI Harmsand Deepfake Abuse",
-        "timestamp": "2025-04-29T12:00:00Z",
-        "polarity": 0.15625,
-        "subjectivity": 0.41666666666666663
-    },
-    {
-        "headline": "Chip wars Nvidia loses the China market",
-        "timestamp": "2025-04-29T17:04:39Z",
-        "polarity": -0.3,
-        "subjectivity": 0.1
-    },
-    {
-        "headline": "Pepe Escobar China Steps Up Its Game in the Global AI Race",
-        "timestamp": "2025-04-29T14:04:27Z",
-        "polarity": -0.2,
+        "headline": "Apple CEO Tim Cook thanks Trump for focus on US chip manufacturing",
+        "timestamp": "2025-05-02T12:55:58Z",
+        "polarity": 0.2,
         "subjectivity": 0.2
     },
     {
-        "headline": ",  AI VPU",
-        "timestamp": "2025-04-29T05:41:51Z",
+        "headline": "90 of people shouldnt buy the iPhone 17 Air, per Apple",
+        "timestamp": "2025-05-06T11:30:47Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "PR xMEMS Extends Cooling FanonaChip Technology to AI Data Centers",
-        "timestamp": "2025-04-29T14:00:06Z",
+        "headline": "Ive seen a few discounts on the Samsung Galaxy A36, but none like this deal",
+        "timestamp": "2025-05-04T12:00:10Z",
+        "polarity": -0.2,
+        "subjectivity": 0.1
+    },
+    {
+        "headline": "Galaxy phones may multitask better thanks to One UI 8",
+        "timestamp": "2025-05-02T22:37:57Z",
+        "polarity": 0.35,
+        "subjectivity": 0.35
+    },
+    {
+        "headline": "Apple working on M6  M7 chips alongside new AI server processor",
+        "timestamp": "2025-05-08T18:02:55Z",
+        "polarity": 0.13636363636363635,
+        "subjectivity": 0.45454545454545453
+    },
+    {
+        "headline": "Apple Glass will get custom Apple Silicon tailored for low power  camera control",
+        "timestamp": "2025-05-08T17:34:54Z",
         "polarity": 0.0,
+        "subjectivity": 0.3
+    },
+    {
+        "headline": "iPhone 17 rumors More speed  ProMotion screen, but no big redesign",
+        "timestamp": "2025-05-02T17:58:38Z",
+        "polarity": 0.25,
+        "subjectivity": 0.3
+    },
+    {
+        "headline": "Apple smart glasses rumored to arrive as soon as Christmas 2026",
+        "timestamp": "2025-05-08T17:24:14Z",
+        "polarity": 0.21428571428571427,
+        "subjectivity": 0.6428571428571429
+    },
+    {
+        "headline": "Consumer Reports Dan Wroclawski joins HomeKit Insider to talk about testing smart home devices",
+        "timestamp": "2025-05-06T14:42:25Z",
+        "polarity": 0.21428571428571427,
+        "subjectivity": 0.6428571428571429
+    },
+    {
+        "headline": "Lenovo Legion 9i The Ultimate Machine Bridging Gaming and Game Development",
+        "timestamp": "2025-05-08T10:00:13Z",
+        "polarity": -0.2,
+        "subjectivity": 0.7
+    },
+    {
+        "headline": "2025 Xpeng X9 MPV A GameChanger in Design and Technology for European EV Buyers",
+        "timestamp": "2025-05-03T15:20:35Z",
+        "polarity": 0.15,
         "subjectivity": 0.0
     },
     {
-        "headline": "PR VSORA Raises 46 Million to Produce its Jotunn8 AI Chip in 2025",
-        "timestamp": "2025-04-29T13:19:37Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "PR Synopsys  Intel Foundry Collaborate on AngstromScale Chips  Using 18A  18AP Technologies",
-        "timestamp": "2025-04-29T16:33:51Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "TSMC Outlines Roadmap for WaferScale Packaging and Bigger AI Packages",
-        "timestamp": "2025-04-29T09:17:31Z",
-        "polarity": 0.0,
+        "headline": "Surface Pro 12inch vs. Surface Pro 11 Which 2in1 Copilot PC is better for you?",
+        "timestamp": "2025-05-06T13:00:40Z",
+        "polarity": 0.5,
         "subjectivity": 0.5
     },
     {
-        "headline": "PR Cadence Expands Design IP Portfolio Optimized for Intel 18A and Intel 18AP Technologies",
-        "timestamp": "2025-04-29T16:22:50Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
+        "headline": "Surface Pro 12inch First impressions and handson review",
+        "timestamp": "2025-05-07T22:05:04Z",
+        "polarity": 0.25,
+        "subjectivity": 0.3333333333333333
     },
     {
-        "headline": "PR Ansys Thermal and Multiphysics Solutions Certified for Intel 18A Process and 3DIC Designs",
-        "timestamp": "2025-04-29T16:43:30Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
+        "headline": "Surface Laptop 13inch vs. Surface Laptop 7 Which Copilot PC is better for you?",
+        "timestamp": "2025-05-06T13:18:20Z",
+        "polarity": 0.5,
+        "subjectivity": 0.5
     },
     {
-        "headline": "PR XConn Technologies Demonstrates Dynamic Memory Allocation Using CXL Switch and AMD Technologies at CXL DevCon 2025",
-        "timestamp": "2025-04-29T17:06:04Z",
-        "polarity": 0.0,
-        "subjectivity": 0.16666666666666666
-    },
-    {
-        "headline": "Score 250 off the Pixel 9 Pro XL with this limitedtime Amazon promo",
-        "timestamp": "2025-04-29T07:16:58Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Is Tesla, Inc. TSLA the WorstPerforming Blue Chip Stock So Far in 2025?",
-        "timestamp": "2025-04-29T14:12:59Z",
-        "polarity": 0.05,
-        "subjectivity": 0.55
-    },
-    {
-        "headline": "Is Advanced Micro Devices, Inc. AMD the WorstPerforming Blue Chip Stock So Far in 2025?",
-        "timestamp": "2025-04-29T14:15:10Z",
+        "headline": "Cerebras CEO actually finds common ground with Nvidia as startup notches IBM win",
+        "timestamp": "2025-05-06T14:00:08Z",
         "polarity": 0.16666666666666666,
-        "subjectivity": 0.5666666666666667
+        "subjectivity": 0.3333333333333333
     },
     {
-        "headline": "SSC Technologies Holdings, Inc. SSNC Among the Oversold Tech Stocks to Buy According to Hedge Funds READY TO EDIT1",
-        "timestamp": "2025-04-29T16:02:16Z",
-        "polarity": 0.2,
-        "subjectivity": 0.5
-    },
-    {
-        "headline": "Clearwater Analytics Holdings, Inc. CWAN Among the Oversold Tech Stocks to Buy According to Hedge Funds",
-        "timestamp": "2025-04-29T16:03:23Z",
+        "headline": "I see youre running a local LLM. Would you like some help with that?",
+        "timestamp": "2025-05-08T07:28:07Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Global Payments Inc. GPN Among the Oversold Tech Stocks to Buy According to Hedge Funds",
-        "timestamp": "2025-04-29T16:11:54Z",
+        "headline": "Lenovo ThinkBook 16 G7 Just Dropped to 1,099  52 Off This 64GB Powerhouse",
+        "timestamp": "2025-05-08T13:30:56Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Freelance Writing Jobs, April 29, 2025",
-        "timestamp": "2025-04-29T11:00:00Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Huawei ska testa nytt kraftfullt AIchip",
-        "timestamp": "2025-04-29T08:13:37Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Kitschul funerar",
-        "timestamp": "2025-04-29T10:18:14Z",
-        "polarity": 0.0,
-        "subjectivity": 0.0
-    },
-    {
-        "headline": "Motorola razr 60 ultra review Is it the best flip phone of 2025?",
-        "timestamp": "2025-04-29T18:00:00Z",
+        "headline": "Best Flagship Phones 2025 Every Killer Release Ranked",
+        "timestamp": "2025-05-08T14:33:34Z",
         "polarity": 1.0,
         "subjectivity": 0.3
     },
     {
-        "headline": "U.S. tariffs will hasten, not slow, Chinas drive for tech selfsufficiency",
-        "timestamp": "2025-04-29T00:00:00Z",
-        "polarity": 0.15000000000000002,
-        "subjectivity": 0.39999999999999997
+        "headline": "Best Pixel 9a Deal Yet? 100 Amazon Credit at No Extra Cost",
+        "timestamp": "2025-05-08T13:15:49Z",
+        "polarity": 0.5,
+        "subjectivity": 0.2
     },
     {
-        "headline": "YouTube brjar testa AIversikter",
-        "timestamp": "2025-04-29T07:00:00Z",
+        "headline": "Lowest Price Yet Refurbished Pixel 9 Pro XL Drops to 699  Save 400 Instantly!",
+        "timestamp": "2025-05-07T13:00:37Z",
+        "polarity": 0.0,
+        "subjectivity": 0.6666666666666666
+    },
+    {
+        "headline": "Someone got the Nintendo Switch 2s hardware early and spilled all the beans",
+        "timestamp": "2025-05-07T14:26:56Z",
+        "polarity": 0.1,
+        "subjectivity": 0.3
+    },
+    {
+        "headline": "5 motherboard features that sound premium but are usually pointless",
+        "timestamp": "2025-05-04T00:00:18Z",
+        "polarity": 0.07500000000000001,
+        "subjectivity": 0.45
+    },
+    {
+        "headline": "Microsoft wants you to upgrade to TPM 2.0, but what does it actually do?",
+        "timestamp": "2025-05-02T19:01:19Z",
+        "polarity": 0.1,
+        "subjectivity": 0.1
+    },
+    {
+        "headline": "Googles latest Pixel decision is one of the most annoying yet",
+        "timestamp": "2025-05-07T10:00:48Z",
+        "polarity": 0.06666666666666665,
+        "subjectivity": 0.7666666666666666
+    },
+    {
+        "headline": "Heres why no OnePlus 13T in the US is a big loss for me and you",
+        "timestamp": "2025-05-02T12:00:30Z",
+        "polarity": 0.0,
+        "subjectivity": 0.1
+    },
+    {
+        "headline": "The 300 Samsung Galaxy A26 5G and makes the 400 Galaxy A36 5G look like a bad deal",
+        "timestamp": "2025-05-07T10:30:12Z",
+        "polarity": -0.6999999999999998,
+        "subjectivity": 0.6666666666666666
+    },
+    {
+        "headline": "Microsoft Photos Can Relight Your Images",
+        "timestamp": "2025-05-06T20:19:15Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "I kvll r det dags fr LlamaCon",
-        "timestamp": "2025-04-29T10:40:00Z",
+        "headline": "Apple Designing Chips for Smart Glasses That Rival Meta RayBans",
+        "timestamp": "2025-05-08T17:01:08Z",
+        "polarity": 0.21428571428571427,
+        "subjectivity": 0.6428571428571429
+    },
+    {
+        "headline": "Apples Camera Equipped AirPods and Apple Watch Could Launch as Soon as 2027",
+        "timestamp": "2025-05-08T17:14:08Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Spotify gr rekordvinst igen",
-        "timestamp": "2025-04-29T12:20:00Z",
+        "headline": "Samsungs Super Thin Galaxy S25 Edge Will Debut Next Week, Beating iPhone 17 Air",
+        "timestamp": "2025-05-07T23:23:39Z",
+        "polarity": -0.022222222222222237,
+        "subjectivity": 0.5055555555555555
+    },
+    {
+        "headline": "The MacRumors Show Apple Watch Series 11, Ultra 3, and SE 3 Rumors",
+        "timestamp": "2025-05-02T16:27:53Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Det ska inte g att kpa medborgarskap i EU",
-        "timestamp": "2025-04-29T09:40:00Z",
+        "headline": "Sources Nvidia told ByteDance, Alibaba, Tencent, and others that it is tweaking its AI chips so they can be sold in China without breaching US export rules Qianer LiuThe Information",
+        "timestamp": "2025-05-02T13:15:02Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Citron presenterar nya C5 Aircross",
-        "timestamp": "2025-04-29T10:00:00Z",
+        "headline": "Costco Members Insta360 X5 8K 360 Action Camera Bundle 550  Free Shipping",
+        "timestamp": "2025-05-05T21:51:16Z",
+        "polarity": 0.25,
+        "subjectivity": 0.45
+    },
+    {
+        "headline": "Shokz Bone Conduction Open Ear Wireless Earphones OpenRun Pro 2 140, OpenMove 55  More  Free SH",
+        "timestamp": "2025-05-05T07:51:05Z",
+        "polarity": 0.3,
+        "subjectivity": 0.6
+    },
+    {
+        "headline": "Nvidia CEO Jensen Huang got his first raise in a decade",
+        "timestamp": "2025-05-02T13:43:00Z",
+        "polarity": 0.25,
+        "subjectivity": 0.3333333333333333
+    },
+    {
+        "headline": "Markets climb as Trump teases UK trade breakthrough",
+        "timestamp": "2025-05-08T12:00:00Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "X2000 eller VR  vilken r trevligast att ka med?",
-        "timestamp": "2025-04-29T11:00:00Z",
+        "headline": "Markets slide and even more forecasts vanish as the trade war drags on and Wall Street eyes the Fed",
+        "timestamp": "2025-05-06T12:20:00Z",
+        "polarity": 0.5,
+        "subjectivity": 0.5
+    },
+    {
+        "headline": "Disney, Palantir, AMD and more stocks to watch this week",
+        "timestamp": "2025-05-04T09:00:00Z",
+        "polarity": 0.5,
+        "subjectivity": 0.5
+    },
+    {
+        "headline": "Sony WH1000XM6 emerge in Amazon listing ahead of launch",
+        "timestamp": "2025-05-08T09:14:03Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Tesla redo fr masstillverkning av Semi 2026",
-        "timestamp": "2025-04-29T09:00:00Z",
+        "headline": "Moto G Stylus 5G 2025 review",
+        "timestamp": "2025-05-02T16:03:13Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Alla Sveriges minkuppfdare lgger ner",
-        "timestamp": "2025-04-29T09:20:00Z",
+        "headline": "The real win of AI PCs? Battery life",
+        "timestamp": "2025-05-06T14:30:00Z",
+        "polarity": 1.0,
+        "subjectivity": 0.6000000000000001
+    },
+    {
+        "headline": "Microsofts tiny new Surface Laptop and Pro shrink in other ways, too",
+        "timestamp": "2025-05-06T13:00:00Z",
+        "polarity": 0.0037878787878787845,
+        "subjectivity": 0.4431818181818182
+    },
+    {
+        "headline": "Computer, do this. Windows PCs take a cue from Star Treks AI",
+        "timestamp": "2025-05-06T13:00:00Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Pocket Casts fr automatiska transkriptioner",
-        "timestamp": "2025-04-29T07:20:00Z",
+        "headline": "There are 2 distinct forces driving stocks higher today",
+        "timestamp": "2025-05-08T13:56:38Z",
+        "polarity": 0.275,
+        "subjectivity": 0.4
+    },
+    {
+        "headline": "Ive tested the Apple Mac Studio M4 Max, and its clearly just gotten better",
+        "timestamp": "2025-05-02T06:00:00Z",
+        "polarity": 0.3,
+        "subjectivity": 0.44166666666666665
+    },
+    {
+        "headline": "Samsung lanza nuevos televisores llvate el tuyo con descuentazo en Samsung.com y barra de sonido de regalo",
+        "timestamp": "2025-05-08T08:29:31Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Medkning i kommande eldrivna Range Rover",
-        "timestamp": "2025-04-29T07:40:00Z",
+        "headline": "Un tasto per uccidere le GPU che finiscono in Cina la folle idea di un politico USA",
+        "timestamp": "2025-05-08T12:12:12Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Priserna klara fr eldrivna Mercedes CLA",
-        "timestamp": "2025-04-29T06:40:00Z",
+        "headline": "Apple prevede di acquistare 19 miliardi di chip dagli USA",
+        "timestamp": "2025-05-02T20:00:25Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Apple sgs skrota antireflexskrm fr iPhone 17 Pro",
-        "timestamp": "2025-04-29T08:20:00Z",
+        "headline": "Intel promette novit sulle GPU Arc a Computex",
+        "timestamp": "2025-05-08T09:00:44Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Roboten Atlas blir bttre p att greppa grejer",
-        "timestamp": "2025-04-29T11:20:00Z",
+        "headline": "Il NO IVA di Comet abbatte il prezzo del MacBook Air ora a 876",
+        "timestamp": "2025-05-08T07:41:36Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Renaults kommande modell heter Boreal",
-        "timestamp": "2025-04-29T11:40:00Z",
+        "headline": "Nvidia blocca la RTX 5090D ordini cancellati in Cina",
+        "timestamp": "2025-05-08T13:51:02Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Verge delar med sig tekniken fr elmotorcyklar",
-        "timestamp": "2025-04-29T08:40:00Z",
+        "headline": "Apple MacBook Pro M4 prestazioni da sogno a un PREZZO MAI VISTO!",
+        "timestamp": "2025-05-08T06:02:44Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Synka dina lampor med TVn billigare",
-        "timestamp": "2025-04-29T12:00:00Z",
+        "headline": "Insta360 Ace Pro 2 laction cam definitiva per gli amanti delladrenalina, oggi in OFFERTA!",
+        "timestamp": "2025-05-05T08:52:08Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     },
     {
-        "headline": "Klder med inbyggt myggskydd",
-        "timestamp": "2025-04-29T10:20:00Z",
+        "headline": "Nuove etichette energetiche per smartphone cosa sono, come si leggono e cosa cambia",
+        "timestamp": "2025-05-07T08:31:15Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Apples first smart glasses could arrive in the next two years",
+        "timestamp": "2025-05-08T21:15:17Z",
+        "polarity": 0.15476190476190477,
+        "subjectivity": 0.3253968253968254
+    },
+    {
+        "headline": "The Infinix XPAD GT Is Its First Tablet Built for Mobile Gamers",
+        "timestamp": "2025-05-08T15:00:00Z",
+        "polarity": 0.25,
+        "subjectivity": 0.3333333333333333
+    },
+    {
+        "headline": "OnePlus 13 Vs Pixel 9 Pro XL What Is The Difference?",
+        "timestamp": "2025-05-04T13:57:55Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Le foto satellitari non mentono, Huawei produrr i propri chip",
+        "timestamp": "2025-05-05T08:47:28Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Intel Panther Lake, al lancio un solo modello. Gli altri slittano al 2026",
+        "timestamp": "2025-05-02T08:15:56Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Insta360 Ace Pro 2 laction cam che riscrive le regole!",
+        "timestamp": "2025-05-08T12:49:12Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "AMD abbandona Samsung per TSMC? Cos sembra",
+        "timestamp": "2025-05-06T14:44:27Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Samsung non molla, Galaxy S26 avr un chip a 2nm in Europa ma non ne sarete contenti",
+        "timestamp": "2025-05-05T08:22:44Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Intel Raptor Lake finalmente addio insatabilit? Arriva il fix 0x12F",
+        "timestamp": "2025-05-08T09:27:40Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Lo smartphone che elimina cover e powerbank oggi a un super prezzo",
+        "timestamp": "2025-05-02T07:23:37Z",
+        "polarity": 0.3333333333333333,
+        "subjectivity": 0.6666666666666666
+    },
+    {
+        "headline": "Beats Powerbeats Pro qualit audio e comfort ora a PREZZO STRACCIATO!",
+        "timestamp": "2025-05-05T09:33:10Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Spuntano i benchamrk della RTX Pro 6000 di NVIDIA",
+        "timestamp": "2025-05-03T09:22:10Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "ROG Ally 2 si mostra in dei leak design rinnovato e specifiche tecniche trapelate",
+        "timestamp": "2025-05-07T08:22:03Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Come proteggere la console portatile dal caldo estivo?",
+        "timestamp": "2025-05-08T14:05:03Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Links 572025",
+        "timestamp": "2025-05-07T10:55:09Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Links 542025",
+        "timestamp": "2025-05-04T10:55:56Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Links 582025",
+        "timestamp": "2025-05-08T10:55:07Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Links 572025",
+        "timestamp": "2025-05-07T10:55:30Z",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "headline": "Like King Arthur and Excalibur, heres yet another AI startup trying its luck at dislodging Nvidia from the AI stone",
+        "timestamp": "2025-05-08T17:33:00Z",
         "polarity": 0.0,
         "subjectivity": 0.0
     }
