@@ -84,23 +84,17 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-2.	**Install required packages manually:**
+2a **Then install it with:**
+
+```
+pip install -r requirements.txt
+```
+
+2b.	**Or install required packages manually:**
    
-   ```
-   pip install nltk textblob yfinance wordcloud pandas matplotlib requests python-dotenv
-  ```
-
-  Or create a requirements.txt from your environment:
-
-  ```
-  pip freeze > requirements.txt
-  ```
-
-  Then install it with:
-
-  ```
-  pip install -r requirements.txt
-  ```
+```
+pip install nltk textblob yfinance wordcloud pandas matplotlib requests python-dotenv
+```
 
 **Python Packages:**
 
